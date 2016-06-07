@@ -1,2019 +1,2019 @@
-|Count|Open Issue?|Appendix|Affiliation|Full SIDC|SIDC By Parts|Hierarchy Code|Name|Geometry|Image from Export|Image from Standard|
-|---|---|---|---|---|---|---|---|---|---|---|
-|1||A|Friend|SFAP-----------|S - A - -- -- -- -- -- -|WAR.AIRTRK|Air Track|POINT|![](./images/SFAP-----------.png)||
-|2||A|Friend|SFAPC----------|S - A - C- -- -- -- -- -|WAR.AIRTRK.CVL|Civil Aircraft|POINT|![](./images/SFAPC----------.png)||
-|3||A|Friend|SFAPCF---------|S - A - CF -- -- -- -- -|WAR.AIRTRK.CVL.FIXD|Fixed Wing|POINT|![](./images/SFAPCF---------.png)||
-|4||A|Friend|SFAPCH---------|S - A - CH -- -- -- -- -|WAR.AIRTRK.CVL.ROT|Rotary Wing|POINT|![](./images/SFAPCH---------.png)||
-|5||A|Friend|SFAPCL---------|S - A - CL -- -- -- -- -|WAR.AIRTRK.CVL.LTA|Lighter Than Air|POINT|![](./images/SFAPCL---------.png)||
-|6||A|Friend|SFAPM----------|S - A - M- -- -- -- -- -|WAR.AIRTRK.MIL|Military|POINT|![](./images/SFAPM----------.png)||
-|7||A|Friend|SFAPME---------|S - A - ME -- -- -- -- -|WAR.AIRTRK.MIL.ESCORT|Escort|POINT|![](./images/SFAPME---------.png)||
-|8||A|Friend|SFAPMF---------|S - A - MF -- -- -- -- -|WAR.AIRTRK.MIL.FIXD|Fixed Wing|POINT|![](./images/SFAPMF---------.png)||
-|9||A|Friend|SFAPMFA--------|S - A - MF A- -- -- -- -|WAR.AIRTRK.MIL.FIXD.ATK|Attack/Strike|POINT|![](./images/SFAPMFA--------.png)||
-|10||A|Friend|SFAPMFB--------|S - A - MF B- -- -- -- -|WAR.AIRTRK.MIL.FIXD.BMB|Bomber|POINT|![](./images/SFAPMFB--------.png)||
-|11||A|Friend|SFAPMFC--------|S - A - MF C- -- -- -- -|WAR.AIRTRK.MIL.FIXD.CGOALT|Cargo Airlift (Transport)|POINT|![](./images/SFAPMFC--------.png)||
-|12||A|Friend|SFAPMFCH-------|S - A - MF CH -- -- -- -|WAR.AIRTRK.MIL.FIXD.CGOALT.HVY|Cargo Airlift (Heavy)|POINT|![](./images/SFAPMFCH-------.png)||
-|13||A|Friend|SFAPMFCL-------|S - A - MF CL -- -- -- -|WAR.AIRTRK.MIL.FIXD.CGOALT.LIT|Cargo Airlift (Light)|POINT|![](./images/SFAPMFCL-------.png)||
-|14||A|Friend|SFAPMFCM-------|S - A - MF CM -- -- -- -|WAR.AIRTRK.MIL.FIXD.CGOALT.MDM|Cargo Airlift (Medium)|POINT|![](./images/SFAPMFCM-------.png)||
-|15||A|Friend|SFAPMFD--------|S - A - MF D- -- -- -- -|WAR.AIRTRK.MIL.FIXD.ABNCP|Airborne Command Post (C2)|POINT|![](./images/SFAPMFD--------.png)||
-|16||A|Friend|SFAPMFF--------|S - A - MF F- -- -- -- -|WAR.AIRTRK.MIL.FIXD.FTR|Fighter|POINT|![](./images/SFAPMFF--------.png)||
-|17||A|Friend|SFAPMFFI-------|S - A - MF FI -- -- -- -|WAR.AIRTRK.MIL.FIXD.FTR.INCR|Interceptor|POINT|![](./images/SFAPMFFI-------.png)||
-|18||A|Friend|SFAPMFH--------|S - A - MF H- -- -- -- -|WAR.AIRTRK.MIL.FIXD.CSAR|Combat Search And Rescue (Csar)|POINT|![](./images/SFAPMFH--------.png)||
-|19||A|Friend|SFAPMFJ--------|S - A - MF J- -- -- -- -|WAR.AIRTRK.MIL.FIXD.ECM|Electronic Countermeasures (Ecm/Jammer)|POINT|![](./images/SFAPMFJ--------.png)||
-|20||A|Friend|SFAPMFK--------|S - A - MF K- -- -- -- -|WAR.AIRTRK.MIL.FIXD.TNK|Tanker|POINT|![](./images/SFAPMFK--------.png)||
-|21||A|Friend|SFAPMFKB-------|S - A - MF KB -- -- -- -|WAR.AIRTRK.MIL.FIXD.TNK.BOOM|Tanker Boom-Only|POINT|![](./images/SFAPMFKB-------.png)||
-|22||A|Friend|SFAPMFKD-------|S - A - MF KD -- -- -- -|WAR.AIRTRK.MIL.FIXD.TNK.DROG|Tanker Drogue-Only|POINT|![](./images/SFAPMFKD-------.png)||
-|23||A|Friend|SFAPMFL--------|S - A - MF L- -- -- -- -|WAR.AIRTRK.MIL.FIXD.VSTOL|V/Stol|POINT|![](./images/SFAPMFL--------.png)||
-|24||A|Friend|SFAPMFM--------|S - A - MF M- -- -- -- -|WAR.AIRTRK.MIL.FIXD.SOF|Special Operations Forces (Sof)|POINT|![](./images/SFAPMFM--------.png)||
-|25||A|Friend|SFAPMFO--------|S - A - MF O- -- -- -- -|WAR.AIRTRK.MIL.FIXD.MEDV|Medical Evacuation (Medevac)|POINT|![](./images/SFAPMFO--------.png)||
-|26||A|Friend|SFAPMFP--------|S - A - MF P- -- -- -- -|WAR.AIRTRK.MIL.FIXD.PAT|Patrol|POINT|![](./images/SFAPMFP--------.png)||
-|27||A|Friend|SFAPMFPM-------|S - A - MF PM -- -- -- -|WAR.AIRTRK.MIL.FIXD.PAT.MNECM|Mine Countermeasures|POINT|![](./images/SFAPMFPM-------.png)||
-|28||A|Friend|SFAPMFPN-------|S - A - MF PN -- -- -- -|WAR.AIRTRK.MIL.FIXD.PAT.ASUW|Antisurface Warfare (Asuw)|POINT|![](./images/SFAPMFPN-------.png)||
-|29||A|Friend|SFAPMFQ--------|S - A - MF Q- -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN|Drone (Rpv/Ua)|POINT|![](./images/SFAPMFQ--------.png)||
-|30||A|Friend|SFAPMFQA-------|S - A - MF QA -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.ATK|Attack|POINT|![](./images/SFAPMFQA-------.png)||
-|31||A|Friend|SFAPMFQB-------|S - A - MF QB -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.BMB|Bomber|POINT|![](./images/SFAPMFQB-------.png)||
-|32||A|Friend|SFAPMFQC-------|S - A - MF QC -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.CGO|Cargo|POINT|![](./images/SFAPMFQC-------.png)||
-|33||A|Friend|SFAPMFQD-------|S - A - MF QD -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.ABNCP|Airborne Command Post|POINT|![](./images/SFAPMFQD-------.png)||
-|34||A|Friend|SFAPMFQF-------|S - A - MF QF -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.FTR|Fighter|POINT|![](./images/SFAPMFQF-------.png)||
-|35||A|Friend|SFAPMFQH-------|S - A - MF QH -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.CSAR|Search & Rescue (Csar)|POINT|![](./images/SFAPMFQH-------.png)||
-|36||A|Friend|SFAPMFQI-------|S - A - MF QI -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.MNECM|Mine Countermeasures|POINT|![](./images/SFAPMFQI-------.png)||
-|37||A|Friend|SFAPMFQJ-------|S - A - MF QJ -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.ECM|Electronic Countermeasures (Jammer)|POINT|![](./images/SFAPMFQJ-------.png)||
-|38||A|Friend|SFAPMFQK-------|S - A - MF QK -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.TNK|Tanker|POINT|![](./images/SFAPMFQK-------.png)||
-|39||A|Friend|SFAPMFQL-------|S - A - MF QL -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.VSTOL|V/Stol|POINT|![](./images/SFAPMFQL-------.png)||
-|40||A|Friend|SFAPMFQM-------|S - A - MF QM -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.SOF|Special Operations Forces (Sof)|POINT|![](./images/SFAPMFQM-------.png)||
-|41||A|Friend|SFAPMFQN-------|S - A - MF QN -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.ASUW|Antisurface Warfare (Asuw)|POINT|![](./images/SFAPMFQN-------.png)||
-|42||A|Friend|SFAPMFQO-------|S - A - MF QO -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.MEDV|Medevac|POINT|![](./images/SFAPMFQO-------.png)||
-|43||A|Friend|SFAPMFQP-------|S - A - MF QP -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.PAT|Patrol|POINT|![](./images/SFAPMFQP-------.png)||
-|44||A|Friend|SFAPMFQR-------|S - A - MF QR -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.RECON|Reconnaissance|POINT|![](./images/SFAPMFQR-------.png)||
-|45||A|Friend|SFAPMFQRW------|S - A - MF QR W- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.RECON.ABNEW|Airborne Early Warning (Aew)|POINT|![](./images/SFAPMFQRW------.png)||
-|46||A|Friend|SFAPMFQRX------|S - A - MF QR X- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.RECON.PHG|Photographic|POINT|![](./images/SFAPMFQRX------.png)||
-|47||A|Friend|SFAPMFQRZ------|S - A - MF QR Z- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.RECON.ESM|Electronic Surveillance Measures|POINT|![](./images/SFAPMFQRZ------.png)||
-|48||A|Friend|SFAPMFQS-------|S - A - MF QS -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.ASBW|Antisubmarine Warfare (Asw)|POINT|![](./images/SFAPMFQS-------.png)||
-|49||A|Friend|SFAPMFQT-------|S - A - MF QT -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.TNE|Trainer|POINT|![](./images/SFAPMFQT-------.png)||
-|50||A|Friend|SFAPMFQU-------|S - A - MF QU -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.UTY|Utility|POINT|![](./images/SFAPMFQU-------.png)||
-|51||A|Friend|SFAPMFQY-------|S - A - MF QY -- -- -- -|WAR.AIRTRK.MIL.FIXD.DRN.COMM|Communications|POINT|![](./images/SFAPMFQY-------.png)||
-|52||A|Friend|SFAPMFR--------|S - A - MF R- -- -- -- -|WAR.AIRTRK.MIL.FIXD.RECON|Reconnaissance|POINT|![](./images/SFAPMFR--------.png)||
-|53||A|Friend|SFAPMFRW-------|S - A - MF RW -- -- -- -|WAR.AIRTRK.MIL.FIXD.RECON.ABNEW|Airborne Early Warning (Aew)|POINT|![](./images/SFAPMFRW-------.png)||
-|54||A|Friend|SFAPMFRX-------|S - A - MF RX -- -- -- -|WAR.AIRTRK.MIL.FIXD.RECON.PHG|Photographic|POINT|![](./images/SFAPMFRX-------.png)||
-|55||A|Friend|SFAPMFRZ-------|S - A - MF RZ -- -- -- -|WAR.AIRTRK.MIL.FIXD.RECON.ESM|Electronic Surveillance Measures|POINT|![](./images/SFAPMFRZ-------.png)||
-|56||A|Friend|SFAPMFS--------|S - A - MF S- -- -- -- -|WAR.AIRTRK.MIL.FIXD.ASBWCB|Antisubmarine Warfare (Asw) Carrier Based|POINT|![](./images/SFAPMFS--------.png)||
-|57||A|Friend|SFAPMFT--------|S - A - MF T- -- -- -- -|WAR.AIRTRK.MIL.FIXD.TNE|Trainer|POINT|![](./images/SFAPMFT--------.png)||
-|58||A|Friend|SFAPMFU--------|S - A - MF U- -- -- -- -|WAR.AIRTRK.MIL.FIXD.UTY|Utility|POINT|![](./images/SFAPMFU--------.png)||
-|59||A|Friend|SFAPMFUH-------|S - A - MF UH -- -- -- -|WAR.AIRTRK.MIL.FIXD.UTY.HVY|Utility (Heavy)|POINT|![](./images/SFAPMFUH-------.png)||
-|60||A|Friend|SFAPMFUL-------|S - A - MF UL -- -- -- -|WAR.AIRTRK.MIL.FIXD.UTY.LIT|Utility (Light)|POINT|![](./images/SFAPMFUL-------.png)||
-|61||A|Friend|SFAPMFUM-------|S - A - MF UM -- -- -- -|WAR.AIRTRK.MIL.FIXD.UTY.MDM|Utility (Medium)|POINT|![](./images/SFAPMFUM-------.png)||
-|62||A|Friend|SFAPMFY--------|S - A - MF Y- -- -- -- -|WAR.AIRTRK.MIL.FIXD.COMM|Communications|POINT|![](./images/SFAPMFY--------.png)||
-|63||A|Friend|SFAPMH---------|S - A - MH -- -- -- -- -|WAR.AIRTRK.MIL.ROT|Rotary Wing|POINT|![](./images/SFAPMH---------.png)||
-|64||A|Friend|SFAPMHA--------|S - A - MH A- -- -- -- -|WAR.AIRTRK.MIL.ROT.ATK|Attack|POINT|![](./images/SFAPMHA--------.png)||
-|65||A|Friend|SFAPMHC--------|S - A - MH C- -- -- -- -|WAR.AIRTRK.MIL.ROT.CGOALT|Cargo Airlift (Transport)|POINT|![](./images/SFAPMHC--------.png)||
-|66||A|Friend|SFAPMHCH-------|S - A - MH CH -- -- -- -|WAR.AIRTRK.MIL.ROT.CGOALT.HVY|Cargo Airlift (Heavy)|POINT|![](./images/SFAPMHCH-------.png)||
-|67||A|Friend|SFAPMHCL-------|S - A - MH CL -- -- -- -|WAR.AIRTRK.MIL.ROT.CGOALT.LIT|Cargo Airlift (Light)|POINT|![](./images/SFAPMHCL-------.png)||
-|68||A|Friend|SFAPMHCM-------|S - A - MH CM -- -- -- -|WAR.AIRTRK.MIL.ROT.CGOALT.MDM|Cargo Airlift (Medium)|POINT|![](./images/SFAPMHCM-------.png)||
-|69||A|Friend|SFAPMHD--------|S - A - MH D- -- -- -- -|WAR.AIRTRK.MIL.ROT.ABNCP|Airborne Command Post (C2)|POINT|![](./images/SFAPMHD--------.png)||
-|70||A|Friend|SFAPMHH--------|S - A - MH H- -- -- -- -|WAR.AIRTRK.MIL.ROT.CSAR|Combat Search And Rescue (Csar)|POINT|![](./images/SFAPMHH--------.png)||
-|71||A|Friend|SFAPMHI--------|S - A - MH I- -- -- -- -|WAR.AIRTRK.MIL.ROT.MNECM|Mine Countermeasures|POINT|![](./images/SFAPMHI--------.png)||
-|72||A|Friend|SFAPMHJ--------|S - A - MH J- -- -- -- -|WAR.AIRTRK.MIL.ROT.ECM|Electronic Countermeasures (Ecm/Jammer)|POINT|![](./images/SFAPMHJ--------.png)||
-|73||A|Friend|SFAPMHK--------|S - A - MH K- -- -- -- -|WAR.AIRTRK.MIL.ROT.TNK|Tanker|POINT|![](./images/SFAPMHK--------.png)||
-|74||A|Friend|SFAPMHM--------|S - A - MH M- -- -- -- -|WAR.AIRTRK.MIL.ROT.SOF|Special Operations Forces (Sof)|POINT|![](./images/SFAPMHM--------.png)||
-|75||A|Friend|SFAPMHO--------|S - A - MH O- -- -- -- -|WAR.AIRTRK.MIL.ROT.MEDV|Medevac|POINT|![](./images/SFAPMHO--------.png)||
-|76||A|Friend|SFAPMHQ--------|S - A - MH Q- -- -- -- -|WAR.AIRTRK.MIL.ROT.DRN|Drone (Rpv/Ua)|POINT|![](./images/SFAPMHQ--------.png)||
-|77||A|Friend|SFAPMHR--------|S - A - MH R- -- -- -- -|WAR.AIRTRK.MIL.ROT.RECON|Reconnaissance|POINT|![](./images/SFAPMHR--------.png)||
-|78||A|Friend|SFAPMHS--------|S - A - MH S- -- -- -- -|WAR.AIRTRK.MIL.ROT.ASBW|Antisubmarine Warfare/Mpa|POINT|![](./images/SFAPMHS--------.png)||
-|79||A|Friend|SFAPMHT--------|S - A - MH T- -- -- -- -|WAR.AIRTRK.MIL.ROT.TNE|Trainer|POINT|![](./images/SFAPMHT--------.png)||
-|80||A|Friend|SFAPMHU--------|S - A - MH U- -- -- -- -|WAR.AIRTRK.MIL.ROT.UTY|Utility|POINT|![](./images/SFAPMHU--------.png)||
-|81||A|Friend|SFAPMHUH-------|S - A - MH UH -- -- -- -|WAR.AIRTRK.MIL.ROT.UTY.HVY|Utility (Heavy)|POINT|![](./images/SFAPMHUH-------.png)||
-|82||A|Friend|SFAPMHUL-------|S - A - MH UL -- -- -- -|WAR.AIRTRK.MIL.ROT.UTY.LIT|Utility (Light)|POINT|![](./images/SFAPMHUL-------.png)||
-|83||A|Friend|SFAPMHUM-------|S - A - MH UM -- -- -- -|WAR.AIRTRK.MIL.ROT.UTY.MDM|Utility (Medium)|POINT|![](./images/SFAPMHUM-------.png)||
-|84||A|Friend|SFAPML---------|S - A - ML -- -- -- -- -|WAR.AIRTRK.MIL.LTA|Lighter Than Air|POINT|![](./images/SFAPML---------.png)||
-|85||A|Friend|SFAPMV---------|S - A - MV -- -- -- -- -|WAR.AIRTRK.MIL.VIP|Very Important Person (Vip)|POINT|![](./images/SFAPMV---------.png)||
-|86||A|Friend|SFAPW----------|S - A - W- -- -- -- -- -|WAR.AIRTRK.WPN|Weapon|POINT|![](./images/SFAPW----------.png)||
-|87||A|Friend|SFAPWB---------|S - A - WB -- -- -- -- -|WAR.AIRTRK.WPN.BM|Bomb|POINT|![](./images/SFAPWB---------.png)||
-|88||A|Friend|SFAPWD---------|S - A - WD -- -- -- -- -|WAR.AIRTRK.WPN.DCY|Decoy|POINT|![](./images/SFAPWD---------.png)||
-|89||A|Friend|SFAPWM---------|S - A - WM -- -- -- -- -|WAR.AIRTRK.WPN.MSLIF|Missile In Flight|POINT|![](./images/SFAPWM---------.png)||
-|90||A|Friend|SFAPWMA--------|S - A - WM A- -- -- -- -|WAR.AIRTRK.WPN.MSLIF.ALM|Air Launched Missile|POINT|![](./images/SFAPWMA--------.png)||
-|91||A|Friend|SFAPWMAA-------|S - A - WM AA -- -- -- -|WAR.AIRTRK.WPN.MSLIF.ALM.AAM|Air-To-Air Missile (Aam)|POINT|![](./images/SFAPWMAA-------.png)||
-|92||A|Friend|SFAPWMAP-------|S - A - WM AP -- -- -- -|WAR.AIRTRK.WPN.MSLIF.ALM.ASPC|Air-To-Space Missile|POINT|![](./images/SFAPWMAP-------.png)||
-|93||A|Friend|SFAPWMAS-------|S - A - WM AS -- -- -- -|WAR.AIRTRK.WPN.MSLIF.ALM.ASM|Air-To-Surface Missile (Asm)|POINT|![](./images/SFAPWMAS-------.png)||
-|94||A|Friend|SFAPWMB--------|S - A - WM B- -- -- -- -|WAR.AIRTRK.WPN.MSLIF.BLST|Ballistic Missile|POINT|![](./images/SFAPWMB--------.png)||
-|95||A|Friend|SFAPWMCM-------|S - A - WM CM -- -- -- -|WAR.AIRTRK.WPN.MSLIF.CM|Cruise Missile|POINT|![](./images/SFAPWMCM-------.png)||
-|96||A|Friend|SFAPWMS--------|S - A - WM S- -- -- -- -|WAR.AIRTRK.WPN.MSLIF.SLM|Surface Launched Missile|POINT|![](./images/SFAPWMS--------.png)||
-|97||A|Friend|SFAPWMSA-------|S - A - WM SA -- -- -- -|WAR.AIRTRK.WPN.MSLIF.SLM.SAM|Surface-To-Air Missile (Sam)|POINT|![](./images/SFAPWMSA-------.png)||
-|98||A|Friend|SFAPWMSB-------|S - A - WM SB -- -- -- -|WAR.AIRTRK.WPN.MSLIF.SLM.ABM|Antiballistic Missile (Abm)|POINT|![](./images/SFAPWMSB-------.png)||
-|99||A|Friend|SFAPWMSS-------|S - A - WM SS -- -- -- -|WAR.AIRTRK.WPN.MSLIF.SLM.SSM|Surface-To-Surface Missile (Ssm)|POINT|![](./images/SFAPWMSS-------.png)||
-|100||A|Friend|SFAPWMSU-------|S - A - WM SU -- -- -- -|WAR.AIRTRK.WPN.MSLIF.SLM.SSUM|Surface-To-Subsurface Missile|POINT|![](./images/SFAPWMSU-------.png)||
-|101||A|Friend|SFAPWMU--------|S - A - WM U- -- -- -- -|WAR.AIRTRK.WPN.MSLIF.SBSM|Subsurface-To-Surface Missile (S/Ssm)|POINT|![](./images/SFAPWMU--------.png)||
-|102||A|Friend|SFFP-----------|S - F - -- -- -- -- -- -|WAR.SOFUNT|Special Operations Forces (Sof) Unit|POINT|![](./images/SFFP-----------.png)||
-|103||A|Friend|SFFPA----------|S - F - A- -- -- -- -- -|WAR.SOFUNT.AVN|Sof Unit Aviation|POINT|![](./images/SFFPA----------.png)||
-|104||A|Friend|SFFPAF---------|S - F - AF -- -- -- -- -|WAR.SOFUNT.AVN.FIXD|Sof Unit Fixed Wing|POINT|![](./images/SFFPAF---------.png)||
-|105||A|Friend|SFFPAFA--------|S - F - AF A- -- -- -- -|WAR.SOFUNT.AVN.FIXD.ATK|Sof Unit Attack|POINT|![](./images/SFFPAFA--------.png)||
-|106||A|Friend|SFFPAFK--------|S - F - AF K- -- -- -- -|WAR.SOFUNT.AVN.FIXD.RFE|Sof Unit Refuel|POINT|![](./images/SFFPAFK--------.png)||
-|107||A|Friend|SFFPAFU--------|S - F - AF U- -- -- -- -|WAR.SOFUNT.AVN.FIXD.UTY|Sof Unit Utility|POINT|![](./images/SFFPAFU--------.png)||
-|108||A|Friend|SFFPAFUH-------|S - F - AF UH -- -- -- -|WAR.SOFUNT.AVN.FIXD.UTY.HVY|Sof Unit Utility (Heavy)|POINT|![](./images/SFFPAFUH-------.png)||
-|109||A|Friend|SFFPAFUL-------|S - F - AF UL -- -- -- -|WAR.SOFUNT.AVN.FIXD.UTY.LIT|Sof Unit Utility (Light)|POINT|![](./images/SFFPAFUL-------.png)||
-|110||A|Friend|SFFPAFUM-------|S - F - AF UM -- -- -- -|WAR.SOFUNT.AVN.FIXD.UTY.MDM|Sof Unit Utility (Medium)|POINT|![](./images/SFFPAFUM-------.png)||
-|111||A|Friend|SFFPAH---------|S - F - AH -- -- -- -- -|WAR.SOFUNT.AVN.ROT|Sof Unit Rotary Wing|POINT|![](./images/SFFPAH---------.png)||
-|112||A|Friend|SFFPAHA--------|S - F - AH A- -- -- -- -|WAR.SOFUNT.AVN.ROT.ATK|Sof Unit Attack|POINT|![](./images/SFFPAHA--------.png)||
-|113||A|Friend|SFFPAHH--------|S - F - AH H- -- -- -- -|WAR.SOFUNT.AVN.ROT.CSAR|Sof Unit Combat Search And Rescue|POINT|![](./images/SFFPAHH--------.png)||
-|114||A|Friend|SFFPAHU--------|S - F - AH U- -- -- -- -|WAR.SOFUNT.AVN.ROT.UTY|Sof Unit Utility|POINT|![](./images/SFFPAHU--------.png)||
-|115||A|Friend|SFFPAHUH-------|S - F - AH UH -- -- -- -|WAR.SOFUNT.AVN.ROT.UTY.HVY|Sof Unit Utility (Heavy)|POINT|![](./images/SFFPAHUH-------.png)||
-|116||A|Friend|SFFPAHUL-------|S - F - AH UL -- -- -- -|WAR.SOFUNT.AVN.ROT.UTY.LIT|Sof Unit Utility (Light)|POINT|![](./images/SFFPAHUL-------.png)||
-|117||A|Friend|SFFPAHUM-------|S - F - AH UM -- -- -- -|WAR.SOFUNT.AVN.ROT.UTY.MDM|Sof Unit Utility (Medium)|POINT|![](./images/SFFPAHUM-------.png)||
-|118||A|Friend|SFFPAV---------|S - F - AV -- -- -- -- -|WAR.SOFUNT.AVN.VSTOL|Sof Unit V/Stol|POINT|![](./images/SFFPAV---------.png)||
-|119||A|Friend|SFFPB----------|S - F - B- -- -- -- -- -|WAR.SOFUNT.SUP|Sof Unit Support|POINT|![](./images/SFFPB----------.png)||
-|120||A|Friend|SFFPG----------|S - F - G- -- -- -- -- -|WAR.SOFUNT.GRD|Sof Unit Ground|POINT|![](./images/SFFPG----------.png)||
-|121||A|Friend|SFFPGC---------|S - F - GC -- -- -- -- -|WAR.SOFUNT.GRD.CVLAFF|Sof Unit Civil Affairs|POINT|![](./images/SFFPGC---------.png)||
-|122||A|Friend|SFFPGP---------|S - F - GP -- -- -- -- -|WAR.SOFUNT.GRD.PSYOP|Sof Unit Psychological Operations (Psyop)|POINT|![](./images/SFFPGP---------.png)||
-|123||A|Friend|SFFPGPA--------|S - F - GP A- -- -- -- -|WAR.SOFUNT.GRD.PSYOP.FIXAVN|Sof Unit Fixed Wing Aviation|POINT|![](./images/SFFPGPA--------.png)||
-|124||A|Friend|SFFPGR---------|S - F - GR -- -- -- -- -|WAR.SOFUNT.GRD.RGR|Sof Unit Ranger|POINT|![](./images/SFFPGR---------.png)||
-|125||A|Friend|SFFPGS---------|S - F - GS -- -- -- -- -|WAR.SOFUNT.GRD.SOF|Sof Unit Special Forces|POINT|![](./images/SFFPGS---------.png)||
-|126||A|Friend|SFFPN----------|S - F - N- -- -- -- -- -|WAR.SOFUNT.NAV|Sof Unit Sof Unit Naval|POINT|![](./images/SFFPN----------.png)||
-|127||A|Friend|SFFPNB---------|S - F - NB -- -- -- -- -|WAR.SOFUNT.NAV.SBT|Sof Unit Special Boat|POINT|![](./images/SFFPNB---------.png)||
-|128||A|Friend|SFFPNN---------|S - F - NN -- -- -- -- -|WAR.SOFUNT.NAV.SSSNR|Sof Unit Special Ssnr|POINT|![](./images/SFFPNN---------.png)||
-|129||A|Friend|SFFPNS---------|S - F - NS -- -- -- -- -|WAR.SOFUNT.NAV.SEAL|Sof Unit Seal|POINT|![](./images/SFFPNS---------.png)||
-|130||A|Friend|SFFPNU---------|S - F - NU -- -- -- -- -|WAR.SOFUNT.NAV.UH2DML|Sof Unit Underwater Demolition Team|POINT|![](./images/SFFPNU---------.png)||
-|131||A|Friend|SFGP-----------|S - G - -- -- -- -- -- -|WAR.GRDTRK|Ground Track|POINT|![](./images/SFGP-----------.png)||
-|132||A|Friend|SFGPE----------|S - G - E- -- -- -- -- -|WAR.GRDTRK.EQT|Ground Track Equipment|POINT|![](./images/SFGPE----------.png)||
-|133||A|Friend|SFGPES---------|S - G - ES -- -- -- -- -|WAR.GRDTRK.EQT.SNS|Sensor|POINT|![](./images/SFGPES---------.png)||
-|134||A|Friend|SFGPESE--------|S - G - ES E- -- -- -- -|WAR.GRDTRK.EQT.SNS.EMP|Emplaced Sensor|POINT|![](./images/SFGPESE--------.png)||
-|135||A|Friend|SFGPESR--------|S - G - ES R- -- -- -- -|WAR.GRDTRK.EQT.SNS.RAD|Radar|POINT|![](./images/SFGPESR--------.png)||
-|136||A|Friend|SFGPEV---------|S - G - EV -- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH|Ground Vehicle|POINT|![](./images/SFGPEV---------.png)||
-|137||A|Friend|SFGPEVA--------|S - G - EV A- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD|Armored Vehicle|POINT|![](./images/SFGPEVA--------.png)||
-|138||A|Friend|SFGPEVAA-------|S - G - EV AA -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.ARMPC|Armored Personnel Carrier|POINT|![](./images/SFGPEVAA-------.png)||
-|139||A|Friend|SFGPEVAAR------|S - G - EV AA R- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.ARMPC.RCY|Armored Personnel Carrier Recovery|POINT|![](./images/SFGPEVAAR------.png)||
-|140||A|Friend|SFGPEVAC-------|S - G - EV AC -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.C2V|C2V/Acv|POINT|![](./images/SFGPEVAC-------.png)||
-|141||A|Friend|SFGPEVAI-------|S - G - EV AI -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.ARMINF|Armored Infantry|POINT|![](./images/SFGPEVAI-------.png)||
-|142||A|Friend|SFGPEVAL-------|S - G - EV AL -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.LARMVH|Light Armored Vehicle|POINT|![](./images/SFGPEVAL-------.png)||
-|143||A|Friend|SFGPEVAS-------|S - G - EV AS -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.CSSVEH|Combat Service Support Vehicle|POINT|![](./images/SFGPEVAS-------.png)||
-|144||A|Friend|SFGPEVAT-------|S - G - EV AT -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK|Tank|POINT|![](./images/SFGPEVAT-------.png)||
-|145||A|Friend|SFGPEVATH------|S - G - EV AT H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.HVY|Tank Heavy|POINT|![](./images/SFGPEVATH------.png)||
-|146||A|Friend|SFGPEVATHR-----|S - G - EV AT HR -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.HVY.RCY|Tank Heavy Recovery|POINT|![](./images/SFGPEVATHR-----.png)||
-|147||A|Friend|SFGPEVATL------|S - G - EV AT L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.LIT|Tank Light|POINT|![](./images/SFGPEVATL------.png)||
-|148||A|Friend|SFGPEVATLR-----|S - G - EV AT LR -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.LIT.RCY|Tank Light Recovery|POINT|![](./images/SFGPEVATLR-----.png)||
-|149||A|Friend|SFGPEVATM------|S - G - EV AT M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.MDM|Tank Medium|POINT|![](./images/SFGPEVATM------.png)||
-|150||A|Friend|SFGPEVATMR-----|S - G - EV AT MR -- -- -|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.MDM.RCY|Tank Medium Recovery|POINT|![](./images/SFGPEVATMR-----.png)||
-|151||A|Friend|SFGPEVC--------|S - G - EV C- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH|Civilian Vehicle|POINT|![](./images/SFGPEVC--------.png)||
-|152||A|Friend|SFGPEVCA-------|S - G - EV CA -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT|Automobile|POINT|![](./images/SFGPEVCA-------.png)||
-|153||A|Friend|SFGPEVCAH------|S - G - EV CA H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT.SDN|Sedan Automobile|POINT|![](./images/SFGPEVCAH------.png)||
-|154||A|Friend|SFGPEVCAL------|S - G - EV CA L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT.CPCT|Compact Automobile|POINT|![](./images/SFGPEVCAL------.png)||
-|155||A|Friend|SFGPEVCAM------|S - G - EV CA M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT.MDSZ|Midsize Automobile|POINT|![](./images/SFGPEVCAM------.png)||
-|156||A|Friend|SFGPEVCF-------|S - G - EV CF -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF|Tractor Trailer Truck With Flatbed Trailer|POINT|![](./images/SFGPEVCF-------.png)||
-|157||A|Friend|SFGPEVCFH------|S - G - EV CF H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF.LRG|Large/Heavy Flatbed Trailer Tractor Trailer Truck|POINT|![](./images/SFGPEVCFH------.png)||
-|158||A|Friend|SFGPEVCFL------|S - G - EV CF L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF.SMAL|Small/Light Flatbed Trailer Tractor Trailer Truck|POINT|![](./images/SFGPEVCFL------.png)||
-|159||A|Friend|SFGPEVCFM------|S - G - EV CF M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF.MDM|Medium Flatbed Trailer Tractor Trailer Truck|POINT|![](./images/SFGPEVCFM------.png)||
-|160||A|Friend|SFGPEVCJ-------|S - G - EV CJ -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP|Jeep Type Vehicle|POINT|![](./images/SFGPEVCJ-------.png)||
-|161||A|Friend|SFGPEVCJH------|S - G - EV CJ H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP.LRG|Large/Heavy Jeep Type Vehicle|POINT|![](./images/SFGPEVCJH------.png)||
-|162||A|Friend|SFGPEVCJL------|S - G - EV CJ L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP.SMAL|Small/Light Jeep Type Vehicle|POINT|![](./images/SFGPEVCJL------.png)||
-|163||A|Friend|SFGPEVCJM------|S - G - EV CJ M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP.MDM|Medium Jeep Type Vehicle|POINT|![](./images/SFGPEVCJM------.png)||
-|164||A|Friend|SFGPEVCM-------|S - G - EV CM -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV|Multiple Passenger Vehicle|POINT|![](./images/SFGPEVCM-------.png)||
-|165||A|Friend|SFGPEVCMH------|S - G - EV CM H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV.LBUS|Large Bus Multiple Passenger Vehicle|POINT|![](./images/SFGPEVCMH------.png)||
-|166||A|Friend|SFGPEVCML------|S - G - EV CM L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV.VAN|Van Multiple Passenger Vehicle|POINT|![](./images/SFGPEVCML------.png)||
-|167||A|Friend|SFGPEVCMM------|S - G - EV CM M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV.SBUS|Small Bus Multiple Passenger Vehicle|POINT|![](./images/SFGPEVCMM------.png)||
-|168||A|Friend|SFGPEVCO-------|S - G - EV CO -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK|Open-Bed Truck|POINT|![](./images/SFGPEVCO-------.png)||
-|169||A|Friend|SFGPEVCOH------|S - G - EV CO H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK.LRG|Large Open-Bed Truck|POINT|![](./images/SFGPEVCOH------.png)||
-|170||A|Friend|SFGPEVCOL------|S - G - EV CO L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK.PU|Pickup Open-Bed Truck|POINT|![](./images/SFGPEVCOL------.png)||
-|171||A|Friend|SFGPEVCOM------|S - G - EV CO M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK.SMAL|Small Open-Bed Truck|POINT|![](./images/SFGPEVCOM------.png)||
-|172||A|Friend|SFGPEVCT-------|S - G - EV CT -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL|Tractor Trailer Truck With Box Trailer|POINT|![](./images/SFGPEVCT-------.png)||
-|173||A|Friend|SFGPEVCTH------|S - G - EV CT H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL.LRG|Large/Heavy Box Trailer Tractor Trailer Truck|POINT|![](./images/SFGPEVCTH------.png)||
-|174||A|Friend|SFGPEVCTL------|S - G - EV CT L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL.SMAL|Small/Light Box Trailer Tractor Trailer Truck|POINT|![](./images/SFGPEVCTL------.png)||
-|175||A|Friend|SFGPEVCTM------|S - G - EV CT M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL.MDM|Medium Box Trailer Tractor Trailer Truck|POINT|![](./images/SFGPEVCTM------.png)||
-|176||A|Friend|SFGPEVCU-------|S - G - EV CU -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH|Utility Vehicle|POINT|![](./images/SFGPEVCU-------.png)||
-|177||A|Friend|SFGPEVCUH------|S - G - EV CU H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH.LBOX|Large Box Truck Utility Vehicle|POINT|![](./images/SFGPEVCUH------.png)||
-|178||A|Friend|SFGPEVCUL------|S - G - EV CU L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH.SUV|Sport Utility Vehicle (Suv) Utility Vehicle|POINT|![](./images/SFGPEVCUL------.png)||
-|179||A|Friend|SFGPEVCUM------|S - G - EV CU M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH.SBOX|Small Box Truck Utility Vehicle|POINT|![](./images/SFGPEVCUM------.png)||
-|180||A|Friend|SFGPEVE--------|S - G - EV E- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH|Engineer Vehicle|POINT|![](./images/SFGPEVE--------.png)||
-|181||A|Friend|SFGPEVEA-------|S - G - EV EA -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MCVEH|Mine Clearing Vehicle|POINT|![](./images/SFGPEVEA-------.png)||
-|182||A|Friend|SFGPEVEAA------|S - G - EV EA A- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MCVEH.ARMVM|Armored Mounted Mine Clearing Vehicle|POINT|![](./images/SFGPEVEAA------.png)||
-|183||A|Friend|SFGPEVEAT------|S - G - EV EA T- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MCVEH.TM|Trailer Mounted Mine Clearing Vehicle|POINT|![](./images/SFGPEVEAT------.png)||
-|184||A|Friend|SFGPEVEB-------|S - G - EV EB -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.BRG|Bridge|POINT|![](./images/SFGPEVEB-------.png)||
-|185||A|Friend|SFGPEVEC-------|S - G - EV EC -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.CSNVEH|Construction Vehicle|POINT|![](./images/SFGPEVEC-------.png)||
-|186||A|Friend|SFGPEVED-------|S - G - EV ED -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.DZR|Dozer|POINT|![](./images/SFGPEVED-------.png)||
-|187||A|Friend|SFGPEVEDA------|S - G - EV ED A- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.DZR.ARMD|Armored Dozer|POINT|![](./images/SFGPEVEDA------.png)||
-|188||A|Friend|SFGPEVEE-------|S - G - EV EE -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.ERHMR|Earthmover|POINT|![](./images/SFGPEVEE-------.png)||
-|189||A|Friend|SFGPEVEF-------|S - G - EV EF -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.FRYTSP|Ferry Transporter|POINT|![](./images/SFGPEVEF-------.png)||
-|190||A|Friend|SFGPEVEH-------|S - G - EV EH -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.BH|Backhoe|POINT|![](./images/SFGPEVEH-------.png)||
-|191||A|Friend|SFGPEVEM-------|S - G - EV EM -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MLVEH|Mine Laying Vehicle|POINT|![](./images/SFGPEVEM-------.png)||
-|192||A|Friend|SFGPEVEML------|S - G - EV EM L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MLVEH.TRKMV|Truck Mounted With Volcano|POINT|![](./images/SFGPEVEML------.png)||
-|193||A|Friend|SFGPEVEMV------|S - G - EV EM V- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MLVEH.ARMCV|Armored Carrier With Volcano|POINT|![](./images/SFGPEVEMV------.png)||
-|194||A|Friend|SFGPEVER-------|S - G - EV ER -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.ARMERV|Armored Engineer Recon Vehicle (Aerv)|POINT|![](./images/SFGPEVER-------.png)||
-|195||A|Friend|SFGPEVES-------|S - G - EV ES -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.AST|Armored Assault|POINT|![](./images/SFGPEVES-------.png)||
-|196||A|Friend|SFGPEVM--------|S - G - EV M- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.PKAN|Pack Animal(S)|POINT|![](./images/SFGPEVM--------.png)||
-|197||A|Friend|SFGPEVS--------|S - G - EV S- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.MSLSPT|Missile Support Vehicle|POINT|![](./images/SFGPEVS--------.png)||
-|198||A|Friend|SFGPEVSC-------|S - G - EV SC -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.CRN|Missile Support Vehicle Crane/Loading Device|POINT|![](./images/SFGPEVSC-------.png)||
-|199||A|Friend|SFGPEVSP-------|S - G - EV SP -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.PLNT|Missile Support Vehicle Propellant Transporter|POINT|![](./images/SFGPEVSP-------.png)||
-|200||A|Friend|SFGPEVSR-------|S - G - EV SR -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.TPTR|Missile Support Vehicle Transporter|POINT|![](./images/SFGPEVSR-------.png)||
-|201||A|Friend|SFGPEVST-------|S - G - EV ST -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.TLDR|Missile Support Vehicle Transloader|POINT|![](./images/SFGPEVST-------.png)||
-|202||A|Friend|SFGPEVSW-------|S - G - EV SW -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.WH|Missile Support Vehicle Warhead Transporter|POINT|![](./images/SFGPEVSW-------.png)||
-|203||A|Friend|SFGPEVT--------|S - G - EV T- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.TRNLCO|Train Locomotive|POINT|![](./images/SFGPEVT--------.png)||
-|204||A|Friend|SFGPEVU--------|S - G - EV U- -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH|Utility Vehicle|POINT|![](./images/SFGPEVU--------.png)||
-|205||A|Friend|SFGPEVUA-------|S - G - EV UA -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.AMBLNC|Ambulance|POINT|![](./images/SFGPEVUA-------.png)||
-|206||A|Friend|SFGPEVUAA------|S - G - EV UA A- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.AMBLNC.ARMD|Armored Ambulance|POINT|![](./images/SFGPEVUAA------.png)||
-|207||A|Friend|SFGPEVUB-------|S - G - EV UB -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.BUS|Bus|POINT|![](./images/SFGPEVUB-------.png)||
-|208||A|Friend|SFGPEVUL-------|S - G - EV UL -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.LCCTRK|Limited Cross-Country Truck|POINT|![](./images/SFGPEVUL-------.png)||
-|209||A|Friend|SFGPEVUR-------|S - G - EV UR -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.H2OCRT|Water Craft|POINT|![](./images/SFGPEVUR-------.png)||
-|210||A|Friend|SFGPEVUS-------|S - G - EV US -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI|Semi|POINT|![](./images/SFGPEVUS-------.png)||
-|211||A|Friend|SFGPEVUSH------|S - G - EV US H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI.HVY|Semi Heavy|POINT|![](./images/SFGPEVUSH------.png)||
-|212||A|Friend|SFGPEVUSL------|S - G - EV US L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI.LIT|Semi Light|POINT|![](./images/SFGPEVUSL------.png)||
-|213||A|Friend|SFGPEVUSM------|S - G - EV US M- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI.MDM|Semi Medium|POINT|![](./images/SFGPEVUSM------.png)||
-|214||A|Friend|SFGPEVUT-------|S - G - EV UT -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.TOWTRK|Tow Truck|POINT|![](./images/SFGPEVUT-------.png)||
-|215||A|Friend|SFGPEVUTH------|S - G - EV UT H- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.TOWTRK.HVY|Tow Truck Heavy|POINT|![](./images/SFGPEVUTH------.png)||
-|216||A|Friend|SFGPEVUTL------|S - G - EV UT L- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.TOWTRK.LIT|Tow Truck Light|POINT|![](./images/SFGPEVUTL------.png)||
-|217||A|Friend|SFGPEVUX-------|S - G - EV UX -- -- -- -|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.CCTRK|Cross-Country Truck|POINT|![](./images/SFGPEVUX-------.png)||
-|218||A|Friend|SFGPEWA--------|S - G - EW A- -- -- -- -|WAR.GRDTRK.EQT.WPN.ADFG|Air Defense Gun|POINT|![](./images/SFGPEWA--------.png)||
-|219||A|Friend|SFGPEWAH-------|S - G - EW AH -- -- -- -|WAR.GRDTRK.EQT.WPN.ADFG.HVY|Air Defense Gun Heavy|POINT|![](./images/SFGPEWAH-------.png)||
-|220||A|Friend|SFGPEWAL-------|S - G - EW AL -- -- -- -|WAR.GRDTRK.EQT.WPN.ADFG.LIT|Air Defense Gun Light|POINT|![](./images/SFGPEWAL-------.png)||
-|221||A|Friend|SFGPEWAM-------|S - G - EW AM -- -- -- -|WAR.GRDTRK.EQT.WPN.ADFG.MDM|Air Defense Gun Medium|POINT|![](./images/SFGPEWAM-------.png)||
-|222||A|Friend|SFGPEWD--------|S - G - EW D- -- -- -- -|WAR.GRDTRK.EQT.WPN.DFG|Direct Fire Gun|POINT|![](./images/SFGPEWD--------.png)||
-|223||A|Friend|SFGPEWDH-------|S - G - EW DH -- -- -- -|WAR.GRDTRK.EQT.WPN.DFG.HVY|Direct Fire Gun Heavy|POINT|![](./images/SFGPEWDH-------.png)||
-|224||A|Friend|SFGPEWDHS------|S - G - EW DH S- -- -- -|WAR.GRDTRK.EQT.WPN.DFG.HVY.SPD|Direct Fire Gun Heavy Self-Propelled|POINT|![](./images/SFGPEWDHS------.png)||
-|225||A|Friend|SFGPEWDL-------|S - G - EW DL -- -- -- -|WAR.GRDTRK.EQT.WPN.DFG.LIT|Direct Fire Gun Light|POINT|![](./images/SFGPEWDL-------.png)||
-|226||A|Friend|SFGPEWDLS------|S - G - EW DL S- -- -- -|WAR.GRDTRK.EQT.WPN.DFG.LIT.SPD|Direct Fire Gun Light Self-Propelled|POINT|![](./images/SFGPEWDLS------.png)||
-|227||A|Friend|SFGPEWDM-------|S - G - EW DM -- -- -- -|WAR.GRDTRK.EQT.WPN.DFG.MDM|Direct Fire Gun Medium|POINT|![](./images/SFGPEWDM-------.png)||
-|228||A|Friend|SFGPEWDMS------|S - G - EW DM S- -- -- -|WAR.GRDTRK.EQT.WPN.DFG.MDM.SPD|Direct Fire Gun Medium Self-Propelled|POINT|![](./images/SFGPEWDMS------.png)||
-|229||A|Friend|SFGPEWG--------|S - G - EW G- -- -- -- -|WAR.GRDTRK.EQT.WPN.ATG|Antitank Gun|POINT|![](./images/SFGPEWG--------.png)||
-|230||A|Friend|SFGPEWGH-------|S - G - EW GH -- -- -- -|WAR.GRDTRK.EQT.WPN.ATG.HVY|Antitank Gun Heavy|POINT|![](./images/SFGPEWGH-------.png)||
-|231||A|Friend|SFGPEWGL-------|S - G - EW GL -- -- -- -|WAR.GRDTRK.EQT.WPN.ATG.LIT|Antitank Gun Light|POINT|![](./images/SFGPEWGL-------.png)||
-|232||A|Friend|SFGPEWGM-------|S - G - EW GM -- -- -- -|WAR.GRDTRK.EQT.WPN.ATG.MDM|Antitank Gun Medium|POINT|![](./images/SFGPEWGM-------.png)||
-|233||A|Friend|SFGPEWGR-------|S - G - EW GR -- -- -- -|WAR.GRDTRK.EQT.WPN.ATG.RECL|Antitank Gun Recoilless|POINT|![](./images/SFGPEWGR-------.png)||
-|234||A|Friend|SFGPEWH--------|S - G - EW H- -- -- -- -|WAR.GRDTRK.EQT.WPN.HOW|Howitzer|POINT|![](./images/SFGPEWH--------.png)||
-|235||A|Friend|SFGPEWHH-------|S - G - EW HH -- -- -- -|WAR.GRDTRK.EQT.WPN.HOW.HVY|Howitzer Heavy|POINT|![](./images/SFGPEWHH-------.png)||
-|236||A|Friend|SFGPEWHHS------|S - G - EW HH S- -- -- -|WAR.GRDTRK.EQT.WPN.HOW.HVY.SPD|Howitzer Heavy Self-Propelled|POINT|![](./images/SFGPEWHHS------.png)||
-|237||A|Friend|SFGPEWHL-------|S - G - EW HL -- -- -- -|WAR.GRDTRK.EQT.WPN.HOW.LIT|Howitzer Light|POINT|![](./images/SFGPEWHL-------.png)||
-|238||A|Friend|SFGPEWHLS------|S - G - EW HL S- -- -- -|WAR.GRDTRK.EQT.WPN.HOW.LIT.SPD|Howitzer Light Self-Propelled|POINT|![](./images/SFGPEWHLS------.png)||
-|239||A|Friend|SFGPEWHM-------|S - G - EW HM -- -- -- -|WAR.GRDTRK.EQT.WPN.HOW.MDM|Howitzer Medium|POINT|![](./images/SFGPEWHM-------.png)||
-|240||A|Friend|SFGPEWHMS------|S - G - EW HM S- -- -- -|WAR.GRDTRK.EQT.WPN.HOW.MDM.SPD|Howitzer Medium Self-Propelled|POINT|![](./images/SFGPEWHMS------.png)||
-|241||A|Friend|SFGPEWM--------|S - G - EW M- -- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL|Missile Launcher|POINT|![](./images/SFGPEWM--------.png)||
-|242||A|Friend|SFGPEWMA-------|S - G - EW MA -- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD|Air Defense (Ad) Missile Launcher|POINT|![](./images/SFGPEWMA-------.png)||
-|243||A|Friend|SFGPEWMAI------|S - G - EW MA I- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.INTMR|Intermediate Range Ad Missile Launcher|POINT|![](./images/SFGPEWMAI------.png)||
-|244||A|Friend|SFGPEWMAIE-----|S - G - EW MA IE -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.INTMR.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|![](./images/SFGPEWMAIE-----.png)||
-|245||A|Friend|SFGPEWMAIR-----|S - G - EW MA IR -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.INTMR.TLAR|Transporter Launcher And Radar (Tlar)|POINT|![](./images/SFGPEWMAIR-----.png)||
-|246||A|Friend|SFGPEWMAL------|S - G - EW MA L- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.LNGR|Long Range Ad Missile Launcher|POINT|![](./images/SFGPEWMAL------.png)||
-|247||A|Friend|SFGPEWMALE-----|S - G - EW MA LE -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.LNGR.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|![](./images/SFGPEWMALE-----.png)||
-|248||A|Friend|SFGPEWMALR-----|S - G - EW MA LR -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.LNGR.TLAR|Transporter Launcher And Radar (Tlar)|POINT|![](./images/SFGPEWMALR-----.png)||
-|249||A|Friend|SFGPEWMAS------|S - G - EW MA S- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.SHTR|Short Range Ad Missile Launcher|POINT|![](./images/SFGPEWMAS------.png)||
-|250||A|Friend|SFGPEWMASE-----|S - G - EW MA SE -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.SHTR.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|![](./images/SFGPEWMASE-----.png)||
-|251||A|Friend|SFGPEWMASR-----|S - G - EW MA SR -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.SHTR.TLAR|Transporter Launcher And Radar (Tlar)|POINT|![](./images/SFGPEWMASR-----.png)||
-|252||A|Friend|SFGPEWMAT------|S - G - EW MA T- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.THT|Ad Missile Launcher Theater|POINT|![](./images/SFGPEWMAT------.png)||
-|253||A|Friend|SFGPEWMATE-----|S - G - EW MA TE -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.THT.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|![](./images/SFGPEWMATE-----.png)||
-|254||A|Friend|SFGPEWMATR-----|S - G - EW MA TR -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.THT.TLAR|Transporter Launcher And Radar (Tlar)|POINT|![](./images/SFGPEWMATR-----.png)||
-|255||A|Friend|SFGPEWMS-------|S - G - EW MS -- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.SUF|Surf-Surf (Ss) Missile Launcher|POINT|![](./images/SFGPEWMS-------.png)||
-|256||A|Friend|SFGPEWMSI------|S - G - EW MS I- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.SUF.INTMR|Intermediate Range Ss Missile Launcher|POINT|![](./images/SFGPEWMSI------.png)||
-|257||A|Friend|SFGPEWMSL------|S - G - EW MS L- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.SUF.LNGR|Long Range Ss Missile Launcher|POINT|![](./images/SFGPEWMSL------.png)||
-|258||A|Friend|SFGPEWMSS------|S - G - EW MS S- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.SUF.SHTR|Short Range Ss Missile Launcher|POINT|![](./images/SFGPEWMSS------.png)||
-|259||A|Friend|SFGPEWMT-------|S - G - EW MT -- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.AT|Missile Launcher Antitank (At)|POINT|![](./images/SFGPEWMT-------.png)||
-|260||A|Friend|SFGPEWMTH------|S - G - EW MT H- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.AT.HVY|Missile Launcher At Heavy|POINT|![](./images/SFGPEWMTH------.png)||
-|261||A|Friend|SFGPEWMTL------|S - G - EW MT L- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.AT.LIT|Missile Launcher At Light|POINT|![](./images/SFGPEWMTL------.png)||
-|262||A|Friend|SFGPEWMTM------|S - G - EW MT M- -- -- -|WAR.GRDTRK.EQT.WPN.MSLL.AT.MDM|Missile Launcher At Medium|POINT|![](./images/SFGPEWMTM------.png)||
-|263||A|Friend|SFGPEWO--------|S - G - EW O- -- -- -- -|WAR.GRDTRK.EQT.WPN.MORT|Mortar|POINT|![](./images/SFGPEWO--------.png)||
-|264||A|Friend|SFGPEWOH-------|S - G - EW OH -- -- -- -|WAR.GRDTRK.EQT.WPN.MORT.HVY|Mortar Heavy|POINT|![](./images/SFGPEWOH-------.png)||
-|265||A|Friend|SFGPEWOL-------|S - G - EW OL -- -- -- -|WAR.GRDTRK.EQT.WPN.MORT.LIT|Mortar Light|POINT|![](./images/SFGPEWOL-------.png)||
-|266||A|Friend|SFGPEWOM-------|S - G - EW OM -- -- -- -|WAR.GRDTRK.EQT.WPN.MORT.MDM|Mortar Medium|POINT|![](./images/SFGPEWOM-------.png)||
-|267||A|Friend|SFGPEWR--------|S - G - EW R- -- -- -- -|WAR.GRDTRK.EQT.WPN.RIFWPN|Rifle/Automatic Weapon|POINT|![](./images/SFGPEWR--------.png)||
-|268||A|Friend|SFGPEWRH-------|S - G - EW RH -- -- -- -|WAR.GRDTRK.EQT.WPN.RIFWPN.HMG|Heavy Machine Gun|POINT|![](./images/SFGPEWRH-------.png)||
-|269||A|Friend|SFGPEWRL-------|S - G - EW RL -- -- -- -|WAR.GRDTRK.EQT.WPN.RIFWPN.LMG|Light Machine Gun|POINT|![](./images/SFGPEWRL-------.png)||
-|270||A|Friend|SFGPEWRR-------|S - G - EW RR -- -- -- -|WAR.GRDTRK.EQT.WPN.RIFWPN.RIF|Rifle|POINT|![](./images/SFGPEWRR-------.png)||
-|271||A|Friend|SFGPEWS--------|S - G - EW S- -- -- -- -|WAR.GRDTRK.EQT.WPN.SRL|Single Rocket Launcher|POINT|![](./images/SFGPEWS--------.png)||
-|272||A|Friend|SFGPEWSH-------|S - G - EW SH -- -- -- -|WAR.GRDTRK.EQT.WPN.SRL.HVY|Single Rocket Launcher Heavy|POINT|![](./images/SFGPEWSH-------.png)||
-|273||A|Friend|SFGPEWSL-------|S - G - EW SL -- -- -- -|WAR.GRDTRK.EQT.WPN.SRL.LIT|Single Rocket Launcher Light|POINT|![](./images/SFGPEWSL-------.png)||
-|274||A|Friend|SFGPEWSM-------|S - G - EW SM -- -- -- -|WAR.GRDTRK.EQT.WPN.SRL.MDM|Single Rocket Launcher Medium|POINT|![](./images/SFGPEWSM-------.png)||
-|275||A|Friend|SFGPEWT--------|S - G - EW T- -- -- -- -|WAR.GRDTRK.EQT.WPN.ATRL|Antitank Rocket Launcher|POINT|![](./images/SFGPEWT--------.png)||
-|276||A|Friend|SFGPEWTH-------|S - G - EW TH -- -- -- -|WAR.GRDTRK.EQT.WPN.ATRL.HVY|Antitank Rocket Launcher Heavy|POINT|![](./images/SFGPEWTH-------.png)||
-|277||A|Friend|SFGPEWTL-------|S - G - EW TL -- -- -- -|WAR.GRDTRK.EQT.WPN.ATRL.LIT|Antitank Rocket Launcher Light|POINT|![](./images/SFGPEWTL-------.png)||
-|278||A|Friend|SFGPEWTM-------|S - G - EW TM -- -- -- -|WAR.GRDTRK.EQT.WPN.ATRL.MDM|Antitank Rocket Launcher Medium|POINT|![](./images/SFGPEWTM-------.png)||
-|279||A|Friend|SFGPEWX--------|S - G - EW X- -- -- -- -|WAR.GRDTRK.EQT.WPN.MRL|Multiple Rocket Launcher|POINT|![](./images/SFGPEWX--------.png)||
-|280||A|Friend|SFGPEWXH-------|S - G - EW XH -- -- -- -|WAR.GRDTRK.EQT.WPN.MRL.HVY|Multiple Rocket Launcher Heavy|POINT|![](./images/SFGPEWXH-------.png)||
-|281||A|Friend|SFGPEWXL-------|S - G - EW XL -- -- -- -|WAR.GRDTRK.EQT.WPN.MRL.LIT|Multiple Rocket Launcher Light|POINT|![](./images/SFGPEWXL-------.png)||
-|282||A|Friend|SFGPEWXM-------|S - G - EW XM -- -- -- -|WAR.GRDTRK.EQT.WPN.MRL.MDM|Multiple Rocket Launcher Medium|POINT|![](./images/SFGPEWXM-------.png)||
-|283||A|Friend|SFGPEWZ--------|S - G - EW Z- -- -- -- -|WAR.GRDTRK.EQT.WPN.GREL|Grenade Launcher|POINT|![](./images/SFGPEWZ--------.png)||
-|284||A|Friend|SFGPEWZH-------|S - G - EW ZH -- -- -- -|WAR.GRDTRK.EQT.WPN.GREL.HVY|Grenade Launcher Heavy|POINT|![](./images/SFGPEWZH-------.png)||
-|285||A|Friend|SFGPEWZL-------|S - G - EW ZL -- -- -- -|WAR.GRDTRK.EQT.WPN.GREL.LIT|Grenade Launcher Light|POINT|![](./images/SFGPEWZL-------.png)||
-|286||A|Friend|SFGPEWZM-------|S - G - EW ZM -- -- -- -|WAR.GRDTRK.EQT.WPN.GREL.MDM|Grenade Launcher Medium|POINT|![](./images/SFGPEWZM-------.png)||
-|287||A|Friend|SFGPEXF--------|S - G - EX F- -- -- -- -|WAR.GRDTRK.EQT.SPL.FLMTHR|Flame Thrower|POINT|![](./images/SFGPEXF--------.png)||
-|288||A|Friend|SFGPEXI--------|S - G - EX I- -- -- -- -|WAR.GRDTRK.EQT.SPL.IED|Improvised Explosive Device|POINT|![](./images/SFGPEXI--------.png)||
-|289||A|Friend|SFGPEXL--------|S - G - EX L- -- -- -- -|WAR.GRDTRK.EQT.SPL.LSR|Laser|POINT|![](./images/SFGPEXL--------.png)||
-|290||A|Friend|SFGPEXM--------|S - G - EX M- -- -- -- -|WAR.GRDTRK.EQT.SPL.LNDMNE|Land Mines|POINT|![](./images/SFGPEXM--------.png)||
-|291||A|Friend|SFGPEXMC-------|S - G - EX MC -- -- -- -|WAR.GRDTRK.EQT.SPL.LNDMNE.CLM|Claymore|POINT|![](./images/SFGPEXMC-------.png)||
-|292||A|Friend|SFGPEXML-------|S - G - EX ML -- -- -- -|WAR.GRDTRK.EQT.SPL.LNDMNE.LTL|Less Than Lethal|POINT|![](./images/SFGPEXML-------.png)||
-|293||A|Friend|SFGPEXN--------|S - G - EX N- -- -- -- -|WAR.GRDTRK.EQT.SPL.CBRNEQ|Cbrn Equipment|POINT|![](./images/SFGPEXN--------.png)||
-|294||A|Friend|SFGPIBA---H----|S - G - IB A- -- H- -- -|WAR.GRDTRK.INS.MILBF.AB|Airport/Airbase|POINT|![](./images/SFGPIBA---H----.png)||
-|295||A|Friend|SFGPIB----H----|S - G - IB -- -- H- -- -|WAR.GRDTRK.INS.MILBF|Military Base/Facility|POINT|![](./images/SFGPIB----H----.png)||
-|296||A|Friend|SFGPIBN---H----|S - G - IB N- -- H- -- -|WAR.GRDTRK.INS.MILBF.SP|Seaport/Naval Base|POINT|![](./images/SFGPIBN---H----.png)||
-|297||A|Friend|SFGPIE----H----|S - G - IE -- -- H- -- -|WAR.GRDTRK.INS.EQTMNF|Equipment Manufacture|POINT|![](./images/SFGPIE----H----.png)||
-|298||A|Friend|SFGPIG----H----|S - G - IG -- -- H- -- -|WAR.GRDTRK.INS.GOVLDR|Government Leadership|POINT|![](./images/SFGPIG----H----.png)||
-|299||A|Friend|SFGPI-----H----|S - G - I- -- -- H- -- -|WAR.GRDTRK.INS|Installation|POINT|![](./images/SFGPI-----H----.png)||
-|300||A|Friend|SFGPIMA---H----|S - G - IM A- -- H- -- -|WAR.GRDTRK.INS.MMF.APA|Aircraft Production & Assembly|POINT|![](./images/SFGPIMA---H----.png)||
-|301||A|Friend|SFGPIMC---H----|S - G - IM C- -- H- -- -|WAR.GRDTRK.INS.MMF.CBWP|Chemical & Biological Warfare Production|POINT|![](./images/SFGPIMC---H----.png)||
-|302||A|Friend|SFGPIME---H----|S - G - IM E- -- H- -- -|WAR.GRDTRK.INS.MMF.AMEP|Ammunition And Explosives Production|POINT|![](./images/SFGPIME---H----.png)||
-|303||A|Friend|SFGPIMFA--H----|S - G - IM FA -- H- -- -|WAR.GRDTRK.INS.MMF.NENY.ATMER|Atomic Energy Reactor|POINT|![](./images/SFGPIMFA--H----.png)||
-|304||A|Friend|SFGPIMF---H----|S - G - IM F- -- H- -- -|WAR.GRDTRK.INS.MMF.NENY|Nuclear Energy|POINT|![](./images/SFGPIMF---H----.png)||
-|305||A|Friend|SFGPIMFP--H----|S - G - IM FP -- H- -- -|WAR.GRDTRK.INS.MMF.NENY.NMP|Nuclear Material Production|POINT|![](./images/SFGPIMFP--H----.png)||
-|306||A|Friend|SFGPIMFPW-H----|S - G - IM FP W- H- -- -|WAR.GRDTRK.INS.MMF.NENY.NMP.WPNGR|Weapons Grade|POINT|![](./images/SFGPIMFPW-H----.png)||
-|307||A|Friend|SFGPIMFS--H----|S - G - IM FS -- H- -- -|WAR.GRDTRK.INS.MMF.NENY.NMS|Nuclear Material Storage|POINT|![](./images/SFGPIMFS--H----.png)||
-|308||A|Friend|SFGPIMG---H----|S - G - IM G- -- H- -- -|WAR.GRDTRK.INS.MMF.AMTP|Armament Production|POINT|![](./images/SFGPIMG---H----.png)||
-|309||A|Friend|SFGPIMM---H----|S - G - IM M- -- H- -- -|WAR.GRDTRK.INS.MMF.MSSP|Missile & Space System Production|POINT|![](./images/SFGPIMM---H----.png)||
-|310||A|Friend|SFGPIMNB--H----|S - G - IM NB -- H- -- -|WAR.GRDTRK.INS.MMF.ENGEP.BRG|Bridge|POINT|![](./images/SFGPIMNB--H----.png)||
-|311||A|Friend|SFGPIMN---H----|S - G - IM N- -- H- -- -|WAR.GRDTRK.INS.MMF.ENGEP|Engineering Equipment Production|POINT|![](./images/SFGPIMN---H----.png)||
-|312||A|Friend|SFGPIMS---H----|S - G - IM S- -- H- -- -|WAR.GRDTRK.INS.MMF.SHPCSN|Ship Construction|POINT|![](./images/SFGPIMS---H----.png)||
-|313||A|Friend|SFGPIMV---H----|S - G - IM V- -- H- -- -|WAR.GRDTRK.INS.MMF.MILVP|Military Vehicle Production|POINT|![](./images/SFGPIMV---H----.png)||
-|314||A|Friend|SFGPIPD---H----|S - G - IP D- -- H- -- -|WAR.GRDTRK.INS.PF.DECON|Decontamination|POINT|![](./images/SFGPIPD---H----.png)||
-|315||A|Friend|SFGPIP----H----|S - G - IP -- -- H- -- -|WAR.GRDTRK.INS.PF|Processing Facility|POINT|![](./images/SFGPIP----H----.png)||
-|316||A|Friend|SFGPIR----H----|S - G - IR -- -- H- -- -|WAR.GRDTRK.INS.RMP|Raw Material Production/Storage|POINT|![](./images/SFGPIR----H----.png)||
-|317||A|Friend|SFGPIRM---H----|S - G - IR M- -- H- -- -|WAR.GRDTRK.INS.RMP.MNE|Mine|POINT|![](./images/SFGPIRM---H----.png)||
-|318||A|Friend|SFGPIRNB--H----|S - G - IR NB -- H- -- -|WAR.GRDTRK.INS.RMP.CBRN.BIO|Biological|POINT|![](./images/SFGPIRNB--H----.png)||
-|319||A|Friend|SFGPIRNC--H----|S - G - IR NC -- H- -- -|WAR.GRDTRK.INS.RMP.CBRN.CML|Chemical|POINT|![](./images/SFGPIRNC--H----.png)||
-|320||A|Friend|SFGPIRN---H----|S - G - IR N- -- H- -- -|WAR.GRDTRK.INS.RMP.CBRN|Cbrn|POINT|![](./images/SFGPIRN---H----.png)||
-|321||A|Friend|SFGPIRNN--H----|S - G - IR NN -- H- -- -|WAR.GRDTRK.INS.RMP.CBRN.NUC|Nuclear|POINT|![](./images/SFGPIRNN--H----.png)||
-|322||A|Friend|SFGPIRP---H----|S - G - IR P- -- H- -- -|WAR.GRDTRK.INS.RMP.PGO|Petroleum/Gas/Oil|POINT|![](./images/SFGPIRP---H----.png)||
-|323||A|Friend|SFGPIT----H----|S - G - IT -- -- H- -- -|WAR.GRDTRK.INS.TSPF|Transport Facility|POINT|![](./images/SFGPIT----H----.png)||
-|324||A|Friend|SFGPIUED--H----|S - G - IU ED -- H- -- -|WAR.GRDTRK.INS.SRUF.EPF.DAM|Dam|POINT|![](./images/SFGPIUED--H----.png)||
-|325||A|Friend|SFGPIUEF--H----|S - G - IU EF -- H- -- -|WAR.GRDTRK.INS.SRUF.EPF.FOSF|Fossil Fuel|POINT|![](./images/SFGPIUEF--H----.png)||
-|326||A|Friend|SFGPIUE---H----|S - G - IU E- -- H- -- -|WAR.GRDTRK.INS.SRUF.EPF|Electric Power Facility|POINT|![](./images/SFGPIUE---H----.png)||
-|327||A|Friend|SFGPIUEN--H----|S - G - IU EN -- H- -- -|WAR.GRDTRK.INS.SRUF.EPF.NPT|Nuclear Plant|POINT|![](./images/SFGPIUEN--H----.png)||
-|328||A|Friend|SFGPIU----H----|S - G - IU -- -- H- -- -|WAR.GRDTRK.INS.SRUF|Service Research Utility Facility|POINT|![](./images/SFGPIU----H----.png)||
-|329||A|Friend|SFGPIUP---H----|S - G - IU P- -- H- -- -|WAR.GRDTRK.INS.SRUF.PWS|Public Water Services|POINT|![](./images/SFGPIUP---H----.png)||
-|330||A|Friend|SFGPIUR---H----|S - G - IU R- -- H- -- -|WAR.GRDTRK.INS.SRUF.TRF|Technological Research Facility|POINT|![](./images/SFGPIUR---H----.png)||
-|331||A|Friend|SFGPIUT---H----|S - G - IU T- -- H- -- -|WAR.GRDTRK.INS.SRUF.TCF|Telecommunications Facility|POINT|![](./images/SFGPIUT---H----.png)||
-|332||A|Friend|SFGPIX----H----|S - G - IX -- -- H- -- -|WAR.GRDTRK.INS.MEDF|Medical Facility|POINT|![](./images/SFGPIX----H----.png)||
-|333||A|Friend|SFGPIXH---H----|S - G - IX H- -- H- -- -|WAR.GRDTRK.INS.MEDF.HSP|Hospital|POINT|![](./images/SFGPIXH---H----.png)||
-|334||A|Friend|SFGPU----------|S - G - U- -- -- -- -- -|WAR.GRDTRK.UNT|Unit|POINT|![](./images/SFGPU----------.png)||
-|335||A|Friend|SFGPUC---------|S - G - UC -- -- -- -- -|WAR.GRDTRK.UNT.CBT|Combat|POINT|![](./images/SFGPUC---------.png)||
-|336||A|Friend|SFGPUCA--------|S - G - UC A- -- -- -- -|WAR.GRDTRK.UNT.CBT.ARM|Armor|POINT|![](./images/SFGPUCA--------.png)||
-|337||A|Friend|SFGPUCAA-------|S - G - UC AA -- -- -- -|WAR.GRDTRK.UNT.CBT.AARM|Antiarmor|POINT|![](./images/SFGPUCAA-------.png)||
-|338||A|Friend|SFGPUCAAA------|S - G - UC AA A- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.ARMD|Antiarmor Armored|POINT|![](./images/SFGPUCAAA------.png)||
-|339||A|Friend|SFGPUCAAAS-----|S - G - UC AA AS -- -- -|WAR.GRDTRK.UNT.CBT.AARM.ARMD.AAST|Antiarmor Armored Air Assault|POINT|![](./images/SFGPUCAAAS-----.png)||
-|340||A|Friend|SFGPUCAAAT-----|S - G - UC AA AT -- -- -|WAR.GRDTRK.UNT.CBT.AARM.ARMD.TKD|Antiarmor Armored Tracked|POINT|![](./images/SFGPUCAAAT-----.png)||
-|341||A|Friend|SFGPUCAAAW-----|S - G - UC AA AW -- -- -|WAR.GRDTRK.UNT.CBT.AARM.ARMD.WHD|Antiarmor Armored Wheeled|POINT|![](./images/SFGPUCAAAW-----.png)||
-|342||A|Friend|SFGPUCAAC------|S - G - UC AA C- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.ARC|Antiarmor Arctic|POINT|![](./images/SFGPUCAAC------.png)||
-|343||A|Friend|SFGPUCAAD------|S - G - UC AA D- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.DMD|Antiarmor Dismounted|POINT|![](./images/SFGPUCAAD------.png)||
-|344||A|Friend|SFGPUCAAL------|S - G - UC AA L- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.LIT|Antiarmor Light|POINT|![](./images/SFGPUCAAL------.png)||
-|345||A|Friend|SFGPUCAAM------|S - G - UC AA M- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.ABN|Antiarmor Airborne|POINT|![](./images/SFGPUCAAM------.png)||
-|346||A|Friend|SFGPUCAAO------|S - G - UC AA O- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.MOT|Antiarmor Motorized|POINT|![](./images/SFGPUCAAO------.png)||
-|347||A|Friend|SFGPUCAAOS-----|S - G - UC AA OS -- -- -|WAR.GRDTRK.UNT.CBT.AARM.MOT.AAST|Antiarmor Motorized Air Assault|POINT|![](./images/SFGPUCAAOS-----.png)||
-|348||A|Friend|SFGPUCAAS------|S - G - UC AA S- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.AAST|Antiarmor Air Assault|POINT|![](./images/SFGPUCAAS------.png)||
-|349||A|Friend|SFGPUCAAU------|S - G - UC AA U- -- -- -|WAR.GRDTRK.UNT.CBT.AARM.MNT|Antiarmor Mountain|POINT|![](./images/SFGPUCAAU------.png)||
-|350||A|Friend|SFGPUCAT-------|S - G - UC AT -- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK|Armor Track|POINT|![](./images/SFGPUCAT-------.png)||
-|351||A|Friend|SFGPUCATA------|S - G - UC AT A- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK.ABN|Armor Track Airborne|POINT|![](./images/SFGPUCATA------.png)||
-|352||A|Friend|SFGPUCATH------|S - G - UC AT H- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK.HVY|Armor Track Heavy|POINT|![](./images/SFGPUCATH------.png)||
-|353||A|Friend|SFGPUCATL------|S - G - UC AT L- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK.LIT|Armor Track Light|POINT|![](./images/SFGPUCATL------.png)||
-|354||A|Friend|SFGPUCATM------|S - G - UC AT M- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK.MDM|Armor Track Medium|POINT|![](./images/SFGPUCATM------.png)||
-|355||A|Friend|SFGPUCATR------|S - G - UC AT R- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK.RCY|Armor Track Recovery|POINT|![](./images/SFGPUCATR------.png)||
-|356||A|Friend|SFGPUCATW------|S - G - UC AT W- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK.AMP|Armor Track Amphibious|POINT|![](./images/SFGPUCATW------.png)||
-|357||A|Friend|SFGPUCATWR-----|S - G - UC AT WR -- -- -|WAR.GRDTRK.UNT.CBT.ARM.TRK.AMP.RCY|Armor Track Amphibious Recovery|POINT|![](./images/SFGPUCATWR-----.png)||
-|358||A|Friend|SFGPUCAW-------|S - G - UC AW -- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD|Armor Wheeled|POINT|![](./images/SFGPUCAW-------.png)||
-|359||A|Friend|SFGPUCAWA------|S - G - UC AW A- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.ABN|Armor Wheeled Airborne|POINT|![](./images/SFGPUCAWA------.png)||
-|360||A|Friend|SFGPUCAWH------|S - G - UC AW H- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.HVY|Armor Wheeled Heavy|POINT|![](./images/SFGPUCAWH------.png)||
-|361||A|Friend|SFGPUCAWL------|S - G - UC AW L- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.LIT|Armor Wheeled Light|POINT|![](./images/SFGPUCAWL------.png)||
-|362||A|Friend|SFGPUCAWM------|S - G - UC AW M- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.MDM|Armor Wheeled Medium|POINT|![](./images/SFGPUCAWM------.png)||
-|363||A|Friend|SFGPUCAWR------|S - G - UC AW R- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.RCY|Armor Wheeled Recovery|POINT|![](./images/SFGPUCAWR------.png)||
-|364||A|Friend|SFGPUCAWS------|S - G - UC AW S- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.AAST|Armor Wheeled Air Assault|POINT|![](./images/SFGPUCAWS------.png)||
-|365||A|Friend|SFGPUCAWW------|S - G - UC AW W- -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.AMP|Armor Wheeled Amphibious|POINT|![](./images/SFGPUCAWW------.png)||
-|366||A|Friend|SFGPUCAWWR-----|S - G - UC AW WR -- -- -|WAR.GRDTRK.UNT.CBT.ARM.WHD.AMP.RCY|Armor Wheeled Amphibious Recovery|POINT|![](./images/SFGPUCAWWR-----.png)||
-|367||A|Friend|SFGPUCD--------|S - G - UC D- -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF|Air Defense|POINT|![](./images/SFGPUCD--------.png)||
-|368||A|Friend|SFGPUCDC-------|S - G - UC DC -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.CMPS|Composite|POINT|![](./images/SFGPUCDC-------.png)||
-|369||A|Friend|SFGPUCDG-------|S - G - UC DG -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.GUNUNT|Gun Unit|POINT|![](./images/SFGPUCDG-------.png)||
-|370||A|Friend|SFGPUCDH-------|S - G - UC DH -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL.HMAD|H/Mad|POINT|![](./images/SFGPUCDH-------.png)||
-|371||A|Friend|SFGPUCDHH------|S - G - UC DH H- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL.HMAD.HWK|Hawk|POINT|![](./images/SFGPUCDHH------.png)||
-|372||A|Friend|SFGPUCDHP------|S - G - UC DH P- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL.HMAD.PATT|Patriot|POINT|![](./images/SFGPUCDHP------.png)||
-|373||A|Friend|SFGPUCDM-------|S - G - UC DM -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL|Air Defense Missile|POINT|![](./images/SFGPUCDM-------.png)||
-|374||A|Friend|SFGPUCDMH------|S - G - UC DM H- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL.HVY|Air Defense Missile Heavy|POINT|![](./images/SFGPUCDMH------.png)||
-|375||A|Friend|SFGPUCDML------|S - G - UC DM L- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL.LIT|Air Defense Missile Light|POINT|![](./images/SFGPUCDML------.png)||
-|376||A|Friend|SFGPUCDMLA-----|S - G - UC DM LA -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL.LIT.MOT|Air Defense Missile Motorized (Avenger)|POINT|![](./images/SFGPUCDMLA-----.png)||
-|377||A|Friend|SFGPUCDMM------|S - G - UC DM M- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.MSL.MDM|Air Defense Missile Medium|POINT|![](./images/SFGPUCDMM------.png)||
-|378||A|Friend|SFGPUCDO-------|S - G - UC DO -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.TMDU|Theater Missile Defense Unit|POINT|![](./images/SFGPUCDO-------.png)||
-|379||A|Friend|SFGPUCDS-------|S - G - UC DS -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.SHTR|Short Range|POINT|![](./images/SFGPUCDS-------.png)||
-|380||A|Friend|SFGPUCDSC------|S - G - UC DS C- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.SHTR.CPL|Chaparral|POINT|![](./images/SFGPUCDSC------.png)||
-|381||A|Friend|SFGPUCDSS------|S - G - UC DS S- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.SHTR.STG|Stinger|POINT|![](./images/SFGPUCDSS------.png)||
-|382||A|Friend|SFGPUCDSV------|S - G - UC DS V- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.SHTR.VUL|Vulcan|POINT|![](./images/SFGPUCDSV------.png)||
-|383||A|Friend|SFGPUCDT-------|S - G - UC DT -- -- -- -|WAR.GRDTRK.UNT.CBT.ADF.TGTGUT|Targeting Unit|POINT|![](./images/SFGPUCDT-------.png)||
-|384||A|Friend|SFGPUCE--------|S - G - UC E- -- -- -- -|WAR.GRDTRK.UNT.CBT.ENG|Engineer|POINT|![](./images/SFGPUCE--------.png)||
-|385||A|Friend|SFGPUCEC-------|S - G - UC EC -- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT|Engineer Combat|POINT|![](./images/SFGPUCEC-------.png)||
-|386||A|Friend|SFGPUCECA------|S - G - UC EC A- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.ABN|Engineer Combat Airborne|POINT|![](./images/SFGPUCECA------.png)||
-|387||A|Friend|SFGPUCECC------|S - G - UC EC C- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.ARC|Engineer Combat Arctic|POINT|![](./images/SFGPUCECC------.png)||
-|388||A|Friend|SFGPUCECH------|S - G - UC EC H- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.HVY|Engineer Combat Heavy|POINT|![](./images/SFGPUCECH------.png)||
-|389||A|Friend|SFGPUCECL------|S - G - UC EC L- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.LIT|Engineer Combat Light (Sapper)|POINT|![](./images/SFGPUCECL------.png)||
-|390||A|Friend|SFGPUCECM------|S - G - UC EC M- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.MDM|Engineer Combat Medium|POINT|![](./images/SFGPUCECM------.png)||
-|391||A|Friend|SFGPUCECO------|S - G - UC EC O- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.MNT|Engineer Combat Mountain|POINT|![](./images/SFGPUCECO------.png)||
-|392||A|Friend|SFGPUCECR------|S - G - UC EC R- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.RECON|Engineer Combat Recon|POINT|![](./images/SFGPUCECR------.png)||
-|393||A|Friend|SFGPUCECS------|S - G - UC EC S- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.AAST|Engineer Combat Air Assault|POINT|![](./images/SFGPUCECS------.png)||
-|394||A|Friend|SFGPUCECT------|S - G - UC EC T- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.MECH|Engineer Combat Mechanized (Track)|POINT|![](./images/SFGPUCECT------.png)||
-|395||A|Friend|SFGPUCECW------|S - G - UC EC W- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CBT.MOT|Engineer Combat Motorized|POINT|![](./images/SFGPUCECW------.png)||
-|396||A|Friend|SFGPUCEN-------|S - G - UC EN -- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CSN|Engineer Construction|POINT|![](./images/SFGPUCEN-------.png)||
-|397||A|Friend|SFGPUCENN------|S - G - UC EN N- -- -- -|WAR.GRDTRK.UNT.CBT.ENG.CSN.NAV|Engineer Naval Construction|POINT|![](./images/SFGPUCENN------.png)||
-|398||A|Friend|SFGPUCF--------|S - G - UC F- -- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART|Field Artillery|POINT|![](./images/SFGPUCF--------.png)||
-|399||A|Friend|SFGPUCFH-------|S - G - UC FH -- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW|Howitzer/Gun|POINT|![](./images/SFGPUCFH-------.png)||
-|400||A|Friend|SFGPUCFHA------|S - G - UC FH A- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.ABN|Airborne|POINT|![](./images/SFGPUCFHA------.png)||
-|401||A|Friend|SFGPUCFHC------|S - G - UC FH C- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.ARC|Arctic|POINT|![](./images/SFGPUCFHC------.png)||
-|402||A|Friend|SFGPUCFHE------|S - G - UC FH E- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.SPD|Self-Propelled|POINT|![](./images/SFGPUCFHE------.png)||
-|403||A|Friend|SFGPUCFHH------|S - G - UC FH H- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.HVY|Heavy|POINT|![](./images/SFGPUCFHH------.png)||
-|404||A|Friend|SFGPUCFHL------|S - G - UC FH L- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.LIT|Light|POINT|![](./images/SFGPUCFHL------.png)||
-|405||A|Friend|SFGPUCFHM------|S - G - UC FH M- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.MDM|Medium|POINT|![](./images/SFGPUCFHM------.png)||
-|406||A|Friend|SFGPUCFHO------|S - G - UC FH O- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.MNT|Mountain|POINT|![](./images/SFGPUCFHO------.png)||
-|407||A|Friend|SFGPUCFHS------|S - G - UC FH S- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.AAST|Air Assault|POINT|![](./images/SFGPUCFHS------.png)||
-|408||A|Friend|SFGPUCFHX------|S - G - UC FH X- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.HOW.AMP|Amphibious|POINT|![](./images/SFGPUCFHX------.png)||
-|409||A|Friend|SFGPUCFM-------|S - G - UC FM -- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT|Mortar|POINT|![](./images/SFGPUCFM-------.png)||
-|410||A|Friend|SFGPUCFML------|S - G - UC FM L- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.AMP|Amphibious Mortar|POINT|![](./images/SFGPUCFML------.png)||
-|411||A|Friend|SFGPUCFMS------|S - G - UC FM S- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.SPDTRK|Self-Propelled (Sp) Tracked Mortar|POINT|![](./images/SFGPUCFMS------.png)||
-|412||A|Friend|SFGPUCFMT------|S - G - UC FM T- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW|Towed Mortar|POINT|![](./images/SFGPUCFMT------.png)||
-|413||A|Friend|SFGPUCFMTA-----|S - G - UC FM TA -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.ABN|Towed Airborne Mortar|POINT|![](./images/SFGPUCFMTA-----.png)||
-|414||A|Friend|SFGPUCFMTC-----|S - G - UC FM TC -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.ARC|Towed Arctic Mortar|POINT|![](./images/SFGPUCFMTC-----.png)||
-|415||A|Friend|SFGPUCFMTO-----|S - G - UC FM TO -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.MNT|Towed Mountain Mortar|POINT|![](./images/SFGPUCFMTO-----.png)||
-|416||A|Friend|SFGPUCFMTS-----|S - G - UC FM TS -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.AAST|Towed Air Assault Mortar|POINT|![](./images/SFGPUCFMTS-----.png)||
-|417||A|Friend|SFGPUCFMW------|S - G - UC FM W- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.MORT.SPDWHD|Sp Wheeled Mortar|POINT|![](./images/SFGPUCFMW------.png)||
-|418||A|Friend|SFGPUCFO-------|S - G - UC FO -- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.METO|Meteorological|POINT|![](./images/SFGPUCFO-------.png)||
-|419||A|Friend|SFGPUCFOA------|S - G - UC FO A- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.METO.ABN|Airborne Meteorological|POINT|![](./images/SFGPUCFOA------.png)||
-|420||A|Friend|SFGPUCFOL------|S - G - UC FO L- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.METO.LIT|Light Meteorological|POINT|![](./images/SFGPUCFOL------.png)||
-|421||A|Friend|SFGPUCFOO------|S - G - UC FO O- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.METO.MNT|Mountain Meteorological|POINT|![](./images/SFGPUCFOO------.png)||
-|422||A|Friend|SFGPUCFOS------|S - G - UC FO S- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.METO.AAST|Air Assault Meteorological|POINT|![](./images/SFGPUCFOS------.png)||
-|423||A|Friend|SFGPUCFR-------|S - G - UC FR -- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC|Rocket|POINT|![](./images/SFGPUCFR-------.png)||
-|424||A|Friend|SFGPUCFRM------|S - G - UC FR M- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL|Multiple Rocket Launcher|POINT|![](./images/SFGPUCFRM------.png)||
-|425||A|Friend|SFGPUCFRMR-----|S - G - UC FR MR -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL.MRTRK|Multiple Rocket Truck|POINT|![](./images/SFGPUCFRMR-----.png)||
-|426||A|Friend|SFGPUCFRMS-----|S - G - UC FR MS -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL.MRSPD|Multiple Rocket Self-Propelled|POINT|![](./images/SFGPUCFRMS-----.png)||
-|427||A|Friend|SFGPUCFRMT-----|S - G - UC FR MT -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL.MRTOW|Multiple Rocket Towed|POINT|![](./images/SFGPUCFRMT-----.png)||
-|428||A|Friend|SFGPUCFRS------|S - G - UC FR S- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL|Single Rocket Launcher|POINT|![](./images/SFGPUCFRS------.png)||
-|429||A|Friend|SFGPUCFRSR-----|S - G - UC FR SR -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL.SRTRK|Single Rocket Truck|POINT|![](./images/SFGPUCFRSR-----.png)||
-|430||A|Friend|SFGPUCFRSS-----|S - G - UC FR SS -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL.SRSPD|Single Rocket Self-Propelled|POINT|![](./images/SFGPUCFRSS-----.png)||
-|431||A|Friend|SFGPUCFRST-----|S - G - UC FR ST -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL.SRTOW|Single Rocket Towed|POINT|![](./images/SFGPUCFRST-----.png)||
-|432||A|Friend|SFGPUCFS-------|S - G - UC FS -- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY|Artillery Survey|POINT|![](./images/SFGPUCFS-------.png)||
-|433||A|Friend|SFGPUCFSA------|S - G - UC FS A- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.ABN|Airborne|POINT|![](./images/SFGPUCFSA------.png)||
-|434||A|Friend|SFGPUCFSL------|S - G - UC FS L- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.LIT|Light|POINT|![](./images/SFGPUCFSL------.png)||
-|435||A|Friend|SFGPUCFSO------|S - G - UC FS O- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.MNT|Mountain|POINT|![](./images/SFGPUCFSO------.png)||
-|436||A|Friend|SFGPUCFSS------|S - G - UC FS S- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.AAST|Air Assault|POINT|![](./images/SFGPUCFSS------.png)||
-|437||A|Friend|SFGPUCFT-------|S - G - UC FT -- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ|Target Acquisition|POINT|![](./images/SFGPUCFT-------.png)||
-|438||A|Friend|SFGPUCFTA------|S - G - UC FT A- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.ANG|Anglico|POINT|![](./images/SFGPUCFTA------.png)||
-|439||A|Friend|SFGPUCFTC------|S - G - UC FT C- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.CLT|Colt/Fist|POINT|![](./images/SFGPUCFTC------.png)||
-|440||A|Friend|SFGPUCFTCD-----|S - G - UC FT CD -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.CLT.DMD|Dismounted Colt/Fist|POINT|![](./images/SFGPUCFTCD-----.png)||
-|441||A|Friend|SFGPUCFTCM-----|S - G - UC FT CM -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.CLT.TKD|Tracked Colt/Fist|POINT|![](./images/SFGPUCFTCM-----.png)||
-|442||A|Friend|SFGPUCFTF------|S - G - UC FT F- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.FLH|Flash (Optical)|POINT|![](./images/SFGPUCFTF------.png)||
-|443||A|Friend|SFGPUCFTR------|S - G - UC FT R- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.RAD|Radar|POINT|![](./images/SFGPUCFTR------.png)||
-|444||A|Friend|SFGPUCFTS------|S - G - UC FT S- -- -- -|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.SND|Sound|POINT|![](./images/SFGPUCFTS------.png)||
-|445||A|Friend|SFGPUCI--------|S - G - UC I- -- -- -- -|WAR.GRDTRK.UNT.CBT.INF|Infantry|POINT|![](./images/SFGPUCI--------.png)||
-|446||A|Friend|SFGPUCIA-------|S - G - UC IA -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.ABN|Infantry Airborne|POINT|![](./images/SFGPUCIA-------.png)||
-|447||A|Friend|SFGPUCIC-------|S - G - UC IC -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.ARC|Infantry Arctic|POINT|![](./images/SFGPUCIC-------.png)||
-|448||A|Friend|SFGPUCII-------|S - G - UC II -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.INFFV|Infantry Fighting Vehicle|POINT|![](./images/SFGPUCII-------.png)||
-|449||A|Friend|SFGPUCIL-------|S - G - UC IL -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.LIT|Infantry Light|POINT|![](./images/SFGPUCIL-------.png)||
-|450||A|Friend|SFGPUCIM-------|S - G - UC IM -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.MOT|Infantry Motorized|POINT|![](./images/SFGPUCIM-------.png)||
-|451||A|Friend|SFGPUCIN-------|S - G - UC IN -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.NAV|Infantry Naval|POINT|![](./images/SFGPUCIN-------.png)||
-|452||A|Friend|SFGPUCIO-------|S - G - UC IO -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.MNT|Infantry Mountain|POINT|![](./images/SFGPUCIO-------.png)||
-|453||A|Friend|SFGPUCIS-------|S - G - UC IS -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.AAST|Infantry Air Assault|POINT|![](./images/SFGPUCIS-------.png)||
-|454||A|Friend|SFGPUCIZ-------|S - G - UC IZ -- -- -- -|WAR.GRDTRK.UNT.CBT.INF.MECH|Infantry Mechanized|POINT|![](./images/SFGPUCIZ-------.png)||
-|455||A|Friend|SFGPUCM--------|S - G - UC M- -- -- -- -|WAR.GRDTRK.UNT.CBT.MSL|Missile (Surf-Surf)|POINT|![](./images/SFGPUCM--------.png)||
-|456||A|Friend|SFGPUCMS-------|S - G - UC MS -- -- -- -|WAR.GRDTRK.UNT.CBT.MSL.STGC|Missile (Surf-Surf) Strategic|POINT|![](./images/SFGPUCMS-------.png)||
-|457||A|Friend|SFGPUCMT-------|S - G - UC MT -- -- -- -|WAR.GRDTRK.UNT.CBT.MSL.TAC|Missile (Surf-Surf) Tactical|POINT|![](./images/SFGPUCMT-------.png)||
-|458||A|Friend|SFGPUCR--------|S - G - UC R- -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON|Reconnaissance|POINT|![](./images/SFGPUCR--------.png)||
-|459||A|Friend|SFGPUCRA-------|S - G - UC RA -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.ABN|Reconnaissance Airborne|POINT|![](./images/SFGPUCRA-------.png)||
-|460||A|Friend|SFGPUCRC-------|S - G - UC RC -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.ARC|Reconnaissance Arctic|POINT|![](./images/SFGPUCRC-------.png)||
-|461||A|Friend|SFGPUCRH-------|S - G - UC RH -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.HRE|Reconnaissance Horse|POINT|![](./images/SFGPUCRH-------.png)||
-|462||A|Friend|SFGPUCRL-------|S - G - UC RL -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.LIT|Reconnaissance Light|POINT|![](./images/SFGPUCRL-------.png)||
-|463||A|Friend|SFGPUCRO-------|S - G - UC RO -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.MNT|Reconnaissance Mountain|POINT|![](./images/SFGPUCRO-------.png)||
-|464||A|Friend|SFGPUCRR-------|S - G - UC RR -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.MAR|Reconnaissance Marine|POINT|![](./images/SFGPUCRR-------.png)||
-|465||A|Friend|SFGPUCRRD------|S - G - UC RR D- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.MAR.DIV|Reconnaissance Marine Division|POINT|![](./images/SFGPUCRRD------.png)||
-|466||A|Friend|SFGPUCRRF------|S - G - UC RR F- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.MAR.FOR|Reconnaissance Marine Force|POINT|![](./images/SFGPUCRRF------.png)||
-|467||A|Friend|SFGPUCRRL------|S - G - UC RR L- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.MAR.LAR|Reconnaissance Marine Light Armored Reconnaissnace (Lar)|POINT|![](./images/SFGPUCRRL------.png)||
-|468||A|Friend|SFGPUCRS-------|S - G - UC RS -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.AAST|Reconnaissance Air Assault|POINT|![](./images/SFGPUCRS-------.png)||
-|469||A|Friend|SFGPUCRV-------|S - G - UC RV -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.CVY|Reconnaissance Cavalry|POINT|![](./images/SFGPUCRV-------.png)||
-|470||A|Friend|SFGPUCRVA------|S - G - UC RV A- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.CVY.ARMD|Reconnaissance Cavalry Armored|POINT|![](./images/SFGPUCRVA------.png)||
-|471||A|Friend|SFGPUCRVG------|S - G - UC RV G- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.CVY.GRD|Reconnaissance Cavalry Ground|POINT|![](./images/SFGPUCRVG------.png)||
-|472||A|Friend|SFGPUCRVM------|S - G - UC RV M- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.CVY.MOT|Reconnaissance Cavalry Motorized|POINT|![](./images/SFGPUCRVM------.png)||
-|473||A|Friend|SFGPUCRVO------|S - G - UC RV O- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.CVY.AIR|Reconnaissance Cavalry Air|POINT|![](./images/SFGPUCRVO------.png)||
-|474||A|Friend|SFGPUCRX-------|S - G - UC RX -- -- -- -|WAR.GRDTRK.UNT.CBT.RECON.LRS|Reconnaissance Long Range Surveillance (Lrs)|POINT|![](./images/SFGPUCRX-------.png)||
-|475||A|Friend|SFGPUCS--------|S - G - UC S- -- -- -- -|WAR.GRDTRK.UNT.CBT.ISF|Internal Security Forces|POINT|![](./images/SFGPUCS--------.png)||
-|476||A|Friend|SFGPUCSA-------|S - G - UC SA -- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.AVN|Aviation|POINT|![](./images/SFGPUCSA-------.png)||
-|477||A|Friend|SFGPUCSG-------|S - G - UC SG -- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.GRD|Ground|POINT|![](./images/SFGPUCSG-------.png)||
-|478||A|Friend|SFGPUCSGA------|S - G - UC SG A- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.GRD.MECH|Mechanized Ground|POINT|![](./images/SFGPUCSGA------.png)||
-|479||A|Friend|SFGPUCSGD------|S - G - UC SG D- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.GRD.DMD|Dismounted Ground|POINT|![](./images/SFGPUCSGD------.png)||
-|480||A|Friend|SFGPUCSGM------|S - G - UC SG M- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.GRD.MOT|Motorized Ground|POINT|![](./images/SFGPUCSGM------.png)||
-|481||A|Friend|SFGPUCSM-------|S - G - UC SM -- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.WHMECH|Wheeled Mechanized|POINT|![](./images/SFGPUCSM-------.png)||
-|482||A|Friend|SFGPUCSR-------|S - G - UC SR -- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.RALRD|Railroad|POINT|![](./images/SFGPUCSR-------.png)||
-|483||A|Friend|SFGPUCSW-------|S - G - UC SW -- -- -- -|WAR.GRDTRK.UNT.CBT.ISF.RIV|Riverine|POINT|![](./images/SFGPUCSW-------.png)||
-|484||A|Friend|SFGPUCV--------|S - G - UC V- -- -- -- -|WAR.GRDTRK.UNT.CBT.AVN|Aviation|POINT|![](./images/SFGPUCV--------.png)||
-|485||A|Friend|SFGPUCVC-------|S - G - UC VC -- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.CMPS|Composite|POINT|![](./images/SFGPUCVC-------.png)||
-|486||A|Friend|SFGPUCVF-------|S - G - UC VF -- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.FIXD|Fixed Wing|POINT|![](./images/SFGPUCVF-------.png)||
-|487||A|Friend|SFGPUCVFA------|S - G - UC VF A- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.FIXD.ATK|Attack Fixed Wing|POINT|![](./images/SFGPUCVFA------.png)||
-|488||A|Friend|SFGPUCVFR------|S - G - UC VF R- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.FIXD.RECON|Recon Fixed Wing|POINT|![](./images/SFGPUCVFR------.png)||
-|489||A|Friend|SFGPUCVFU------|S - G - UC VF U- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.FIXD.UTY|Utility Fixed Wing|POINT|![](./images/SFGPUCVFU------.png)||
-|490||A|Friend|SFGPUCVR-------|S - G - UC VR -- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT|Rotary Wing|POINT|![](./images/SFGPUCVR-------.png)||
-|491||A|Friend|SFGPUCVRA------|S - G - UC VR A- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.ATK|Attack Rotary Wing|POINT|![](./images/SFGPUCVRA------.png)||
-|492||A|Friend|SFGPUCVRM------|S - G - UC VR M- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.MNECM|Mine Countermeasure Rotary Wing|POINT|![](./images/SFGPUCVRM------.png)||
-|493||A|Friend|SFGPUCVRS------|S - G - UC VR S- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.SCUT|Scout Rotary Wing|POINT|![](./images/SFGPUCVRS------.png)||
-|494||A|Friend|SFGPUCVRU------|S - G - UC VR U- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY|Utility Rotary Wing|POINT|![](./images/SFGPUCVRU------.png)||
-|495||A|Friend|SFGPUCVRUC-----|S - G - UC VR UC -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.C2|C2 Rotary Wing|POINT|![](./images/SFGPUCVRUC-----.png)||
-|496||A|Friend|SFGPUCVRUE-----|S - G - UC VR UE -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.MEDV|Medevac Rotary Wing|POINT|![](./images/SFGPUCVRUE-----.png)||
-|497||A|Friend|SFGPUCVRUH-----|S - G - UC VR UH -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY.HVY|Heavy Utility Rotary Win|POINT|![](./images/SFGPUCVRUH-----.png)||
-|498||A|Friend|SFGPUCVRUL-----|S - G - UC VR UL -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY.LIT|Light Utility Rotary Wing|POINT|![](./images/SFGPUCVRUL-----.png)||
-|499||A|Friend|SFGPUCVRUM-----|S - G - UC VR UM -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY.MDM|Medium Utility Rotary Wing|POINT|![](./images/SFGPUCVRUM-----.png)||
-|500||A|Friend|SFGPUCVRW------|S - G - UC VR W- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.ROT.ASBW|Antisubmarine Warfare Rotary Wing|POINT|![](./images/SFGPUCVRW------.png)||
-|501||A|Friend|SFGPUCVS-------|S - G - UC VS -- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.SAR|Search And Rescue|POINT|![](./images/SFGPUCVS-------.png)||
-|502||A|Friend|SFGPUCVU-------|S - G - UC VU -- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.UA|Unmanned Aircraft|POINT|![](./images/SFGPUCVU-------.png)||
-|503||A|Friend|SFGPUCVUF------|S - G - UC VU F- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.UA.FIXD|Unmanned Aircraft Fixed Wing|POINT|![](./images/SFGPUCVUF------.png)||
-|504||A|Friend|SFGPUCVUR------|S - G - UC VU R- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.UA.ROT|Unmanned Aircraft Rotary Wing|POINT|![](./images/SFGPUCVUR------.png)||
-|505||A|Friend|SFGPUCVV-------|S - G - UC VV -- -- -- -|WAR.GRDTRK.UNT.CBT.AVN.VSTOL|Vertical And/Or Short Takeoff And Landing Aircraft (V/Stol)|POINT|![](./images/SFGPUCVV-------.png)||
-|506||A|Friend|SFGPUH---------|S - G - UH -- -- -- -- -|WAR.GRDTRK.UNT.C2HQ|Special C2 Headquarters Component|POINT|![](./images/SFGPUH---------.png)||
-|507||A|Friend|SFGPUS---------|S - G - US -- -- -- -- -|WAR.GRDTRK.UNT.CSS|Combat Service Support|POINT|![](./images/SFGPUS---------.png)||
-|508||A|Friend|SFGPUSA--------|S - G - US A- -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN|Administrative (Admin)|POINT|![](./images/SFGPUSA--------.png)||
-|509||A|Friend|SFGPUSAC-------|S - G - US AC -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.CRP|Admin Corps|POINT|![](./images/SFGPUSAC-------.png)||
-|510||A|Friend|SFGPUSAF-------|S - G - US AF -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.FIN|Finance|POINT|![](./images/SFGPUSAF-------.png)||
-|511||A|Friend|SFGPUSAFC------|S - G - US AF C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.FIN.CRP|Finance Corps|POINT|![](./images/SFGPUSAFC------.png)||
-|512||A|Friend|SFGPUSAFT------|S - G - US AF T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.FIN.THT|Finance Theater|POINT|![](./images/SFGPUSAFT------.png)||
-|513||A|Friend|SFGPUSAJ-------|S - G - US AJ -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.JAG|Judge Advocate General (Jag)|POINT|![](./images/SFGPUSAJ-------.png)||
-|514||A|Friend|SFGPUSAJC------|S - G - US AJ C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.JAG.CRP|Jag Corps|POINT|![](./images/SFGPUSAJC------.png)||
-|515||A|Friend|SFGPUSAJT------|S - G - US AJ T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.JAG.THT|Jag Theater|POINT|![](./images/SFGPUSAJT------.png)||
-|516||A|Friend|SFGPUSAL-------|S - G - US AL -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.LBR|Labor|POINT|![](./images/SFGPUSAL-------.png)||
-|517||A|Friend|SFGPUSALC------|S - G - US AL C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.LBR.CRP|Labor Corps|POINT|![](./images/SFGPUSALC------.png)||
-|518||A|Friend|SFGPUSALT------|S - G - US AL T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.LBR.THT|Labor Theater|POINT|![](./images/SFGPUSALT------.png)||
-|519||A|Friend|SFGPUSAM-------|S - G - US AM -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.MTRY|Mortuary/Graves Registry|POINT|![](./images/SFGPUSAM-------.png)||
-|520||A|Friend|SFGPUSAMC------|S - G - US AM C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.MTRY.CRP|Mortuary/Graves Registry Corps|POINT|![](./images/SFGPUSAMC------.png)||
-|521||A|Friend|SFGPUSAMT------|S - G - US AM T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.MTRY.THT|Mortuary/Graves Registry Theater|POINT|![](./images/SFGPUSAMT------.png)||
-|522||A|Friend|SFGPUSAO-------|S - G - US AO -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PST|Postal|POINT|![](./images/SFGPUSAO-------.png)||
-|523||A|Friend|SFGPUSAOC------|S - G - US AO C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PST.CRP|Postal Corps|POINT|![](./images/SFGPUSAOC------.png)||
-|524||A|Friend|SFGPUSAOT------|S - G - US AO T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PST.THT|Postal Theater|POINT|![](./images/SFGPUSAOT------.png)||
-|525||A|Friend|SFGPUSAP-------|S - G - US AP -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF|Public Affairs|POINT|![](./images/SFGPUSAP-------.png)||
-|526||A|Friend|SFGPUSAPB------|S - G - US AP B- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.BRCT|Public Affairs Broadcast|POINT|![](./images/SFGPUSAPB------.png)||
-|527||A|Friend|SFGPUSAPBC-----|S - G - US AP BC -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.BRCT.CRP|Public Affairs Broadcast Corps|POINT|![](./images/SFGPUSAPBC-----.png)||
-|528||A|Friend|SFGPUSAPBT-----|S - G - US AP BT -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.BRCT.THT|Public Affairs Broadcast Theater|POINT|![](./images/SFGPUSAPBT-----.png)||
-|529||A|Friend|SFGPUSAPC------|S - G - US AP C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.CRP|Public Affairs Corps|POINT|![](./images/SFGPUSAPC------.png)||
-|530||A|Friend|SFGPUSAPM------|S - G - US AP M- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.JIB|Public Affairs Joint Information Bureau (Jib)|POINT|![](./images/SFGPUSAPM------.png)||
-|531||A|Friend|SFGPUSAPMC-----|S - G - US AP MC -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.JIB.CRP|Public Affairs Jib Corps|POINT|![](./images/SFGPUSAPMC-----.png)||
-|532||A|Friend|SFGPUSAPMT-----|S - G - US AP MT -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.JIB.THT|Public Affairs Jib Theater|POINT|![](./images/SFGPUSAPMT-----.png)||
-|533||A|Friend|SFGPUSAPT------|S - G - US AP T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.THT|Public Affairs Theater|POINT|![](./images/SFGPUSAPT------.png)||
-|534||A|Friend|SFGPUSAQ-------|S - G - US AQ -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.SUPPLY|Quartermaster (Supply)|POINT|![](./images/SFGPUSAQ-------.png)||
-|535||A|Friend|SFGPUSAQC------|S - G - US AQ C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.SUPPLY.CRP|Quartermaster (Supply) Corps|POINT|![](./images/SFGPUSAQC------.png)||
-|536||A|Friend|SFGPUSAQT------|S - G - US AQ T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.SUPPLY.THT|Quartermaster (Supply) Theater|POINT|![](./images/SFGPUSAQT------.png)||
-|537||A|Friend|SFGPUSAR-------|S - G - US AR -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.RELG|Religious/Chaplain|POINT|![](./images/SFGPUSAR-------.png)||
-|538||A|Friend|SFGPUSARC------|S - G - US AR C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.RELG.CRP|Religious/Chaplain Corps|POINT|![](./images/SFGPUSARC------.png)||
-|539||A|Friend|SFGPUSART------|S - G - US AR T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.RELG.THT|Religious/Chaplain Theater|POINT|![](./images/SFGPUSART------.png)||
-|540||A|Friend|SFGPUSAS-------|S - G - US AS -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PERSVC|Personnel Services|POINT|![](./images/SFGPUSAS-------.png)||
-|541||A|Friend|SFGPUSASC------|S - G - US AS C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PERSVC.CRP|Personnel Corps|POINT|![](./images/SFGPUSASC------.png)||
-|542||A|Friend|SFGPUSAST------|S - G - US AS T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.PERSVC.THT|Personnel Theater|POINT|![](./images/SFGPUSAST------.png)||
-|543||A|Friend|SFGPUSAT-------|S - G - US AT -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.THT|Admin Theater|POINT|![](./images/SFGPUSAT-------.png)||
-|544||A|Friend|SFGPUSAW-------|S - G - US AW -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.MWR|Morale Welfare Recreation (Mwr)|POINT|![](./images/SFGPUSAW-------.png)||
-|545||A|Friend|SFGPUSAWC------|S - G - US AW C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.MWR.CRP|Mwr Corps|POINT|![](./images/SFGPUSAWC------.png)||
-|546||A|Friend|SFGPUSAWT------|S - G - US AW T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.MWR.THT|Mwr Theater|POINT|![](./images/SFGPUSAWT------.png)||
-|547||A|Friend|SFGPUSAX-------|S - G - US AX -- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.RHU|Replacement Holding Unit (Rhu)|POINT|![](./images/SFGPUSAX-------.png)||
-|548||A|Friend|SFGPUSAXC------|S - G - US AX C- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.RHU.CRP|Rhu Corps|POINT|![](./images/SFGPUSAXC------.png)||
-|549||A|Friend|SFGPUSAXT------|S - G - US AX T- -- -- -|WAR.GRDTRK.UNT.CSS.ADMIN.RHU.THT|Rhu Theater|POINT|![](./images/SFGPUSAXT------.png)||
-|550||A|Friend|SFGPUSM--------|S - G - US M- -- -- -- -|WAR.GRDTRK.UNT.CSS.MED|Medical|POINT|![](./images/SFGPUSM--------.png)||
-|551||A|Friend|SFGPUSMC-------|S - G - US MC -- -- -- -|WAR.GRDTRK.UNT.CSS.MED.CRP|Medical Corps|POINT|![](./images/SFGPUSMC-------.png)||
-|552||A|Friend|SFGPUSMD-------|S - G - US MD -- -- -- -|WAR.GRDTRK.UNT.CSS.MED.DEN|Medical Dental|POINT|![](./images/SFGPUSMD-------.png)||
-|553||A|Friend|SFGPUSMDC------|S - G - US MD C- -- -- -|WAR.GRDTRK.UNT.CSS.MED.DEN.CRP|Medical Dental Corps|POINT|![](./images/SFGPUSMDC------.png)||
-|554||A|Friend|SFGPUSMDT------|S - G - US MD T- -- -- -|WAR.GRDTRK.UNT.CSS.MED.DEN.THT|Medical Dental Theater|POINT|![](./images/SFGPUSMDT------.png)||
-|555||A|Friend|SFGPUSMM-------|S - G - US MM -- -- -- -|WAR.GRDTRK.UNT.CSS.MED.MEDTF|Medical Treatment Facility|POINT|![](./images/SFGPUSMM-------.png)||
-|556||A|Friend|SFGPUSMMC------|S - G - US MM C- -- -- -|WAR.GRDTRK.UNT.CSS.MED.MEDTF.CRP|Medical Treatment Facility Corps|POINT|![](./images/SFGPUSMMC------.png)||
-|557||A|Friend|SFGPUSMMT------|S - G - US MM T- -- -- -|WAR.GRDTRK.UNT.CSS.MED.MEDTF.THT|Medical Treatment Facility Theater|POINT|![](./images/SFGPUSMMT------.png)||
-|558||A|Friend|SFGPUSMP-------|S - G - US MP -- -- -- -|WAR.GRDTRK.UNT.CSS.MED.PSY|Medical Psychological|POINT|![](./images/SFGPUSMP-------.png)||
-|559||A|Friend|SFGPUSMPC------|S - G - US MP C- -- -- -|WAR.GRDTRK.UNT.CSS.MED.PSY.CRP|Medical Psychological Corps|POINT|![](./images/SFGPUSMPC------.png)||
-|560||A|Friend|SFGPUSMPT------|S - G - US MP T- -- -- -|WAR.GRDTRK.UNT.CSS.MED.PSY.THT|Medical Psychological Theater|POINT|![](./images/SFGPUSMPT------.png)||
-|561||A|Friend|SFGPUSMT-------|S - G - US MT -- -- -- -|WAR.GRDTRK.UNT.CSS.MED.THT|Medical Theater|POINT|![](./images/SFGPUSMT-------.png)||
-|562||A|Friend|SFGPUSMV-------|S - G - US MV -- -- -- -|WAR.GRDTRK.UNT.CSS.MED.VNY|Medical Veterinary|POINT|![](./images/SFGPUSMV-------.png)||
-|563||A|Friend|SFGPUSMVC------|S - G - US MV C- -- -- -|WAR.GRDTRK.UNT.CSS.MED.VNY.CRP|Medical Veterinary Corps|POINT|![](./images/SFGPUSMVC------.png)||
-|564||A|Friend|SFGPUSMVT------|S - G - US MV T- -- -- -|WAR.GRDTRK.UNT.CSS.MED.VNY.THT|Medical Veterinary Theater|POINT|![](./images/SFGPUSMVT------.png)||
-|565||A|Friend|SFGPUSS--------|S - G - US S- -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP|Supply|POINT|![](./images/SFGPUSS--------.png)||
-|566||A|Friend|SFGPUSS1-------|S - G - US S1 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS1|Supply Class I|POINT|![](./images/SFGPUSS1-------.png)||
-|567||A|Friend|SFGPUSS1C------|S - G - US S1 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS1.CRP|Supply Class I Corps|POINT|![](./images/SFGPUSS1C------.png)||
-|568||A|Friend|SFGPUSS1T------|S - G - US S1 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS1.THT|Supply Class I Theater|POINT|![](./images/SFGPUSS1T------.png)||
-|569||A|Friend|SFGPUSS2-------|S - G - US S2 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS2|Supply Class Ii|POINT|![](./images/SFGPUSS2-------.png)||
-|570||A|Friend|SFGPUSS2C------|S - G - US S2 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS2.CRP|Supply Class Ii Corps|POINT|![](./images/SFGPUSS2C------.png)||
-|571||A|Friend|SFGPUSS2T------|S - G - US S2 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS2.THT|Supply Class Ii Theater|POINT|![](./images/SFGPUSS2T------.png)||
-|572||A|Friend|SFGPUSS3-------|S - G - US S3 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS3|Supply Class Iii|POINT|![](./images/SFGPUSS3-------.png)||
-|573||A|Friend|SFGPUSS3A------|S - G - US S3 A- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS3.AVN|Supply Class Iii Aviation|POINT|![](./images/SFGPUSS3A------.png)||
-|574||A|Friend|SFGPUSS3AC-----|S - G - US S3 AC -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS3.AVN.CRP|Supply Class Iii Aviation Corps|POINT|![](./images/SFGPUSS3AC-----.png)||
-|575||A|Friend|SFGPUSS3AT-----|S - G - US S3 AT -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS3.AVN.THT|Supply Class Iii Aviation Theater|POINT|![](./images/SFGPUSS3AT-----.png)||
-|576||A|Friend|SFGPUSS3C------|S - G - US S3 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS3.CRP|Supply Class Iii Corps|POINT|![](./images/SFGPUSS3C------.png)||
-|577||A|Friend|SFGPUSS3T------|S - G - US S3 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS3.THT|Supply Class Iii Theater|POINT|![](./images/SFGPUSS3T------.png)||
-|578||A|Friend|SFGPUSS4-------|S - G - US S4 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS4|Supply Class Iv|POINT|![](./images/SFGPUSS4-------.png)||
-|579||A|Friend|SFGPUSS4C------|S - G - US S4 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS4.CRP|Supply Class Iv Corps|POINT|![](./images/SFGPUSS4C------.png)||
-|580||A|Friend|SFGPUSS4T------|S - G - US S4 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS4.THT|Supply Class Iv Theater|POINT|![](./images/SFGPUSS4T------.png)||
-|581||A|Friend|SFGPUSS5-------|S - G - US S5 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS5|Supply Class V|POINT|![](./images/SFGPUSS5-------.png)||
-|582||A|Friend|SFGPUSS5C------|S - G - US S5 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS5.CRP|Supply Class V Corps|POINT|![](./images/SFGPUSS5C------.png)||
-|583||A|Friend|SFGPUSS5T------|S - G - US S5 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS5.THT|Supply Class V Theater|POINT|![](./images/SFGPUSS5T------.png)||
-|584||A|Friend|SFGPUSS6-------|S - G - US S6 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS6|Supply Class Vi|POINT|![](./images/SFGPUSS6-------.png)||
-|585||A|Friend|SFGPUSS6C------|S - G - US S6 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS6.CRP|Supply Class Vi Corps|POINT|![](./images/SFGPUSS6C------.png)||
-|586||A|Friend|SFGPUSS6T------|S - G - US S6 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS6.THT|Supply Class Vi Theater|POINT|![](./images/SFGPUSS6T------.png)||
-|587||A|Friend|SFGPUSS7-------|S - G - US S7 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS7|Supply Class Vii|POINT|![](./images/SFGPUSS7-------.png)||
-|588||A|Friend|SFGPUSS7C------|S - G - US S7 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS7.CRP|Supply Class Vii Corps|POINT|![](./images/SFGPUSS7C------.png)||
-|589||A|Friend|SFGPUSS7T------|S - G - US S7 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS7.THT|Supply Class Vii Theater|POINT|![](./images/SFGPUSS7T------.png)||
-|590||A|Friend|SFGPUSS8-------|S - G - US S8 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS8|Supply Class Viii|POINT|![](./images/SFGPUSS8-------.png)||
-|591||A|Friend|SFGPUSS8C------|S - G - US S8 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS8.CRP|Supply Class Viii Corps|POINT|![](./images/SFGPUSS8C------.png)||
-|592||A|Friend|SFGPUSS8T------|S - G - US S8 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS8.THT|Supply Class Viii Theater|POINT|![](./images/SFGPUSS8T------.png)||
-|593||A|Friend|SFGPUSS9-------|S - G - US S9 -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS9|Supply Class Ix|POINT|![](./images/SFGPUSS9-------.png)||
-|594||A|Friend|SFGPUSS9C------|S - G - US S9 C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS9.CRP|Supply Class Ix Corps|POINT|![](./images/SFGPUSS9C------.png)||
-|595||A|Friend|SFGPUSS9T------|S - G - US S9 T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS9.THT|Supply Class Ix Theater|POINT|![](./images/SFGPUSS9T------.png)||
-|596||A|Friend|SFGPUSSC-------|S - G - US SC -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CRP|Supply Corps|POINT|![](./images/SFGPUSSC-------.png)||
-|597||A|Friend|SFGPUSSL-------|S - G - US SL -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.LDY|Supply Laundry/Bath|POINT|![](./images/SFGPUSSL-------.png)||
-|598||A|Friend|SFGPUSSLC------|S - G - US SL C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.LDY.CRP|Supply Laundry/Bath Corps|POINT|![](./images/SFGPUSSLC------.png)||
-|599||A|Friend|SFGPUSSLT------|S - G - US SL T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.LDY.THT|Supply Laundry/Bath Theater|POINT|![](./images/SFGPUSSLT------.png)||
-|600||A|Friend|SFGPUSST-------|S - G - US ST -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.THT|Supply Theater|POINT|![](./images/SFGPUSST-------.png)||
-|601||A|Friend|SFGPUSSW-------|S - G - US SW -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.H2O|Supply Water|POINT|![](./images/SFGPUSSW-------.png)||
-|602||A|Friend|SFGPUSSWC------|S - G - US SW C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.H2O.CRP|Supply Water Corps|POINT|![](./images/SFGPUSSWC------.png)||
-|603||A|Friend|SFGPUSSWP------|S - G - US SW P- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.H2O.PUR|Supply Water Purification|POINT|![](./images/SFGPUSSWP------.png)||
-|604||A|Friend|SFGPUSSWPC-----|S - G - US SW PC -- -- -|WAR.GRDTRK.UNT.CSS.SLP.H2O.PUR.CRP|Supply Water Purification Corps|POINT|![](./images/SFGPUSSWPC-----.png)||
-|605||A|Friend|SFGPUSSWPT-----|S - G - US SW PT -- -- -|WAR.GRDTRK.UNT.CSS.SLP.H2O.PUR.THT|Supply Water Purification Theater|POINT|![](./images/SFGPUSSWPT-----.png)||
-|606||A|Friend|SFGPUSSWT------|S - G - US SW T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.H2O.THT|Supply Water Theater|POINT|![](./images/SFGPUSSWT------.png)||
-|607||A|Friend|SFGPUSSX-------|S - G - US SX -- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS10|Supply Class X|POINT|![](./images/SFGPUSSX-------.png)||
-|608||A|Friend|SFGPUSSXC------|S - G - US SX C- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS10.CRP|Supply Class X Corps|POINT|![](./images/SFGPUSSXC------.png)||
-|609||A|Friend|SFGPUSSXT------|S - G - US SX T- -- -- -|WAR.GRDTRK.UNT.CSS.SLP.CLS10.THT|Supply Class X Theater|POINT|![](./images/SFGPUSSXT------.png)||
-|610||A|Friend|SFGPUST--------|S - G - US T- -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT|Transportation|POINT|![](./images/SFGPUST--------.png)||
-|611||A|Friend|SFGPUSTA-------|S - G - US TA -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.APOD|Apod/Apoe|POINT|![](./images/SFGPUSTA-------.png)||
-|612||A|Friend|SFGPUSTAC------|S - G - US TA C- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.APOD.CRP|Apod/Apoe Corps|POINT|![](./images/SFGPUSTAC------.png)||
-|613||A|Friend|SFGPUSTAT------|S - G - US TA T- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.APOD.THT|Apod/Apoe Theater|POINT|![](./images/SFGPUSTAT------.png)||
-|614||A|Friend|SFGPUSTC-------|S - G - US TC -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.CRP|Transportation Corps|POINT|![](./images/SFGPUSTC-------.png)||
-|615||A|Friend|SFGPUSTI-------|S - G - US TI -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.MSL|Missile|POINT|![](./images/SFGPUSTI-------.png)||
-|616||A|Friend|SFGPUSTIC------|S - G - US TI C- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.MSL.CRP|Missile Corps|POINT|![](./images/SFGPUSTIC------.png)||
-|617||A|Friend|SFGPUSTIT------|S - G - US TI T- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.MSL.THT|Missile Theater|POINT|![](./images/SFGPUSTIT------.png)||
-|618||A|Friend|SFGPUSTM-------|S - G - US TM -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.MCC|Movement Control Center (Mcc)|POINT|![](./images/SFGPUSTM-------.png)||
-|619||A|Friend|SFGPUSTMC------|S - G - US TM C- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.MCC.CRP|Mcc Corps|POINT|![](./images/SFGPUSTMC------.png)||
-|620||A|Friend|SFGPUSTMT------|S - G - US TM T- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.MCC.THT|Mcc Theater|POINT|![](./images/SFGPUSTMT------.png)||
-|621||A|Friend|SFGPUSTR-------|S - G - US TR -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.RHD|Railhead|POINT|![](./images/SFGPUSTR-------.png)||
-|622||A|Friend|SFGPUSTRC------|S - G - US TR C- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.RHD.CRP|Railhead Corps|POINT|![](./images/SFGPUSTRC------.png)||
-|623||A|Friend|SFGPUSTRT------|S - G - US TR T- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.RHD.THT|Railhead Theater|POINT|![](./images/SFGPUSTRT------.png)||
-|624||A|Friend|SFGPUSTS-------|S - G - US TS -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.SPOD|Spod/Spoe|POINT|![](./images/SFGPUSTS-------.png)||
-|625||A|Friend|SFGPUSTSC------|S - G - US TS C- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.SPOD.CRP|Spod/Spoe Corps|POINT|![](./images/SFGPUSTSC------.png)||
-|626||A|Friend|SFGPUSTST------|S - G - US TS T- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.SPOD.THT|Spod/Spoe Theater|POINT|![](./images/SFGPUSTST------.png)||
-|627||A|Friend|SFGPUSTT-------|S - G - US TT -- -- -- -|WAR.GRDTRK.UNT.CSS.TPT.THT|Transportation Theater|POINT|![](./images/SFGPUSTT-------.png)||
-|628||A|Friend|SFGPUSX--------|S - G - US X- -- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT|Maintenance|POINT|![](./images/SFGPUSX--------.png)||
-|629||A|Friend|SFGPUSXC-------|S - G - US XC -- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.CRP|Maintenance Corps|POINT|![](./images/SFGPUSXC-------.png)||
-|630||A|Friend|SFGPUSXE-------|S - G - US XE -- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.EOP|Electro-Optical|POINT|![](./images/SFGPUSXE-------.png)||
-|631||A|Friend|SFGPUSXEC------|S - G - US XE C- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.EOP.CRP|Electro-Optical Corps|POINT|![](./images/SFGPUSXEC------.png)||
-|632||A|Friend|SFGPUSXET------|S - G - US XE T- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.EOP.THT|Electro-Optical Theater|POINT|![](./images/SFGPUSXET------.png)||
-|633||A|Friend|SFGPUSXH-------|S - G - US XH -- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.HVY|Maintenance Heavy|POINT|![](./images/SFGPUSXH-------.png)||
-|634||A|Friend|SFGPUSXHC------|S - G - US XH C- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.HVY.CRP|Maintenance Heavy Corps|POINT|![](./images/SFGPUSXHC------.png)||
-|635||A|Friend|SFGPUSXHT------|S - G - US XH T- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.HVY.THT|Maintenance Heavy Theater|POINT|![](./images/SFGPUSXHT------.png)||
-|636||A|Friend|SFGPUSXO-------|S - G - US XO -- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.ORD|Ordnance|POINT|![](./images/SFGPUSXO-------.png)||
-|637||A|Friend|SFGPUSXOC------|S - G - US XO C- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.ORD.CRP|Ordnance Corps|POINT|![](./images/SFGPUSXOC------.png)||
-|638||A|Friend|SFGPUSXOM------|S - G - US XO M- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.ORD.MSL|Ordnance Missile|POINT|![](./images/SFGPUSXOM------.png)||
-|639||A|Friend|SFGPUSXOMC-----|S - G - US XO MC -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.ORD.MSL.CRP|Ordnance Missile Corps|POINT|![](./images/SFGPUSXOMC-----.png)||
-|640||A|Friend|SFGPUSXOMT-----|S - G - US XO MT -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.ORD.MSL.THT|Ordnance Missile Theater|POINT|![](./images/SFGPUSXOMT-----.png)||
-|641||A|Friend|SFGPUSXOT------|S - G - US XO T- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.ORD.THT|Ordnance Theater|POINT|![](./images/SFGPUSXOT------.png)||
-|642||A|Friend|SFGPUSXR-------|S - G - US XR -- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.RCY|Maintenance Recovery|POINT|![](./images/SFGPUSXR-------.png)||
-|643||A|Friend|SFGPUSXRC------|S - G - US XR C- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.RCY.CRP|Maintenance Recovery Corps|POINT|![](./images/SFGPUSXRC------.png)||
-|644||A|Friend|SFGPUSXRT------|S - G - US XR T- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.RCY.THT|Maintenance Recovery Theater|POINT|![](./images/SFGPUSXRT------.png)||
-|645||A|Friend|SFGPUSXT-------|S - G - US XT -- -- -- -|WAR.GRDTRK.UNT.CSS.MAINT.THT|Maintenance Theater|POINT|![](./images/SFGPUSXT-------.png)||
-|646||A|Friend|SFGPUU---------|S - G - UU -- -- -- -- -|WAR.GRDTRK.UNT.CS|Combat Support|POINT|![](./images/SFGPUU---------.png)||
-|647||A|Friend|SFGPUUA--------|S - G - UU A- -- -- -- -|WAR.GRDTRK.UNT.CS.CBRN|Combat Support Cbrn|POINT|![](./images/SFGPUUA--------.png)||
-|648||A|Friend|SFGPUUAB-------|S - G - UU AB -- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.BIO|Biological|POINT|![](./images/SFGPUUAB-------.png)||
-|649||A|Friend|SFGPUUABR------|S - G - UU AB R- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.BIO.RECEQP|Recon Equipped|POINT|![](./images/SFGPUUABR------.png)||
-|650||A|Friend|SFGPUUAC-------|S - G - UU AC -- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML|Chemical|POINT|![](./images/SFGPUUAC-------.png)||
-|651||A|Friend|SFGPUUACC------|S - G - UU AC C- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.SMKDEC|Smoke/Decon|POINT|![](./images/SFGPUUACC------.png)||
-|652||A|Friend|SFGPUUACCK-----|S - G - UU AC CK -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.SMKDEC.MECH|Mechanized Smoke/Decon|POINT|![](./images/SFGPUUACCK-----.png)||
-|653||A|Friend|SFGPUUACCM-----|S - G - UU AC CM -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.SMKDEC.MOT|Motorized Smoke/Decon|POINT|![](./images/SFGPUUACCM-----.png)||
-|654||A|Friend|SFGPUUACR------|S - G - UU AC R- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.RECON|Chemical Recon|POINT|![](./images/SFGPUUACR------.png)||
-|655||A|Friend|SFGPUUACRS-----|S - G - UU AC RS -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.RECON.WAVS|Chemical Wheeled Armored Vehicle Reconnaissance Surveillance|POINT|![](./images/SFGPUUACRS-----.png)||
-|656||A|Friend|SFGPUUACRW-----|S - G - UU AC RW -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.RECON.WARMVH|Chemical Wheeled Armored Vehicle|POINT|![](./images/SFGPUUACRW-----.png)||
-|657||A|Friend|SFGPUUACS------|S - G - UU AC S- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.SMK|Smoke|POINT|![](./images/SFGPUUACS------.png)||
-|658||A|Friend|SFGPUUACSA-----|S - G - UU AC SA -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.SMK.ARM|Armor Smoke|POINT|![](./images/SFGPUUACSA-----.png)||
-|659||A|Friend|SFGPUUACSM-----|S - G - UU AC SM -- -- -|WAR.GRDTRK.UNT.CS.CBRN.CML.SMK.MOT|Motorized Smoke|POINT|![](./images/SFGPUUACSM-----.png)||
-|660||A|Friend|SFGPUUAD-------|S - G - UU AD -- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.DECON|Decontamination|POINT|![](./images/SFGPUUAD-------.png)||
-|661||A|Friend|SFGPUUAN-------|S - G - UU AN -- -- -- -|WAR.GRDTRK.UNT.CS.CBRN.NUC|Nuclear|POINT|![](./images/SFGPUUAN-------.png)||
-|662||A|Friend|SFGPUUE--------|S - G - UU E- -- -- -- -|WAR.GRDTRK.UNT.CS.EOD|Explosive Ordnance Disposal|POINT|![](./images/SFGPUUE--------.png)||
-|663||A|Friend|SFGPUUI--------|S - G - UU I- -- -- -- -|WAR.GRDTRK.UNT.CS.IWU|Information Warfare Unit|POINT|![](./images/SFGPUUI--------.png)||
-|664||A|Friend|SFGPUUL--------|S - G - UU L- -- -- -- -|WAR.GRDTRK.UNT.CS.LAWENU|Law Enforcement Unit|POINT|![](./images/SFGPUUL--------.png)||
-|665||A|Friend|SFGPUULC-------|S - G - UU LC -- -- -- -|WAR.GRDTRK.UNT.CS.LAWENU.CLE|Civilian Law Enforcement|POINT|![](./images/SFGPUULC-------.png)||
-|666||A|Friend|SFGPUULD-------|S - G - UU LD -- -- -- -|WAR.GRDTRK.UNT.CS.LAWENU.CID|Central Intelligence Division (Cid)|POINT|![](./images/SFGPUULD-------.png)||
-|667||A|Friend|SFGPUULF-------|S - G - UU LF -- -- -- -|WAR.GRDTRK.UNT.CS.LAWENU.SECPOL|Security Police (Air)|POINT|![](./images/SFGPUULF-------.png)||
-|668||A|Friend|SFGPUULM-------|S - G - UU LM -- -- -- -|WAR.GRDTRK.UNT.CS.LAWENU.MILP|Military Police|POINT|![](./images/SFGPUULM-------.png)||
-|669||A|Friend|SFGPUULS-------|S - G - UU LS -- -- -- -|WAR.GRDTRK.UNT.CS.LAWENU.SHRPAT|Shore Patrol|POINT|![](./images/SFGPUULS-------.png)||
-|670||A|Friend|SFGPUUM--------|S - G - UU M- -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT|Military Intelligence|POINT|![](./images/SFGPUUM--------.png)||
-|671||A|Friend|SFGPUUMA-------|S - G - UU MA -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.AEREXP|Aerial Exploitation|POINT|![](./images/SFGPUUMA-------.png)||
-|672||A|Friend|SFGPUUMC-------|S - G - UU MC -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.CINT|Counterintelligence|POINT|![](./images/SFGPUUMC-------.png)||
-|673||A|Friend|SFGPUUMJ-------|S - G - UU MJ -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.JINTCT|Joint Intelligence Center|POINT|![](./images/SFGPUUMJ-------.png)||
-|674||A|Friend|SFGPUUMMO------|S - G - UU MM O- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SVL.METO|Meteorological|POINT|![](./images/SFGPUUMMO------.png)||
-|675||A|Friend|SFGPUUMO-------|S - G - UU MO -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.OPN|Operations|POINT|![](./images/SFGPUUMO-------.png)||
-|676||A|Friend|SFGPUUMQ-------|S - G - UU MQ -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.INTGN|Interrogation|POINT|![](./images/SFGPUUMQ-------.png)||
-|677||A|Friend|SFGPUUMR-------|S - G - UU MR -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SVL|Surveillance|POINT|![](./images/SFGPUUMR-------.png)||
-|678||A|Friend|SFGPUUMRG------|S - G - UU MR G- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SVL.GRDSR|Ground Surveillance Radar|POINT|![](./images/SFGPUUMRG------.png)||
-|679||A|Friend|SFGPUUMRS------|S - G - UU MR S- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SVL.SNS|Sensor|POINT|![](./images/SFGPUUMRS------.png)||
-|680||A|Friend|SFGPUUMRSS-----|S - G - UU MR SS -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SVL.SNS.SCM|Sensor Scm|POINT|![](./images/SFGPUUMRSS-----.png)||
-|681||A|Friend|SFGPUUMRX------|S - G - UU MR X- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SVL.GRDSM|Ground Station Module|POINT|![](./images/SFGPUUMRX------.png)||
-|682||A|Friend|SFGPUUMS-------|S - G - UU MS -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT|Signal Intelligence (Sigint)|POINT|![](./images/SFGPUUMS-------.png)||
-|683||A|Friend|SFGPUUMSE------|S - G - UU MS E- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW|Electronic Warfare|POINT|![](./images/SFGPUUMSE------.png)||
-|684||A|Friend|SFGPUUMSEA-----|S - G - UU MS EA -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.ARMWVH|Armored Wheeled Vehicle|POINT|![](./images/SFGPUUMSEA-----.png)||
-|685||A|Friend|SFGPUUMSEC-----|S - G - UU MS EC -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.CRP|Corps|POINT|![](./images/SFGPUUMSEC-----.png)||
-|686||A|Friend|SFGPUUMSED-----|S - G - UU MS ED -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.DFN|Direction Finding|POINT|![](./images/SFGPUUMSED-----.png)||
-|687||A|Friend|SFGPUUMSEI-----|S - G - UU MS EI -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.INC|Intercept|POINT|![](./images/SFGPUUMSEI-----.png)||
-|688||A|Friend|SFGPUUMSEJ-----|S - G - UU MS EJ -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.JMG|Jamming|POINT|![](./images/SFGPUUMSEJ-----.png)||
-|689||A|Friend|SFGPUUMSET-----|S - G - UU MS ET -- -- -|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.THT|Theater|POINT|![](./images/SFGPUUMSET-----.png)||
-|690||A|Friend|SFGPUUMT-------|S - G - UU MT -- -- -- -|WAR.GRDTRK.UNT.CS.MILINT.TACEXP|Tactical Exploit|POINT|![](./images/SFGPUUMT-------.png)||
-|691||A|Friend|SFGPUUP--------|S - G - UU P- -- -- -- -|WAR.GRDTRK.UNT.CS.LNDSUP|Landing Support|POINT|![](./images/SFGPUUP--------.png)||
-|692||A|Friend|SFGPUUS--------|S - G - UU S- -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT|Signal Unit|POINT|![](./images/SFGPUUS--------.png)||
-|693||A|Friend|SFGPUUSA-------|S - G - UU SA -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.ARA|Area|POINT|![](./images/SFGPUUSA-------.png)||
-|694||A|Friend|SFGPUUSC-------|S - G - UU SC -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.COMCP|Communication Configured Package|POINT|![](./images/SFGPUUSC-------.png)||
-|695||A|Friend|SFGPUUSCL------|S - G - UU SC L- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.COMCP.LCCP|Large Communication Configured Package (Lccp)|POINT|![](./images/SFGPUUSCL------.png)||
-|696||A|Friend|SFGPUUSF-------|S - G - UU SF -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.FWDCOM|Forward Communications|POINT|![](./images/SFGPUUSF-------.png)||
-|697||A|Friend|SFGPUUSM-------|S - G - UU SM -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.MSE|Multiple Subscriber Element|POINT|![](./images/SFGPUUSM-------.png)||
-|698||A|Friend|SFGPUUSML------|S - G - UU SM L- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.MSE.LEN|Large Extension Node|POINT|![](./images/SFGPUUSML------.png)||
-|699||A|Friend|SFGPUUSMN------|S - G - UU SM N- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.MSE.NODCTR|Node Center|POINT|![](./images/SFGPUUSMN------.png)||
-|700||A|Friend|SFGPUUSMS------|S - G - UU SM S- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.MSE.SEN|Small Extension Node|POINT|![](./images/SFGPUUSMS------.png)||
-|701||A|Friend|SFGPUUSO-------|S - G - UU SO -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.CMDOPN|Command Operations|POINT|![](./images/SFGPUUSO-------.png)||
-|702||A|Friend|SFGPUUSR-------|S - G - UU SR -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT|Radio Unit|POINT|![](./images/SFGPUUSR-------.png)||
-|703||A|Friend|SFGPUUSRS------|S - G - UU SR S- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT.TACSAT|Tactical Satellite|POINT|![](./images/SFGPUUSRS------.png)||
-|704||A|Friend|SFGPUUSRT------|S - G - UU SR T- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT.TTYCTR|Teletype Center|POINT|![](./images/SFGPUUSRT------.png)||
-|705||A|Friend|SFGPUUSRW------|S - G - UU SR W- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT.RLY|Relay|POINT|![](./images/SFGPUUSRW------.png)||
-|706||A|Friend|SFGPUUSS-------|S - G - UU SS -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.SIGSUP|Signal Support|POINT|![](./images/SFGPUUSS-------.png)||
-|707||A|Friend|SFGPUUSW-------|S - G - UU SW -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.PHOSWT|Telephone Switch|POINT|![](./images/SFGPUUSW-------.png)||
-|708||A|Friend|SFGPUUSX-------|S - G - UU SX -- -- -- -|WAR.GRDTRK.UNT.CS.SIGUNT.ECRG|Electronic Ranging|POINT|![](./images/SFGPUUSX-------.png)||
-|709||A|Friend|SFPP-----------|S - P - -- -- -- -- -- -|WAR.SPC|Space Track|POINT|![](./images/SFPP-----------.png)||
-|710||A|Friend|SFPPL----------|S - P - L- -- -- -- -- -|WAR.SPC.SLV|Space Launch Vehicle|POINT|![](./images/SFPPL----------.png)||
-|711||A|Friend|SFPPS----------|S - P - S- -- -- -- -- -|WAR.SPC.SAT|Satellite|POINT|![](./images/SFPPS----------.png)||
-|712||A|Friend|SFPPT----------|S - P - T- -- -- -- -- -|WAR.SPC.SST|Space Station|POINT|![](./images/SFPPT----------.png)||
-|713||A|Friend|SFPPV----------|S - P - V- -- -- -- -- -|WAR.SPC.CSV|Crewed Space Vehicle|POINT|![](./images/SFPPV----------.png)||
-|714||A|Friend|SFSP-----------|S - S - -- -- -- -- -- -|WAR.SSUF|Sea Surface Track|POINT|![](./images/SFSP-----------.png)||
-|715||A|Friend|SFSPC----------|S - S - C- -- -- -- -- -|WAR.SSUF.CBTT|Combatant|POINT|![](./images/SFSPC----------.png)||
-|716||A|Friend|SFSPCA---------|S - S - CA -- -- -- -- -|WAR.SSUF.CBTT.AMPWS|Amphibious Warfare Ship|POINT|![](./images/SFSPCA---------.png)||
-|717||A|Friend|SFSPCALA-------|S - S - CA LA -- -- -- -|WAR.SSUF.CBTT.AMPWS.ASTVES|Assault Vessel|POINT|![](./images/SFSPCALA-------.png)||
-|718||A|Friend|SFSPCALC-------|S - S - CA LC -- -- -- -|WAR.SSUF.CBTT.AMPWS.LNDCRT|Landing Craft|POINT|![](./images/SFSPCALC-------.png)||
-|719||A|Friend|SFSPCALS-------|S - S - CA LS -- -- -- -|WAR.SSUF.CBTT.AMPWS.LNDSHP|Landing Ship|POINT|![](./images/SFSPCALS-------.png)||
-|720||A|Friend|SFSPCALSM------|S - S - CA LS M- -- -- -|WAR.SSUF.CBTT.AMPWS.LNDSHP.MDM|Landing Ship Medium|POINT|![](./images/SFSPCALSM------.png)||
-|721||A|Friend|SFSPCALST------|S - S - CA LS T- -- -- -|WAR.SSUF.CBTT.AMPWS.LNDSHP.TANK|Landing Ship Tank|POINT|![](./images/SFSPCALST------.png)||
-|722||A|Friend|SFSPCD---------|S - S - CD -- -- -- -- -|WAR.SSUF.CBTT.SUFDCY|Surface Decoy|POINT|![](./images/SFSPCD---------.png)||
-|723||A|Friend|SFSPCH---------|S - S - CH -- -- -- -- -|WAR.SSUF.CBTT.HOV|Hovercraft|POINT|![](./images/SFSPCH---------.png)||
-|724||A|Friend|SFSPCL---------|S - S - CL -- -- -- -- -|WAR.SSUF.CBTT.LNE|Line|POINT|![](./images/SFSPCL---------.png)||
-|725||A|Friend|SFSPCLBB-------|S - S - CL BB -- -- -- -|WAR.SSUF.CBTT.LNE.BBS|Battleship|POINT|![](./images/SFSPCLBB-------.png)||
-|726||A|Friend|SFSPCLCC-------|S - S - CL CC -- -- -- -|WAR.SSUF.CBTT.LNE.CRU|Cruiser|POINT|![](./images/SFSPCLCC-------.png)||
-|727||A|Friend|SFSPCLCV-------|S - S - CL CV -- -- -- -|WAR.SSUF.CBTT.LNE.CRR|Carrier|POINT|![](./images/SFSPCLCV-------.png)||
-|728||A|Friend|SFSPCLDD-------|S - S - CL DD -- -- -- -|WAR.SSUF.CBTT.LNE.DD|Destroyer|POINT|![](./images/SFSPCLDD-------.png)||
-|729||A|Friend|SFSPCLFF-------|S - S - CL FF -- -- -- -|WAR.SSUF.CBTT.LNE.FFR|Frigate/Corvette|POINT|![](./images/SFSPCLFF-------.png)||
-|730||A|Friend|SFSPCLLL-------|S - S - CL LL -- -- -- -|WAR.SSUF.CBTT.LNE.LL|Littoral Combatant|POINT|![](./images/SFSPCLLL-------.png)||
-|731||A|Friend|SFSPCLLLAS-----|S - S - CL LL AS -- -- -|WAR.SSUF.CBTT.LNE.LL.ASBW|Antisubmarine Warfare Mission Package|POINT|![](./images/SFSPCLLLAS-----.png)||
-|732||A|Friend|SFSPCLLLMI-----|S - S - CL LL MI -- -- -|WAR.SSUF.CBTT.LNE.LL.MNEW|Mine Warfare Mission Package|POINT|![](./images/SFSPCLLLMI-----.png)||
-|733||A|Friend|SFSPCLLLSU-----|S - S - CL LL SU -- -- -|WAR.SSUF.CBTT.LNE.LL.SUW|Surface Warfare (Suw) Mission Package|POINT|![](./images/SFSPCLLLSU-----.png)||
-|734||A|Friend|SFSPCM---------|S - S - CM -- -- -- -- -|WAR.SSUF.CBTT.MNEWV|Mine Warfare Vessel|POINT|![](./images/SFSPCM---------.png)||
-|735||A|Friend|SFSPCMMA-------|S - S - CM MA -- -- -- -|WAR.SSUF.CBTT.MNEWV.MCMSUP|Mcm Support|POINT|![](./images/SFSPCMMA-------.png)||
-|736||A|Friend|SFSPCMMH-------|S - S - CM MH -- -- -- -|WAR.SSUF.CBTT.MNEWV.MNEHNT|Minehunter|POINT|![](./images/SFSPCMMH-------.png)||
-|737||A|Friend|SFSPCMML-------|S - S - CM ML -- -- -- -|WAR.SSUF.CBTT.MNEWV.MNELYR|Minelayer|POINT|![](./images/SFSPCMML-------.png)||
-|738||A|Friend|SFSPCMMS-------|S - S - CM MS -- -- -- -|WAR.SSUF.CBTT.MNEWV.MNESWE|Minesweeper|POINT|![](./images/SFSPCMMS-------.png)||
-|739||A|Friend|SFSPCP---------|S - S - CP -- -- -- -- -|WAR.SSUF.CBTT.PAT|Patrol|POINT|![](./images/SFSPCP---------.png)||
-|740||A|Friend|SFSPCPSB-------|S - S - CP SB -- -- -- -|WAR.SSUF.CBTT.PAT.ASBW|Antisubmarine Warfare|POINT|![](./images/SFSPCPSB-------.png)||
-|741||A|Friend|SFSPCPSU-------|S - S - CP SU -- -- -- -|WAR.SSUF.CBTT.PAT.ASUW|Antisurface Warfare|POINT|![](./images/SFSPCPSU-------.png)||
-|742||A|Friend|SFSPCPSUG------|S - S - CP SU G- -- -- -|WAR.SSUF.CBTT.PAT.ASUW.GUN|Gun Patrol Craft|POINT|![](./images/SFSPCPSUG------.png)||
-|743||A|Friend|SFSPCPSUM------|S - S - CP SU M- -- -- -|WAR.SSUF.CBTT.PAT.ASUW.ASMSL|Antiship Missile Patrol Craft|POINT|![](./images/SFSPCPSUM------.png)||
-|744||A|Friend|SFSPCPSUT------|S - S - CP SU T- -- -- -|WAR.SSUF.CBTT.PAT.ASUW.TPD|Torpedo Patrol Craft|POINT|![](./images/SFSPCPSUT------.png)||
-|745||A|Friend|SFSPCU---------|S - S - CU -- -- -- -- -|WAR.SSUF.CBTT.USV|Unmanned Surface Vehicle|POINT|![](./images/SFSPCU---------.png)||
-|746||A|Friend|SFSPCUM--------|S - S - CU M- -- -- -- -|WAR.SSUF.CBTT.USV.MNECM|Mine Countermeasures Surface Drone|POINT|![](./images/SFSPCUM--------.png)||
-|747||A|Friend|SFSPCUN--------|S - S - CU N- -- -- -- -|WAR.SSUF.CBTT.USV.ASUW|Antisurface Warfare Surface Drone|POINT|![](./images/SFSPCUN--------.png)||
-|748||A|Friend|SFSPCUR--------|S - S - CU R- -- -- -- -|WAR.SSUF.CBTT.USV.RMV|Remote Multimission Vehicle|POINT|![](./images/SFSPCUR--------.png)||
-|749||A|Friend|SFSPCUS--------|S - S - CU S- -- -- -- -|WAR.SSUF.CBTT.USV.ASBW|Antisubmarine Warfare Surface Drone|POINT|![](./images/SFSPCUS--------.png)||
-|750||A|Friend|SFSPG----------|S - S - G- -- -- -- -- -|WAR.SSUF.CBTT.NAVGRP|Navy Group|POINT|![](./images/SFSPG----------.png)||
-|751||A|Friend|SFSPGC---------|S - S - GC -- -- -- -- -|WAR.SSUF.CBTT.NAVGRP.CNY|Convoy|POINT|![](./images/SFSPGC---------.png)||
-|752||A|Friend|SFSPGG---------|S - S - GG -- -- -- -- -|WAR.SSUF.CBTT.NAVGRP.NAVTG|Navy Task Group|POINT|![](./images/SFSPGG---------.png)||
-|753||A|Friend|SFSPGT---------|S - S - GT -- -- -- -- -|WAR.SSUF.CBTT.NAVGRP.NAVTF|Navy Task Force|POINT|![](./images/SFSPGT---------.png)||
-|754||A|Friend|SFSPGU---------|S - S - GU -- -- -- -- -|WAR.SSUF.CBTT.NAVGRP.NAVTU|Navy Task Unit|POINT|![](./images/SFSPGU---------.png)||
-|755||A|Friend|SFSPN----------|S - S - N- -- -- -- -- -|WAR.SSUF.NCBTT|Noncombatant|POINT|![](./images/SFSPN----------.png)||
-|756||A|Friend|SFSPNF---------|S - S - NF -- -- -- -- -|WAR.SSUF.NCBTT.FLTSUP|Fleet Support|POINT|![](./images/SFSPNF---------.png)||
-|757||A|Friend|SFSPNH---------|S - S - NH -- -- -- -- -|WAR.SSUF.NCBTT.HOV|Hovercraft|POINT|![](./images/SFSPNH---------.png)||
-|758||A|Friend|SFSPNI---------|S - S - NI -- -- -- -- -|WAR.SSUF.NCBTT.INT|Intelligence|POINT|![](./images/SFSPNI---------.png)||
-|759||A|Friend|SFSPNM---------|S - S - NM -- -- -- -- -|WAR.SSUF.NCBTT.HSPSHP|Hospital Ship|POINT|![](./images/SFSPNM---------.png)||
-|760||A|Friend|SFSPNR---------|S - S - NR -- -- -- -- -|WAR.SSUF.NCBTT.UWRPM|Underway Replenishment|POINT|![](./images/SFSPNR---------.png)||
-|761||A|Friend|SFSPNS---------|S - S - NS -- -- -- -- -|WAR.SSUF.NCBTT.SSH|Service & Support Harbor|POINT|![](./images/SFSPNS---------.png)||
-|762||A|Friend|SFSPO----------|S - S - O- -- -- -- -- -|WAR.SSUF.OWN|Own Track|POINT|![](./images/SFSPO----------.png)||
-|763||A|Friend|SFSPXA---------|S - S - XA -- -- -- -- -|WAR.SSUF.NMIL.FSTREC|Fast Recreactional Craft|POINT|![](./images/SFSPXA---------.png)||
-|764||A|Friend|SFSPXAR--------|S - S - XA R- -- -- -- -|WAR.SSUF.NMIL.FSTREC.RHIB|Rigid-Hull Inflatable Boat|POINT|![](./images/SFSPXAR--------.png)||
-|765||A|Friend|SFSPXAS--------|S - S - XA S- -- -- -- -|WAR.SSUF.NMIL.FSTREC.SPDBT|Speed Boat|POINT|![](./images/SFSPXAS--------.png)||
-|766||A|Friend|SFSPXF---------|S - S - XF -- -- -- -- -|WAR.SSUF.NMIL.FSG|Fishing|POINT|![](./images/SFSPXF---------.png)||
-|767||A|Friend|SFSPXFDF-------|S - S - XF DF -- -- -- -|WAR.SSUF.NMIL.FSG.DRFT|Drifter|POINT|![](./images/SFSPXFDF-------.png)||
-|768||A|Friend|SFSPXFDR-------|S - S - XF DR -- -- -- -|WAR.SSUF.NMIL.FSG.DRG|Dredge|POINT|![](./images/SFSPXFDR-------.png)||
-|769||A|Friend|SFSPXFTR-------|S - S - XF TR -- -- -- -|WAR.SSUF.NMIL.FSG.TRW|Trawler|POINT|![](./images/SFSPXFTR-------.png)||
-|770||A|Friend|SFSPXH---------|S - S - XH -- -- -- -- -|WAR.SSUF.NMIL.HOV|Hovercraft|POINT|![](./images/SFSPXH---------.png)||
-|771||A|Friend|SFSPXL---------|S - S - XL -- -- -- -- -|WAR.SSUF.NMIL.LAWENV|Law Enforcement Vessel|POINT|![](./images/SFSPXL---------.png)||
-|772||A|Friend|SFSPXM---------|S - S - XM -- -- -- -- -|WAR.SSUF.NMIL.MCT|Merchant|POINT|![](./images/SFSPXM---------.png)||
-|773||A|Friend|SFSPXMC--------|S - S - XM C- -- -- -- -|WAR.SSUF.NMIL.MCT.CGO|Cargo|POINT|![](./images/SFSPXMC--------.png)||
-|774||A|Friend|SFSPXMF--------|S - S - XM F- -- -- -- -|WAR.SSUF.NMIL.MCT.FRY|Ferry|POINT|![](./images/SFSPXMF--------.png)||
-|775||A|Friend|SFSPXMH--------|S - S - XM H- -- -- -- -|WAR.SSUF.NMIL.MCT.HAZMAT|Hazardous Materials (Hazmat)|POINT|![](./images/SFSPXMH--------.png)||
-|776||A|Friend|SFSPXMO--------|S - S - XM O- -- -- -- -|WAR.SSUF.NMIL.MCT.OLR|Oiler/Tanker|POINT|![](./images/SFSPXMO--------.png)||
-|777||A|Friend|SFSPXMP--------|S - S - XM P- -- -- -- -|WAR.SSUF.NMIL.MCT.PSG|Passenger|POINT|![](./images/SFSPXMP--------.png)||
-|778||A|Friend|SFSPXMR--------|S - S - XM R- -- -- -- -|WAR.SSUF.NMIL.MCT.RORO|Roll On/Roll Off|POINT|![](./images/SFSPXMR--------.png)||
-|779||A|Friend|SFSPXMTO-------|S - S - XM TO -- -- -- -|WAR.SSUF.NMIL.MCT.TOWVES|Towing Vessel|POINT|![](./images/SFSPXMTO-------.png)||
-|780||A|Friend|SFSPXMTU-------|S - S - XM TU -- -- -- -|WAR.SSUF.NMIL.MCT.TUG|Tug|POINT|![](./images/SFSPXMTU-------.png)||
-|781||A|Friend|SFSPXP---------|S - S - XP -- -- -- -- -|WAR.SSUF.NMIL.PWC|Personal Watercraft|POINT|![](./images/SFSPXP---------.png)||
-|782||A|Friend|SFSPXR---------|S - S - XR -- -- -- -- -|WAR.SSUF.NMIL.LESCRT|Leisure Craft|POINT|![](./images/SFSPXR---------.png)||
-|783||A|Friend|SFUP-----------|S - U - -- -- -- -- -- -|WAR.SBSUF|Subsurface Track|POINT|![](./images/SFUP-----------.png)||
-|784||A|Friend|SFUPE----------|S - U - E- -- -- -- -- -|WAR.SBSUF.ERL|Environmental Report Location|POINT|![](./images/SFUPE----------.png)||
-|785||A|Friend|SFUPND---------|S - U - ND -- -- -- -- -|WAR.SBSUF.NSUB.DVR|Diver|POINT|![](./images/SFUPND---------.png)||
-|786||A|Friend|SFUPS----------|S - U - S- -- -- -- -- -|WAR.SBSUF.SUB|Submarine|POINT|![](./images/SFUPS----------.png)||
-|787||A|Friend|SFUPS1---------|S - U - S1 -- -- -- -- -|WAR.SBSUF.SUB.POSS1|Possible Submarine 1|POINT|![](./images/SFUPS1---------.png)||
-|788||A|Friend|SFUPS2---------|S - U - S2 -- -- -- -- -|WAR.SBSUF.SUB.POSS2|Possible Submarine 2|POINT|![](./images/SFUPS2---------.png)||
-|789||A|Friend|SFUPS3---------|S - U - S3 -- -- -- -- -|WAR.SBSUF.SUB.POSS3|Possible Submarine 3|POINT|![](./images/SFUPS3---------.png)||
-|790||A|Friend|SFUPS4---------|S - U - S4 -- -- -- -- -|WAR.SBSUF.SUB.POSS4|Possible Submarine 4|POINT|![](./images/SFUPS4---------.png)||
-|791||A|Friend|SFUPSB---------|S - U - SB -- -- -- -- -|WAR.SBSUF.SUB.BOTTMD|Bottomed|POINT|![](./images/SFUPSB---------.png)||
-|792||A|Friend|SFUPSC---------|S - U - SC -- -- -- -- -|WAR.SBSUF.SUB.CNVPRN|Conventional Propulsion|POINT|![](./images/SFUPSC---------.png)||
-|793||A|Friend|SFUPSCA--------|S - U - SC A- -- -- -- -|WAR.SBSUF.SUB.CNVPRN.ATK|Attack Submarine (Ss)|POINT|![](./images/SFUPSCA--------.png)||
-|794||A|Friend|SFUPSCB--------|S - U - SC B- -- -- -- -|WAR.SBSUF.SUB.CNVPRN.BLST|Ballistic Missile Submarine (Ssb)|POINT|![](./images/SFUPSCB--------.png)||
-|795||A|Friend|SFUPSCF--------|S - U - SC F- -- -- -- -|WAR.SBSUF.SUB.CNVPRN.SURF|Surfaced Conventional Propulsion Submarine|POINT|![](./images/SFUPSCF--------.png)||
-|796||A|Friend|SFUPSCG--------|S - U - SC G- -- -- -- -|WAR.SBSUF.SUB.CNVPRN.GDD|Guided Missile Submarine (Ssg)|POINT|![](./images/SFUPSCG--------.png)||
-|797||A|Friend|SFUPSCM--------|S - U - SC M- -- -- -- -|WAR.SBSUF.SUB.CNVPRN.MSL|Missile Submarine (Type Unknown)|POINT|![](./images/SFUPSCM--------.png)||
-|798||A|Friend|SFUPSF---------|S - U - SF -- -- -- -- -|WAR.SBSUF.SUB.SURF|Surfaced Submarine|POINT|![](./images/SFUPSF---------.png)||
-|799||A|Friend|SFUPSK---------|S - U - SK -- -- -- -- -|WAR.SBSUF.SUB.SNORKL|Snorkeling Submarine|POINT|![](./images/SFUPSK---------.png)||
-|800||A|Friend|SFUPSL---------|S - U - SL -- -- -- -- -|WAR.SBSUF.SUB.PRBSUB|Probable Submarine|POINT|![](./images/SFUPSL---------.png)||
-|801||A|Friend|SFUPSN---------|S - U - SN -- -- -- -- -|WAR.SBSUF.SUB.NPRN|Nuclear Propulsion|POINT|![](./images/SFUPSN---------.png)||
-|802||A|Friend|SFUPSNA--------|S - U - SN A- -- -- -- -|WAR.SBSUF.SUB.NPRN.ATK|Attack Submarine (Ssn)|POINT|![](./images/SFUPSNA--------.png)||
-|803||A|Friend|SFUPSNB--------|S - U - SN B- -- -- -- -|WAR.SBSUF.SUB.NPRN.BLST|Ballistic Missile Submarine (Ssbn)|POINT|![](./images/SFUPSNB--------.png)||
-|804||A|Friend|SFUPSNF--------|S - U - SN F- -- -- -- -|WAR.SBSUF.SUB.NPRN.SURF|Surfaced Nuclear Propulsion Submarine|POINT|![](./images/SFUPSNF--------.png)||
-|805||A|Friend|SFUPSNG--------|S - U - SN G- -- -- -- -|WAR.SBSUF.SUB.NPRN.GDD|Guided Missile Submarine (Ssgn)|POINT|![](./images/SFUPSNG--------.png)||
-|806||A|Friend|SFUPSNM--------|S - U - SN M- -- -- -- -|WAR.SBSUF.SUB.NPRN.MSL|Missile Submarine (Type Unknown)|POINT|![](./images/SFUPSNM--------.png)||
-|807||A|Friend|SFUPSO---------|S - U - SO -- -- -- -- -|WAR.SBSUF.SUB.OTH|Other Submersible|POINT|![](./images/SFUPSO---------.png)||
-|808||A|Friend|SFUPSOF--------|S - U - SO F- -- -- -- -|WAR.SBSUF.SUB.OTH.SURF|Surfaced Other Submersible|POINT|![](./images/SFUPSOF--------.png)||
-|809||A|Friend|SFUPSR---------|S - U - SR -- -- -- -- -|WAR.SBSUF.SUB.CRT|Certain Submarine|POINT|![](./images/SFUPSR---------.png)||
-|810||A|Friend|SFUPSU---------|S - U - SU -- -- -- -- -|WAR.SBSUF.SUB.UUV|Unmanned Underwater Vehicle (Uuv)|POINT|![](./images/SFUPSU---------.png)||
-|811||A|Friend|SFUPSUM--------|S - U - SU M- -- -- -- -|WAR.SBSUF.SUB.UUV.MNEW|Mine Warfare Subsurface Drone|POINT|![](./images/SFUPSUM--------.png)||
-|812||A|Friend|SFUPSUN--------|S - U - SU N- -- -- -- -|WAR.SBSUF.SUB.UUV.ASUW|Antisurface Warfare Subsurface Drone|POINT|![](./images/SFUPSUN--------.png)||
-|813||A|Friend|SFUPSUS--------|S - U - SU S- -- -- -- -|WAR.SBSUF.SUB.UUV.ASBW|Antisubmarine Warfare Subsurface Drone|POINT|![](./images/SFUPSUS--------.png)||
-|814||A|Friend|SFUPSX---------|S - U - SX -- -- -- -- -|WAR.SBSUF.SUB.NONSUB|Nonsubmarine|POINT|![](./images/SFUPSX---------.png)||
-|815||A|Friend|SFUPV----------|S - U - V- -- -- -- -- -|WAR.SBSUF.DRL|Dive Report Location|POINT|![](./images/SFUPV----------.png)||
-|816||A|Friend|SFUPW----------|S - U - W- -- -- -- -- -|WAR.SBSUF.UH2WPN|Underwater Weapon|POINT|![](./images/SFUPW----------.png)||
-|817||A|Friend|SFUPWD---------|S - U - WD -- -- -- -- -|WAR.SBSUF.UH2DCY|Underwater Decoy|POINT|![](./images/SFUPWD---------.png)||
-|818||A|Friend|SFUPWDM--------|S - U - WD M- -- -- -- -|WAR.SBSUF.UH2DCY.SMDCY|Sea Mine Decoy|POINT|![](./images/SFUPWDM--------.png)||
-|819||A|Friend|SFUPWDMG-------|S - U - WD MG -- -- -- -|WAR.SBSUF.UH2DCY.SMDCY.GRND|Ground (Bottom) Decoy|POINT|![](./images/SFUPWDMG-------.png)||
-|820||A|Friend|SFUPWDMM-------|S - U - WD MM -- -- -- -|WAR.SBSUF.UH2DCY.SMDCY.MOORED|Moored Decoy|POINT|![](./images/SFUPWDMM-------.png)||
-|821||A|Friend|SFUPWM---------|S - U - WM -- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE|Sea Mine|POINT|![](./images/SFUPWM---------.png)||
-|822||A|Friend|SFUPWMA--------|S - U - WM A- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.ANCHOR|General Mine Anchor|POINT|![](./images/SFUPWMA--------.png)||
-|823||A|Friend|SFUPWMB--------|S - U - WM B- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.OBSTRC|General Obstructor|POINT|![](./images/SFUPWMB--------.png)||
-|824||A|Friend|SFUPWMBD-------|S - U - WM BD -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.OBSTRC.NTRLZD|General Neutralized Obstructor|POINT|![](./images/SFUPWMBD-------.png)||
-|825||A|Friend|SFUPWMC--------|S - U - WM C- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.MILCO|General Mine-Like Contact (Milco)|POINT|![](./images/SFUPWMC--------.png)||
-|826||A|Friend|SFUPWMD--------|S - U - WM D- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.NTRLZD|Sea Mine Neutralized|POINT|![](./images/SFUPWMD--------.png)||
-|827||A|Friend|SFUPWME--------|S - U - WM E- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.MILEC|General Mine-Like Echo (Milec)|POINT|![](./images/SFUPWME--------.png)||
-|828||A|Friend|SFUPWMF--------|S - U - WM F- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMF|Sea Mine (Floating)|POINT|![](./images/SFUPWMF--------.png)||
-|829||A|Friend|SFUPWMFC-------|S - U - WM FC -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMF.MILCO|Floating Mine-Like Contact (Milco)|POINT|![](./images/SFUPWMFC-------.png)||
-|830||A|Friend|SFUPWMFD-------|S - U - WM FD -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMF.NTRLZD|Sea Mine (Floating) Neutralized|POINT|![](./images/SFUPWMFD-------.png)||
-|831||A|Friend|SFUPWMFE-------|S - U - WM FE -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMF.MILEC|Floating Mine-Like Echo (Milec)|POINT|![](./images/SFUPWMFE-------.png)||
-|832||A|Friend|SFUPWMFO-------|S - U - WM FO -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMF.NMMLCO|Floating Non-Mine Mine-Like Contact|POINT|![](./images/SFUPWMFO-------.png)||
-|833||A|Friend|SFUPWMFR-------|S - U - WM FR -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMF.NGREAC|Floating Negative Reacquisition|POINT|![](./images/SFUPWMFR-------.png)||
-|834||A|Friend|SFUPWMFX-------|S - U - WM FX -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMF.EXER|Floating Exercise Mine|POINT|![](./images/SFUPWMFX-------.png)||
-|835||A|Friend|SFUPWMG--------|S - U - WM G- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMG|Sea Mine (Ground)|POINT|![](./images/SFUPWMG--------.png)||
-|836||A|Friend|SFUPWMGC-------|S - U - WM GC -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMG.MILCO|Ground (Bottom) Mine-Like Contact (Milco)|POINT|![](./images/SFUPWMGC-------.png)||
-|837||A|Friend|SFUPWMGD-------|S - U - WM GD -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMG.NTRLZD|Sea Mine (Ground) Neutralized|POINT|![](./images/SFUPWMGD-------.png)||
-|838||A|Friend|SFUPWMGE-------|S - U - WM GE -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMG.MILEC|Ground (Bottom) Mine-Like Echo (Milec)|POINT|![](./images/SFUPWMGE-------.png)||
-|839||A|Friend|SFUPWMGO-------|S - U - WM GO -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMG.NMMLCO|Ground (Bottom) Non-Mine Mine-Like Contact|POINT|![](./images/SFUPWMGO-------.png)||
-|840||A|Friend|SFUPWMGR-------|S - U - WM GR -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMG.NGREAC|Ground (Bottom) Negative Reacquisition|POINT|![](./images/SFUPWMGR-------.png)||
-|841||A|Friend|SFUPWMGX-------|S - U - WM GX -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMG.EXER|Ground (Bottom) Exercise Mine|POINT|![](./images/SFUPWMGX-------.png)||
-|842||A|Friend|SFUPWMM--------|S - U - WM M- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMM|Sea Mine (Moored)|POINT|![](./images/SFUPWMM--------.png)||
-|843||A|Friend|SFUPWMMC-------|S - U - WM MC -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMM.MILCO|Moored Mine-Like Contact|POINT|![](./images/SFUPWMMC-------.png)||
-|844||A|Friend|SFUPWMMD-------|S - U - WM MD -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMM.NTRLZD|Sea Mine (Moored) Neutralized|POINT|![](./images/SFUPWMMD-------.png)||
-|845||A|Friend|SFUPWMME-------|S - U - WM ME -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMM.MILEC|Moored Mine-Like Echo|POINT|![](./images/SFUPWMME-------.png)||
-|846||A|Friend|SFUPWMMO-------|S - U - WM MO -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMM.NMMLCO|Moored Non-Mine Mine-Like Object|POINT|![](./images/SFUPWMMO-------.png)||
-|847||A|Friend|SFUPWMMR-------|S - U - WM MR -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMM.NGREAC|Moored Negative Reacquisition|POINT|![](./images/SFUPWMMR-------.png)||
-|848||A|Friend|SFUPWMMX-------|S - U - WM MX -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMM.EXER|Moored Exercise Mine|POINT|![](./images/SFUPWMMX-------.png)||
-|849||A|Friend|SFUPWMN--------|S - U - WM N- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.NMMLCO|General Non-Mine Mine-Like Object|POINT|![](./images/SFUPWMN--------.png)||
-|850||A|Friend|SFUPWMO--------|S - U - WM O- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMOP|Sea Mine (Other Position)|POINT|![](./images/SFUPWMO--------.png)||
-|851||A|Friend|SFUPWMOD-------|S - U - WM OD -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.SMOP.NTRLZD|Sea Mine (Other Position) Neutralized|POINT|![](./images/SFUPWMOD-------.png)||
-|852||A|Friend|SFUPWMR--------|S - U - WM R- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.NGREAC|General Negative Reacquisition|POINT|![](./images/SFUPWMR--------.png)||
-|853||A|Friend|SFUPWMS--------|S - U - WM S- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.RISING|Rising Mine|POINT|![](./images/SFUPWMS--------.png)||
-|854||A|Friend|SFUPWMSD-------|S - U - WM SD -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.RISING.NTRLZD|Rising Neutralized Mine|POINT|![](./images/SFUPWMSD-------.png)||
-|855||A|Friend|SFUPWMSX-------|S - U - WM SX -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.RISING.EXER|Rising Exercise Mine|POINT|![](./images/SFUPWMSX-------.png)||
-|856||A|Friend|SFUPWMX--------|S - U - WM X- -- -- -- -|WAR.SBSUF.UH2WPN.SMNE.EXER|General Exercise Mine|POINT|![](./images/SFUPWMX--------.png)||
-|857||A|Friend|SFUPWT---------|S - U - WT -- -- -- -- -|WAR.SBSUF.UH2WPN.TPD|Torpedo|POINT|![](./images/SFUPWT---------.png)||
-|858||A|Friend|SFUPX----------|S - U - X- -- -- -- -- -|WAR.SBSUF.UXO|Unexploded Ordnance Area|POINT|![](./images/SFUPX----------.png)||
-|859||B|Friend|GFFPACAC------X|G - F- AC AC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.ACA.CIRCLR|Airspace Coordination Area (Aca)  Circular|AREA|![](./images/GFFPACAC------X.png)||
-|860||B|Friend|GFFPACAI------X|G - F- AC AI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.ACA.IRR|Airspace Coordination Area (Aca)  Irregular|AREA|![](./images/GFFPACAI------X.png)||
-|861||B|Friend|GFFPACAR------X|G - F- AC AR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.ACA.RTG|Airspace Coordination Area (Aca)  Rectangular|AREA|![](./images/GFFPACAR------X.png)||
-|862||B|Friend|GFFPACBC------X|G - F- AC BC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.TBA.CIRCLR|Target Build Up Area (Tba)  Circular|AREA|![](./images/GFFPACBC------X.png)||
-|863||B|Friend|GFFPACBI------X|G - F- AC BI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.TBA.IRR|Target Build Up Area (Tba)  Irregular|AREA|![](./images/GFFPACBI------X.png)||
-|864||B|Friend|GFFPACBR------X|G - F- AC BR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.TBA.RTG|Target Build Up Area (Tba)  Rectangular|AREA|![](./images/GFFPACBR------X.png)||
-|865||B|Friend|GFFPACDC------X|G - F- AC DC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.DA.CIRCLR|Dead Space Area (Da)  Circular|AREA|![](./images/GFFPACDC------X.png)||
-|866||B|Friend|GFFPACDI------X|G - F- AC DI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.DA.IRR|Dead Space Area (Da)  Irregular|AREA|![](./images/GFFPACDI------X.png)||
-|867||B|Friend|GFFPACDR------X|G - F- AC DR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.DA.RTG|Dead Space Area (Da)  Rectangular|AREA|![](./images/GFFPACDR------X.png)||
-|868||B|Friend|GFFPACEC------X|G - F- AC EC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.SNSZ.CIRCLR|Sensor Zone  Circular|AREA|![](./images/GFFPACEC------X.png)||
-|869||B|Friend|GFFPACEI------X|G - F- AC EI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.SNSZ.IRR|Sensor Zone  Irregular|AREA|![](./images/GFFPACEI------X.png)||
-|870||B|Friend|GFFPACER------X|G - F- AC ER -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.SNSZ.RTG|Sensor Zone  Rectangular|AREA|![](./images/GFFPACER------X.png)||
-|871||B|Friend|GFFPACFC------X|G - F- AC FC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.FFA.CIRCLR|Free Fire Area (Ffa)  Circular|AREA|![](./images/GFFPACFC------X.png)||
-|872||B|Friend|GFFPACFI------X|G - F- AC FI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.FFA.IRR|Free Fire Area (Ffa)  Irregular|AREA|![](./images/GFFPACFI------X.png)||
-|873||B|Friend|GFFPACFR------X|G - F- AC FR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.FFA.RTG|Free Fire Area (Ffa)  Rectangular|AREA|![](./images/GFFPACFR------X.png)||
-|874||B|Friend|GFFPACNC------X|G - F- AC NC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.NFA.CIRCLR|No Fire Area (Nfa)  Circular|AREA|![](./images/GFFPACNC------X.png)||
-|875||B|Friend|GFFPACNI------X|G - F- AC NI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.NFA.IRR|No Fire Area (Nfa)  Irregular|AREA|![](./images/GFFPACNI------X.png)||
-|876||B|Friend|GFFPACNR------X|G - F- AC NR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.NFA.RTG|No Fire Area (Nfa)  Rectangular|AREA|![](./images/GFFPACNR------X.png)||
-|877||B|Friend|GFFPACPC------X|G - F- AC PC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.PAA.CIRCLR|Position Area For Artillery (Paa)  Circular|AREA|![](./images/GFFPACPC------X.png)||
-|878||B|Friend|GFFPACPR------X|G - F- AC PR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.PAA.RTG|Position Area For Artillery (Paa)  Rectangular|AREA|![](./images/GFFPACPR------X.png)||
-|879||B|Friend|GFFPACRC------X|G - F- AC RC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.RFA.CIRCLR|Restrictive Fire Area (Rfa)  Circular|AREA|![](./images/GFFPACRC------X.png)||
-|880||B|Friend|GFFPACRI------X|G - F- AC RI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.RFA.IRR|Restrictive Fire Area (Rfa)  Irregular|AREA|![](./images/GFFPACRI------X.png)||
-|881||B|Friend|GFFPACRR------X|G - F- AC RR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.RFA.RTG|Restrictive Fire Area (Rfa)  Rectangular|AREA|![](./images/GFFPACRR------X.png)||
-|882||B|Friend|GFFPACSC------X|G - F- AC SC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.FSA.CIRCLR|Fire Support Area (Fsa)  Circular|AREA|![](./images/GFFPACSC------X.png)||
-|883||B|Friend|GFFPACSI------X|G - F- AC SI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.FSA.IRR|Fire Support Area (Fsa)  Irregular|AREA|![](./images/GFFPACSI------X.png)||
-|884||B|Friend|GFFPACSR------X|G - F- AC SR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.FSA.RTG|Fire Support Area (Fsa)  Rectangular|AREA|![](./images/GFFPACSR------X.png)||
-|885||B|Friend|GFFPACT-------X|G - F- AC T- -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.TGMF|Terminally Guided Munition Footprint (Tgmf)|AREA|![](./images/GFFPACT-------X.png)||
-|886||B|Friend|GFFPACVC------X|G - F- AC VC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.TVAR.CIRCLR|Target Value Area (Tvar)  Circular|AREA|![](./images/GFFPACVC------X.png)||
-|887||B|Friend|GFFPACVI------X|G - F- AC VI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.TVAR.IRR|Target Value Area (Tvar)  Irregular|AREA|![](./images/GFFPACVI------X.png)||
-|888||B|Friend|GFFPACVR------X|G - F- AC VR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.TVAR.RTG|Target Value Area (Tvar)  Rectangular|AREA|![](./images/GFFPACVR------X.png)||
-|889||B|Friend|GFFPACZC------X|G - F- AC ZC -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.ZOR.CIRCLR|Zone Of Responsibility (Zor)  Circular|AREA|![](./images/GFFPACZC------X.png)||
-|890||B|Friend|GFFPACZI------X|G - F- AC ZI -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.ZOR.IRR|Zone Of Responsibility (Zor)  Irregular|AREA|![](./images/GFFPACZI------X.png)||
-|891||B|Friend|GFFPACZR------X|G - F- AC ZR -- -- -- X|TACGRP.FSUPP.ARS.C2ARS.ZOR.RTG|Zone Of Responsibility (Zor)  Rectangular|AREA|![](./images/GFFPACZR------X.png)||
-|892||B|Friend|GFFPAKBC------X|G - F- AK BC -- -- -- X|TACGRP.FSUPP.ARS.KLBOX.BLUE.CIRCLR|Blue Kill Box  Circular|AREA|![](./images/GFFPAKBC------X.png)||
-|893||B|Friend|GFFPAKBI------X|G - F- AK BI -- -- -- X|TACGRP.FSUPP.ARS.KLBOX.BLUE.IRR|Blue Kill Box  Irregular|AREA|![](./images/GFFPAKBI------X.png)||
-|894||B|Friend|GFFPAKBR------X|G - F- AK BR -- -- -- X|TACGRP.FSUPP.ARS.KLBOX.BLUE.RTG|Blue Kill Box  Rectangular|AREA|![](./images/GFFPAKBR------X.png)||
-|895||B|Friend|GFFPAKPC------X|G - F- AK PC -- -- -- X|TACGRP.FSUPP.ARS.KLBOX.PURPLE.CIRCLR|Purple Kill Box  Circular|AREA|![](./images/GFFPAKPC------X.png)||
-|896||B|Friend|GFFPAKPI------X|G - F- AK PI -- -- -- X|TACGRP.FSUPP.ARS.KLBOX.PURPLE.IRR|Purple Kill Box  Irregular|AREA|![](./images/GFFPAKPI------X.png)||
-|897||B|Friend|GFFPAKPR------X|G - F- AK PR -- -- -- X|TACGRP.FSUPP.ARS.KLBOX.PURPLE.RTG|Purple Kill Box  Rectangular|AREA|![](./images/GFFPAKPR------X.png)||
-|898||B|Friend|GFFPATB-------X|G - F- AT B- -- -- -- X|TACGRP.FSUPP.ARS.ARATGT.BMARA|Bomb Area|AREA|![](./images/GFFPATB-------X.png)||
-|899||B|Friend|GFFPATC-------X|G - F- AT C- -- -- -- X|TACGRP.FSUPP.ARS.ARATGT.CIRTGT|Circular Target|AREA|![](./images/GFFPATC-------X.png)||
-|900||B|Friend|GFFPATG-------X|G - F- AT G- -- -- -- X|TACGRP.FSUPP.ARS.ARATGT.SGTGT|Series Or Group Of Targets|AREA|![](./images/GFFPATG-------X.png)||
-|901||B|Friend|GFFPATR-------X|G - F- AT R- -- -- -- X|TACGRP.FSUPP.ARS.ARATGT.RTGTGT|Rectangular Target|AREA|![](./images/GFFPATR-------X.png)||
-|902||B|Friend|GFFPATS-------X|G - F- AT S- -- -- -- X|TACGRP.FSUPP.ARS.ARATGT.SMK|Smoke|AREA|![](./images/GFFPATS-------X.png)||
-|903||B|Friend|GFFPAT--------X|G - F- AT -- -- -- -- X|TACGRP.FSUPP.ARS.ARATGT|Area Target|AREA|![](./images/GFFPAT--------X.png)||
-|904||B|Friend|GFFPAXC-------X|G - F- AX C- -- -- -- X|TACGRP.FSUPP.ARS.WPNRF.CIRCLR|Weapon/Sensor Range Fan  Circular|AREA|![](./images/GFFPAXC-------X.png)||
-|905||B|Friend|GFFPAXS-------X|G - F- AX S- -- -- -- X|TACGRP.FSUPP.ARS.WPNRF.SCR|Weapon/Sensor Range Fan  Sector|AREA|![](./images/GFFPAXS-------X.png)||
-|906||B|Friend|GFFPAZCI------X|G - F- AZ CI -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.CNS.IRR|Censor Zone  Irregular|AREA|![](./images/GFFPAZCI------X.png)||
-|907||B|Friend|GFFPAZCR------X|G - F- AZ CR -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.CNS.RTG|Censor Zone  Rectangular|AREA|![](./images/GFFPAZCR------X.png)||
-|908||B|Friend|GFFPAZFI------X|G - F- AZ FI -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.CFZ.IRR|Critical Friendly Zone (Cfz)  Irregular|AREA|![](./images/GFFPAZFI------X.png)||
-|909||B|Friend|GFFPAZFR------X|G - F- AZ FR -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.CFZ.RTG|Critical Friendly Zone (Cfz)  Rectangular|AREA|![](./images/GFFPAZFR------X.png)||
-|910||B|Friend|GFFPAZII------X|G - F- AZ II -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.ATIZ.IRR|Artillery Target Intelligence (Ati) Zone  Irregular|AREA|![](./images/GFFPAZII------X.png)||
-|911||B|Friend|GFFPAZIR------X|G - F- AZ IR -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.ATIZ.RTG|Artillery Target Intelligence (Ati) Zone  Rectangular|AREA|![](./images/GFFPAZIR------X.png)||
-|912||B|Friend|GFFPAZXI------X|G - F- AZ XI -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.CFFZ.IRR|Call For Fire Zone (Cffz)  Irregular|AREA|![](./images/GFFPAZXI------X.png)||
-|913||B|Friend|GFFPAZXR------X|G - F- AZ XR -- -- -- X|TACGRP.FSUPP.ARS.TGTAQZ.CFFZ.RTG|Call For Fire Zone (Cffz)  Rectangular|AREA|![](./images/GFFPAZXR------X.png)||
-|914||B|Friend|GFFPLCC-------X|G - F- LC C- -- -- -- X|TACGRP.FSUPP.LNE.C2LNE.CFL|Coordinated Fire Line (Cfl)|LINE|![](./images/GFFPLCC-------X.png)||
-|915||B|Friend|GFFPLCF-------X|G - F- LC F- -- -- -- X|TACGRP.FSUPP.LNE.C2LNE.FSCL|Fire Support Coordination Line (Fscl)|LINE|![](./images/GFFPLCF-------X.png)||
-|916||B|Friend|GFFPLCM-------X|G - F- LC M- -- -- -- X|TACGRP.FSUPP.LNE.C2LNE.MFP|Munition Flight Path (Mfp)|LINE|![](./images/GFFPLCM-------X.png)||
-|917||B|Friend|GFFPLCN-------X|G - F- LC N- -- -- -- X|TACGRP.FSUPP.LNE.C2LNE.NFL|No-Fire Line (Nfl)|LINE|![](./images/GFFPLCN-------X.png)||
-|918||B|Friend|GFFPLCR-------X|G - F- LC R- -- -- -- X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|![](./images/GFFPLCR-------X.png)||
-|919||B|Friend|GFFPLTF-------X|G - F- LT F- -- -- -- X|TACGRP.FSUPP.LNE.LNRTGT.FPF|Final Protective Fire (Fpf)|LINE|![](./images/GFFPLTF-------X.png)||
-|920||B|Friend|GFFPLTS-------X|G - F- LT S- -- -- -- X|TACGRP.FSUPP.LNE.LNRTGT.LSTGT|Linear Smoke Target|LINE|![](./images/GFFPLTS-------X.png)||
-|921||B|Friend|GFFPLT--------X|G - F- LT -- -- -- -- X|TACGRP.FSUPP.LNE.LNRTGT|Linear Target|LINE|![](./images/GFFPLT--------X.png)||
-|922||B|Friend|GFFPPCB-------X|G - F- PC B- -- -- -- X|TACGRP.FSUPP.PNT.C2PNT.FP|Firing Point|POINT|![](./images/GFFPPCB-------X.png)||
-|923||B|Friend|GFFPPCF-------X|G - F- PC F- -- -- -- X|TACGRP.FSUPP.PNT.C2PNT.FSS|Fire Support Station|POINT|![](./images/GFFPPCF-------X.png)||
-|924||B|Friend|GFFPPCH-------X|G - F- PC H- -- -- -- X|TACGRP.FSUPP.PNT.C2PNT.HP|Hide Point|POINT|![](./images/GFFPPCH-------X.png)||
-|925||B|Friend|GFFPPCL-------X|G - F- PC L- -- -- -- X|TACGRP.FSUPP.PNT.C2PNT.LP|Launch Point|POINT|![](./images/GFFPPCL-------X.png)||
-|926||B|Friend|GFFPPCR-------X|G - F- PC R- -- -- -- X|TACGRP.FSUPP.PNT.C2PNT.RP|Reload Point|POINT|![](./images/GFFPPCR-------X.png)||
-|927||B|Friend|GFFPPCS-------X|G - F- PC S- -- -- -- X|TACGRP.FSUPP.PNT.C2PNT.SCP|Survey Control Point|POINT|![](./images/GFFPPCS-------X.png)||
-|928||B|Friend|GFFPPTN-------X|G - F- PT N- -- -- -- X|TACGRP.FSUPP.PNT.TGT.NUCTGT|Nuclear Target|POINT|![](./images/GFFPPTN-------X.png)||
-|929||B|Friend|GFFPPTS-------X|G - F- PT S- -- -- -- X|TACGRP.FSUPP.PNT.TGT.PTGT|Point/Single Target|POINT|![](./images/GFFPPTS-------X.png)||
-|930||B|Friend|GFGPAAF-------X|G - G - AA F- -- -- -- X|TACGRP.C2GM.AVN.ARS.SHRDEZ|Short-Range Air Defense Engagement Zone (Shoradez)|POINT|![](./images/GFGPAAF-------X.png)||
-|931||B|Friend|GFGPAAH-------X|G - G - AA H- -- -- -- X|TACGRP.C2GM.AVN.ARS.HIDACZ|High Density Airspace Control Zone (Hidacz)|POINT|![](./images/GFGPAAH-------X.png)||
-|932||B|Friend|GFGPAAMH------X|G - G - AA MH -- -- -- X|TACGRP.C2GM.AVN.ARS.MEZ.HAMEZ|High Altitude Mez|POINT|![](./images/GFGPAAMH------X.png)||
-|933||B|Friend|GFGPAAML------X|G - G - AA ML -- -- -- X|TACGRP.C2GM.AVN.ARS.MEZ.LAMEZ|Low Altitude Mez|POINT|![](./images/GFGPAAML------X.png)||
-|934||B|Friend|GFGPAAM-------X|G - G - AA M- -- -- -- X|TACGRP.C2GM.AVN.ARS.MEZ|Missile Engagement Zone (Mez)|POINT|![](./images/GFGPAAM-------X.png)||
-|935||B|Friend|GFGPAAR-------X|G - G - AA R- -- -- -- X|TACGRP.C2GM.AVN.ARS.ROZ|Restricted Operations Zone (Roz)|POINT|![](./images/GFGPAAR-------X.png)||
-|936||B|Friend|GFGPAAW-------X|G - G - AA W- -- -- -- X|TACGRP.C2GM.AVN.ARS.WFZ|Weapons Free Zone|POINT|![](./images/GFGPAAW-------X.png)||
-|937||B|Friend|GFGPALC-------X|G - G - AL C- -- -- -- X|TACGRP.C2GM.AVN.LNE.ACDR|Air Corridor|LINE|![](./images/GFGPALC-------X.png)||
-|938||B|Friend|GFGPALL-------X|G - G - AL L- -- -- -- X|TACGRP.C2GM.AVN.LNE.LLTR|Low Level Transit Route (Lltr)|LINE|![](./images/GFGPALL-------X.png)||
-|939||B|Friend|GFGPALM-------X|G - G - AL M- -- -- -- X|TACGRP.C2GM.AVN.LNE.MRR|Minimum Risk Route (Mrr)|LINE|![](./images/GFGPALM-------X.png)||
-|940||B|Friend|GFGPALS-------X|G - G - AL S- -- -- -- X|TACGRP.C2GM.AVN.LNE.SAAFR|Standard-Use Army Aircraft Flight Route (Saafr)|LINE|![](./images/GFGPALS-------X.png)||
-|941||B|Friend|GFGPALU-------X|G - G - AL U- -- -- -- X|TACGRP.C2GM.AVN.LNE.UAR|Unmanned Aircraft (Ua) Route|LINE|![](./images/GFGPALU-------X.png)||
-|942||B|Friend|GFGPAPC-------X|G - G - AP C- -- -- -- X|TACGRP.C2GM.AVN.PNT.COMMCP|Communications Checkpoint (Ccp)|POINT|![](./images/GFGPAPC-------X.png)||
-|943||B|Friend|GFGPAPD-------X|G - G - AP D- -- -- -- X|TACGRP.C2GM.AVN.PNT.DAPP|Downed Aircrew Pickup Point|POINT|![](./images/GFGPAPD-------X.png)||
-|944||B|Friend|GFGPAPP-------X|G - G - AP P- -- -- -- X|TACGRP.C2GM.AVN.PNT.ACP|Air Control Point (Acp)|POINT|![](./images/GFGPAPP-------X.png)||
-|945||B|Friend|GFGPAPU-------X|G - G - AP U- -- -- -- X|TACGRP.C2GM.AVN.PNT.PUP|Pull-Up Point (Pup)|POINT|![](./images/GFGPAPU-------X.png)||
-|946||B|Friend|GFGPDABP------X|G - G - DA BP -- -- -- X|TACGRP.C2GM.DEF.ARS.BTLPSN.PBNO|Prepared But Not Occupied|POINT|![](./images/GFGPDABP------X.png)||
-|947||B|Friend|GFGPDAB-------X|G - G - DA B- -- -- -- X|TACGRP.C2GM.DEF.ARS.BTLPSN|Battle Position|POINT|![](./images/GFGPDAB-------X.png)||
-|948||B|Friend|GFGPDAE-------X|G - G - DA E- -- -- -- X|TACGRP.C2GM.DEF.ARS.EMTARA|Engagement Area|AREA|![](./images/GFGPDAE-------X.png)||
-|949||B|Friend|GFGPDLF-------X|G - G - DL F- -- -- -- X|TACGRP.C2GM.DEF.LNE.FEBA|Forward Edge Of Battle Area (Feba)|LINE|![](./images/GFGPDLF-------X.png)||
-|950||B|Friend|GFGPDLP-------X|G - G - DL P- -- -- -- X|TACGRP.C2GM.DEF.LNE.PDF|Principal Direction Of Fire (Pdf)|LINE|![](./images/GFGPDLP-------X.png)||
-|951||B|Friend|GFGPDPOC------X|G - G - DP OC -- -- -- X|TACGRP.C2GM.DEF.PNT.OBSPST.CBTPST|Combat Outpost|POINT|![](./images/GFGPDPOC------X.png)||
-|952||B|Friend|GFGPDPOF------X|G - G - DP OF -- -- -- X|TACGRP.C2GM.DEF.PNT.OBSPST.FWDOP|Forward Observer Position|POINT|![](./images/GFGPDPOF------X.png)||
-|953||B|Friend|GFGPDPON------X|G - G - DP ON -- -- -- X|TACGRP.C2GM.DEF.PNT.OBSPST.CBRNOP|Cbrn Observation Post (Dismounted)|POINT|![](./images/GFGPDPON------X.png)||
-|954||B|Friend|GFGPDPOR------X|G - G - DP OR -- -- -- X|TACGRP.C2GM.DEF.PNT.OBSPST.RECON|Observation Post Occupied By Dismounted Scouts Or Reconnaissance|POINT|![](./images/GFGPDPOR------X.png)||
-|955||B|Friend|GFGPDPOS------X|G - G - DP OS -- -- -- X|TACGRP.C2GM.DEF.PNT.OBSPST.SOP|Sensor Outpost/Listening Post (Op/Lp)|POINT|![](./images/GFGPDPOS------X.png)||
-|956||B|Friend|GFGPDPO-------X|G - G - DP O- -- -- -- X|TACGRP.C2GM.DEF.PNT.OBSPST|Observation Post/Outpost|POINT|![](./images/GFGPDPO-------X.png)||
-|957||B|Friend|GFGPDPT-------X|G - G - DP T- -- -- -- X|TACGRP.C2GM.DEF.PNT.TGTREF|Target Reference Point (Trp)|POINT|![](./images/GFGPDPT-------X.png)||
-|958||B|Friend|GFGPGAA-------X|G - G - GA A- -- -- -- X|TACGRP.C2GM.GNL.ARS.ABYARA|Assembly Area|AREA|![](./images/GFGPGAA-------X.png)||
-|959||B|Friend|GFGPGAD-------X|G - G - GA D- -- -- -- X|TACGRP.C2GM.GNL.ARS.DRPZ|Drop Zone|POINT|![](./images/GFGPGAD-------X.png)||
-|960||B|Friend|GFGPGAE-------X|G - G - GA E- -- -- -- X|TACGRP.C2GM.GNL.ARS.EMTARA|Engagement Area|AREA|![](./images/GFGPGAE-------X.png)||
-|961||B|Friend|GFGPGAF-------X|G - G - GA F- -- -- -- X|TACGRP.C2GM.GNL.ARS.FTFDAR|Fortified Area|AREA|![](./images/GFGPGAF-------X.png)||
-|962||B|Friend|GFGPGAG-------X|G - G - GA G- -- -- -- X|TACGRP.C2GM.GNL.ARS.GENARA|General Area|AREA|![](./images/GFGPGAG-------X.png)||
-|963||B|Friend|GFGPGAL-------X|G - G - GA L- -- -- -- X|TACGRP.C2GM.GNL.ARS.LZ|Landing Zone (Lz)|POINT|![](./images/GFGPGAL-------X.png)||
-|964||B|Friend|GFGPGAP-------X|G - G - GA P- -- -- -- X|TACGRP.C2GM.GNL.ARS.PZ|Pickup Zone (Pz)|POINT|![](./images/GFGPGAP-------X.png)||
-|965||B|Friend|GFGPGAS-------X|G - G - GA S- -- -- -- X|TACGRP.C2GM.GNL.ARS.SRHARA|Search Area/Reconnaissance Area|LINE|![](./images/GFGPGAS-------X.png)||
-|966||B|Friend|GFGPGAX-------X|G - G - GA X- -- -- -- X|TACGRP.C2GM.GNL.ARS.EZ|Extraction Zone (Ez)|POINT|![](./images/GFGPGAX-------X.png)||
-|967||B|Friend|GFGPGAY-------X|G - G - GA Y- -- -- -- X|TACGRP.C2GM.GNL.ARS.LAARA|Limited Access Area|AREA|![](./images/GFGPGAY-------X.png)||
-|968||B|Friend|GFGPGAZ-------X|G - G - GA Z- -- -- -- X|TACGRP.C2GM.GNL.ARS.AIRFZ|Airfield Zone|POINT|![](./images/GFGPGAZ-------X.png)||
-|969||B|Friend|GFGPGLB-------X|G - G - GL B- -- -- -- X|TACGRP.C2GM.GNL.LNE.BNDS|Boundaries|LINE|![](./images/GFGPGLB-------X.png)||
-|970||B|Friend|GFGPGLC-------X|G - G - GL C- -- -- -- X|TACGRP.C2GM.GNL.LNE.LOC|Line Of Contact|LINE|![](./images/GFGPGLC-------X.png)||
-|971||B|Friend|GFGPGLF-------X|G - G - GL F- -- -- -- X|TACGRP.C2GM.GNL.LNE.FLOT|Forward Line Of Own Troops (Flot)|LINE|![](./images/GFGPGLF-------X.png)||
-|972||B|Friend|GFGPGLL-------X|G - G - GL L- -- -- -- X|TACGRP.C2GM.GNL.LNE.LITLNE|Light Line|LINE|![](./images/GFGPGLL-------X.png)||
-|973||B|Friend|GFGPGLP-------X|G - G - GL P- -- -- -- X|TACGRP.C2GM.GNL.LNE.PHELNE|Phase Line|LINE|![](./images/GFGPGLP-------X.png)||
-|974||B|Friend|GFGPGPAA------X|G - G - GP AA -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.ASBWF|Antisubmarine Warfare  Fixed Wing|POINT|![](./images/GFGPGPAA------X.png)||
-|975||B|Friend|GFGPGPAB------X|G - G - GP AB -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.SUWF|Sucap - Fixed Wing|POINT|![](./images/GFGPGPAB------X.png)||
-|976||B|Friend|GFGPGPAC------X|G - G - GP AC -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.SUWR|Sucap - Rotary Wing|POINT|![](./images/GFGPGPAC------X.png)||
-|977||B|Friend|GFGPGPAD------X|G - G - GP AD -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.MIWF|Miw - Fixed Wing|POINT|![](./images/GFGPGPAD------X.png)||
-|978||B|Friend|GFGPGPAE------X|G - G - GP AE -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.MIWR|Miw - Rotary Wing|POINT|![](./images/GFGPGPAE------X.png)||
-|979||B|Friend|GFGPGPAF------X|G - G - GP AF -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.UA|Unmanned Aerial System (Uas/Ua)|POINT|![](./images/GFGPGPAF------X.png)||
-|980||B|Friend|GFGPGPAG------X|G - G - GP AG -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.VTUA|Vtua|POINT|![](./images/GFGPGPAG------X.png)||
-|981||B|Friend|GFGPGPAH------X|G - G - GP AH -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.ASBWR|Antisubmarine Warfare  Rotary Wing|POINT|![](./images/GFGPGPAH------X.png)||
-|982||B|Friend|GFGPGPAI------X|G - G - GP AI -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.ORB|Orbit|POINT|![](./images/GFGPGPAI------X.png)||
-|983||B|Friend|GFGPGPAJ------X|G - G - GP AJ -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.ORBF8|Orbit - Figure Eight|POINT|![](./images/GFGPGPAJ------X.png)||
-|984||B|Friend|GFGPGPAK------X|G - G - GP AK -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.TAK|Tanking|POINT|![](./images/GFGPGPAK------X.png)||
-|985||B|Friend|GFGPGPAL------X|G - G - GP AL -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.RPH|Replenish|POINT|![](./images/GFGPGPAL------X.png)||
-|986||B|Friend|GFGPGPAM------X|G - G - GP AM -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.ORBRT|Orbit - Race Track|POINT|![](./images/GFGPGPAM------X.png)||
-|987||B|Friend|GFGPGPAN------X|G - G - GP AN -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.ORBRD|Orbit - Random  Closed|POINT|![](./images/GFGPGPAN------X.png)||
-|988||B|Friend|GFGPGPAO------X|G - G - GP AO -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.TMC|Tomcat|POINT|![](./images/GFGPGPAO------X.png)||
-|989||B|Friend|GFGPGPAP------X|G - G - GP AP -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.CAP|Combat Air Patrol (Cap)|POINT|![](./images/GFGPGPAP------X.png)||
-|990||B|Friend|GFGPGPAR------X|G - G - GP AR -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.RSC|Rescue|POINT|![](./images/GFGPGPAR------X.png)||
-|991||B|Friend|GFGPGPAS------X|G - G - GP AS -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.SKEIP|Strike Ip|POINT|![](./images/GFGPGPAS------X.png)||
-|992||B|Friend|GFGPGPAT------X|G - G - GP AT -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.TCN|Tacan|POINT|![](./images/GFGPGPAT------X.png)||
-|993||B|Friend|GFGPGPAW------X|G - G - GP AW -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL.ABNEW|Airborne Early Warning (Aew)|POINT|![](./images/GFGPGPAW------X.png)||
-|994||B|Friend|GFGPGPA-------X|G - G - GP A- -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTL|Air Control|POINT|![](./images/GFGPGPA-------X.png)||
-|995||B|Friend|GFGPGPBSA-----X|G - G - GP BS A- -- -- X|TACGRP.C2GM.GNL.PNT.UCTL.SBSTN.ASW|Asw Submarine Control Station|POINT|![](./images/GFGPGPBSA-----X.png)||
-|996||B|Friend|GFGPGPBS------X|G - G - GP BS -- -- -- X|TACGRP.C2GM.GNL.PNT.UCTL.SBSTN|Submarine Control Station|POINT|![](./images/GFGPGPBS------X.png)||
-|997||B|Friend|GFGPGPBUA-----X|G - G - GP BU A- -- -- X|TACGRP.C2GM.GNL.PNT.UCTL.UUV.ASW|Uuv - Antisubmarine Warfare Control Station|POINT|![](./images/GFGPGPBUA-----X.png)||
-|998||B|Friend|GFGPGPBUM-----X|G - G - GP BU M- -- -- X|TACGRP.C2GM.GNL.PNT.UCTL.UUV.MIW|Uuv - Mine Warfare Control Station|POINT|![](./images/GFGPGPBUM-----X.png)||
-|999||B|Friend|GFGPGPBUS-----X|G - G - GP BU S- -- -- X|TACGRP.C2GM.GNL.PNT.UCTL.UUV.SUW|Uuv - Surface Warfare Control Station|POINT|![](./images/GFGPGPBUS-----X.png)||
-|1000||B|Friend|GFGPGPBU------X|G - G - GP BU -- -- -- X|TACGRP.C2GM.GNL.PNT.UCTL.UUV|Unmanned Underwater Vehicle (Uuv) Control Station|POINT|![](./images/GFGPGPBU------X.png)||
-|1001||B|Friend|GFGPGPB-------X|G - G - GP B- -- -- -- X|TACGRP.C2GM.GNL.PNT.UCTL|Subsurface Control Station|POINT|![](./images/GFGPGPB-------X.png)||
-|1002||B|Friend|GFGPGPCA------X|G - G - GP CA -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.ASW|Asw Control Station|POINT|![](./images/GFGPGPCA------X.png)||
-|1003||B|Friend|GFGPGPCC------X|G - G - GP CC -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.RSC|Rescue Control Point|POINT|![](./images/GFGPGPCC------X.png)||
-|1004||B|Friend|GFGPGPCE------X|G - G - GP CE -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.REP|Replenishment Control Point|POINT|![](./images/GFGPGPCE------X.png)||
-|1005||B|Friend|GFGPGPCM------X|G - G - GP CM -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.MIW|Miw Control Station|POINT|![](./images/GFGPGPCM------X.png)||
-|1006||B|Friend|GFGPGPCN------X|G - G - GP CN -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.NCBTT|Noncombatant Control Station|POINT|![](./images/GFGPGPCN------X.png)||
-|1007||B|Friend|GFGPGPCP------X|G - G - GP CP -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.PKT|Picket Control Station|POINT|![](./images/GFGPGPCP------X.png)||
-|1008||B|Friend|GFGPGPCR------X|G - G - GP CR -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.RDV|Rendezvous Control Point|POINT|![](./images/GFGPGPCR------X.png)||
-|1009||B|Friend|GFGPGPCS------X|G - G - GP CS -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.SUW|Suw Control Station|POINT|![](./images/GFGPGPCS------X.png)||
-|1010||B|Friend|GFGPGPCUA-----X|G - G - GP CU A- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.USV.ASW|Usv - Antisubmarine Warfare Control Station|POINT|![](./images/GFGPGPCUA-----X.png)||
-|1011||B|Friend|GFGPGPCUM-----X|G - G - GP CU M- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.USV.MIW|Usv - Mine Warfare Control Station|POINT|![](./images/GFGPGPCUM-----X.png)||
-|1012||B|Friend|GFGPGPCUR-----X|G - G - GP CU R- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.USV.RMV|Remote Multimission Vehicle (Rmv) Usv Control Station|POINT|![](./images/GFGPGPCUR-----X.png)||
-|1013||B|Friend|GFGPGPCUS-----X|G - G - GP CU S- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.USV.SUW|Usv - Surface Warfare Control Station|POINT|![](./images/GFGPGPCUS-----X.png)||
-|1014||B|Friend|GFGPGPCU------X|G - G - GP CU -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL.USV|Unmanned Surface Vehicle (Usv) Control Station|POINT|![](./images/GFGPGPCU------X.png)||
-|1015||B|Friend|GFGPGPC-------X|G - G - GP C- -- -- -- X|TACGRP.C2GM.GNL.PNT.SCTL|Sea Surface Control Station|POINT|![](./images/GFGPGPC-------X.png)||
-|1016||B|Friend|GFGPGPF-------X|G - G - GP F- -- -- -- X|TACGRP.C2GM.GNL.PNT.FRMN|Formation|POINT|![](./images/GFGPGPF-------X.png)||
-|1017||B|Friend|GFGPGPHA------X|G - G - GP HA -- -- -- X|TACGRP.C2GM.GNL.PNT.HBR.PNTA|Point A|POINT|![](./images/GFGPGPHA------X.png)||
-|1018||B|Friend|GFGPGPHQ------X|G - G - GP HQ -- -- -- X|TACGRP.C2GM.GNL.PNT.HBR.PNTQ|Point Q|POINT|![](./images/GFGPGPHQ------X.png)||
-|1019||B|Friend|GFGPGPH-------X|G - G - GP H- -- -- -- X|TACGRP.C2GM.GNL.PNT.HBR|Harbor (General)|POINT|![](./images/GFGPGPH-------X.png)||
-|1020||B|Friend|GFGPGPHX------X|G - G - GP HX -- -- -- X|TACGRP.C2GM.GNL.PNT.HBR.PNTX|Point X|POINT|![](./images/GFGPGPHX------X.png)||
-|1021||B|Friend|GFGPGPHY------X|G - G - GP HY -- -- -- X|TACGRP.C2GM.GNL.PNT.HBR.PNTY|Point Y|POINT|![](./images/GFGPGPHY------X.png)||
-|1022||B|Friend|GFGPGPOD------X|G - G - GP OD -- -- -- X|TACGRP.C2GM.GNL.PNT.RTE.DVSN|Diversions|POINT|![](./images/GFGPGPOD------X.png)||
-|1023||B|Friend|GFGPGPOP------X|G - G - GP OP -- -- -- X|TACGRP.C2GM.GNL.PNT.RTE.PIM|Pim|POINT|![](./images/GFGPGPOP------X.png)||
-|1024||B|Friend|GFGPGPOR------X|G - G - GP OR -- -- -- X|TACGRP.C2GM.GNL.PNT.RTE.PNTR|Point R|POINT|![](./images/GFGPGPOR------X.png)||
-|1025||B|Friend|GFGPGPOW------X|G - G - GP OW -- -- -- X|TACGRP.C2GM.GNL.PNT.RTE.WAP|Waypoint|POINT|![](./images/GFGPGPOW------X.png)||
-|1026||B|Friend|GFGPGPO-------X|G - G - GP O- -- -- -- X|TACGRP.C2GM.GNL.PNT.RTE|Route|POINT|![](./images/GFGPGPO-------X.png)||
-|1027||B|Friend|GFGPGPOZ------X|G - G - GP OZ -- -- -- X|TACGRP.C2GM.GNL.PNT.RTE.RDV|Rendezvous|POINT|![](./images/GFGPGPOZ------X.png)||
-|1028||B|Friend|GFGPGPPA------X|G - G - GP PA -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.AMNPNT|Amnesty Point|POINT|![](./images/GFGPGPPA------X.png)||
-|1029||B|Friend|GFGPGPPC------X|G - G - GP PC -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.CONPNT|Contact Point|POINT|![](./images/GFGPGPPC------X.png)||
-|1030||B|Friend|GFGPGPPD------X|G - G - GP PD -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.DCNPNT|Decision Point|POINT|![](./images/GFGPGPPD------X.png)||
-|1031||B|Friend|GFGPGPPE------X|G - G - GP PE -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.RELPNT|Release Point|POINT|![](./images/GFGPGPPE------X.png)||
-|1032||B|Friend|GFGPGPPK------X|G - G - GP PK -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.CHKPNT|Check Point|POINT|![](./images/GFGPGPPK------X.png)||
-|1033||B|Friend|GFGPGPPL------X|G - G - GP PL -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.LNKUPT|Linkup Point|POINT|![](./images/GFGPGPPL------X.png)||
-|1034||B|Friend|GFGPGPPO------X|G - G - GP PO -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.CRDPNT|Coordination Point|POINT|![](./images/GFGPGPPO------X.png)||
-|1035||B|Friend|GFGPGPPP------X|G - G - GP PP -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.PSSPNT|Passage Point|POINT|![](./images/GFGPGPPP------X.png)||
-|1036||B|Friend|GFGPGPPR------X|G - G - GP PR -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.RAYPNT|Rally Point|POINT|![](./images/GFGPGPPR------X.png)||
-|1037||B|Friend|GFGPGPPS------X|G - G - GP PS -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.STRPNT|Start Point|POINT|![](./images/GFGPGPPS------X.png)||
-|1038||B|Friend|GFGPGPPW------X|G - G - GP PW -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT.WAP|Waypoint|POINT|![](./images/GFGPGPPW------X.png)||
-|1039||B|Friend|GFGPGPP-------X|G - G - GP P- -- -- -- X|TACGRP.C2GM.GNL.PNT.ACTPNT|Action Points (General)|POINT|![](./images/GFGPGPP-------X.png)||
-|1040||B|Friend|GFGPGPRC------X|G - G - GP RC -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.CRDRTB|Corridor Tab|POINT|![](./images/GFGPGPRC------X.png)||
-|1041||B|Friend|GFGPGPRD------X|G - G - GP RD -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.DLRP|Dlrp|POINT|![](./images/GFGPGPRD------X.png)||
-|1042||B|Friend|GFGPGPRI------X|G - G - GP RI -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.PNTINR|Point Of Interest|POINT|![](./images/GFGPGPRI------X.png)||
-|1043||B|Friend|GFGPGPRM------X|G - G - GP RM -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.MRSH|Marshall Point|POINT|![](./images/GFGPGPRM------X.png)||
-|1044||B|Friend|GFGPGPRN------X|G - G - GP RN -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.NAVREF|Navigational Reference Point|POINT|![](./images/GFGPGPRN------X.png)||
-|1045||B|Friend|GFGPGPRP------X|G - G - GP RP -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.PIM|Point Of Intended Movement (Pim)|POINT|![](./images/GFGPGPRP------X.png)||
-|1046||B|Friend|GFGPGPRS------X|G - G - GP RS -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.SPLPNT|Special Point|POINT|![](./images/GFGPGPRS------X.png)||
-|1047||B|Friend|GFGPGPRW------X|G - G - GP RW -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT.WAP|Waypoint|POINT|![](./images/GFGPGPRW------X.png)||
-|1048||B|Friend|GFGPGPR-------X|G - G - GP R- -- -- -- X|TACGRP.C2GM.GNL.PNT.REFPNT|Reference Point|POINT|![](./images/GFGPGPR-------X.png)||
-|1049||B|Friend|GFGPGPUSA-----X|G - G - GP US A- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SRH.ARA|Search Area|POINT|![](./images/GFGPGPUSA-----X.png)||
-|1050||B|Friend|GFGPGPUSC-----X|G - G - GP US C- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SRH.CTR|Search Center|POINT|![](./images/GFGPGPUSC-----X.png)||
-|1051||B|Friend|GFGPGPUSD-----X|G - G - GP US D- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SRH.DIPPSN|Dip Position|POINT|![](./images/GFGPGPUSD-----X.png)||
-|1052||B|Friend|GFGPGPUS------X|G - G - GP US -- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SRH|Search|POINT|![](./images/GFGPGPUS------X.png)||
-|1053||B|Friend|GFGPGPUUB-----X|G - G - GP UU B- -- -- X|TACGRP.C2GM.GNL.PNT.USW.UH2.BCON|Brief Contact|POINT|![](./images/GFGPGPUUB-----X.png)||
-|1054||B|Friend|GFGPGPUUD-----X|G - G - GP UU D- -- -- X|TACGRP.C2GM.GNL.PNT.USW.UH2.DTM|Datum|POINT|![](./images/GFGPGPUUD-----X.png)||
-|1055||B|Friend|GFGPGPUUL-----X|G - G - GP UU L- -- -- X|TACGRP.C2GM.GNL.PNT.USW.UH2.LCON|Lost Contact|POINT|![](./images/GFGPGPUUL-----X.png)||
-|1056||B|Friend|GFGPGPUUS-----X|G - G - GP UU S- -- -- X|TACGRP.C2GM.GNL.PNT.USW.UH2.SNK|Sinker|POINT|![](./images/GFGPGPUUS-----X.png)||
-|1057||B|Friend|GFGPGPUYA-----X|G - G - GP UY A- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.ANM|Anm|POINT|![](./images/GFGPGPUYA-----X.png)||
-|1058||B|Friend|GFGPGPUYB-----X|G - G - GP UY B- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.BT|Bathythermograph Transmitting (Bt)|POINT|![](./images/GFGPGPUYB-----X.png)||
-|1059||B|Friend|GFGPGPUYC-----X|G - G - GP UY C- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.CASS|Command Active Sonobuoy System (Cass)|POINT|![](./images/GFGPGPUYC-----X.png)||
-|1060||B|Friend|GFGPGPUYD-----X|G - G - GP UY D- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.DIFAR|Directional Frequency Analyzing And Recording (Difar)|POINT|![](./images/GFGPGPUYD-----X.png)||
-|1061||B|Friend|GFGPGPUYK-----X|G - G - GP UY K- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.KGP|Kingpin|POINT|![](./images/GFGPGPUYK-----X.png)||
-|1062||B|Friend|GFGPGPUYL-----X|G - G - GP UY L- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.LOFAR|Low Frequency Analyzing And Recording (Lofar)|POINT|![](./images/GFGPGPUYL-----X.png)||
-|1063||B|Friend|GFGPGPUYP-----X|G - G - GP UY P- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.PTNCTR|Pattern Center|POINT|![](./images/GFGPGPUYP-----X.png)||
-|1064||B|Friend|GFGPGPUYR-----X|G - G - GP UY R- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.RO|Range Only (Ro)|POINT|![](./images/GFGPGPUYR-----X.png)||
-|1065||B|Friend|GFGPGPUYS-----X|G - G - GP UY S- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.DICASS|Directional Command Active Sonobuoy System (Dicass)|POINT|![](./images/GFGPGPUYS-----X.png)||
-|1066||B|Friend|GFGPGPUYT-----X|G - G - GP UY T- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.ATAC|Atac|POINT|![](./images/GFGPGPUYT-----X.png)||
-|1067||B|Friend|GFGPGPUYV-----X|G - G - GP UY V- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY.VLAD|Vertical Line Array Difar (Vlad)|POINT|![](./images/GFGPGPUYV-----X.png)||
-|1068||B|Friend|GFGPGPUYX------|G - G - GP UY X- -- -- -|TACGRP.C2GM.GNL.PNT.USW.SNBY.EXP|Sonobuoy-Expired|POINT|![](./images/GFGPGPUYX------.png)||
-|1069||B|Friend|GFGPGPUY------X|G - G - GP UY -- -- -- X|TACGRP.C2GM.GNL.PNT.USW.SNBY|Sonobuoy|POINT|![](./images/GFGPGPUY------X.png)||
-|1070||B|Friend|GFGPGPWA------X|G - G - GP WA -- -- -- X|TACGRP.C2GM.GNL.PNT.WPN.AIMPNT|Aim Point|POINT|![](./images/GFGPGPWA------X.png)||
-|1071||B|Friend|GFGPGPWD------X|G - G - GP WD -- -- -- X|TACGRP.C2GM.GNL.PNT.WPN.DRPPNT|Drop Point|POINT|![](./images/GFGPGPWD------X.png)||
-|1072||B|Friend|GFGPGPWE------X|G - G - GP WE -- -- -- X|TACGRP.C2GM.GNL.PNT.WPN.ENTPNT|Entry Point|POINT|![](./images/GFGPGPWE------X.png)||
-|1073||B|Friend|GFGPGPWG------X|G - G - GP WG -- -- -- X|TACGRP.C2GM.GNL.PNT.WPN.GRDZRO|Ground Zero|POINT|![](./images/GFGPGPWG------X.png)||
-|1074||B|Friend|GFGPGPWI------X|G - G - GP WI -- -- -- X|TACGRP.C2GM.GNL.PNT.WPN.IMTPNT|Impact Point|POINT|![](./images/GFGPGPWI------X.png)||
-|1075||B|Friend|GFGPGPWM------X|G - G - GP WM -- -- -- X|TACGRP.C2GM.GNL.PNT.WPN.MSLPNT|Msl Detect Point|POINT|![](./images/GFGPGPWM------X.png)||
-|1076||B|Friend|GFGPGPWP------X|G - G - GP WP -- -- -- X|TACGRP.C2GM.GNL.PNT.WPN.PIPNT|Predicted Impact Point|POINT|![](./images/GFGPGPWP------X.png)||
-|1077||B|Friend|GFGPOAA-------X|G - G - OA A- -- -- -- X|TACGRP.C2GM.OFF.ARS.ASTPSN|Assault Position|AREA|![](./images/GFGPOAA-------X.png)||
-|1078||B|Friend|GFGPOAF-------X|G - G - OA F- -- -- -- X|TACGRP.C2GM.OFF.ARS.AFP|Attack By Fire Position|AREA|![](./images/GFGPOAF-------X.png)||
-|1079||B|Friend|GFGPOAK-------X|G - G - OA K- -- -- -- X|TACGRP.C2GM.OFF.ARS.ATKPSN|Attack Position|AREA|![](./images/GFGPOAK-------X.png)||
-|1080||B|Friend|GFGPOAO-------X|G - G - OA O- -- -- -- X|TACGRP.C2GM.OFF.ARS.OBJ|Objective|AREA|![](./images/GFGPOAO-------X.png)||
-|1081||B|Friend|GFGPOAP-------X|G - G - OA P- -- -- -- X|TACGRP.C2GM.OFF.ARS.PBX|Penetration Box|AREA|![](./images/GFGPOAP-------X.png)||
-|1082||B|Friend|GFGPOAS-------X|G - G - OA S- -- -- -- X|TACGRP.C2GM.OFF.ARS.SFP|Support By Fire Position|LINE|![](./images/GFGPOAS-------X.png)||
-|1083||B|Friend|GFGPOLAA------X|G - G - OL AA -- -- -- X|TACGRP.C2GM.OFF.LNE.AXSADV.ABN|Airborne|LINE|![](./images/GFGPOLAA------X.png)||
-|1084||B|Friend|GFGPOLAGM-----X|G - G - OL AG M- -- -- X|TACGRP.C2GM.OFF.LNE.AXSADV.GRD.MANATK|Main Attack|LINE|![](./images/GFGPOLAGM-----X.png)||
-|1085||B|Friend|GFGPOLAGS-----X|G - G - OL AG S- -- -- X|TACGRP.C2GM.OFF.LNE.AXSADV.GRD.SUPATK|Supporting Attack|LINE|![](./images/GFGPOLAGS-----X.png)||
-|1086||B|Friend|GFGPOLAR------X|G - G - OL AR -- -- -- X|TACGRP.C2GM.OFF.LNE.AXSADV.ATK|Attack  Rotary Wingv|LINE|![](./images/GFGPOLAR------X.png)||
-|1087||B|Friend|GFGPOLAV------X|G - G - OL AV -- -- -- X|TACGRP.C2GM.OFF.LNE.AXSADV.AVN|Aviation|LINE|![](./images/GFGPOLAV------X.png)||
-|1088||B|Friend|GFGPOLC-------X|G - G - OL C- -- -- -- X|TACGRP.C2GM.OFF.LNE.LDLC|Line Of Departure/Line Of Contact (Ld/Lc)|LINE|![](./images/GFGPOLC-------X.png)||
-|1089||B|Friend|GFGPOLF-------X|G - G - OL F- -- -- -- X|TACGRP.C2GM.OFF.LNE.FCL|Final Coordination Line|LINE|![](./images/GFGPOLF-------X.png)||
-|1090||B|Friend|GFGPOLI-------X|G - G - OL I- -- -- -- X|TACGRP.C2GM.OFF.LNE.INFNLE|Infiltration Lane|LINE|![](./images/GFGPOLI-------X.png)||
-|1091||B|Friend|GFGPOLKA------X|G - G - OL KA -- -- -- X|TACGRP.C2GM.OFF.LNE.DIRATK.AVN|Aviation|LINE|![](./images/GFGPOLKA------X.png)||
-|1092||B|Friend|GFGPOLKGM-----X|G - G - OL KG M- -- -- X|TACGRP.C2GM.OFF.LNE.DIRATK.GRD.MANATK|Main Attack|LINE|![](./images/GFGPOLKGM-----X.png)||
-|1093||B|Friend|GFGPOLKGS-----X|G - G - OL KG S- -- -- X|TACGRP.C2GM.OFF.LNE.DIRATK.GRD.SUPATK|Supporting Attack|LINE|![](./images/GFGPOLKGS-----X.png)||
-|1094||B|Friend|GFGPOLL-------X|G - G - OL L- -- -- -- X|TACGRP.C2GM.OFF.LNE.LMTADV|Limit Of Advance|LINE|![](./images/GFGPOLL-------X.png)||
-|1095||B|Friend|GFGPOLP-------X|G - G - OL P- -- -- -- X|TACGRP.C2GM.OFF.LNE.PLD|Probable Line Of Deployment (Pld)|LINE|![](./images/GFGPOLP-------X.png)||
-|1096||B|Friend|GFGPOLT-------X|G - G - OL T- -- -- -- X|TACGRP.C2GM.OFF.LNE.LD|Line Of Departure|LINE|![](./images/GFGPOLT-------X.png)||
-|1097||B|Friend|GFGPOPP-------X|G - G - OP P- -- -- -- X|TACGRP.C2GM.OFF.PNT.PNTD|Point Of Departure|POINT|![](./images/GFGPOPP-------X.png)||
-|1098||B|Friend|GFGPPA--------X|G - G - PA -- -- -- -- X|TACGRP.C2GM.DCPN.AAFF|Axis Of Advance For Feint|POINT|![](./images/GFGPPA--------X.png)||
-|1099||B|Friend|GFGPPC--------X|G - G - PC -- -- -- -- X|TACGRP.C2GM.DCPN.DMYMD|Dummy Minefield (Dynamic)|POINT|![](./images/GFGPPC--------X.png)||
-|1100||B|Friend|GFGPPD--------X|G - G - PD -- -- -- -- X|TACGRP.C2GM.DCPN.DMY|Dummy (Deception/Decoy)|POINT|![](./images/GFGPPD--------X.png)||
-|1101||B|Friend|GFGPPF--------X|G - G - PF -- -- -- -- X|TACGRP.C2GM.DCPN.DAFF|Direction Of Attack For Feint|POINT|![](./images/GFGPPF--------X.png)||
-|1102||B|Friend|GFGPPM--------X|G - G - PM -- -- -- -- X|TACGRP.C2GM.DCPN.DMA|Decoy Mined Area|AREA|![](./images/GFGPPM--------X.png)||
-|1103||B|Friend|GFGPPN--------X|G - G - PN -- -- -- -- X|TACGRP.C2GM.DCPN.DMYMS|Dummy Minefield (Static)|POINT|![](./images/GFGPPN--------X.png)||
-|1104||B|Friend|GFGPPY--------X|G - G - PY -- -- -- -- X|TACGRP.C2GM.DCPN.DMAF|Decoy Mined Area  Fenced|AREA|![](./images/GFGPPY--------X.png)||
-|1105||B|Friend|GFGPSAA-------X|G - G - SA A- -- -- -- X|TACGRP.C2GM.SPL.ARA.AHD|Airhead|AREA|![](./images/GFGPSAA-------X.png)||
-|1106||B|Friend|GFGPSAE-------X|G - G - SA E- -- -- -- X|TACGRP.C2GM.SPL.ARA.ENCMT|Encirclement|AREA|![](./images/GFGPSAE-------X.png)||
-|1107||B|Friend|GFGPSAN-------X|G - G - SA N- -- -- -- X|TACGRP.C2GM.SPL.ARA.NAI|Named Area Of Interest (Nai)|AREA|![](./images/GFGPSAN-------X.png)||
-|1108||B|Friend|GFGPSAO-------X|G - G - SA O- -- -- -- X|TACGRP.C2GM.SPL.ARA.AOO|Area Of Operations (Ao)|AREA|![](./images/GFGPSAO-------X.png)||
-|1109||B|Friend|GFGPSAT-------X|G - G - SA T- -- -- -- X|TACGRP.C2GM.SPL.ARA.TAI|Targeted Area Of Interest (Tai)|AREA|![](./images/GFGPSAT-------X.png)||
-|1110||B|Friend|GFGPSLA-------X|G - G - SL A- -- -- -- X|TACGRP.C2GM.SPL.LNE.AMB|Ambush|LINE|![](./images/GFGPSLA-------X.png)||
-|1111||B|Friend|GFGPSLB-------X|G - G - SL B- -- -- -- X|TACGRP.C2GM.SPL.LNE.BRGH|Bridgehead|LINE|![](./images/GFGPSLB-------X.png)||
-|1112||B|Friend|GFGPSLH-------X|G - G - SL H- -- -- -- X|TACGRP.C2GM.SPL.LNE.HGL|Holding Line|LINE|![](./images/GFGPSLH-------X.png)||
-|1113||B|Friend|GFGPSLR-------X|G - G - SL R- -- -- -- X|TACGRP.C2GM.SPL.LNE.REL|Release Line|LINE|![](./images/GFGPSLR-------X.png)||
-|1114||B|Friend|GFMPBCA-------X|G - M- BC A- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.ASTCA|Assault Crossing Area|LINE|![](./images/GFMPBCA-------X.png)||
-|1115||B|Friend|GFMPBCB-------X|G - M- BC B- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.BRG|Bridge Or Gap|LINE|![](./images/GFMPBCB-------X.png)||
-|1116||B|Friend|GFMPBCD-------X|G - M- BC D- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRDDFT|Ford Difficult|LINE|![](./images/GFMPBCD-------X.png)||
-|1117||B|Friend|GFMPBCE-------X|G - M- BC E- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRDESY|Ford Easy|LINE|![](./images/GFMPBCE-------X.png)||
-|1118||B|Friend|GFMPBCF-------X|G - M- BC F- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRY|Ferry|LINE|![](./images/GFMPBCF-------X.png)||
-|1119||B|Friend|GFMPBCL-------X|G - M- BC L- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.LANE|Lane|LINE|![](./images/GFMPBCL-------X.png)||
-|1120||B|Friend|GFMPBCP-------X|G - M- BC P- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.ERP|Engineer Regulating Point|LINE|![](./images/GFMPBCP-------X.png)||
-|1121||B|Friend|GFMPBCR-------X|G - M- BC R- -- -- -- X|TACGRP.MOBSU.OBSTBP.CSGSTE.RFT|Raft Site|LINE|![](./images/GFMPBCR-------X.png)||
-|1122||B|Friend|GFMPBDD-------X|G - M- BD D- -- -- -- X|TACGRP.MOBSU.OBSTBP.DFTY.DFT|Bypass Difficult|LINE|![](./images/GFMPBDD-------X.png)||
-|1123||B|Friend|GFMPBDE-------X|G - M- BD E- -- -- -- X|TACGRP.MOBSU.OBSTBP.DFTY.ESY|Bypass Easy|LINE|![](./images/GFMPBDE-------X.png)||
-|1124||B|Friend|GFMPBDI-------X|G - M- BD I- -- -- -- X|TACGRP.MOBSU.OBSTBP.DFTY.IMP|Bypass Impossible|LINE|![](./images/GFMPBDI-------X.png)||
-|1125||B|Friend|GFMPNB--------X|G - M- NB -- -- -- -- X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|![](./images/GFMPNB--------X.png)||
-|1126||B|Friend|GFMPNC--------X|G - M- NC -- -- -- -- X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|![](./images/GFMPNC--------X.png)||
-|1127||B|Friend|GFMPNDA-------X|G - M- ND A- -- -- -- X|TACGRP.MOBSU.CBRN.DECONP.ALTUSP|Alternate Decon Site/Point (Unspecified)|POINT|![](./images/GFMPNDA-------X.png)||
-|1128||B|Friend|GFMPNDB-------X|G - M- ND B- -- -- -- X|TACGRP.MOBSU.CBRN.DECONP.EQTTRP|Decon Site/Point (Equipment And Troops)|POINT|![](./images/GFMPNDB-------X.png)||
-|1129||B|Friend|GFMPNDD-------X|G - M- ND D- -- -- -- X|TACGRP.MOBSU.CBRN.DECONP.TRGH|Decon Site/Point (Thorough Decontamination)|POINT|![](./images/GFMPNDD-------X.png)||
-|1130||B|Friend|GFMPNDE-------X|G - M- ND E- -- -- -- X|TACGRP.MOBSU.CBRN.DECONP.EQT|Decon Site/Point (Equipment)|POINT|![](./images/GFMPNDE-------X.png)||
-|1131||B|Friend|GFMPNDO-------X|G - M- ND O- -- -- -- X|TACGRP.MOBSU.CBRN.DECONP.OPDECN|Decon Site/Point (Operational Decontamination)|POINT|![](./images/GFMPNDO-------X.png)||
-|1132||B|Friend|GFMPNDP-------X|G - M- ND P- -- -- -- X|TACGRP.MOBSU.CBRN.DECONP.USP|Decon Site/Point (Unspecified)|POINT|![](./images/GFMPNDP-------X.png)||
-|1133||B|Friend|GFMPNDT-------X|G - M- ND T- -- -- -- X|TACGRP.MOBSU.CBRN.DECONP.TRP|Decon Site/Point (Troops)|POINT|![](./images/GFMPNDT-------X.png)||
-|1134||B|Friend|GFMPNEB-------X|G - M- NE B- -- -- -- X|TACGRP.MOBSU.CBRN.REEVNT.BIO|Biological|POINT|![](./images/GFMPNEB-------X.png)||
-|1135||B|Friend|GFMPNEC-------X|G - M- NE C- -- -- -- X|TACGRP.MOBSU.CBRN.REEVNT.CML|Chemical|POINT|![](./images/GFMPNEC-------X.png)||
-|1136||B|Friend|GFMPNF--------X|G - M- NF -- -- -- -- X|TACGRP.MOBSU.CBRN.FAOTP|Fallout Producing|POINT|![](./images/GFMPNF--------X.png)||
-|1137||B|Friend|GFMPNL--------X|G - M- NL -- -- -- -- X|TACGRP.MOBSU.CBRN.DRCL|Dose Rate Contour Lines|AREA|![](./images/GFMPNL--------X.png)||
-|1138||B|Friend|GFMPNM--------X|G - M- NM -- -- -- -- X|TACGRP.MOBSU.CBRN.MSDZ|Minimum Safe Distance Zones|POINT|![](./images/GFMPNM--------X.png)||
-|1139||B|Friend|GFMPNR--------X|G - M- NR -- -- -- -- X|TACGRP.MOBSU.CBRN.RADA|Radioactive Area|AREA|![](./images/GFMPNR--------X.png)||
-|1140||B|Friend|GFMPNZ--------X|G - M- NZ -- -- -- -- X|TACGRP.MOBSU.CBRN.NDGZ|Nuclear Detonations Ground Zero|POINT|![](./images/GFMPNZ--------X.png)||
-|1141||B|Friend|GFMPOADC------X|G - M- OA DC -- -- -- X|TACGRP.MOBSU.OBST.ATO.ATD.ATDC|Complete|LINE|![](./images/GFMPOADC------X.png)||
-|1142||B|Friend|GFMPOADU------X|G - M- OA DU -- -- -- X|TACGRP.MOBSU.OBST.ATO.ATD.ATDUC|Under Construction|LINE|![](./images/GFMPOADU------X.png)||
-|1143||B|Friend|GFMPOAOF------X|G - M- OA OF -- -- -- X|TACGRP.MOBSU.OBST.ATO.TDTSM.FIXPFD|Fixed And Prefabricated|POINT|![](./images/GFMPOAOF------X.png)||
-|1144||B|Friend|GFMPOAOM------X|G - M- OA OM -- -- -- X|TACGRP.MOBSU.OBST.ATO.TDTSM.MVB|Moveable|POINT|![](./images/GFMPOAOM------X.png)||
-|1145||B|Friend|GFMPOAOP------X|G - M- OA OP -- -- -- X|TACGRP.MOBSU.OBST.ATO.TDTSM.MVBPFD|Moveable And Prefabricated|POINT|![](./images/GFMPOAOP------X.png)||
-|1146||B|Friend|GFMPOAR-------X|G - M- OA R- -- -- -- X|TACGRP.MOBSU.OBST.ATO.ATDATM|Antitank Ditch Reinforced With Antitank Mines|LINE|![](./images/GFMPOAR-------X.png)||
-|1147||B|Friend|GFMPOAW-------X|G - M- OA W- -- -- -- X|TACGRP.MOBSU.OBST.ATO.ATW|Antitank Wall|LINE|![](./images/GFMPOAW-------X.png)||
-|1148||B|Friend|GFMPOB--------X|G - M- OB -- -- -- -- X|TACGRP.MOBSU.OBST.BBY|Booby Trap|POINT|![](./images/GFMPOB--------X.png)||
-|1149||B|Friend|GFMPOEB-------X|G - M- OE B- -- -- -- X|TACGRP.MOBSU.OBST.OBSEFT.BLK|Block|LINE|![](./images/GFMPOEB-------X.png)||
-|1150||B|Friend|GFMPOED-------X|G - M- OE D- -- -- -- X|TACGRP.MOBSU.OBST.OBSEFT.DRT|Disrupt|LINE|![](./images/GFMPOED-------X.png)||
-|1151||B|Friend|GFMPOEF-------X|G - M- OE F- -- -- -- X|TACGRP.MOBSU.OBST.OBSEFT.FIX|Fix|LINE|![](./images/GFMPOEF-------X.png)||
-|1152||B|Friend|GFMPOET-------X|G - M- OE T- -- -- -- X|TACGRP.MOBSU.OBST.OBSEFT.TUR|Turn|LINE|![](./images/GFMPOET-------X.png)||
-|1153||B|Friend|GFMPOFA-------X|G - M- OF A- -- -- -- X|TACGRP.MOBSU.OBST.MNEFLD.MNDARA|Mined Area|AREA|![](./images/GFMPOFA-------X.png)||
-|1154||B|Friend|GFMPOFD-------X|G - M- OF D- -- -- -- X|TACGRP.MOBSU.OBST.MNEFLD.DYN|Dynamic Depiction|AREA|![](./images/GFMPOFD-------X.png)||
-|1155||B|Friend|GFMPOFG-------X|G - M- OF G- -- -- -- X|TACGRP.MOBSU.OBST.MNEFLD.GAP|Gap|LINE|![](./images/GFMPOFG-------X.png)||
-|1156||B|Friend|GFMPOFS-------X|G - M- OF S- -- -- -- X|TACGRP.MOBSU.OBST.MNEFLD.STC|Static Depiction|POINT|![](./images/GFMPOFS-------X.png)||
-|1157||B|Friend|GFMPOGB-------X|G - M- OG B- -- -- -- X|TACGRP.MOBSU.OBST.GNL.BLT|Belt|AREA|![](./images/GFMPOGB-------X.png)||
-|1158||B|Friend|GFMPOGF-------X|G - M- OG F- -- -- -- X|TACGRP.MOBSU.OBST.GNL.OFA|Obstacle Free Area|AREA|![](./images/GFMPOGF-------X.png)||
-|1159||B|Friend|GFMPOGL-------X|G - M- OG L- -- -- -- X|TACGRP.MOBSU.OBST.GNL.LNE|Line|LINE|![](./images/GFMPOGL-------X.png)||
-|1160||B|Friend|GFMPOGR-------X|G - M- OG R- -- -- -- X|TACGRP.MOBSU.OBST.GNL.ORA|Obstacle Restricted Area|AREA|![](./images/GFMPOGR-------X.png)||
-|1161||B|Friend|GFMPOGZ-------X|G - M- OG Z- -- -- -- X|TACGRP.MOBSU.OBST.GNL.Z|Zone|AREA|![](./images/GFMPOGZ-------X.png)||
-|1162||B|Friend|GFMPOHO-------X|G - M- OH O- -- -- -- X|TACGRP.MOBSU.OBST.AVN.OHWIRE|Overhead Wire/Power Line|LINE|![](./images/GFMPOHO-------X.png)||
-|1163||B|Friend|GFMPOHTH------X|G - M- OH TH -- -- -- X|TACGRP.MOBSU.OBST.AVN.TWR.HIGH|High|POINT|![](./images/GFMPOHTH------X.png)||
-|1164||B|Friend|GFMPOHTL------X|G - M- OH TL -- -- -- X|TACGRP.MOBSU.OBST.AVN.TWR.LOW|Low|POINT|![](./images/GFMPOHTL------X.png)||
-|1165||B|Friend|GFMPOMC-------X|G - M- OM C- -- -- -- X|TACGRP.MOBSU.OBST.MNE.MCLST|Mine Cluster|LINE|![](./images/GFMPOMC-------X.png)||
-|1166||B|Friend|GFMPOMD-------X|G - M- OM D- -- -- -- X|TACGRP.MOBSU.OBST.MNE.ATMAHD|Antitank Mine With Antihandling Device|POINT|![](./images/GFMPOMD-------X.png)||
-|1167||B|Friend|GFMPOME-------X|G - M- OM E- -- -- -- X|TACGRP.MOBSU.OBST.MNE.ATMDIR|Antitank Mine (Directional)|POINT|![](./images/GFMPOME-------X.png)||
-|1168||B|Friend|GFMPOMP-------X|G - M- OM P- -- -- -- X|TACGRP.MOBSU.OBST.MNE.APMNE|Antipersonnel (Ap) Mines|POINT|![](./images/GFMPOMP-------X.png)||
-|1169||B|Friend|GFMPOMT-------X|G - M- OM T- -- -- -- X|TACGRP.MOBSU.OBST.MNE.ATMNE|Antitank Mine (At)|POINT|![](./images/GFMPOMT-------X.png)||
-|1170||B|Friend|GFMPOMU-------X|G - M- OM U- -- -- -- X|TACGRP.MOBSU.OBST.MNE.USPMNE|Unspecified Mine|POINT|![](./images/GFMPOMU-------X.png)||
-|1171||B|Friend|GFMPOMW-------X|G - M- OM W- -- -- -- X|TACGRP.MOBSU.OBST.MNE.WAMNE|Wide Area Mines|POINT|![](./images/GFMPOMW-------X.png)||
-|1172||B|Friend|GFMPORA-------X|G - M- OR A- -- -- -- X|TACGRP.MOBSU.OBST.RCBB.ABP|Explosives  State Of Readiness 2 (Armed-But Passable)|LINE|![](./images/GFMPORA-------X.png)||
-|1173||B|Friend|GFMPORC-------X|G - M- OR C- -- -- -- X|TACGRP.MOBSU.OBST.RCBB.EXCD|Roadblock Complete (Executed)|LINE|![](./images/GFMPORC-------X.png)||
-|1174||B|Friend|GFMPORP-------X|G - M- OR P- -- -- -- X|TACGRP.MOBSU.OBST.RCBB.PLND|Planned|LINE|![](./images/GFMPORP-------X.png)||
-|1175||B|Friend|GFMPORS-------X|G - M- OR S- -- -- -- X|TACGRP.MOBSU.OBST.RCBB.SAFE|Explosives  State Of Readiness 1 (Safe)|LINE|![](./images/GFMPORS-------X.png)||
-|1176||B|Friend|GFMPOS--------X|G - M- OS -- -- -- -- X|TACGRP.MOBSU.OBST.ABS|Abatis|LINE|![](./images/GFMPOS--------X.png)||
-|1177||B|Friend|GFMPOT--------X|G - M- OT -- -- -- -- X|TACGRP.MOBSU.OBST.TRIPWR|Trip Wire|LINE|![](./images/GFMPOT--------X.png)||
-|1178||B|Friend|GFMPOU--------X|G - M- OU -- -- -- -- X|TACGRP.MOBSU.OBST.UXO|Unexploded Ordnance Area (Uxo)|AREA|![](./images/GFMPOU--------X.png)||
-|1179||B|Friend|GFMPOWA-------X|G - M- OW A- -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.DAFNC|Double Apron Fence|LINE|![](./images/GFMPOWA-------X.png)||
-|1180||B|Friend|GFMPOWCD------X|G - M- OW CD -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.CCTA.DBLSTD|Double Strand Concertina|LINE|![](./images/GFMPOWCD------X.png)||
-|1181||B|Friend|GFMPOWCS------X|G - M- OW CS -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.CCTA.SNG|Single Concertina|LINE|![](./images/GFMPOWCS------X.png)||
-|1182||B|Friend|GFMPOWCT------X|G - M- OW CT -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.CCTA.TRISTD|Triple Strand Concertina|LINE|![](./images/GFMPOWCT------X.png)||
-|1183||B|Friend|GFMPOWD-------X|G - M- OW D- -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.DBLFNC|Double Fence|LINE|![](./images/GFMPOWD-------X.png)||
-|1184||B|Friend|GFMPOWH-------X|G - M- OW H- -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.HWFNC|High Wire Fence|LINE|![](./images/GFMPOWH-------X.png)||
-|1185||B|Friend|GFMPOWL-------X|G - M- OW L- -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.LWFNC|Low Wire Fence|LINE|![](./images/GFMPOWL-------X.png)||
-|1186||B|Friend|GFMPOWS-------X|G - M- OW S- -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.SNGFNC|Single Fence|LINE|![](./images/GFMPOWS-------X.png)||
-|1187||B|Friend|GFMPOWU-------X|G - M- OW U- -- -- -- X|TACGRP.MOBSU.OBST.WREOBS.USP|Unspecified|LINE|![](./images/GFMPOWU-------X.png)||
-|1188||B|Friend|GFMPSE--------X|G - M- SE -- -- -- -- X|TACGRP.MOBSU.SU.ESTOF|Earthwork  Small Trench Or Fortification|POINT|![](./images/GFMPSE--------X.png)||
-|1189||B|Friend|GFMPSF--------X|G - M- SF -- -- -- -- X|TACGRP.MOBSU.SU.FRT|Fort|POINT|![](./images/GFMPSF--------X.png)||
-|1190||B|Friend|GFMPSL--------X|G - M- SL -- -- -- -- X|TACGRP.MOBSU.SU.FTFDLN|Fortified Line|LINE|![](./images/GFMPSL--------X.png)||
-|1191||B|Friend|GFMPSP--------X|G - M- SP -- -- -- -- X|TACGRP.MOBSU.SU.STRGPT|Strong Point|AREA|![](./images/GFMPSP--------X.png)||
-|1192||B|Friend|GFMPSS--------X|G - M- SS -- -- -- -- X|TACGRP.MOBSU.SU.SUFSHL|Surface Shelter|POINT|![](./images/GFMPSS--------X.png)||
-|1193||B|Friend|GFMPSU--------X|G - M- SU -- -- -- -- X|TACGRP.MOBSU.SU.UGDSHL|Underground Shelter|POINT|![](./images/GFMPSU--------X.png)||
-|1194||B|Friend|GFMPSW--------X|G - M- SW -- -- -- -- X|TACGRP.MOBSU.SU.FEWS|Foxhole  Emplacement Or Weapon Site|LINE|![](./images/GFMPSW--------X.png)||
-|1195||B|Friend|GFOPBA--------X|G - O- BA -- -- -- -- X|TACGRP.OTH.BERLNE.ACU|Acoustic|LINE|![](./images/GFOPBA--------X.png)||
-|1196||B|Friend|GFOPBE--------X|G - O- BE -- -- -- -- X|TACGRP.OTH.BERLNE.ELC|Electronic|LINE|![](./images/GFOPBE--------X.png)||
-|1197||B|Friend|GFOPBO--------X|G - O- BO -- -- -- -- X|TACGRP.OTH.BERLNE.EOPI|Electro-Optical Intercept|LINE|![](./images/GFOPBO--------X.png)||
-|1198||B|Friend|GFOPB---------X|G - O- B- -- -- -- -- X|TACGRP.OTH.BERLNE|Bearing Line|LINE|![](./images/GFOPB---------X.png)||
-|1199||B|Friend|GFOPBT--------X|G - O- BT -- -- -- -- X|TACGRP.OTH.BERLNE.TPD|Torpedo|LINE|![](./images/GFOPBT--------X.png)||
-|1200||B|Friend|GFOPED--------X|G - O- ED -- -- -- -- X|TACGRP.OTH.ER.DTHAC|Ditched Aircraft|POINT|![](./images/GFOPED--------X.png)||
-|1201||B|Friend|GFOPEP--------X|G - O- EP -- -- -- -- X|TACGRP.OTH.ER.PIW|Person In Water|POINT|![](./images/GFOPEP--------X.png)||
-|1202||B|Friend|GFOPEV--------X|G - O- EV -- -- -- -- X|TACGRP.OTH.ER.DSTVES|Distressed Vessel|POINT|![](./images/GFOPEV--------X.png)||
-|1203||B|Friend|GFOPFA--------X|G - O- FA -- -- -- -- X|TACGRP.OTH.FIX.ACU|Acoustic|POINT|![](./images/GFOPFA--------X.png)||
-|1204||B|Friend|GFOPFE--------X|G - O- FE -- -- -- -- X|TACGRP.OTH.FIX.EM|Electro-Magnetic|POINT|![](./images/GFOPFE--------X.png)||
-|1205||B|Friend|GFOPFO--------X|G - O- FO -- -- -- -- X|TACGRP.OTH.FIX.EOP|Electro-Optical|POINT|![](./images/GFOPFO--------X.png)||
-|1206||B|Friend|GFOPHI--------X|G - O- HI -- -- -- -- X|TACGRP.OTH.HAZ.IB|Iceberg|POINT|![](./images/GFOPHI--------X.png)||
-|1207||B|Friend|GFOPHM--------X|G - O- HM -- -- -- -- X|TACGRP.OTH.HAZ.SML|Sea Mine-Like|POINT|![](./images/GFOPHM--------X.png)||
-|1208||B|Friend|GFOPHN--------X|G - O- HN -- -- -- -- X|TACGRP.OTH.HAZ.NVGL|Navigational|LINE|![](./images/GFOPHN--------X.png)||
-|1209||B|Friend|GFOPHO--------X|G - O- HO -- -- -- -- X|TACGRP.OTH.HAZ.OLRG|Oil Rig|POINT|![](./images/GFOPHO--------X.png)||
-|1210||B|Friend|GFOPSBM-------X|G - O- SB M- -- -- -- X|TACGRP.OTH.SSUBSR.BTMRTN.INS|Installation/Manmade|POINT|![](./images/GFOPSBM-------X.png)||
-|1211||B|Friend|GFOPSBN-------X|G - O- SB N- -- -- -- X|TACGRP.OTH.SSUBSR.BTMRTN.SBRSOO|Seabed Rock/Stone  Obstacle  Other|POINT|![](./images/GFOPSBN-------X.png)||
-|1212||B|Friend|GFOPSBW-------X|G - O- SB W- -- -- -- X|TACGRP.OTH.SSUBSR.BTMRTN.WRKND|Wreck  Non Dangerous|POINT|![](./images/GFOPSBW-------X.png)||
-|1213||B|Friend|GFOPSB--------X|G - O- SB -- -- -- -- X|TACGRP.OTH.SSUBSR.BTMRTN|Bottom Return/Non-Milco|POINT|![](./images/GFOPSB--------X.png)||
-|1214||B|Friend|GFOPSBX-------X|G - O- SB X- -- -- -- X|TACGRP.OTH.SSUBSR.BTMRTN.WRKD|Wreck  Dangerous|POINT|![](./images/GFOPSBX-------X.png)||
-|1215||B|Friend|GFOPSM--------X|G - O- SM -- -- -- -- X|TACGRP.OTH.SSUBSR.MARLFE|Marine Life|POINT|![](./images/GFOPSM--------X.png)||
-|1216||B|Friend|GFOPSS--------X|G - O- SS -- -- -- -- X|TACGRP.OTH.SSUBSR.SA|Sea Anomaly (Wake  Current  Knuckle)|POINT|![](./images/GFOPSS--------X.png)||
-|1217||B|Friend|GFSPAD--------X|G - S- AD -- -- -- -- X|TACGRP.CSS.ARA.DHA|Detainee Holding Area|AREA|![](./images/GFSPAD--------X.png)||
-|1218||B|Friend|GFSPAE--------X|G - S- AE -- -- -- -- X|TACGRP.CSS.ARA.EPWHA|Enemy Prisoner Of War (Epw) Holding Area|AREA|![](./images/GFSPAE--------X.png)||
-|1219||B|Friend|GFSPAH--------X|G - S- AH -- -- -- -- X|TACGRP.CSS.ARA.RHA|Refugee Holding Area|AREA|![](./images/GFSPAH--------X.png)||
-|1220||B|Friend|GFSPAR--------X|G - S- AR -- -- -- -- X|TACGRP.CSS.ARA.FARP|Forward Arming And Refueling Area (Farp)|AREA|![](./images/GFSPAR--------X.png)||
-|1221||B|Friend|GFSPASB-------X|G - S- AS B- -- -- -- X|TACGRP.CSS.ARA.SUPARS.BSA|Brigade (Bsa)|AREA|![](./images/GFSPASB-------X.png)||
-|1222||B|Friend|GFSPASD-------X|G - S- AS D- -- -- -- X|TACGRP.CSS.ARA.SUPARS.DSA|Division (Dsa)|AREA|![](./images/GFSPASD-------X.png)||
-|1223||B|Friend|GFSPASR-------X|G - S- AS R- -- -- -- X|TACGRP.CSS.ARA.SUPARS.RSA|Regimental (Rsa)|AREA|![](./images/GFSPASR-------X.png)||
-|1224||B|Friend|GFSPLCH-------X|G - S- LC H- -- -- -- X|TACGRP.CSS.LNE.CNY.HCNY|Halted Convoy|LINE|![](./images/GFSPLCH-------X.png)||
-|1225||B|Friend|GFSPLCM-------X|G - S- LC M- -- -- -- X|TACGRP.CSS.LNE.CNY.MCNY|Moving Convoy|LINE|![](./images/GFSPLCM-------X.png)||
-|1226||B|Friend|GFSPLRA-------X|G - S- LR A- -- -- -- X|TACGRP.CSS.LNE.SLPRUT.ASRUT|Alternate Supply Route|LINE|![](./images/GFSPLRA-------X.png)||
-|1227||B|Friend|GFSPLRM-------X|G - S- LR M- -- -- -- X|TACGRP.CSS.LNE.SLPRUT.MSRUT|Main Supply Route|LINE|![](./images/GFSPLRM-------X.png)||
-|1228||B|Friend|GFSPLRO-------X|G - S- LR O- -- -- -- X|TACGRP.CSS.LNE.SLPRUT.1WTRFF|One-Way Traffic|LINE|![](./images/GFSPLRO-------X.png)||
-|1229||B|Friend|GFSPLRT-------X|G - S- LR T- -- -- -- X|TACGRP.CSS.LNE.SLPRUT.ATRFF|Alternating Traffic|LINE|![](./images/GFSPLRT-------X.png)||
-|1230||B|Friend|GFSPLRW-------X|G - S- LR W- -- -- -- X|TACGRP.CSS.LNE.SLPRUT.2WTRFF|Two-Way Traffic|LINE|![](./images/GFSPLRW-------X.png)||
-|1231||B|Friend|GFSPPAS-------X|G - S- PA S- -- -- -- X|TACGRP.CSS.PNT.AP.ASP|Ammunition Supply Point (Asp)|POINT|![](./images/GFSPPAS-------X.png)||
-|1232||B|Friend|GFSPPAT-------X|G - S- PA T- -- -- -- X|TACGRP.CSS.PNT.AP.ATP|Ammunition Transfer Point (Atp)|POINT|![](./images/GFSPPAT-------X.png)||
-|1233||B|Friend|GFSPPC--------X|G - S- PC -- -- -- -- X|TACGRP.CSS.PNT.CBNP|Cannibalization Point|POINT|![](./images/GFSPPC--------X.png)||
-|1234||B|Friend|GFSPPD--------X|G - S- PD -- -- -- -- X|TACGRP.CSS.PNT.DCP|Detainee Collection Point|POINT|![](./images/GFSPPD--------X.png)||
-|1235||B|Friend|GFSPPE--------X|G - S- PE -- -- -- -- X|TACGRP.CSS.PNT.EPWCP|Enemy Prisoner Of War (Epw) Collection Point|POINT|![](./images/GFSPPE--------X.png)||
-|1236||B|Friend|GFSPPI--------X|G - S- PI -- -- -- -- X|TACGRP.CSS.PNT.TTP|Trailer Transfer Point|POINT|![](./images/GFSPPI--------X.png)||
-|1237||B|Friend|GFSPPL--------X|G - S- PL -- -- -- -- X|TACGRP.CSS.PNT.LRP|Logistics Release Point (Lrp)|POINT|![](./images/GFSPPL--------X.png)||
-|1238||B|Friend|GFSPPM--------X|G - S- PM -- -- -- -- X|TACGRP.CSS.PNT.MCP|Maintenance Collection Point|POINT|![](./images/GFSPPM--------X.png)||
-|1239||B|Friend|GFSPPN--------X|G - S- PN -- -- -- -- X|TACGRP.CSS.PNT.UMC|Unit Maintenance Collection Point|POINT|![](./images/GFSPPN--------X.png)||
-|1240||B|Friend|GFSPPO--------X|G - S- PO -- -- -- -- X|TACGRP.CSS.PNT.TCP|Traffic Control Post (Tcp)|POINT|![](./images/GFSPPO--------X.png)||
-|1241||B|Friend|GFSPPR--------X|G - S- PR -- -- -- -- X|TACGRP.CSS.PNT.RRRP|Rearm  Refuel And Resupply Point|POINT|![](./images/GFSPPR--------X.png)||
-|1242||B|Friend|GFSPPSA-------X|G - S- PS A- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS1|Class I|POINT|![](./images/GFSPPSA-------X.png)||
-|1243||B|Friend|GFSPPSB-------X|G - S- PS B- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS2|Class Ii|POINT|![](./images/GFSPPSB-------X.png)||
-|1244||B|Friend|GFSPPSC-------X|G - S- PS C- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS3|Class Iii|POINT|![](./images/GFSPPSC-------X.png)||
-|1245||B|Friend|GFSPPSD-------X|G - S- PS D- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS4|Class Iv|POINT|![](./images/GFSPPSD-------X.png)||
-|1246||B|Friend|GFSPPSE-------X|G - S- PS E- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS5|Class V|POINT|![](./images/GFSPPSE-------X.png)||
-|1247||B|Friend|GFSPPSF-------X|G - S- PS F- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS6|Class Vi|POINT|![](./images/GFSPPSF-------X.png)||
-|1248||B|Friend|GFSPPSG-------X|G - S- PS G- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS7|Class Vii|POINT|![](./images/GFSPPSG-------X.png)||
-|1249||B|Friend|GFSPPSH-------X|G - S- PS H- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS8|Class Viii|POINT|![](./images/GFSPPSH-------X.png)||
-|1250||B|Friend|GFSPPSI-------X|G - S- PS I- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS9|Class Ix|POINT|![](./images/GFSPPSI-------X.png)||
-|1251||B|Friend|GFSPPSJ-------X|G - S- PS J- -- -- -- X|TACGRP.CSS.PNT.SPT.CLS10|Class X|POINT|![](./images/GFSPPSJ-------X.png)||
-|1252||B|Friend|GFSPPSZ-------X|G - S- PS Z- -- -- -- X|TACGRP.CSS.PNT.SPT.GNL|General|POINT|![](./images/GFSPPSZ-------X.png)||
-|1253||B|Friend|GFSPPT--------X|G - S- PT -- -- -- -- X|TACGRP.CSS.PNT.CVP|Civilian Collection Point|POINT|![](./images/GFSPPT--------X.png)||
-|1254||B|Friend|GFSPPU--------X|G - S- PU -- -- -- -- X|TACGRP.CSS.PNT.ROM|Refuel On The Move (Rom) Point|POINT|![](./images/GFSPPU--------X.png)||
-|1255||B|Friend|GFSPPX--------X|G - S- PX -- -- -- -- X|TACGRP.CSS.PNT.AEP|Ambulance Exchange Point|POINT|![](./images/GFSPPX--------X.png)||
-|1256||B|Friend|GFSPPY--------X|G - S- PY -- -- -- -- X|TACGRP.CSS.PNT.CCP|Casualty Collection Point|POINT|![](./images/GFSPPY--------X.png)||
-|1257||B|Friend|GFTPAS--------X|G- T - AS -- -- -- -- X|TACGRP.TSK.FLWASS.FLWSUP|Follow And Support|LINE|![](./images/GFTPAS--------X.png)||
-|1258||B|Friend|GFTPA---------X|G- T - A- -- -- -- -- X|TACGRP.TSK.FLWASS|Follow And Assume|LINE|![](./images/GFTPA---------X.png)||
-|1259||B|Friend|GFTPB---------X|G - T - B- -- -- -- -- X|TACGRP.TSK.BLK|Block|LINE|![](./images/GFTPB---------X.png)||
-|1260||B|Friend|GFTPC---------X|G - T - C- -- -- -- -- X|TACGRP.TSK.CNZ|Canalize|LINE|![](./images/GFTPC---------X.png)||
-|1261||B|Friend|GFTPD---------X|G- T - D- -- -- -- -- X|TACGRP.TSK.DSTY|Destroy|POINT|![](./images/GFTPD---------X.png)||
-|1262||B|Friend|GFTPE---------X|G- T - E- -- -- -- -- X|TACGRP.TSK.ISL|Isolate|POINT|![](./images/GFTPE---------X.png)||
-|1263||B|Friend|GFTPF---------X|G- T - F- -- -- -- -- X|TACGRP.TSK.FIX|Fix|LINE|![](./images/GFTPF---------X.png)||
-|1264||B|Friend|GFTPH---------X|G - T - H- -- -- -- -- X|TACGRP.TSK.BRH|Breach|LINE|![](./images/GFTPH---------X.png)||
-|1265||B|Friend|GFTPI---------X|G- T - I- -- -- -- -- X|TACGRP.TSK.ITDT|Interdict|POINT|![](./images/GFTPI---------X.png)||
-|1266||B|Friend|GFTPJ---------X|G - T - J- -- -- -- -- X|TACGRP.TSK.CNT|Contain|LINE|![](./images/GFTPJ---------X.png)||
-|1267||B|Friend|GFTPKF--------X|G - T - KF -- -- -- -- X|TACGRP.TSK.CATK.CATKF|Counterattack By Fire|LINE|![](./images/GFTPKF--------X.png)||
-|1268||B|Friend|GFTPK---------X|G - T - K- -- -- -- -- X|TACGRP.TSK.CATK|Counterattack (Catk)|LINE|![](./images/GFTPK---------X.png)||
-|1269||B|Friend|GFTPL---------X|G - T - L- -- -- -- -- X|TACGRP.TSK.DLY|Delay|LINE|![](./images/GFTPL---------X.png)||
-|1270||B|Friend|GFTPM---------X|G- T - M- -- -- -- -- X|TACGRP.TSK.RTM|Retirement|LINE|![](./images/GFTPM---------X.png)||
-|1271||B|Friend|GFTPN---------X|G- T - N- -- -- -- -- X|TACGRP.TSK.NEUT|Neutralize|POINT|![](./images/GFTPN---------X.png)||
-|1272||B|Friend|GFTPO---------X|G- T - O- -- -- -- -- X|TACGRP.TSK.OCC|Occupy|LINE|![](./images/GFTPO---------X.png)||
-|1273||B|Friend|GFTPP---------X|G- T - P- -- -- -- -- X|TACGRP.TSK.PNE|Penetrate|LINE|![](./images/GFTPP---------X.png)||
-|1274||B|Friend|GFTPQ---------X|G- T - Q- -- -- -- -- X|TACGRP.TSK.RTN|Retain|LINE|![](./images/GFTPQ---------X.png)||
-|1275||B|Friend|GFTPR---------X|G- T - R- -- -- -- -- X|TACGRP.TSK.RIP|Relief In Place (Rip)|LINE|![](./images/GFTPR---------X.png)||
-|1276||B|Friend|GFTPS---------X|G- T - S- -- -- -- -- X|TACGRP.TSK.SCE|Secure|LINE|![](./images/GFTPS---------X.png)||
-|1277||B|Friend|GFTPT---------X|G- T - T- -- -- -- -- X|TACGRP.TSK.DRT|Disrupt|LINE|![](./images/GFTPT---------X.png)||
-|1278||B|Friend|GFTPUC--------X|G- T - UC -- -- -- -- X|TACGRP.TSK.SEC.COV|Cover|LINE|![](./images/GFTPUC--------X.png)||
-|1279||B|Friend|GFTPUG--------X|G- T - UG -- -- -- -- X|TACGRP.TSK.SEC.GUD|Guard|LINE|![](./images/GFTPUG--------X.png)||
-|1280||B|Friend|GFTPUS--------X|G- T - US -- -- -- -- X|TACGRP.TSK.SEC.SCN|Screen|LINE|![](./images/GFTPUS--------X.png)||
-|1281||B|Friend|GFTPWP--------X|G- T - WP -- -- -- -- X|TACGRP.TSK.WDR.WDRUP|Withdraw Under Pressure|LINE|![](./images/GFTPWP--------X.png)||
-|1282||B|Friend|GFTPW---------X|G- T - W- -- -- -- -- X|TACGRP.TSK.WDR|Withdraw|LINE|![](./images/GFTPW---------X.png)||
-|1283||B|Friend|GFTPX---------X|G - T - X- -- -- -- -- X|TACGRP.TSK.CLR|Clear|LINE|![](./images/GFTPX---------X.png)||
-|1284||B|Friend|GFTPY---------X|G - T - Y- -- -- -- -- X|TACGRP.TSK.BYS|Bypass|LINE|![](./images/GFTPY---------X.png)||
-|1285||B|Friend|GFTPZ---------X|G- T - Z- -- -- -- -- X|TACGRP.TSK.SZE|Seize|LINE|![](./images/GFTPZ---------X.png)||
-|1286||C|N/A|WA-DBAD-----A--|W A - D BA D- -- -- A- -|METOC.AMPHC.BDAWTH.DT-SD|Dust Or Sand|AREA|![](./images/WA-DBAD-----A--.png)||
-|1287||C|N/A|WA-DBAFF----A--|W A - D BA FF -- -- A- -|METOC.AMPHC.BDAWTH.ODFF|Operator-Defined Freeform|AREA|![](./images/WA-DBAFF----A--.png)||
-|1288||C|N/A|WA-DBAFG----A--|W A - D BA FG -- -- A- -|METOC.AMPHC.BDAWTH.FG|Fog|AREA|![](./images/WA-DBAFG----A--.png)||
-|1289||C|N/A|WA-DBAFP----A--|W A - D BA FP -- -- A- -|METOC.AMPHC.BDAWTH.FZPPN|Freezing-Frozen Precipitation|AREA|![](./images/WA-DBAFP----A--.png)||
-|1290||C|N/A|WA-DBAI-----A--|W A - D BA I- -- -- A- -|METOC.AMPHC.BDAWTH.ICG|Icing|AREA|![](./images/WA-DBAI-----A--.png)||
-|1291||C|N/A|WA-DBAIF----A--|W A - D BA IF -- -- A- -|METOC.AMPHC.BDAWTH.IFR|Instrument Flight Rule (Ifr)|AREA|![](./images/WA-DBAIF----A--.png)||
-|1292||C|N/A|WA-DBALPC---A--|W A - D BA LP C- -- A- -|METOC.AMPHC.BDAWTH.LPNCI.LPC|Liquid Precipitation - Convective|AREA|![](./images/WA-DBALPC---A--.png)||
-|1293||C|N/A|WA-DBALPNC--A--|W A - D BA LP NC -- A- -|METOC.AMPHC.BDAWTH.LPNCI|Liquid Precipitation - Non-Convective Continuous Or Intermittent|AREA|![](./images/WA-DBALPNC--A--.png)||
-|1294||C|N/A|WA-DBAMV----A--|W A - D BA MV -- -- A- -|METOC.AMPHC.BDAWTH.MVFR|Marginal Visual Flight Rule (Mvfr)|AREA|![](./images/WA-DBAMV----A--.png)||
-|1295||C|N/A|WA-DBAT-----A--|W A - D BA T- -- -- A- -|METOC.AMPHC.BDAWTH.TS|Thunderstorms|AREA|![](./images/WA-DBAT-----A--.png)||
-|1296||C|N/A|WA-DBATB----A--|W A - D BA TB -- -- A- -|METOC.AMPHC.BDAWTH.TRB|Turbulence|AREA|![](./images/WA-DBATB----A--.png)||
-|1297||C|N/A|WA-DIPCO---L---|W A - D IP CO -- -L -- -|METOC.AMPHC.ISP.CTUR|Contour - Upper Air|LINE|![](./images/WA-DIPCO---L---.png)||
-|1298||C|N/A|WA-DIPFF---L---|W A - D IP FF -- -L -- -|METOC.AMPHC.ISP.ODFF|Operator-Defined Freeform|LINE|![](./images/WA-DIPFF---L---.png)||
-|1299||C|N/A|WA-DIPIB---L---|W A - D IP IB -- -L -- -|METOC.AMPHC.ISP.ISB|Isobar - Surface|LINE|![](./images/WA-DIPIB---L---.png)||
-|1300||C|N/A|WA-DIPID---L---|W A - D IP ID -- -L -- -|METOC.AMPHC.ISP.ISD|Isodrosotherm|LINE|![](./images/WA-DIPID---L---.png)||
-|1301||C|N/A|WA-DIPIS---L---|W A - D IP IS -- -L -- -|METOC.AMPHC.ISP.IST|Isotherm|LINE|![](./images/WA-DIPIS---L---.png)||
-|1302||C|N/A|WA-DIPIT---L---|W A - D IP IT -- -L -- -|METOC.AMPHC.ISP.ISH|Isotach|LINE|![](./images/WA-DIPIT---L---.png)||
-|1303||C|N/A|WA-DIPTH---L---|W A - D IP TH -- -L -- -|METOC.AMPHC.ISP.THK|Thickness|LINE|![](./images/WA-DIPTH---L---.png)||
-|1304||C|N/A|WA-DPFC-FG-L---|W A - D PF C- FG -L -- -|METOC.AMPHC.PRS.FRNSYS.CLDFRN.FRGS|Cold Frontogenesis|LINE|![](./images/WA-DPFC-FG-L---.png)||
-|1305||C|N/A|WA-DPFC-FY-L---|W A - D PF C- FY -L -- -|METOC.AMPHC.PRS.FRNSYS.CLDFRN.FRLS|Cold Frontolysis|LINE|![](./images/WA-DPFC-FY-L---.png)||
-|1306||C|N/A|WA-DPFC----L---|W A - D PF C- -- -L -- -|METOC.AMPHC.PRS.FRNSYS.CLDFRN|Cold Front|LINE|![](./images/WA-DPFC----L---.png)||
-|1307||C|N/A|WA-DPFCU---L---|W A - D PF CU -- -L -- -|METOC.AMPHC.PRS.FRNSYS.CLDFRN.UPP|Upper Cold Front|LINE|![](./images/WA-DPFCU---L---.png)||
-|1308||C|N/A|WA-DPFO-FY-L---|W A - D PF O- FY -L -- -|METOC.AMPHC.PRS.FRNSYS.OCD.FRLS|Occluded Frontolysis|LINE|![](./images/WA-DPFO-FY-L---.png)||
-|1309||C|N/A|WA-DPFO----L---|W A - D PF O- -- -L -- -|METOC.AMPHC.PRS.FRNSYS.OCD|Occluded Front|LINE|![](./images/WA-DPFO----L---.png)||
-|1310||C|N/A|WA-DPFOU---L---|W A - D PF OU -- -L -- -|METOC.AMPHC.PRS.FRNSYS.OCD.UPP|Upper Occluded Front|LINE|![](./images/WA-DPFOU---L---.png)||
-|1311||C|N/A|WA-DPFS-FG-L---|W A - D PF S- FG -L -- -|METOC.AMPHC.PRS.FRNSYS.STAT.FRGS|Stationary Frontogenesis|LINE|![](./images/WA-DPFS-FG-L---.png)||
-|1312||C|N/A|WA-DPFS-FY-L---|W A - D PF S- FY -L -- -|METOC.AMPHC.PRS.FRNSYS.STAT.FRLS|Stationary Frontolysis|LINE|![](./images/WA-DPFS-FY-L---.png)||
-|1313||C|N/A|WA-DPFS----L---|W A - D PF S- -- -L -- -|METOC.AMPHC.PRS.FRNSYS.STAT|Stationary Front|LINE|![](./images/WA-DPFS----L---.png)||
-|1314||C|N/A|WA-DPFSU---L---|W A - D PF SU -- -L -- -|METOC.AMPHC.PRS.FRNSYS.STAT.UPP|Upper Stationary Front|LINE|![](./images/WA-DPFSU---L---.png)||
-|1315||C|N/A|WA-DPFW-FG-L---|W A - D PF W- FG -L -- -|METOC.AMPHC.PRS.FRNSYS.WRMFRN.FRGS|Warm Frontogenesis|LINE|![](./images/WA-DPFW-FG-L---.png)||
-|1316||C|N/A|WA-DPFW-FY-L---|W A - D PF W- FY -L -- -|METOC.AMPHC.PRS.FRNSYS.WRMFRN.FRLS|Warm Frontolysis|LINE|![](./images/WA-DPFW-FY-L---.png)||
-|1317||C|N/A|WA-DPFW----L---|W A - D PF W- -- -L -- -|METOC.AMPHC.PRS.FRNSYS.WRMFRN|Warm Front|LINE|![](./images/WA-DPFW----L---.png)||
-|1318||C|N/A|WA-DPFWU---L---|W A - D PF WU -- -L -- -|METOC.AMPHC.PRS.FRNSYS.WRMFRN.UPP|Upper Warm Front|LINE|![](./images/WA-DPFWU---L---.png)||
-|1319||C|N/A|WA-DPXCV---L---|W A - D PX CV -- -L -- -|METOC.AMPHC.PRS.LNE.CNGLNE|Convergance Line|LINE|![](./images/WA-DPXCV---L---.png)||
-|1320||C|N/A|WA-DPXIL---L---|W A - D PX IL -- -L -- -|METOC.AMPHC.PRS.LNE.ISTB|Instability Line|LINE|![](./images/WA-DPXIL---L---.png)||
-|1321||C|N/A|WA-DPXITCZ-L---|W A - D PX IT CZ -L -- -|METOC.AMPHC.PRS.LNE.ITCZ|Inter-Tropical Convergance Zone|LINE|![](./images/WA-DPXITCZ-L---.png)||
-|1322||C|N/A|WA-DPXITD--L---|W A - D PX IT D- -L -- -|METOC.AMPHC.PRS.LNE.ITD|Inter-Tropical Discontinuity|LINE|![](./images/WA-DPXITD--L---.png)||
-|1323||C|N/A|WA-DPXR----L---|W A - D PX R- -- -L -- -|METOC.AMPHC.PRS.LNE.RDGAXS|Ridge Axis|LINE|![](./images/WA-DPXR----L---.png)||
-|1324||C|N/A|WA-DPXSH---L---|W A - D PX SH -- -L -- -|METOC.AMPHC.PRS.LNE.SHA|Shear Line|LINE|![](./images/WA-DPXSH---L---.png)||
-|1325||C|N/A|WA-DPXSQ---L---|W A - D PX SQ -- -L -- -|METOC.AMPHC.PRS.LNE.SSL|Severe Squall Line|LINE|![](./images/WA-DPXSQ---L---.png)||
-|1326||C|N/A|WA-DPXT----L---|W A - D PX T- -- -L -- -|METOC.AMPHC.PRS.LNE.TRUAXS|Trough Axis|LINE|![](./images/WA-DPXT----L---.png)||
-|1327||C|N/A|WA-DWJ-----L---|W A - D WJ -- -- -L -- -|METOC.AMPHC.WND.JTSM|Jet Stream|LINE|![](./images/WA-DWJ-----L---.png)||
-|1328||C|N/A|WA-DWS-----L---|W A - D WS -- -- -L -- -|METOC.AMPHC.WND.SMLNE|Stream Line|LINE|![](./images/WA-DWS-----L---.png)||
-|1329||C|N/A|WA-DWSTSWA--A--|W A - D WS TS WA -- A- -|METOC.AMPHC.WTH.TPLSYS.TSWADL|Tropical Storm Wind Areas And Date-Time Labels|AREA|![](./images/WA-DWSTSWA--A--.png)||
-|1330||C|N/A|WAS-CCCSBCP----|W A S - CC CS BC P- -- -|METOC.AMPHC.CUDCOV.SYM.BKN|Broken Coverage|POINT|![](./images/WAS-CCCSBCP----.png)||
-|1331||C|N/A|WAS-CCCSCSP----|W A S - CC CS CS P- -- -|METOC.AMPHC.CUDCOV.SYM.SKC|Clear Sky|POINT|![](./images/WAS-CCCSCSP----.png)||
-|1332||C|N/A|WAS-CCCSFCP----|W A S - CC CS FC P- -- -|METOC.AMPHC.CUDCOV.SYM.FEW|Few Coverage|POINT|![](./images/WAS-CCCSFCP----.png)||
-|1333||C|N/A|WAS-CCCSOBP----|W A S - CC CS OB P- -- -|METOC.AMPHC.CUDCOV.SYM.STOPO|Sky Totally Or Partially Obscured|POINT|![](./images/WAS-CCCSOBP----.png)||
-|1334||C|N/A|WAS-CCCSOCP----|W A S - CC CS OC P- -- -|METOC.AMPHC.CUDCOV.SYM.OVC|Overcast Coverage|POINT|![](./images/WAS-CCCSOCP----.png)||
-|1335||C|N/A|WAS-CCCSSCP----|W A S - CC CS SC P- -- -|METOC.AMPHC.CUDCOV.SYM.SCT|Scattered Coverage|POINT|![](./images/WAS-CCCSSCP----.png)||
-|1336||C|N/A|WAS-GNDEWCP----|W A S - GN DE WC P- -- -|METOC.AMPHC.STOG.WOSMIC.EXTDWC|Extremely Dry With Cracks|POINT|![](./images/WAS-GNDEWCP----.png)||
-|1337||C|N/A|WAS-GND-NCP----|W A S - GN D- NC P- -- -|METOC.AMPHC.STOG.WOSMIC.SUFDRY|Surface Dry Without Cracks Or Appreciable Dust Or Loose Sand|POINT|![](./images/WAS-GND-NCP----.png)||
-|1338||C|N/A|WAS-GNFL--P----|W A S - GN FL -- P- -- -|METOC.AMPHC.STOG.WOSMIC.SUFFLD|Surface Flooded|POINT|![](./images/WAS-GNFL--P----.png)||
-|1339||C|N/A|WAS-GNFZ--P----|W A S - GN FZ -- P- -- -|METOC.AMPHC.STOG.WOSMIC.SUFFZN|Surface Frozen|POINT|![](./images/WAS-GNFZ--P----.png)||
-|1340||C|N/A|WAS-GNG-TIP----|W A S - GN G- TI P- -- -|METOC.AMPHC.STOG.WOSMIC.GLZGRD|Glaze (Thin Ice) On Ground|POINT|![](./images/WAS-GNG-TIP----.png)||
-|1341||C|N/A|WAS-GNLDMCP----|W A S - GN LD MC P- -- -|METOC.AMPHC.STOG.WOSMIC.MLDCGC|Moderate/Thick Loose Dry Dust Or Sand Covering Ground Completely|POINT|![](./images/WAS-GNLDMCP----.png)||
-|1342||C|N/A|WAS-GNLDN-P----|W A S - GN LD N- P- -- -|METOC.AMPHC.STOG.WOSMIC.LDNCGC|Loose Dry Dust Or Sand Not Covering Ground Completely|POINT|![](./images/WAS-GNLDN-P----.png)||
-|1343||C|N/A|WAS-GNLDTCP----|W A S - GN LD TC P- -- -|METOC.AMPHC.STOG.WOSMIC.TLDCGC|Thin Loose Dry Dust Or Sand Covering Ground Completely|POINT|![](./images/WAS-GNLDTCP----.png)||
-|1344||C|N/A|WAS-GNM---P----|W A S - GN M- -- P- -- -|METOC.AMPHC.STOG.WOSMIC.SUFMST|Surface Moist|POINT|![](./images/WAS-GNM---P----.png)||
-|1345||C|N/A|WAS-GNW-SWP----|W A S - GN W- SW P- -- -|METOC.AMPHC.STOG.WOSMIC.SUFWET|Surface Wet  Standing Water In Small Or Large Pools|POINT|![](./images/WAS-GNW-SWP----.png)||
-|1346||C|N/A|WAS-GSI---P----|W A S - GS I- -- P- -- -|METOC.AMPHC.STOG.WSMIC.PDMIC|Predominately Ice Covered|POINT|![](./images/WAS-GSI---P----.png)||
-|1347||C|N/A|WAS-GSSCCEP----|W A S - GS SC CE P- -- -|METOC.AMPHC.STOG.WSMIC.ELCSCG|Even Layer Of Compact Or Wet Snow Covering Ground Completely|POINT|![](./images/WAS-GSSCCEP----.png)||
-|1348||C|N/A|WAS-GSSCCUP----|W A S - GS SC CU P- -- -|METOC.AMPHC.STOG.WSMIC.ULCSCG|Uneven Layer Of Compact Or Wet Snow Covering Ground Completely|POINT|![](./images/WAS-GSSCCUP----.png)||
-|1349||C|N/A|WAS-GSSCH-P----|W A S - GS SC H- P- -- -|METOC.AMPHC.STOG.WSMIC.CSNALH|Compact Or Wet Snow (With Or Without Ice) Covering At Least One-Half Ground  But Ground Not Completely Covered|POINT|![](./images/WAS-GSSCH-P----.png)||
-|1350||C|N/A|WAS-GSSCL-P----|W A S - GS SC L- P- -- -|METOC.AMPHC.STOG.WSMIC.CWSNLH|Compact Or Wet Snow (With Or Without Ice) Covering Less Than One-Half Of Ground|POINT|![](./images/WAS-GSSCL-P----.png)||
-|1351||C|N/A|WAS-GSSDC-P----|W A S - GS SD C- P- -- -|METOC.AMPHC.STOG.WSMIC.SCGC|Snow Covering Ground Completely; Deep Drifts|POINT|![](./images/WAS-GSSDC-P----.png)||
-|1352||C|N/A|WAS-GSSLCEP----|W A S - GS SL CE P- -- -|METOC.AMPHC.STOG.WSMIC.ELDSCG|Even Layer Of Loose Dry Snow Covering Ground Completely|POINT|![](./images/WAS-GSSLCEP----.png)||
-|1353||C|N/A|WAS-GSSLCUP----|W A S - GS SL CU P- -- -|METOC.AMPHC.STOG.WSMIC.ULDSCG|Uneven Layer Of Loose Dry Snow Covering Ground Completely|POINT|![](./images/WAS-GSSLCUP----.png)||
-|1354||C|N/A|WAS-GSSLH-P----|W A S - GS SL H- P- -- -|METOC.AMPHC.STOG.WSMIC.LDSALH|Loose Dry Snow Covering At Least One-Half Ground  But Ground Not Completely Covered|POINT|![](./images/WAS-GSSLH-P----.png)||
-|1355||C|N/A|WAS-GSSLL-P----|W A S - GS SL L- P- -- -|METOC.AMPHC.STOG.WSMIC.LDSNLH|Loose Dry Snow Covering Less Than One-Half Of Ground|POINT|![](./images/WAS-GSSLL-P----.png)||
-|1356||C|N/A|WAS-ICL---P----|W A S - IC L- -- P- -- -|METOC.AMPHC.ICG.CLR.LIT|Clear Icing - Light|POINT|![](./images/WAS-ICL---P----.png)||
-|1357||C|N/A|WAS-ICM---P----|W A S - IC M- -- P- -- -|METOC.AMPHC.ICG.CLR.MOD|Clear Icing - Moderate|POINT|![](./images/WAS-ICM---P----.png)||
-|1358||C|N/A|WAS-ICS---P----|W A S - IC S- -- P- -- -|METOC.AMPHC.ICG.CLR.SVR|Clear Icing - Severe|POINT|![](./images/WAS-ICS---P----.png)||
-|1359||C|N/A|WAS-IML---P----|W A S - IM L- -- P- -- -|METOC.AMPHC.ICG.MIX.LIT|Mixed Icing - Light|POINT|![](./images/WAS-IML---P----.png)||
-|1360||C|N/A|WAS-IMM---P----|W A S - IM M- -- P- -- -|METOC.AMPHC.ICG.MIX.MOD|Mixed Icing - Moderate|POINT|![](./images/WAS-IMM---P----.png)||
-|1361||C|N/A|WAS-IMS---P----|W A S - IM S- -- P- -- -|METOC.AMPHC.ICG.MIX.SVR|Mixed Icing - Severe|POINT|![](./images/WAS-IMS---P----.png)||
-|1362||C|N/A|WAS-IRL---P----|W A S - IR L- -- P- -- -|METOC.AMPHC.ICG.RIME.LIT|Rime Icing - Light|POINT|![](./images/WAS-IRL---P----.png)||
-|1363||C|N/A|WAS-IRM---P----|W A S - IR M- -- P- -- -|METOC.AMPHC.ICG.RIME.MOD|Rime Icing - Moderate|POINT|![](./images/WAS-IRM---P----.png)||
-|1364||C|N/A|WAS-IRS---P----|W A S - IR S- -- P- -- -|METOC.AMPHC.ICG.RIME.SVR|Rime Icing - Severe|POINT|![](./images/WAS-IRS---P----.png)||
-|1365||C|N/A|WAS-PA----P----|W A S - PA -- -- P- -- -|METOC.AMPHC.PRS.HGHCTR.ACYC|Anticyclone Center|POINT|![](./images/WAS-PA----P----.png)||
-|1366||C|N/A|WAS-PC----P----|W A S - PC -- -- P- -- -|METOC.AMPHC.PRS.LOWCTR.CYC|Cyclone Center|POINT|![](./images/WAS-PC----P----.png)||
-|1367||C|N/A|WAS-PH----P----|W A S - PH -- -- P- -- -|METOC.AMPHC.PRS.HGHCTR|High Pressure Center|POINT|![](./images/WAS-PH----P----.png)||
-|1368||C|N/A|WAS-PHT---P----|W A S - PH T- -- P- -- -|METOC.AMPHC.PRS.HGHCTR.TROPHG|Tropopause High|POINT|![](./images/WAS-PHT---P----.png)||
-|1369||C|N/A|WAS-PL----P----|W A S - PL -- -- P- -- -|METOC.AMPHC.PRS.LOWCTR|Low Pressure Center|POINT|![](./images/WAS-PL----P----.png)||
-|1370||C|N/A|WAS-PLT---P----|W A S - PL T- -- P- -- -|METOC.AMPHC.PRS.LOWCTR.TROPLW|Tropopause Low|POINT|![](./images/WAS-PLT---P----.png)||
-|1371||C|N/A|WAS-TE----P----|W A S - TE -- -- P- -- -|METOC.AMPHC.TRB.EXT|Turbulence - Extreme|POINT|![](./images/WAS-TE----P----.png)||
-|1372||C|N/A|WAS-TL----P----|W A S - TL -- -- P- -- -|METOC.AMPHC.TRB.LIT|Turbulence - Light|POINT|![](./images/WAS-TL----P----.png)||
-|1373||C|N/A|WAS-TM----P----|W A S - TM -- -- P- -- -|METOC.AMPHC.TRB.MOD|Turbulence - Moderate|POINT|![](./images/WAS-TM----P----.png)||
-|1374||C|N/A|WAS-T-MW--P----|W A S - T- MW -- P- -- -|METOC.AMPHC.TRB.MNTWAV|Mountain Waves|POINT|![](./images/WAS-T-MW--P----.png)||
-|1375||C|N/A|WAS-TS----P----|W A S - TS -- -- P- -- -|METOC.AMPHC.TRB.SVR|Turbulence - Severe|POINT|![](./images/WAS-TS----P----.png)||
-|1376||C|N/A|WAS-WC----P----|W A S - WC -- -- P- -- -|METOC.AMPHC.WND.CALM|Calm Winds|POINT|![](./images/WAS-WC----P----.png)||
-|1377||C|N/A|WAS-WP----P----|W A S - WP -- -- P- -- -|METOC.AMPHC.WND.PLT|Wind Plot|LINE|![](./images/WAS-WP----P----.png)||
-|1378||C|N/A|WAS-WSBR--P----|W A S - WS BR -- P- -- -|METOC.AMPHC.WTH.MIST|Mist|POINT|![](./images/WAS-WSBR--P----.png)||
-|1379||C|N/A|WAS-WSDB--P----|W A S - WS DB -- P- -- -|METOC.AMPHC.WTH.DT-SD.BLDTSD|Blowing Dust Or Sand|POINT|![](./images/WAS-WSDB--P----.png)||
-|1380||C|N/A|WAS-WSDD--P----|W A S - WS DD -- P- -- -|METOC.AMPHC.WTH.DT-SD.DTDVL|Dust Devil|POINT|![](./images/WAS-WSDD--P----.png)||
-|1381||C|N/A|WAS-WSDFL-P----|W A S - WS DF L- P- -- -|METOC.AMPHC.WTH.FZDZ.LIT|Freezing Drizzle - Light|POINT|![](./images/WAS-WSDFL-P----.png)||
-|1382||C|N/A|WAS-WSDFMHP----|W A S - WS DF MH P- -- -|METOC.AMPHC.WTH.FZDZ.MODHVY|Freezing Drizzle - Moderate/Heavy|POINT|![](./images/WAS-WSDFMHP----.png)||
-|1383||C|N/A|WAS-WSD-HCP----|W A S - WS D- HC P- -- -|METOC.AMPHC.WTH.DZ.INMHVY.CTSHVY|Drizzle - Continuous Heavy|POINT|![](./images/WAS-WSD-HCP----.png)||
-|1384||C|N/A|WAS-WSD-HIP----|W A S - WS D- HI P- -- -|METOC.AMPHC.WTH.DZ.INMHVY|Drizzle - Intermittent Heavy|POINT|![](./images/WAS-WSD-HIP----.png)||
-|1385||C|N/A|WAS-WSD-LCP----|W A S - WS D- LC P- -- -|METOC.AMPHC.WTH.DZ.INMLIT.CTSLIT|Drizzle - Continuous Light|POINT|![](./images/WAS-WSD-LCP----.png)||
-|1386||C|N/A|WAS-WSD-LIP----|W A S - WS D- LI P- -- -|METOC.AMPHC.WTH.DZ.INMLIT|Drizzle - Intermittent Light|POINT|![](./images/WAS-WSD-LIP----.png)||
-|1387||C|N/A|WAS-WSD-MCP----|W A S - WS D- MC P- -- -|METOC.AMPHC.WTH.DZ.INMMOD.CTSMOD|Drizzle - Continuous Moderate|POINT|![](./images/WAS-WSD-MCP----.png)||
-|1388||C|N/A|WAS-WSD-MIP----|W A S - WS D- MI P- -- -|METOC.AMPHC.WTH.DZ.INMMOD|Drizzle - Intermittent Moderate|POINT|![](./images/WAS-WSD-MIP----.png)||
-|1389||C|N/A|WAS-WSDSLMP----|W A S - WS DS LM P- -- -|METOC.AMPHC.WTH.DT-SD.LITMOD|Dust-Sand Storm - Light To Moderate|POINT|![](./images/WAS-WSDSLMP----.png)||
-|1390||C|N/A|WAS-WSDSS-P----|W A S - WS DS S- P- -- -|METOC.AMPHC.WTH.DT-SD.SVR|Dust-Sand Storm - Severe|POINT|![](./images/WAS-WSDSS-P----.png)||
-|1391||C|N/A|WAS-WSFGCSP----|W A S - WS FG CS P- -- -|METOC.AMPHC.WTH.FG.SHWCTS|Fog - Shallow Continuous|POINT|![](./images/WAS-WSFGCSP----.png)||
-|1392||C|N/A|WAS-WSFGFOP----|W A S - WS FG FO P- -- -|METOC.AMPHC.WTH.FG.FZSNV|Fog - Freezing  Sky Not Visible|POINT|![](./images/WAS-WSFGFOP----.png)||
-|1393||C|N/A|WAS-WSFGFVP----|W A S - WS FG FV P- -- -|METOC.AMPHC.WTH.FG.FZSV|Fog - Freezing  Sky Visible|POINT|![](./images/WAS-WSFGFVP----.png)||
-|1394||C|N/A|WAS-WSFGP-P----|W A S - WS FG P- P- -- -|METOC.AMPHC.WTH.FG.PTHY|Fog - Patchy|POINT|![](./images/WAS-WSFGP-P----.png)||
-|1395||C|N/A|WAS-WSFGPSP----|W A S - WS FG PS P- -- -|METOC.AMPHC.WTH.FG.SHWPTH|Fog - Shallow Patches|POINT|![](./images/WAS-WSFGPSP----.png)||
-|1396||C|N/A|WAS-WSFGSOP----|W A S - WS FG SO P- -- -|METOC.AMPHC.WTH.FG.SKYOBD|Fog - Sky Obscured|POINT|![](./images/WAS-WSFGSOP----.png)||
-|1397||C|N/A|WAS-WSFGSVP----|W A S - WS FG SV P- -- -|METOC.AMPHC.WTH.FG.SKYVSB|Fog - Sky Visible|POINT|![](./images/WAS-WSFGSVP----.png)||
-|1398||C|N/A|WAS-WSF-LVP----|W A S - WS F- LV P- -- -|METOC.AMPHC.WTH.FZLVL|Freezing Level|POINT|![](./images/WAS-WSF-LVP----.png)||
-|1399||C|N/A|WAS-WSFU--P----|W A S - WS FU -- P- -- -|METOC.AMPHC.WTH.FU|Smoke|POINT|![](./images/WAS-WSFU--P----.png)||
-|1400||C|N/A|WAS-WSGRL-P----|W A S - WS GR L- P- -- -|METOC.AMPHC.WTH.HL.LIT|Hail - Light Not Associated With Thunder|POINT|![](./images/WAS-WSGRL-P----.png)||
-|1401||C|N/A|WAS-WSGRMHP----|W A S - WS GR MH P- -- -|METOC.AMPHC.WTH.HL.MODHVY|Hail - Moderate/Heavy Not Associated With Thunder|POINT|![](./images/WAS-WSGRMHP----.png)||
-|1402||C|N/A|WAS-WSHZ--P----|W A S - WS HZ -- P- -- -|METOC.AMPHC.WTH.HZ|Haze|POINT|![](./images/WAS-WSHZ--P----.png)||
-|1403||C|N/A|WAS-WSIC--P----|W A S - WS IC -- P- -- -|METOC.AMPHC.WTH.IC|Ice Crystals (Diamond Dust)|POINT|![](./images/WAS-WSIC--P----.png)||
-|1404||C|N/A|WAS-WSM-L-P----|W A S - WS M- L- P- -- -|METOC.AMPHC.WTH.RASN.RDSLIT|Rain Or Drizzle And Snow - Light|POINT|![](./images/WAS-WSM-L-P----.png)||
-|1405||C|N/A|WAS-WSM-MHP----|W A S - WS M- MH P- -- -|METOC.AMPHC.WTH.RASN.RDSMH|Rain Or Drizzle And Snow - Moderate/Heavy|POINT|![](./images/WAS-WSM-MHP----.png)||
-|1406||C|N/A|WAS-WSMSL-P----|W A S - WS MS L- P- -- -|METOC.AMPHC.WTH.RASN.SWRLIT|Rain And Snow Showers - Light|POINT|![](./images/WAS-WSMSL-P----.png)||
-|1407||C|N/A|WAS-WSMSMHP----|W A S - WS MS MH P- -- -|METOC.AMPHC.WTH.RASN.SWRMOD|Rain And Snow Showers - Moderate/Heavy|POINT|![](./images/WAS-WSMSMHP----.png)||
-|1408||C|N/A|WAS-WSPLH-P----|W A S - WS PL H- P- -- -|METOC.AMPHC.WTH.PE.HVY|Ice Pellets - Heavy|POINT|![](./images/WAS-WSPLH-P----.png)||
-|1409||C|N/A|WAS-WSPLL-P----|W A S - WS PL L- P- -- -|METOC.AMPHC.WTH.PE.LIT|Ice Pellets - Light|POINT|![](./images/WAS-WSPLL-P----.png)||
-|1410||C|N/A|WAS-WSPLM-P----|W A S - WS PL M- P- -- -|METOC.AMPHC.WTH.PE.MOD|Ice Pellets - Moderate|POINT|![](./images/WAS-WSPLM-P----.png)||
-|1411||C|N/A|WAS-WSRFL-P----|W A S - WS RF L- P- -- -|METOC.AMPHC.WTH.FZRA.LIT|Freezing Rain - Light|POINT|![](./images/WAS-WSRFL-P----.png)||
-|1412||C|N/A|WAS-WSRFMHP----|W A S - WS RF MH P- -- -|METOC.AMPHC.WTH.FZRA.MODHVY|Freezing Rain - Moderate/Heavy|POINT|![](./images/WAS-WSRFMHP----.png)||
-|1413||C|N/A|WAS-WSR-HCP----|W A S - WS R- HC P- -- -|METOC.AMPHC.WTH.RA.INMHVY.CTSHVY|Rain - Continuous Heavy|POINT|![](./images/WAS-WSR-HCP----.png)||
-|1414||C|N/A|WAS-WSR-HIP----|W A S - WS R- HI P- -- -|METOC.AMPHC.WTH.RA.INMHVY|Rain - Intermittent Heavy|POINT|![](./images/WAS-WSR-HIP----.png)||
-|1415||C|N/A|WAS-WSR-LCP----|W A S - WS R- LC P- -- -|METOC.AMPHC.WTH.RA.INMLIT.CTSLIT|Rain - Continuous Light|POINT|![](./images/WAS-WSR-LCP----.png)||
-|1416||C|N/A|WAS-WSR-LIP----|W A S - WS R- LI P- -- -|METOC.AMPHC.WTH.RA.INMLIT|Rain - Intermittent Light|POINT|![](./images/WAS-WSR-LIP----.png)||
-|1417||C|N/A|WAS-WSR-MCP----|W A S - WS R- MC P- -- -|METOC.AMPHC.WTH.RA.INMMOD.CTSMOD|Rain - Continuous Moderate|POINT|![](./images/WAS-WSR-MCP----.png)||
-|1418||C|N/A|WAS-WSR-MIP----|W A S - WS R- MI P- -- -|METOC.AMPHC.WTH.RA.INMMOD|Rain - Intermittent Moderate|POINT|![](./images/WAS-WSR-MIP----.png)||
-|1419||C|N/A|WAS-WSRSL-P----|W A S - WS RS L- P- -- -|METOC.AMPHC.WTH.RASWR.LIT|Rain Showers - Light|POINT|![](./images/WAS-WSRSL-P----.png)||
-|1420||C|N/A|WAS-WSRSMHP----|W A S - WS RS MH P- -- -|METOC.AMPHC.WTH.RASWR.MODHVY|Rain Showers - Moderate/Heavy|POINT|![](./images/WAS-WSRSMHP----.png)||
-|1421||C|N/A|WAS-WSRST-P----|W A S - WS RS T- P- -- -|METOC.AMPHC.WTH.RASWR.TOR|Rain Showers - Torrential|POINT|![](./images/WAS-WSRST-P----.png)||
-|1422||C|N/A|WAS-WSSBH-P----|W A S - WS SB H- P- -- -|METOC.AMPHC.WTH.SN.BLSNHY|Blowing Snow - Heavy|POINT|![](./images/WAS-WSSBH-P----.png)||
-|1423||C|N/A|WAS-WSSBLMP----|W A S - WS SB LM P- -- -|METOC.AMPHC.WTH.SN.BLSNLM|Blowing Snow - Light/Moderate|POINT|![](./images/WAS-WSSBLMP----.png)||
-|1424||C|N/A|WAS-WSSG--P----|W A S - WS SG -- P- -- -|METOC.AMPHC.WTH.SG|Snow Grains|POINT|![](./images/WAS-WSSG--P----.png)||
-|1425||C|N/A|WAS-WSS-HCP----|W A S - WS S- HC P- -- -|METOC.AMPHC.WTH.SN.INMHVY.CTSHVY|Snow - Continuous Heavy|POINT|![](./images/WAS-WSS-HCP----.png)||
-|1426||C|N/A|WAS-WSS-HIP----|W A S - WS S- HI P- -- -|METOC.AMPHC.WTH.SN.INMHVY|Snow - Intermittent Heavy|POINT|![](./images/WAS-WSS-HIP----.png)||
-|1427||C|N/A|WAS-WSS-LCP----|W A S - WS S- LC P- -- -|METOC.AMPHC.WTH.SN.INMLIT.CTSLIT|Snow - Continuous Light|POINT|![](./images/WAS-WSS-LCP----.png)||
-|1428||C|N/A|WAS-WSS-LIP----|W A S - WS S- LI P- -- -|METOC.AMPHC.WTH.SN.INMLIT|Snow - Intermittent Light|POINT|![](./images/WAS-WSS-LIP----.png)||
-|1429||C|N/A|WAS-WSS-MCP----|W A S - WS S- MC P- -- -|METOC.AMPHC.WTH.SN.INMMOD.CTSMOD|Snow - Continuous Moderate|POINT|![](./images/WAS-WSS-MCP----.png)||
-|1430||C|N/A|WAS-WSS-MIP----|W A S - WS S- MI P- -- -|METOC.AMPHC.WTH.SN.INMMOD|Snow - Intermittent Moderate|POINT|![](./images/WAS-WSS-MIP----.png)||
-|1431||C|N/A|WAS-WSSSL-P----|W A S - WS SS L- P- -- -|METOC.AMPHC.WTH.SSWR.LIT|Snow Showers - Light|POINT|![](./images/WAS-WSSSL-P----.png)||
-|1432||C|N/A|WAS-WSSSMHP----|W A S - WS SS MH P- -- -|METOC.AMPHC.WTH.SSWR.MODHVY|Snow Showers - Moderate/Heavy|POINT|![](./images/WAS-WSSSMHP----.png)||
-|1433||C|N/A|WAS-WST-FCP----|W A S - WS T- FC P- -- -|METOC.AMPHC.WTH.STMS.FC|Funnel Cloud (Tornado-Waterspout)|POINT|![](./images/WAS-WST-FCP----.png)||
-|1434||C|N/A|WAS-WSTHH-P----|W A S - WS TH H- P- -- -|METOC.AMPHC.WTH.STMS.TSHVWH|Thunderstorm Heavy - With Hail|POINT|![](./images/WAS-WSTHH-P----.png)||
-|1435||C|N/A|WAS-WSTHR-P----|W A S - WS TH R- P- -- -|METOC.AMPHC.WTH.STMS.TSHVNH|Thunderstorm Heavy With Rain-Snow - No Hail|POINT|![](./images/WAS-WSTHR-P----.png)||
-|1436||C|N/A|WAS-WST-LGP----|W A S - WS T- LG P- -- -|METOC.AMPHC.WTH.STMS.LTG|Lightning|POINT|![](./images/WAS-WST-LGP----.png)||
-|1437||C|N/A|WAS-WST-LVP----|W A S - WS T- LV P- -- -|METOC.AMPHC.WTH.TROPLV|Tropopause Level|POINT|![](./images/WAS-WST-LVP----.png)||
-|1438||C|N/A|WAS-WSTMH-P----|W A S - WS TM H- P- -- -|METOC.AMPHC.WTH.STMS.TSLMWH|Thunderstorm Light To Moderate - With Hail|POINT|![](./images/WAS-WSTMH-P----.png)||
-|1439||C|N/A|WAS-WSTMR-P----|W A S - WS TM R- P- -- -|METOC.AMPHC.WTH.STMS.TSLMNH|Thunderstorm Light To Moderate With Rain/Snow - No Hail|POINT|![](./images/WAS-WSTMR-P----.png)||
-|1440||C|N/A|WAS-WST-NPP----|W A S - WS T- NP P- -- -|METOC.AMPHC.WTH.STMS.TS|Thunderstorm - No Precipitation|POINT|![](./images/WAS-WST-NPP----.png)||
-|1441||C|N/A|WAS-WSTSD-P----|W A S - WS TS D- P- -- -|METOC.AMPHC.WTH.TPLSYS.TROPDN|Tropical Depression|POINT|![](./images/WAS-WSTSD-P----.png)||
-|1442||C|N/A|WAS-WSTSH-P----|W A S - WS TS H- P- -- -|METOC.AMPHC.WTH.TPLSYS.HC|Hurricane-Typhoon|POINT|![](./images/WAS-WSTSH-P----.png)||
-|1443||C|N/A|WAS-WST-SQP----|W A S - WS T- SQ P- -- -|METOC.AMPHC.WTH.STMS.SQL|Squall|POINT|![](./images/WAS-WST-SQP----.png)||
-|1444||C|N/A|WAS-WSTSS-P----|W A S - WS TS S- P- -- -|METOC.AMPHC.WTH.TPLSYS.TROPSM|Tropical Storm|POINT|![](./images/WAS-WSTSS-P----.png)||
-|1445||C|N/A|WAS-WSUKP-P----|W A S - WS UK P- P- -- -|METOC.AMPHC.WTH.POUTAI|Precipitation Of Unknown Type And Intensity|POINT|![](./images/WAS-WSUKP-P----.png)||
-|1446||C|N/A|WAS-WSVA--P----|W A S - WS VA -- P- -- -|METOC.AMPHC.WTH.VOLERN.VOLASH|Volcanic Ash|POINT|![](./images/WAS-WSVA--P----.png)||
-|1447||C|N/A|WAS-WSVE--P----|W A S - WS VE -- P- -- -|METOC.AMPHC.WTH.VOLERN|Volcanic Eruption|POINT|![](./images/WAS-WSVE--P----.png)||
-|1448||C|N/A|WO-DBSF-----A--|W O - D BS F- -- -- A- -|METOC.OCA.OCNGRY.BEHSPE.FLT|Flat|AREA|![](./images/WO-DBSF-----A--.png)||
-|1449||C|N/A|WO-DBSG-----A--|W O - D BS G- -- -- A- -|METOC.OCA.OCNGRY.BEHSPE.GTL|Gentle|AREA|![](./images/WO-DBSG-----A--.png)||
-|1450||C|N/A|WO-DBSM-----A--|W O - D BS M- -- -- A- -|METOC.OCA.OCNGRY.BEHSPE.MOD|Moderate|AREA|![](./images/WO-DBSM-----A--.png)||
-|1451||C|N/A|WO-DBST-----A--|W O - D BS T- -- -- A- -|METOC.OCA.OCNGRY.BEHSPE.STP|Steep|AREA|![](./images/WO-DBST-----A--.png)||
-|1452||C|N/A|WO-DGMBCA---A--|W O - D GM BC A- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBC.A|A|AREA|![](./images/WO-DGMBCA---A--.png)||
-|1453||C|N/A|WO-DGMBCB---A--|W O - D GM BC B- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBC.B|B|AREA|![](./images/WO-DGMBCB---A--.png)||
-|1454||C|N/A|WO-DGMBCC---A--|W O - D GM BC C- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBC.C|C|AREA|![](./images/WO-DGMBCC---A--.png)||
-|1455||C|N/A|WO-DGMBTA---A--|W O - D GM BT A- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.A1|A1|AREA|![](./images/WO-DGMBTA---A--.png)||
-|1456||C|N/A|WO-DGMBTB---A--|W O - D GM BT B- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.A2|A2|AREA|![](./images/WO-DGMBTB---A--.png)||
-|1457||C|N/A|WO-DGMBTC---A--|W O - D GM BT C- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.A3|A3|AREA|![](./images/WO-DGMBTC---A--.png)||
-|1458||C|N/A|WO-DGMBTD---A--|W O - D GM BT D- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.B1|B1|AREA|![](./images/WO-DGMBTD---A--.png)||
-|1459||C|N/A|WO-DGMBTE---A--|W O - D GM BT E- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.B2|B2|AREA|![](./images/WO-DGMBTE---A--.png)||
-|1460||C|N/A|WO-DGMBTF---A--|W O - D GM BT F- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.B3|B3|AREA|![](./images/WO-DGMBTF---A--.png)||
-|1461||C|N/A|WO-DGMBTG---A--|W O - D GM BT G- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.C1|C1|AREA|![](./images/WO-DGMBTG---A--.png)||
-|1462||C|N/A|WO-DGMBTH---A--|W O - D GM BT H- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.C2|C2|AREA|![](./images/WO-DGMBTH---A--.png)||
-|1463||C|N/A|WO-DGMBTI---A--|W O - D GM BT I- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBT.C3|C3|AREA|![](./images/WO-DGMBTI---A--.png)||
-|1464||C|N/A|WO-DGMCH----A--|W O - D GM CH -- -- A- -|METOC.OCA.GPHY.MNEWBD.CTRB.HGH|High|AREA|![](./images/WO-DGMCH----A--.png)||
-|1465||C|N/A|WO-DGMCL----A--|W O - D GM CL -- -- A- -|METOC.OCA.GPHY.MNEWBD.CTRB.LW|Low|AREA|![](./images/WO-DGMCL----A--.png)||
-|1466||C|N/A|WO-DGMCM----A--|W O - D GM CM -- -- A- -|METOC.OCA.GPHY.MNEWBD.CTRB.MDM|Medium|AREA|![](./images/WO-DGMCM----A--.png)||
-|1467||C|N/A|WO-DGMIBA---A--|W O - D GM IB A- -- A- -|METOC.OCA.GPHY.MNEWBD.IMTBUR.0%|0|AREA|![](./images/WO-DGMIBA---A--.png)||
-|1468||C|N/A|WO-DGMIBB---A--|W O - D GM IB B- -- A- -|METOC.OCA.GPHY.MNEWBD.IMTBUR.0-10-|0-10-|AREA|![](./images/WO-DGMIBB---A--.png)||
-|1469||C|N/A|WO-DGMIBC---A--|W O - D GM IB C- -- A- -|METOC.OCA.GPHY.MNEWBD.IMTBUR.10-20-|10-20-|AREA|![](./images/WO-DGMIBC---A--.png)||
-|1470||C|N/A|WO-DGMIBD---A--|W O - D GM IB D- -- A- -|METOC.OCA.GPHY.MNEWBD.IMTBUR.20-75-|20-75-|AREA|![](./images/WO-DGMIBD---A--.png)||
-|1471||C|N/A|WO-DGMIBE---A--|W O - D GM IB E- -- A- -|METOC.OCA.GPHY.MNEWBD.IMTBUR.-75-|-75-|AREA|![](./images/WO-DGMIBE---A--.png)||
-|1472||C|N/A|WO-DGML-----A--|W O - D GM L- -- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.LND|Land|AREA|![](./images/WO-DGML-----A--.png)||
-|1473||C|N/A|WO-DGMN-----A--|W O - D GM N- -- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.NODAT|No Data|AREA|![](./images/WO-DGMN-----A--.png)||
-|1474||C|N/A|WO-DGMRM----A--|W O - D GM RM -- -- A- -|METOC.OCA.GPHY.MNEWBD.BTMRGN.MOD|Moderate|AREA|![](./images/WO-DGMRM----A--.png)||
-|1475||C|N/A|WO-DGMRR----A--|W O - D GM RR -- -- A- -|METOC.OCA.GPHY.MNEWBD.BTMRGN.RGH|Rough|AREA|![](./images/WO-DGMRR----A--.png)||
-|1476||C|N/A|WO-DGMRS----A--|W O - D GM RS -- -- A- -|METOC.OCA.GPHY.MNEWBD.BTMRGN.SMH|Smooth|AREA|![](./images/WO-DGMRS----A--.png)||
-|1477||C|N/A|WO-DGMSB----A--|W O - D GM SB -- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.BLDS|Boulders|AREA|![](./images/WO-DGMSB----A--.png)||
-|1478||C|N/A|WO-DGMSC----A--|W O - D GM SC -- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.CLAY|Clay|AREA|![](./images/WO-DGMSC----A--.png)||
-|1479||C|N/A|WO-DGMS-CO--A--|W O - D GM S- CO -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.COBLOS|Cobbles  Oyster Shells|AREA|![](./images/WO-DGMS-CO--A--.png)||
-|1480||C|N/A|WO-DGMSIC---A--|W O - D GM SI C- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.CSESLT|Coarse Silt|AREA|![](./images/WO-DGMSIC---A--.png)||
-|1481||C|N/A|WO-DGMSIF---A--|W O - D GM SI F- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.FNESLT|Fine Silt|AREA|![](./images/WO-DGMSIF---A--.png)||
-|1482||C|N/A|WO-DGMSIM---A--|W O - D GM SI M- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.MDMSLT|Medium Silt|AREA|![](./images/WO-DGMSIM---A--.png)||
-|1483||C|N/A|WO-DGMSIVF--A--|W O - D GM SI VF -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.VFNSLT|Very Fine Silt|AREA|![](./images/WO-DGMSIVF--A--.png)||
-|1484||C|N/A|WO-DGMS-PH--A--|W O - D GM S- PH -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.PBLSHE|Pebbles  Shells|AREA|![](./images/WO-DGMS-PH--A--.png)||
-|1485||C|N/A|WO-DGMSR----A--|W O - D GM SR -- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.SLDRCK|Solid Rock|AREA|![](./images/WO-DGMSR----A--.png)||
-|1486||C|N/A|WO-DGMSSC---A--|W O - D GM SS C- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.CSESD|Coarse Sand|AREA|![](./images/WO-DGMSSC---A--.png)||
-|1487||C|N/A|WO-DGMSSF---A--|W O - D GM SS F- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.FNESD|Fine Sand|AREA|![](./images/WO-DGMSSF---A--.png)||
-|1488||C|N/A|WO-DGMS-SH--A--|W O - D GM S- SH -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.SD&SHE|Sand And Shells|AREA|![](./images/WO-DGMS-SH--A--.png)||
-|1489||C|N/A|WO-DGMSSM---A--|W O - D GM SS M- -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.MDMSD|Medium Sand|AREA|![](./images/WO-DGMSSM---A--.png)||
-|1490||C|N/A|WO-DGMSSVF--A--|W O - D GM SS VF -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.VFNESD|Very Fine Sand|AREA|![](./images/WO-DGMSSVF--A--.png)||
-|1491||C|N/A|WO-DGMSSVS--A--|W O - D GM SS VS -- A- -|METOC.OCA.GPHY.MNEWBD.MIWBS.VCSESD|Very Coarse Sand|AREA|![](./images/WO-DGMSSVS--A--.png)||
-|1492||C|N/A|WO-DHABP----A--|W O - D HA BP -- -- A- -|METOC.OCA.HYDGRY.ATN.PRH1.PRH3|Perches-Stakes|POINT|![](./images/WO-DHABP----A--.png)||
-|1493||C|N/A|WO-DHALLA--L---|W O - D HA LL A- -L -- -|METOC.OCA.HYDGRY.ATN.LDGLNE|Leading Line|LINE|![](./images/WO-DHALLA--L---.png)||
-|1494||C|N/A|WO-DHCB-----A--|W O - D HC B- -- -- A- -|METOC.OCA.HYDGRY.CSTHYD.BEH|Beach|AREA|![](./images/WO-DHCB-----A--.png)||
-|1495||C|N/A|WO-DHCC----L---|W O - D HC C- -- -L -- -|METOC.OCA.HYDGRY.CSTHYD.CSTLN|Coastline|LINE|![](./images/WO-DHCC----L---.png)||
-|1496||C|N/A|WO-DHCF-----A--|W O - D HC F- -- -- A- -|METOC.OCA.HYDGRY.CSTHYD.FSH1.FSH3|Foreshore|AREA|![](./images/WO-DHCF-----A--.png)||
-|1497||C|N/A|WO-DHCF----L---|W O - D HC F- -- -L -- -|METOC.OCA.HYDGRY.CSTHYD.FSH1.FSH2|Foreshore|LINE|![](./images/WO-DHCF----L---.png)||
-|1498||C|N/A|WO-DHCI-----A--|W O - D HC I- -- -- A- -|METOC.OCA.HYDGRY.CSTHYD.ISND|Island|AREA|![](./images/WO-DHCI-----A--.png)||
-|1499||C|N/A|WO-DHCW-----A--|W O - D HC W- -- -- A- -|METOC.OCA.HYDGRY.CSTHYD.H2O|Water|AREA|![](./images/WO-DHCW-----A--.png)||
-|1500||C|N/A|WO-DHDDA----A--|W O - D HD DA -- -- A- -|METOC.OCA.HYDGRY.DPH.ARA|Depth Area|POINT|![](./images/WO-DHDDA----A--.png)||
-|1501||C|N/A|WO-DHDDC---L---|W O - D HD DC -- -L -- -|METOC.OCA.HYDGRY.DPH.CTUR|Depth Contour|LINE|![](./images/WO-DHDDC---L---.png)||
-|1502||C|N/A|WO-DHDDL---L---|W O - D HD DL -- -L -- -|METOC.OCA.HYDGRY.DPH.CRV|Depth Curve|LINE|![](./images/WO-DHDDL---L---.png)||
-|1503||C|N/A|WO-DHHD-----A--|W O - D HH D- -- -- A- -|METOC.OCA.HYDGRY.DANHAZ.UH2DAN|Underwater Danger-Hazard|AREA|![](./images/WO-DHHD-----A--.png)||
-|1504||C|N/A|WO-DHHDB---L---|W O - D HH DB -- -L -- -|METOC.OCA.HYDGRY.DANHAZ.BRKS|Breakers|LINE|![](./images/WO-DHHDB---L---.png)||
-|1505||C|N/A|WO-DHHDD----A--|W O - D HH DD -- -- A- -|METOC.OCA.HYDGRY.DANHAZ.DCDH2O|Discolored Water|AREA|![](./images/WO-DHHDD----A--.png)||
-|1506||C|N/A|WO-DHHDF----A--|W O - D HH DF -- -- A- -|METOC.OCA.HYDGRY.DANHAZ.FLGRD1.FLGRD3|Foul Ground|AREA|![](./images/WO-DHHDF----A--.png)||
-|1507||C|N/A|WO-DHHDK----A--|W O - D HH DK -- -- A- -|METOC.OCA.HYDGRY.DANHAZ.KLP1.KLP3|Kelp3-Seaweed|AREA|![](./images/WO-DHHDK----A--.png)||
-|1508||C|N/A|WO-DHHDK--P----|W O - D HH DK -- P- -- -|METOC.OCA.HYDGRY.DANHAZ.KLP1.KLP2|Kelp2-Seaweed|POINT|![](./images/WO-DHHDK--P----.png)||
-|1509||C|N/A|WO-DHPBA----A--|W O - D HP BA -- -- A- -|METOC.OCA.HYDGRY.PRTHBR.PRT.ANCRG3|Anchorage|AREA|![](./images/WO-DHPBA----A--.png)||
-|1510||C|N/A|WO-DHPBA---L---|W O - D HP BA -- -L -- -|METOC.OCA.HYDGRY.PRTHBR.PRT.ANCRG2|Anchorage|LINE|![](./images/WO-DHPBA---L---.png)||
-|1511||C|N/A|WO-DHPBP---L---|W O - D HP BP -- -L -- -|METOC.OCA.HYDGRY.PRTHBR.PRT.PWQ|Pier-Wharf-Quay|LINE|![](./images/WO-DHPBP---L---.png)||
-|1512||C|N/A|WO-DHPMD----A--|W O - D HP MD -- -- A- -|METOC.OCA.HYDGRY.PRTHBR.FAC.DDCK|Drydock|AREA|![](./images/WO-DHPMD----A--.png)||
-|1513||C|N/A|WO-DHPMO----A--|W O - D HP MO -- -- A- -|METOC.OCA.HYDGRY.PRTHBR.FAC.OSLF3|Offshore Loading Facility|AREA|![](./images/WO-DHPMO----A--.png)||
-|1514||C|N/A|WO-DHPMO---L---|W O - D HP MO -- -L -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.OSLF2|Offshore Loading Facility|LINE|![](./images/WO-DHPMO---L---.png)||
-|1515||C|N/A|WO-DHPMO--P----|W O - D HP MO -- P- -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.OSLF1|Offshore Loading Facility|POINT|![](./images/WO-DHPMO--P----.png)||
-|1516||C|N/A|WO-DHPMRA--L---|W O - D HP MR A- -L -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.RAMPAW|Ramp (Above Water)|LINE|![](./images/WO-DHPMRA--L---.png)||
-|1517||C|N/A|WO-DHPMRB--L---|W O - D HP MR B- -L -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.RAMPBW|Ramp (Below Water)|LINE|![](./images/WO-DHPMRB--L---.png)||
-|1518||C|N/A|WO-DHPSPA--L---|W O - D HP SP A- -L -- -|METOC.OCA.HYDGRY.PRTHBR.SHRLNE.BWGJAW|Breakwater-Groin-Jetty (Above Water)|LINE|![](./images/WO-DHPSPA--L---.png)||
-|1519||C|N/A|WO-DHPSPB--L---|W O - D HP SP B- -L -- -|METOC.OCA.HYDGRY.PRTHBR.SHRLNE.BWGJBW|Breakwater-Groin-Jetty (Below Water)|LINE|![](./images/WO-DHPSPB--L---.png)||
-|1520||C|N/A|WO-DHPSPS--L---|W O - D HP SP S- -L -- -|METOC.OCA.HYDGRY.PRTHBR.SHRLNE.SW|Seawall|LINE|![](./images/WO-DHPSPS--L---.png)||
-|1521||C|N/A|WO-DIDID---L---|W O - D ID ID -- -L -- -|METOC.OCA.ISYS.DYNPRO.ID|Ice Drift (Direction)|POINT|![](./images/WO-DIDID---L---.png)||
-|1522||C|N/A|WO-DILIEE--L---|W O - D IL IE E- -L -- -|METOC.OCA.ISYS.LMT.EIEOB|Estimated Ice Edge Or Boundary|LINE|![](./images/WO-DILIEE--L---.png)||
-|1523||C|N/A|WO-DILIEO--L---|W O - D IL IE O- -L -- -|METOC.OCA.ISYS.LMT.OIEOB|Observed Ice Edge Or Boundary|LINE|![](./images/WO-DILIEO--L---.png)||
-|1524||C|N/A|WO-DILIER--L---|W O - D IL IE R- -L -- -|METOC.OCA.ISYS.LMT.IEOBFR|Ice Edge Or Boundary From Radar|LINE|![](./images/WO-DILIER--L---.png)||
-|1525||C|N/A|WO-DILOR---L---|W O - D IL OR -- -L -- -|METOC.OCA.ISYS.LMT.LORO|Limit Of Radar Observation|LINE|![](./images/WO-DILOR---L---.png)||
-|1526||C|N/A|WO-DILOV---L---|W O - D IL OV -- -L -- -|METOC.OCA.ISYS.LMT.LOVO|Limit Of Visual Observation|LINE|![](./images/WO-DILOV---L---.png)||
-|1527||C|N/A|WO-DILUC---L---|W O - D IL UC -- -L -- -|METOC.OCA.ISYS.LMT.LOU|Limit Of Undercast|LINE|![](./images/WO-DILUC---L---.png)||
-|1528||C|N/A|WO-DIOC----L---|W O - D IO C- -- -L -- -|METOC.OCA.ISYS.OITI.CRK|Cracks|LINE|![](./images/WO-DIOC----L---.png)||
-|1529||C|N/A|WO-DIOCS---L---|W O - D IO CS -- -L -- -|METOC.OCA.ISYS.OITI.CRKASL|Cracks At A Specific Location|LINE|![](./images/WO-DIOCS---L---.png)||
-|1530||C|N/A|WO-DIOLF---L---|W O - D IO LF -- -L -- -|METOC.OCA.ISYS.OITI.FZLED|Frozen Lead|LINE|![](./images/WO-DIOLF---L---.png)||
-|1531||C|N/A|WO-DIOL----L---|W O - D IO L- -- -L -- -|METOC.OCA.ISYS.OITI.LED|Lead|LINE|![](./images/WO-DIOL----L---.png)||
-|1532||C|N/A|WO-DL-MA----A--|W O - D L- MA -- -- A- -|METOC.OCA.LMT.MARTAR|Maritime Area|AREA|![](./images/WO-DL-MA----A--.png)||
-|1533||C|N/A|WO-DL-ML---L---|W O - D L- ML -- -L -- -|METOC.OCA.LMT.MARTLB|Maritime Limit Boundary|LINE|![](./images/WO-DL-ML---L---.png)||
-|1534||C|N/A|WO-DL-O-----A--|W O - D L- O- -- -- A- -|METOC.OCA.LMT.OD|Operator-Defined|AREA|![](./images/WO-DL-O-----A--.png)||
-|1535||C|N/A|WO-DL-RA---L---|W O - D L- RA -- -L -- -|METOC.OCA.LMT.RSDARA|Restricted Area|LINE|![](./images/WO-DL-RA---L---.png)||
-|1536||C|N/A|WO-DL-SA----A--|W O - D L- SA -- -- A- -|METOC.OCA.LMT.SWPARA|Swept Area|AREA|![](./images/WO-DL-SA----A--.png)||
-|1537||C|N/A|WO-DL-TA----A--|W O - D L- TA -- -- A- -|METOC.OCA.LMT.TRGARA|Training Area|AREA|![](./images/WO-DL-TA----A--.png)||
-|1538||C|N/A|WO-DMCA----L---|W O - D MC A- -- -L -- -|METOC.OCA.MMD.SUBCBL|Submarine Cable|LINE|![](./images/WO-DMCA----L---.png)||
-|1539||C|N/A|WO-DMCC-----A--|W O - D MC C- -- -- A- -|METOC.OCA.MMD.SBMCRB|Submerged Crib|AREA|![](./images/WO-DMCC-----A--.png)||
-|1540||C|N/A|WO-DMCD----L---|W O - D MC D- -- -L -- -|METOC.OCA.MMD.CNL|Canal|LINE|![](./images/WO-DMCD----L---.png)||
-|1541||C|N/A|WO-DMOA-----A--|W O - D MO A- -- -- A- -|METOC.OCA.MMD.OLRGFD|Oil/Gas Rig Field|AREA|![](./images/WO-DMOA-----A--.png)||
-|1542||C|N/A|WO-DMPA----L---|W O - D MP A- -- -L -- -|METOC.OCA.MMD.PPELNE|Pipelines/Pipe|LINE|![](./images/WO-DMPA----L---.png)||
-|1543||C|N/A|WO-DOBVA----A--|W O - D OB VA -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR1-2|Vdr Level 1-2|AREA|![](./images/WO-DOBVA----A--.png)||
-|1544||C|N/A|WO-DOBVB----A--|W O - D OB VB -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR2-3|Vdr Level 2-3|AREA|![](./images/WO-DOBVB----A--.png)||
-|1545||C|N/A|WO-DOBVC----A--|W O - D OB VC -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR3-4|Vdr Level 3-4|AREA|![](./images/WO-DOBVC----A--.png)||
-|1546||C|N/A|WO-DOBVD----A--|W O - D OB VD -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR4-5|Vdr Level 4-5|AREA|![](./images/WO-DOBVD----A--.png)||
-|1547||C|N/A|WO-DOBVE----A--|W O - D OB VE -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR5-6|Vdr Level 5-6|AREA|![](./images/WO-DOBVE----A--.png)||
-|1548||C|N/A|WO-DOBVF----A--|W O - D OB VF -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR6-7|Vdr Level 6-7|AREA|![](./images/WO-DOBVF----A--.png)||
-|1549||C|N/A|WO-DOBVG----A--|W O - D OB VG -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR7-8|Vdr Level 7-8|AREA|![](./images/WO-DOBVG----A--.png)||
-|1550||C|N/A|WO-DOBVH----A--|W O - D OB VH -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR8-9|Vdr Level 8-9|AREA|![](./images/WO-DOBVH----A--.png)||
-|1551||C|N/A|WO-DOBVI----A--|W O - D OB VI -- -- A- -|METOC.OCA.OCNGRY.BIOLUM.VDR9-0|Vdr Level 9-10|AREA|![](./images/WO-DOBVI----A--.png)||
-|1552||C|N/A|WO-DTCCCFE-L---|W O - D TC CC FE -L -- -|METOC.OCA.HYDGRY.TDECUR.EBB|Current Flow - Ebb|LINE|![](./images/WO-DTCCCFE-L---.png)||
-|1553||C|N/A|WO-DTCCCFF-L---|W O - D TC CC FF -L -- -|METOC.OCA.HYDGRY.TDECUR.FLOOD|Current Flow - Flood|LINE|![](./images/WO-DTCCCFF-L---.png)||
-|1554||C|N/A|WOS-BFC-CBP----|W O S - BF C- CB P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.COBL|Cobbles|POINT|![](./images/WOS-BFC-CBP----.png)||
-|1555||C|N/A|WOS-BFC-CLP----|W O S - BF C- CL P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.CLAY|Clay|POINT|![](./images/WOS-BFC-CLP----.png)||
-|1556||C|N/A|WOS-BFC-COP----|W O S - BF C- CO P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.CRL|Coral|POINT|![](./images/WOS-BFC-COP----.png)||
-|1557||C|N/A|WOS-BFC-G-P----|W O S - BF C- G- P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.GVL|Gravel|POINT|![](./images/WOS-BFC-G-P----.png)||
-|1558||C|N/A|WOS-BFC-M-P----|W O S - BF C- M- P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.MUD|Mud|POINT|![](./images/WOS-BFC-M-P----.png)||
-|1559||C|N/A|WOS-BFC-P-P----|W O S - BF C- P- P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.PBL|Pebbles|POINT|![](./images/WOS-BFC-P-P----.png)||
-|1560||C|N/A|WOS-BFC-R-P----|W O S - BF C- R- P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.RCK|Rock|POINT|![](./images/WOS-BFC-R-P----.png)||
-|1561||C|N/A|WOS-BFC-SHP----|W O S - BF C- SH P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.SHE|Shell|POINT|![](./images/WOS-BFC-SHP----.png)||
-|1562||C|N/A|WOS-BFC-SIP----|W O S - BF C- SI P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.SLT|Silt|POINT|![](./images/WOS-BFC-SIP----.png)||
-|1563||C|N/A|WOS-BFC-S-P----|W O S - BF C- S- P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.SD|Sand|POINT|![](./images/WOS-BFC-S-P----.png)||
-|1564||C|N/A|WOS-BFC-STP----|W O S - BF C- ST P- -- -|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.STNE|Stones|POINT|![](./images/WOS-BFC-STP----.png)||
-|1565||C|N/A|WOS-BFQ-C-P----|W O S - BF Q- C- P- -- -|METOC.OCA.HYDGRY.BTMFAT.QLFYTM.CSE|Coarse|POINT|![](./images/WOS-BFQ-C-P----.png)||
-|1566||C|N/A|WOS-BFQ-F-P----|W O S - BF Q- F- P- -- -|METOC.OCA.HYDGRY.BTMFAT.QLFYTM.FNE|Fine|POINT|![](./images/WOS-BFQ-F-P----.png)||
-|1567||C|N/A|WOS-BFQ-M-P----|W O S - BF Q- M- P- -- -|METOC.OCA.HYDGRY.BTMFAT.QLFYTM.MDM|Medium|POINT|![](./images/WOS-BFQ-M-P----.png)||
-|1568||C|N/A|WOS-HABA--P----|W O S - HA BA -- P- -- -|METOC.OCA.HYDGRY.ATN.BCN|Beacon|POINT|![](./images/WOS-HABA--P----.png)||
-|1569||C|N/A|WOS-HABB--P----|W O S - HA BB -- P- -- -|METOC.OCA.HYDGRY.ATN.BUOY|Buoy Default|POINT|![](./images/WOS-HABB--P----.png)||
-|1570||C|N/A|WOS-HABM--P----|W O S - HA BM -- P- -- -|METOC.OCA.HYDGRY.ATN.MRK|Marker|POINT|![](./images/WOS-HABM--P----.png)||
-|1571||C|N/A|WOS-HABP--P----|W O S - HA BP -- P- -- -|METOC.OCA.HYDGRY.ATN.PRH1.PRH2|Perches-Stakes|POINT|![](./images/WOS-HABP--P----.png)||
-|1572||C|N/A|WOS-HALH--P----|W O S - HA LH -- P- -- -|METOC.OCA.HYDGRY.ATN.LITHSE|Lighthouse|POINT|![](./images/WOS-HALH--P----.png)||
-|1573||C|N/A|WOS-HAL---P----|W O S - HA L- -- P- -- -|METOC.OCA.HYDGRY.ATN.LIT|Light|POINT|![](./images/WOS-HAL---P----.png)||
-|1574||C|N/A|WOS-HALV--P----|W O S - HA LV -- P- -- -|METOC.OCA.HYDGRY.ATN.LITVES|Light Vessel-Lightship|POINT|![](./images/WOS-HALV--P----.png)||
-|1575||C|N/A|WOS-HDS---P----|W O S - HD S- -- P- -- -|METOC.OCA.HYDGRY.DPH.SNDG|Soundings|POINT|![](./images/WOS-HDS---P----.png)||
-|1576||C|N/A|WOS-HHDE--P----|W O S - HH DE -- P- -- -|METOC.OCA.HYDGRY.DANHAZ.EOTR|Eddies-Overfalls-Tide Rips|POINT|![](./images/WOS-HHDE--P----.png)||
-|1577||C|N/A|WOS-HHDF--P----|W O S - HH DF -- P- -- -|METOC.OCA.HYDGRY.DANHAZ.FLGRD1.FLGRD2|Foul Ground|POINT|![](./images/WOS-HHDF--P----.png)||
-|1578||C|N/A|WOS-HHDMDBP----|W O S - HH DM DB P- -- -|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DBT|Mine-Naval (Doubtful)|POINT|![](./images/WOS-HHDMDBP----.png)||
-|1579||C|N/A|WOS-HHDMDFP----|W O S - HH DM DF P- -- -|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DEFN|Mine-Naval (Definite)|POINT|![](./images/WOS-HHDMDFP----.png)||
-|1580||C|N/A|WOS-HHDR---L---|W O S - HH DR -- -L -- -|METOC.OCA.HYDGRY.DANHAZ.REEF|Reef|LINE|![](./images/WOS-HHDR---L---.png)||
-|1581||C|N/A|WOS-HHDS--P----|W O S - HH DS -- P- -- -|METOC.OCA.HYDGRY.DANHAZ.SNAG|Snags-Stumps|POINT|![](./images/WOS-HHDS--P----.png)||
-|1582||C|N/A|WOS-HHDWA-P----|W O S - HH DW A- P- -- -|METOC.OCA.HYDGRY.DANHAZ.WRK.UCOV|Wreck (Uncovers)|POINT|![](./images/WOS-HHDWA-P----.png)||
-|1583||C|N/A|WOS-HHDWB-P----|W O S - HH DW B- P- -- -|METOC.OCA.HYDGRY.DANHAZ.WRK.SBM|Wreck (Submerged)|POINT|![](./images/WOS-HHDWB-P----.png)||
-|1584||C|N/A|WOS-HHRA--P----|W O S - HH RA -- P- -- -|METOC.OCA.HYDGRY.DANHAZ.RCKAWD|Rock Awashed|POINT|![](./images/WOS-HHRA--P----.png)||
-|1585||C|N/A|WOS-HHRS--P----|W O S - HH RS -- P- -- -|METOC.OCA.HYDGRY.DANHAZ.RCKSBM|Rock Submergered|POINT|![](./images/WOS-HHRS--P----.png)||
-|1586||C|N/A|WOS-HPBA--P----|W O S - HP BA -- P- -- -|METOC.OCA.HYDGRY.PRTHBR.PRT.ANCRG1|Anchorage|POINT|![](./images/WOS-HPBA--P----.png)||
-|1587||C|N/A|WOS-HPB-A-P----|W O S - HP B- A- P- -- -|METOC.OCA.HYDGRY.PRTHBR.PRT.BRHSA|Berths (Anchor)|POINT|![](./images/WOS-HPB-A-P----.png)||
-|1588||C|N/A|WOS-HPB-O-P----|W O S - HP B- O- P- -- -|METOC.OCA.HYDGRY.PRTHBR.PRT.BRHSO|Berths (Onshore)|POINT|![](./images/WOS-HPB-O-P----.png)||
-|1589||C|N/A|WOS-HPCP--P----|W O S - HP CP -- P- -- -|METOC.OCA.HYDGRY.PRTHBR.PRT.CIP|Call In Point|POINT|![](./images/WOS-HPCP--P----.png)||
-|1590||C|N/A|WOS-HPD---P----|W O S - HP D- -- P- -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.DOPN|Dolphin|POINT|![](./images/WOS-HPD---P----.png)||
-|1591||C|N/A|WOS-HPFF----A--|W O S - HP FF -- -- A- -|METOC.OCA.HYDGRY.PRTHBR.FSG.FSTK3|Fish Stakes-Traps-Weirs Fstk3|AREA|![](./images/WOS-HPFF----A--.png)||
-|1592||C|N/A|WOS-HPFH--P----|W O S - HP FH -- P- -- -|METOC.OCA.HYDGRY.PRTHBR.FSG.FSGHBR|Fishing Harbor|POINT|![](./images/WOS-HPFH--P----.png)||
-|1593||C|N/A|WOS-HPFS---L---|W O S - HP FS -- -L -- -|METOC.OCA.HYDGRY.PRTHBR.FSG.FSTK2|Fish Stakes-Traps-Weirs Fstk2|POINT|![](./images/WOS-HPFS---L---.png)||
-|1594||C|N/A|WOS-HPFS--P----|W O S - HP FS -- P- -- -|METOC.OCA.HYDGRY.PRTHBR.FSG.FSTK1|Fish Stakes-Traps-Weirs Fstk1|POINT|![](./images/WOS-HPFS--P----.png)||
-|1595||C|N/A|WOS-HPM-CC-L---|W O S - HP M- CC -L -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.CFCSG|Cable Ferry Crossing|POINT|![](./images/WOS-HPM-CC-L---.png)||
-|1596||C|N/A|WOS-HPM-FC-L---|W O S - HP M- FC -L -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.FRYCSG|Ferry Crossing|POINT|![](./images/WOS-HPM-FC-L---.png)||
-|1597||C|N/A|WOS-HPML--P----|W O S - HP ML -- P- -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.LNDPLC|Landing Place|POINT|![](./images/WOS-HPML--P----.png)||
-|1598||C|N/A|WOS-HPM-R-P----|W O S - HP M- R- P- -- -|METOC.OCA.HYDGRY.PRTHBR.FAC.LNDRNG|Landing Ring|POINT|![](./images/WOS-HPM-R-P----.png)||
-|1599||C|N/A|WOS-IBBBM-P----|W O S - IB BB M- P- -- -|METOC.OCA.ISYS.IB.MNYBB|Many Bergy Bits|POINT|![](./images/WOS-IBBBM-P----.png)||
-|1600||C|N/A|WOS-IBBB--P----|W O S - IB BB -- P- -- -|METOC.OCA.ISYS.IB.BB|Bergy Bit|POINT|![](./images/WOS-IBBB--P----.png)||
-|1601||C|N/A|WOS-IBBS--P----|W O S - IB BS -- P- -- -|METOC.OCA.ISYS.IB.BAS|Belts And Strips|POINT|![](./images/WOS-IBBS--P----.png)||
-|1602||C|N/A|WOS-IBF---P----|W O S - IB F- -- P- -- -|METOC.OCA.ISYS.IB.FBG|Floeberg|POINT|![](./images/WOS-IBF---P----.png)||
-|1603||C|N/A|WOS-IBGLM-P----|W O S - IB GL M- P- -- -|METOC.OCA.ISYS.IB.MNYGWL|Many Growlers|POINT|![](./images/WOS-IBGLM-P----.png)||
-|1604||C|N/A|WOS-IBGL--P----|W O S - IB GL -- P- -- -|METOC.OCA.ISYS.IB.GWL|Growler|POINT|![](./images/WOS-IBGL--P----.png)||
-|1605||C|N/A|WOS-IBG---P----|W O S - IB G- -- P- -- -|METOC.OCA.ISYS.IB.GNL|Iceberg - General|POINT|![](./images/WOS-IBG---P----.png)||
-|1606||C|N/A|WOS-IBII--P----|W O S - IB II -- P- -- -|METOC.OCA.ISYS.IB.II|Ice Island|POINT|![](./images/WOS-IBII--P----.png)||
-|1607||C|N/A|WOS-IBMG--P----|W O S - IB MG -- P- -- -|METOC.OCA.ISYS.IB.MNYGNL|Many Icebergs - General|POINT|![](./images/WOS-IBMG--P----.png)||
-|1608||C|N/A|WOS-IBM---P----|W O S - IB M- -- P- -- -|METOC.OCA.ISYS.IB.MNY|Many Icebergs|POINT|![](./images/WOS-IBM---P----.png)||
-|1609||C|N/A|WOS-IB----P----|W O S - IB -- -- P- -- -|METOC.OCA.ISYS.IB|Icebergs|POINT|![](./images/WOS-IB----P----.png)||
-|1610||C|N/A|WOS-ICIF--P----|W O S - IC IF -- P- -- -|METOC.OCA.ISYS.ICN.IF|Ice Free|POINT|![](./images/WOS-ICIF--P----.png)||
-|1611||C|N/A|WOS-ICWB--P----|W O S - IC WB -- P- -- -|METOC.OCA.ISYS.ICN.BW|Bergy Water|POINT|![](./images/WOS-ICWB--P----.png)||
-|1612||C|N/A|WOS-ICWR--P----|W O S - IC WR -- P- -- -|METOC.OCA.ISYS.ICN.WWRT|Water With Radar Targets|POINT|![](./images/WOS-ICWR--P----.png)||
-|1613||C|N/A|WOS-IDC---P----|W O S - ID C- -- P- -- -|METOC.OCA.ISYS.DYNPRO.CNG|Convergence|POINT|![](./images/WOS-IDC---P----.png)||
-|1614||C|N/A|WOS-IDD---P----|W O S - ID D- -- P- -- -|METOC.OCA.ISYS.DYNPRO.DVG|Divergence|POINT|![](./images/WOS-IDD---P----.png)||
-|1615||C|N/A|WOS-IDS---P----|W O S - ID S- -- P- -- -|METOC.OCA.ISYS.DYNPRO.SHAZ|Shearing Or Shear Zone|POINT|![](./images/WOS-IDS---P----.png)||
-|1616||C|N/A|WOS-II----P----|W O S - II -- -- P- -- -|METOC.OCA.ISYS.SI|Sea Ice|POINT|![](./images/WOS-II----P----.png)||
-|1617||C|N/A|WOS-IIP---P----|W O S - II P- -- P- -- -|METOC.OCA.ISYS.SI.MPOFI|Melt Puddles Or Flooded Ice|POINT|![](./images/WOS-IIP---P----.png)||
-|1618||C|N/A|WOS-IITE--P----|W O S - II TE -- P- -- -|METOC.OCA.ISYS.SI.ITEST|Ice Thickness (Estimated)|POINT|![](./images/WOS-IITE--P----.png)||
-|1619||C|N/A|WOS-IITM--P----|W O S - II TM -- P- -- -|METOC.OCA.ISYS.SI.ITOBS|Ice Thickness (Observed)|POINT|![](./images/WOS-IITM--P----.png)||
-|1620||C|N/A|WOS-ISC---P----|W O S - IS C- -- P- -- -|METOC.OCA.ISYS.SC|Snow Cover|POINT|![](./images/WOS-ISC---P----.png)||
-|1621||C|N/A|WOS-ISS---P----|W O S - IS S- -- P- -- -|METOC.OCA.ISYS.SC.SWO|Sastrugi (With Orientation)|POINT|![](./images/WOS-ISS---P----.png)||
-|1622||C|N/A|WOS-ITBB--P----|W O S - IT BB -- P- -- -|METOC.OCA.ISYS.TOPFTR.JBB|Jammed Brash Barrier|POINT|![](./images/WOS-ITBB--P----.png)||
-|1623||C|N/A|WOS-ITRH--P----|W O S - IT RH -- P- -- -|METOC.OCA.ISYS.TOPFTR.HUM|Ridges Or Hummocks|POINT|![](./images/WOS-ITRH--P----.png)||
-|1624||C|N/A|WOS-ITR---P----|W O S - IT R- -- P- -- -|METOC.OCA.ISYS.TOPFTR.RFTG|Rafting|POINT|![](./images/WOS-ITR---P----.png)||
-|1625||C|N/A|WOS-MF----P----|W O S - MF -- -- P- -- -|METOC.OCA.MMD.FRD|Ford|POINT|![](./images/WOS-MF----P----.png)||
-|1626||C|N/A|WOS-ML----P----|W O S - ML -- -- P- -- -|METOC.OCA.MMD.LCK|Lock|POINT|![](./images/WOS-ML----P----.png)||
-|1627||C|N/A|WOS-MOA---P----|W O S - MO A- -- P- -- -|METOC.OCA.MMD.OLRG|Oil/Gas Rig|POINT|![](./images/WOS-MOA---P----.png)||
-|1628||C|N/A|WOS-MPA---P----|W O S - MP A- -- P- -- -|METOC.OCA.MMD.PLE|Pile/Piling/Post|POINT|![](./images/WOS-MPA---P----.png)||
-|1629||C|N/A|WOS-TCCTD-P----|W O S - TC CT D- P- -- -|METOC.OCA.HYDGRY.TDECUR.TDEDP|Tide Data Point|POINT|![](./images/WOS-TCCTD-P----.png)||
-|1630||C|N/A|WOS-TCCTG-P----|W O S - TC CT G- P- -- -|METOC.OCA.HYDGRY.TDECUR.TDEG|Tide Gauge|POINT|![](./images/WOS-TCCTG-P----.png)||
-|1631||C|N/A|WOS-TCCW--P----|W O S - TC CW -- P- -- -|METOC.OCA.HYDGRY.TDECUR.H2OTRB|Water Turbulence|POINT|![](./images/WOS-TCCW--P----.png)||
-|1632||D|Friend|IFAPSCC--------|I - A - SC C- -- -- -- -|SIGINT.AIRTRK.SIGINC.COMM.CELL|Cellular/Mobile|POINT|![](./images/IFAPSCC--------.png)||
-|1633||D|Friend|IFAPSCO--------|I - A - SC O- -- -- -- -|SIGINT.AIRTRK.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|![](./images/IFAPSCO--------.png)||
-|1634||D|Friend|IFAPSCP--------|I - A - SC P- -- -- -- -|SIGINT.AIRTRK.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|![](./images/IFAPSCP--------.png)||
-|1635||D|Friend|IFAPSCS--------|I - A - SC S- -- -- -- -|SIGINT.AIRTRK.SIGINC.COMM.SATUL|Satellite Uplink|POINT|![](./images/IFAPSCS--------.png)||
-|1636||D|Friend|IFAPSRAI-------|I - A - SR AI -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.ABNINC|Airborne Intercept|POINT|![](./images/IFAPSRAI-------.png)||
-|1637||D|Friend|IFAPSRAS-------|I - A - SR AS -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.ABNSB|Airborne Search & Bombing|POINT|![](./images/IFAPSRAS-------.png)||
-|1638||D|Friend|IFAPSRC--------|I - A - SR C- -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.CTDINC|Controlled Intercept|POINT|![](./images/IFAPSRC--------.png)||
-|1639||D|Friend|IFAPSRD--------|I - A - SR D- -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.DATTMN|Data Transmission|POINT|![](./images/IFAPSRD--------.png)||
-|1640||D|Friend|IFAPSRE--------|I - A - SR E- -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.EW|Early Warning|POINT|![](./images/IFAPSRE--------.png)||
-|1641||D|Friend|IFAPSRF--------|I - A - SR F- -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.FIRCTL|Fire Control|POINT|![](./images/IFAPSRF--------.png)||
-|1642||D|Friend|IFAPSRI--------|I - A - SR I- -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.IFF|Iff (Transponder)|POINT|![](./images/IFAPSRI--------.png)||
-|1643||D|Friend|IFAPSRMA-------|I - A - SR MA -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.MSLAQ|Missile Acquisition|POINT|![](./images/IFAPSRMA-------.png)||
-|1644||D|Friend|IFAPSRMD-------|I - A - SR MD -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.MSLDL|Missile Downlink|POINT|![](./images/IFAPSRMD-------.png)||
-|1645||D|Friend|IFAPSRMF-------|I - A - SR MF -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.MFN|Multifunction|POINT|![](./images/IFAPSRMF-------.png)||
-|1646||D|Friend|IFAPSRMG-------|I - A - SR MG -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.MSLGDN|Missile Guidance|POINT|![](./images/IFAPSRMG-------.png)||
-|1647||D|Friend|IFAPSRMT-------|I - A - SR MT -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.MSLTRK|Missile Tracking|POINT|![](./images/IFAPSRMT-------.png)||
-|1648||D|Friend|IFAPSRTA-------|I - A - SR TA -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|![](./images/IFAPSRTA-------.png)||
-|1649||D|Friend|IFAPSRTI-------|I - A - SR TI -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.TGTILL|Target Illuminator|POINT|![](./images/IFAPSRTI-------.png)||
-|1650||D|Friend|IFAPSRTT-------|I - A - SR TT -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.TGTTRK|Target Tracking|POINT|![](./images/IFAPSRTT-------.png)||
-|1651||D|Friend|IFAPSRU--------|I - A - SR U- -- -- -- -|SIGINT.AIRTRK.SIGINC.RAD.UNK|Unknown|POINT|![](./images/IFAPSRU--------.png)||
-|1652||D|Friend|IFGPSCC--------|I - G - SC C- -- -- -- -|SIGINT.GRDTRK.SIGINC.COMM.CELL|Cellular/Mobile|POINT|![](./images/IFGPSCC--------.png)||
-|1653||D|Friend|IFGPSCO--------|I - G - SC O- -- -- -- -|SIGINT.GRDTRK.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|![](./images/IFGPSCO--------.png)||
-|1654||D|Friend|IFGPSCP--------|I - G - SC P- -- -- -- -|SIGINT.GRDTRK.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|![](./images/IFGPSCP--------.png)||
-|1655||D|Friend|IFGPSCS--------|I - G - SC S- -- -- -- -|SIGINT.GRDTRK.SIGINC.COMM.SATUL|Satellite Uplink|POINT|![](./images/IFGPSCS--------.png)||
-|1656||D|Friend|IFGPSCT--------|I - G - SC T- -- -- -- -|SIGINT.GRDTRK.SIGINC.COMM.TPSSCT|Tropospheric Scatter|POINT|![](./images/IFGPSCT--------.png)||
-|1657||D|Friend|IFGPSRAT-------|I - G - SR AT -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.ATCTL|Air Traffic Control|POINT|![](./images/IFGPSRAT-------.png)||
-|1658||D|Friend|IFGPSRB--------|I - G - SR B- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.BTFSVL|Battlefield Surveillance|POINT|![](./images/IFGPSRB--------.png)||
-|1659||D|Friend|IFGPSRCA-------|I - G - SR CA -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.CTDAPP|Controlled Approach|POINT|![](./images/IFGPSRCA-------.png)||
-|1660||D|Friend|IFGPSRCS-------|I - G - SR CS -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.CSTSVL|Coastal Surveillance|POINT|![](./images/IFGPSRCS-------.png)||
-|1661||D|Friend|IFGPSRD--------|I - G - SR D- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.DATTMN|Data Transmission|POINT|![](./images/IFGPSRD--------.png)||
-|1662||D|Friend|IFGPSRE--------|I - G - SR E- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.EW|Early Warning|POINT|![](./images/IFGPSRE--------.png)||
-|1663||D|Friend|IFGPSRF--------|I - G - SR F- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.FIRCTL|Fire Control|POINT|![](./images/IFGPSRF--------.png)||
-|1664||D|Friend|IFGPSRH--------|I - G - SR H- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.HGTFDG|Height Finding|POINT|![](./images/IFGPSRH--------.png)||
-|1665||D|Friend|IFGPSRI--------|I - G - SR I- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.IDFF|Identification Friend/Foe (Interrogator)|POINT|![](./images/IFGPSRI--------.png)||
-|1666||D|Friend|IFGPSRMA-------|I - G - SR MA -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.MSLAQ|Missile Acquisition|POINT|![](./images/IFGPSRMA-------.png)||
-|1667||D|Friend|IFGPSRMF-------|I - G - SR MF -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.MFN|Multifunction|POINT|![](./images/IFGPSRMF-------.png)||
-|1668||D|Friend|IFGPSRMG-------|I - G - SR MG -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.MSLGDN|Missile Guidance|POINT|![](./images/IFGPSRMG-------.png)||
-|1669||D|Friend|IFGPSRMM-------|I - G - SR MM -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.METO|Meteorological (Military)|POINT|![](./images/IFGPSRMM-------.png)||
-|1670||D|Friend|IFGPSRMT-------|I - G - SR MT -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.MSLTRK|Missile Tracking|POINT|![](./images/IFGPSRMT-------.png)||
-|1671||D|Friend|IFGPSRS--------|I - G - SR S- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.SHETKG|Shell Tracking|POINT|![](./images/IFGPSRS--------.png)||
-|1672||D|Friend|IFGPSRTA-------|I - G - SR TA -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|![](./images/IFGPSRTA-------.png)||
-|1673||D|Friend|IFGPSRTI-------|I - G - SR TI -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.TGTILL|Target Illuminator|POINT|![](./images/IFGPSRTI-------.png)||
-|1674||D|Friend|IFGPSRTT-------|I - G - SR TT -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.TGTTRK|Target Tracking|POINT|![](./images/IFGPSRTT-------.png)||
-|1675||D|Friend|IFGPSRU--------|I - G - SR U- -- -- -- -|SIGINT.GRDTRK.SIGINC.RAD.UNK|Unknown|POINT|![](./images/IFGPSRU--------.png)||
-|1676||D|Friend|IFPPSCD--------|I - P - SC D- -- -- -- -|SIGINT.SPC.SIGINC.COMM.SATDL|Satellite Downlink|POINT|![](./images/IFPPSCD--------.png)||
-|1677||D|Friend|IFPPSRD--------|I - P - SR D- -- -- -- -|SIGINT.SPC.SIGINC.RAD.DATTMN|Data Transmission|POINT|![](./images/IFPPSRD--------.png)||
-|1678||D|Friend|IFPPSRE--------|I - P - SR E- -- -- -- -|SIGINT.SPC.SIGINC.RAD.ERHSVL|Earth Surveillance|POINT|![](./images/IFPPSRE--------.png)||
-|1679||D|Friend|IFPPSRI--------|I - P - SR I- -- -- -- -|SIGINT.SPC.SIGINC.RAD.IFF|Iff (Transponder)|POINT|![](./images/IFPPSRI--------.png)||
-|1680||D|Friend|IFPPSRM--------|I - P - SR M- -- -- -- -|SIGINT.SPC.SIGINC.RAD.MFN|Multifunction|POINT|![](./images/IFPPSRM--------.png)||
-|1681||D|Friend|IFPPSRS--------|I - P - SR S- -- -- -- -|SIGINT.SPC.SIGINC.RAD.SPC|Space|POINT|![](./images/IFPPSRS--------.png)||
-|1682||D|Friend|IFPPSRT--------|I - P - SR T- -- -- -- -|SIGINT.SPC.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|![](./images/IFPPSRT--------.png)||
-|1683||D|Friend|IFPPSRU--------|I - P - SR U- -- -- -- -|SIGINT.SPC.SIGINC.RAD.UNK|Unknown|POINT|![](./images/IFPPSRU--------.png)||
-|1684||D|Friend|IFSPSCC--------|I - S - SC C- -- -- -- -|SIGINT.SSUF.SIGINC.COMM.CELL|Cellular-Mobile|POINT|![](./images/IFSPSCC--------.png)||
-|1685||D|Friend|IFSPSCO--------|I - S - SC O- -- -- -- -|SIGINT.SSUF.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|![](./images/IFSPSCO--------.png)||
-|1686||D|Friend|IFSPSCP--------|I - S - SC P- -- -- -- -|SIGINT.SSUF.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|![](./images/IFSPSCP--------.png)||
-|1687||D|Friend|IFSPSCS--------|I - S - SC S- -- -- -- -|SIGINT.SSUF.SIGINC.COMM.SATUL|Satellite Uplink|POINT|![](./images/IFSPSCS--------.png)||
-|1688||D|Friend|IFSPSRAA-------|I - S - SR AA -- -- -- -|SIGINT.SSUF.SIGINC.RAD.AA-C|Antiaircraft|POINT|![](./images/IFSPSRAA-------.png)||
-|1689||D|Friend|IFSPSRAT-------|I - S - SR AT -- -- -- -|SIGINT.SSUF.SIGINC.RAD.ATCTL|Air Traffic Control|POINT|![](./images/IFSPSRAT-------.png)||
-|1690||D|Friend|IFSPSRCA-------|I - S - SR CA -- -- -- -|SIGINT.SSUF.SIGINC.RAD.CTDAPP|Controlled Approach|POINT|![](./images/IFSPSRCA-------.png)||
-|1691||D|Friend|IFSPSRCI-------|I - S - SR CI -- -- -- -|SIGINT.SSUF.SIGINC.RAD.CTDINC|Controlled Intercept|POINT|![](./images/IFSPSRCI-------.png)||
-|1692||D|Friend|IFSPSRD--------|I - S - SR D- -- -- -- -|SIGINT.SSUF.SIGINC.RAD.DATTMN|Data Transmission|POINT|![](./images/IFSPSRD--------.png)||
-|1693||D|Friend|IFSPSRE--------|I - S - SR E- -- -- -- -|SIGINT.SSUF.SIGINC.RAD.EW|Early Warning|POINT|![](./images/IFSPSRE--------.png)||
-|1694||D|Friend|IFSPSRF--------|I - S - SR F- -- -- -- -|SIGINT.SSUF.SIGINC.RAD.FIRCTL|Fire Control|POINT|![](./images/IFSPSRF--------.png)||
-|1695||D|Friend|IFSPSRH--------|I - S - SR H- -- -- -- -|SIGINT.SSUF.SIGINC.RAD.HGTFDG|Height Finding|POINT|![](./images/IFSPSRH--------.png)||
-|1696||D|Friend|IFSPSRI--------|I - S - SR I- -- -- -- -|SIGINT.SSUF.SIGINC.RAD.IDFF|Identification Friend-Foe (Interrogator)|POINT|![](./images/IFSPSRI--------.png)||
-|1697||D|Friend|IFSPSRMA-------|I - S - SR MA -- -- -- -|SIGINT.SSUF.SIGINC.RAD.MSLAQ|Missile Acquisition|POINT|![](./images/IFSPSRMA-------.png)||
-|1698||D|Friend|IFSPSRMF-------|I - S - SR MF -- -- -- -|SIGINT.SSUF.SIGINC.RAD.MFN|Multifunction|POINT|![](./images/IFSPSRMF-------.png)||
-|1699||D|Friend|IFSPSRMG-------|I - S - SR MG -- -- -- -|SIGINT.SSUF.SIGINC.RAD.MSLGDN|Missile Guidance|POINT|![](./images/IFSPSRMG-------.png)||
-|1700||D|Friend|IFSPSRMM-------|I - S - SR MM -- -- -- -|SIGINT.SSUF.SIGINC.RAD.METO|Meteorological (Military)|POINT|![](./images/IFSPSRMM-------.png)||
-|1701||D|Friend|IFSPSRMT-------|I - S - SR MT -- -- -- -|SIGINT.SSUF.SIGINC.RAD.MSLTRK|Missile Tracking|POINT|![](./images/IFSPSRMT-------.png)||
-|1702||D|Friend|IFSPSRS--------|I - S - SR S- -- -- -- -|SIGINT.SSUF.SIGINC.RAD.SUFSRH|Surface Search|POINT|![](./images/IFSPSRS--------.png)||
-|1703||D|Friend|IFSPSRTA-------|I - S - SR TA -- -- -- -|SIGINT.SSUF.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|![](./images/IFSPSRTA-------.png)||
-|1704||D|Friend|IFSPSRTI-------|I - S - SR TI -- -- -- -|SIGINT.SSUF.SIGINC.RAD.TGTILL|Target Illuminator|POINT|![](./images/IFSPSRTI-------.png)||
-|1705||D|Friend|IFSPSRTT-------|I - S - SR TT -- -- -- -|SIGINT.SSUF.SIGINC.RAD.TGTTRK|Target Tracking|POINT|![](./images/IFSPSRTT-------.png)||
-|1706||D|Friend|IFSPSRU--------|I - S - SR U- -- -- -- -|SIGINT.SSUF.SIGINC.RAD.UNK|Unknown|POINT|![](./images/IFSPSRU--------.png)||
-|1707||D|Friend|IFUPSCO--------|I - U - SC O- -- -- -- -|SIGINT.SBSUF.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|![](./images/IFUPSCO--------.png)||
-|1708||D|Friend|IFUPSCP--------|I - U - SC P- -- -- -- -|SIGINT.SBSUF.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|![](./images/IFUPSCP--------.png)||
-|1709||D|Friend|IFUPSCS--------|I - U - SC S- -- -- -- -|SIGINT.SBSUF.SIGINC.COMM.SATUL|Satellite Uplink|POINT|![](./images/IFUPSCS--------.png)||
-|1710||D|Friend|IFUPSRD--------|I - U - SR D- -- -- -- -|SIGINT.SBSUF.SIGINC.RAD.DATTMN|Data Transmission|POINT|![](./images/IFUPSRD--------.png)||
-|1711||D|Friend|IFUPSRE--------|I - U - SR E- -- -- -- -|SIGINT.SBSUF.SIGINC.RAD.EW|Early Warning|POINT|![](./images/IFUPSRE--------.png)||
-|1712||D|Friend|IFUPSRM--------|I - U - SR M- -- -- -- -|SIGINT.SBSUF.SIGINC.RAD.MFN|Multifunction|POINT|![](./images/IFUPSRM--------.png)||
-|1713||D|Friend|IFUPSRS--------|I - U - SR S- -- -- -- -|SIGINT.SBSUF.SIGINC.RAD.SUFSRH|Surface Search|POINT|![](./images/IFUPSRS--------.png)||
-|1714||D|Friend|IFUPSRT--------|I - U - SR T- -- -- -- -|SIGINT.SBSUF.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|![](./images/IFUPSRT--------.png)||
-|1715||D|Friend|IFUPSRU--------|I - U - SR U- -- -- -- -|SIGINT.SBSUF.SIGINC.RAD.UNK|Unknown|POINT|![](./images/IFUPSRU--------.png)||
-|1716||E|Friend|OFGP-----------|O - G - -- -- -- -- -- -|STBOPS.GRPORG|Nonmilitary Group Or Organization|POINT|![](./images/OFGP-----------.png)||
-|1717||E|Friend|OFGPA----------|O - G - A- -- -- -- -- -|STBOPS.GRPORG.DPRE|Displaced Persons Refugees And Evacuees|POINT|![](./images/OFGPA----------.png)||
-|1718||E|Friend|OFGPB----------|O - G - B- -- -- -- -- -|STBOPS.GRPORG.NGO|Nongovernmental Organization (Ngo)|POINT|![](./images/OFGPB----------.png)||
-|1719||E|Friend|OFGPC----------|O - G - C- -- -- -- -- -|STBOPS.GRPORG.TERRST|Terrorist|POINT|![](./images/OFGPC----------.png)||
-|1720||E|Friend|OFGPD----------|O - G - D- -- -- -- -- -|STBOPS.GRPORG.RELIGS|Religious|POINT|![](./images/OFGPD----------.png)||
-|1721||E|Friend|OFGPE----------|O - G - E- -- -- -- -- -|STBOPS.GRPORG.FNFGHT|Foreign Fighters|POINT|![](./images/OFGPE----------.png)||
-|1722||E|Friend|OFGPF----------|O - G - F- -- -- -- -- -|STBOPS.GRPORG.GANG|Gang|POINT|![](./images/OFGPF----------.png)||
-|1723||E|Friend|OFIPD----------|O - I - D- -- -- -- -- -|STBOPS.ITM.DGVEH|Drug Vehicle|POINT|![](./images/OFIPD----------.png)||
-|1724||E|Friend|OFIPF----------|O - I - F- -- -- -- -- -|STBOPS.ITM.ISF|Internal Security Force|POINT|![](./images/OFIPF----------.png)||
-|1725||E|Friend|OFIPG----------|O - I - G- -- -- -- -- -|STBOPS.ITM.GRF|Graffiti|POINT|![](./images/OFIPG----------.png)||
-|1726||E|Friend|OFIPI----------|O - I - I- -- -- -- -- -|STBOPS.ITM.KNIVEH|Known Insurgent Vehicle|POINT|![](./images/OFIPI----------.png)||
-|1727||E|Friend|OFIPR----------|O - I - R- -- -- -- -- -|STBOPS.ITM.RFG|Refugees|POINT|![](./images/OFIPR----------.png)||
-|1728||E|Friend|OFIPS----------|O - I - S- -- -- -- -- -|STBOPS.ITM.SAFHSE|Safe House|POINT|![](./images/OFIPS----------.png)||
-|1729||E|Friend|OFIPV----------|O - I - V- -- -- -- -- -|STBOPS.ITM.VRLRPS|Vandalism/Loot/Ransack/Plunder/Sack|POINT|![](./images/OFIPV----------.png)||
-|1730||E|Friend|OFLPB----------|O - L - B- -- -- -- -- -|STBOPS.LOCAT.BLST|Black List Location|POINT|![](./images/OFLPB----------.png)||
-|1731||E|Friend|OFLPG----------|O - L - G- -- -- -- -- -|STBOPS.LOCAT.GLST|Gray List Location|POINT|![](./images/OFLPG----------.png)||
-|1732||E|Friend|OFLPM----------|O - L - M- -- -- -- -- -|STBOPS.LOCAT.MASS|Mass Grave Location|POINT|![](./images/OFLPM----------.png)||
-|1733||E|Friend|OFLPW----------|O - L - W- -- -- -- -- -|STBOPS.LOCAT.WLST|White List Location|POINT|![](./images/OFLPW----------.png)||
-|1734||E|Friend|OFOPA----------|O - O - A- -- -- -- -- -|STBOPS.OPN.ARR|Arrest|POINT|![](./images/OFOPA----------.png)||
-|1735||E|Friend|OFOPC----------|O - O - C- -- -- -- -- -|STBOPS.OPN.CMPLSS|Composite Loss|POINT|![](./images/OFOPC----------.png)||
-|1736||E|Friend|OFOPCA---------|O - O - CA -- -- -- -- -|STBOPS.OPN.CMPLSS.CBT|Combat|POINT|![](./images/OFOPCA---------.png)||
-|1737||E|Friend|OFOPCB---------|O - O - CB -- -- -- -- -|STBOPS.OPN.CMPLSS.ACCDNT|Accident|POINT|![](./images/OFOPCB---------.png)||
-|1738||E|Friend|OFOPCC---------|O - O - CC -- -- -- -- -|STBOPS.OPN.CMPLSS.OTHER|Other|POINT|![](./images/OFOPCC---------.png)||
-|1739||E|Friend|OFOPD----------|O - O - D- -- -- -- -- -|STBOPS.OPN.DEMO|Demonstration|POINT|![](./images/OFOPD----------.png)||
-|1740||E|Friend|OFOPE----------|O - O - E- -- -- -- -- -|STBOPS.OPN.EXTN|Extortion|POINT|![](./images/OFOPE----------.png)||
-|1741||E|Friend|OFOPF----------|O - O - F- -- -- -- -- -|STBOPS.OPN.FRGSRH|Foraging/Searching|POINT|![](./images/OFOPF----------.png)||
-|1742||E|Friend|OFOPHA---------|O - O - HA -- -- -- -- -|STBOPS.OPN.HJKG.APL|Hijacking (Airplane)|POINT|![](./images/OFOPHA---------.png)||
-|1743||E|Friend|OFOPHT---------|O - O - HT -- -- -- -- -|STBOPS.OPN.HJKG.VEH|Hijacking (Vehicle)|POINT|![](./images/OFOPHT---------.png)||
-|1744||E|Friend|OFOPHV---------|O - O - HV -- -- -- -- -|STBOPS.OPN.HJKG.BOAT|Hijacking (Boat)|POINT|![](./images/OFOPHV---------.png)||
-|1745||E|Friend|OFOPK----------|O - O - K- -- -- -- -- -|STBOPS.OPN.KDNG|Kidnapping|POINT|![](./images/OFOPK----------.png)||
-|1746||E|Friend|OFOPKA---------|O - O - KA -- -- -- -- -|STBOPS.OPN.KDNG.ATEMPT|Attempted|POINT|![](./images/OFOPKA---------.png)||
-|1747||E|Friend|OFOPM----------|O - O - M- -- -- -- -- -|STBOPS.OPN.ML|Mine Laying|POINT|![](./images/OFOPM----------.png)||
-|1748||E|Friend|OFOPO----------|O - O - O- -- -- -- -- -|STBOPS.OPN.FDDIST|Food Distribution|POINT|![](./images/OFOPO----------.png)||
-|1749||E|Friend|OFOPP----------|O - O - P- -- -- -- -- -|STBOPS.OPN.PATG|Patrolling|POINT|![](./images/OFOPP----------.png)||
-|1750||E|Friend|OFOPRC---------|O - O - RC -- -- -- -- -|STBOPS.OPN.RCMT.CRCD|Recruitment (Coerced/Impressed)|POINT|![](./images/OFOPRC---------.png)||
-|1751||E|Friend|OFOPRW---------|O - O - RW -- -- -- -- -|STBOPS.OPN.RCMT.WLG|Recruitment (Willing)|POINT|![](./images/OFOPRW---------.png)||
-|1752||E|Friend|OFOPS----------|O - O - S- -- -- -- -- -|STBOPS.OPN.SPY|Spy|POINT|![](./images/OFOPS----------.png)||
-|1753||E|Friend|OFOPU----------|O - O - U- -- -- -- -- -|STBOPS.OPN.DGOPN|Drug Operation|POINT|![](./images/OFOPU----------.png)||
-|1754||E|Friend|OFOPY----------|O - O - Y- -- -- -- -- -|STBOPS.OPN.PSYOP|Psychological Operations (Psyop)|POINT|![](./images/OFOPY----------.png)||
-|1755||E|Friend|OFOPYH---------|O - O - YH -- -- -- -- -|STBOPS.OPN.PSYOP.HTHP|House-To-House Propaganda|POINT|![](./images/OFOPYH---------.png)||
-|1756||E|Friend|OFOPYT---------|O - O - YT -- -- -- -- -|STBOPS.OPN.PSYOP.TARP|Psyop (Tv And Radio Propaganda)|POINT|![](./images/OFOPYT---------.png)||
-|1757||E|Friend|OFOPYW---------|O - O - YW -- -- -- -- -|STBOPS.OPN.PSYOP.WP|Psyop (Written Propaganda)|POINT|![](./images/OFOPYW---------.png)||
-|1758||E|Friend|OFPP-----------|O - P - -- -- -- -- -- -|STBOPS.INDIV|Individual|POINT|![](./images/OFPP-----------.png)||
-|1759||E|Friend|OFPPA----------|O - P - A- -- -- -- -- -|STBOPS.INDIV.LEADER|Leader|POINT|![](./images/OFPPA----------.png)||
-|1760||E|Friend|OFPPB----------|O - P - B- -- -- -- -- -|STBOPS.INDIV.TRGTD|Targeted|POINT|![](./images/OFPPB----------.png)||
-|1761||E|Friend|OFPPC----------|O - P - C- -- -- -- -- -|STBOPS.INDIV.TERRST|Terrorist|POINT|![](./images/OFPPC----------.png)||
-|1762||E|Friend|OFRP-----------|O - R - -- -- -- -- -- -|STBOPS.RAPE|Rape|POINT|![](./images/OFRP-----------.png)||
-|1763||E|Friend|OFRPA----------|O - R - A- -- -- -- -- -|STBOPS.RAPE.ATEMPT|Attempted|POINT|![](./images/OFRPA----------.png)||
-|1764||E|Friend|OFVPA----------|O - V - A- -- -- -- -- -|STBOPS.VIOATY.ASN|Arson/Fire|POINT|![](./images/OFVPA----------.png)||
-|1765||E|Friend|OFVPB----------|O - V - B- -- -- -- -- -|STBOPS.VIOATY.BM|Bomb/Bombing|POINT|![](./images/OFVPB----------.png)||
-|1766||E|Friend|OFVPD----------|O - V - D- -- -- -- -- -|STBOPS.VIOATY.DBS|Drive-By Shooting|POINT|![](./images/OFVPD----------.png)||
-|1767||E|Friend|OFVPE----------|O - V - E- -- -- -- -- -|STBOPS.VIOATY.EXPLSN|Explosion|POINT|![](./images/OFVPE----------.png)||
-|1768||E|Friend|OFVPEI---------|O - V - EI -- -- -- -- -|STBOPS.VIOATY.EXPLSN.EXPLSN|Ied Explosion|POINT|![](./images/OFVPEI---------.png)||
-|1769||E|Friend|OFVPM----------|O - V - M- -- -- -- -- -|STBOPS.VIOATY.KILL|Killing (General)|POINT|![](./images/OFVPM----------.png)||
-|1770||E|Friend|OFVPMA---------|O - V - MA -- -- -- -- -|STBOPS.VIOATY.KILL.MDR|Murder|POINT|![](./images/OFVPMA---------.png)||
-|1771||E|Friend|OFVPMB---------|O - V - MB -- -- -- -- -|STBOPS.VIOATY.KILL.EX|Execution|POINT|![](./images/OFVPMB---------.png)||
-|1772||E|Friend|OFVPMC---------|O - V - MC -- -- -- -- -|STBOPS.VIOATY.KILL.ASS|Assassination|POINT|![](./images/OFVPMC---------.png)||
-|1773||E|Friend|OFVPP----------|O - V - P- -- -- -- -- -|STBOPS.VIOATY.PSNG|Poisoning|POINT|![](./images/OFVPP----------.png)||
-|1774||E|Friend|OFVPS----------|O - V - S- -- -- -- -- -|STBOPS.VIOATY.SPG|Sniping|POINT|![](./images/OFVPS----------.png)||
-|1775||E|Friend|OFVPY----------|O - V - Y- -- -- -- -- -|STBOPS.VIOATY.BBY|Booby Trap|POINT|![](./images/OFVPY----------.png)||
-|1776||G|Friend|EFFPAA----H----|E - F - AA -- -- H- -- -|EMS.INFSTR.AGFD.AGLAB|Agricultural Laboratory|POINT|![](./images/EFFPAA----H----.png)||
-|1777||G|Friend|EFFPAB----H----|E - F - AB -- -- H- -- -|EMS.INFSTR.AGFD.AFL|Animal Feedlot|POINT|![](./images/EFFPAB----H----.png)||
-|1778||G|Friend|EFFPAC----H----|E - F - AC -- -- H- -- -|EMS.INFSTR.AGFD.CFDC|Commercial Food Distribution Center|POINT|![](./images/EFFPAC----H----.png)||
-|1779||G|Friend|EFFPAD----H----|E - F - AD -- -- H- -- -|EMS.INFSTR.AGFD.FRMRNC|Farm/Ranch|POINT|![](./images/EFFPAD----H----.png)||
-|1780||G|Friend|EFFPAE----H----|E - F - AE -- -- H- -- -|EMS.INFSTR.AGFD.FPC|Food Production Center|POINT|![](./images/EFFPAE----H----.png)||
-|1781||G|Friend|EFFPAF----H----|E - F - AF -- -- H- -- -|EMS.INFSTR.AGFD.FDRTL|Food Retail|POINT|![](./images/EFFPAF----H----.png)||
-|1782||G|Friend|EFFPAG----H----|E - F - AG -- -- H- -- -|EMS.INFSTR.AGFD.GRSTR|Grain Storage|POINT|![](./images/EFFPAG----H----.png)||
-|1783||G|Friend|EFFPA-----H----|E - F - A- -- -- H- -- -|EMS.INFSTR.AGFD|Agriculture And Food Infrastructure|POINT|![](./images/EFFPA-----H----.png)||
-|1784||G|Friend|EFFPBA---------|E - F - BA -- -- -- -- -|EMS.INFSTR.BFI.ATM|Atm|POINT|![](./images/EFFPBA---------.png)||
-|1785||G|Friend|EFFPBB----H----|E - F - BB -- -- H- -- -|EMS.INFSTR.BFI.BANK|Bank|POINT|![](./images/EFFPBB----H----.png)||
-|1786||G|Friend|EFFPBC----H----|E - F - BC -- -- H- -- -|EMS.INFSTR.BFI.BLSTR|Bullion Storage|POINT|![](./images/EFFPBC----H----.png)||
-|1787||G|Friend|EFFPBD----H----|E - F - BD -- -- H- -- -|EMS.INFSTR.BFI.FRB|Federal Reserve Bank|POINT|![](./images/EFFPBD----H----.png)||
-|1788||G|Friend|EFFPBE----H----|E - F - BE -- -- H- -- -|EMS.INFSTR.BFI.FINEX|Financial Exchange|POINT|![](./images/EFFPBE----H----.png)||
-|1789||G|Friend|EFFPBF----H----|E - F - BF -- -- H- -- -|EMS.INFSTR.BFI.FSO|Financial Services Other|POINT|![](./images/EFFPBF----H----.png)||
-|1790||G|Friend|EFFPB-----H----|E - F - B- -- -- H- -- -|EMS.INFSTR.BFI|Banking Finance And Insurance Infrastructure|POINT|![](./images/EFFPB-----H----.png)||
-|1791||G|Friend|EFFPCA----H----|E - F - CA -- -- H- -- -|EMS.INFSTR.CMCL.CMLPLN|Chemical Plant|POINT|![](./images/EFFPCA----H----.png)||
-|1792||G|Friend|EFFPCB----H----|E - F - CB -- -- H- -- -|EMS.INFSTR.CMCL.FIRMAN|Firearms Manufacturer|POINT|![](./images/EFFPCB----H----.png)||
-|1793||G|Friend|EFFPCC----H----|E - F - CC -- -- H- -- -|EMS.INFSTR.CMCL.FIRRET|Firearms Retailer|POINT|![](./images/EFFPCC----H----.png)||
-|1794||G|Friend|EFFPCD----H----|E - F - CD -- -- H- -- -|EMS.INFSTR.CMCL.HZMTPR|Hazardous Material Production|POINT|![](./images/EFFPCD----H----.png)||
-|1795||G|Friend|EFFPCE----H----|E - F - CE -- -- H- -- -|EMS.INFSTR.CMCL.HZMTST|Hazardous Material Storage|POINT|![](./images/EFFPCE----H----.png)||
-|1796||G|Friend|EFFPCF----H----|E - F - CF -- -- H- -- -|EMS.INFSTR.CMCL.INDSTE|Industrial Site|POINT|![](./images/EFFPCF----H----.png)||
-|1797||G|Friend|EFFPCG----H----|E - F - CG -- -- H- -- -|EMS.INFSTR.CMCL.LNDFL|Landfill|POINT|![](./images/EFFPCG----H----.png)||
-|1798||G|Friend|EFFPC-----H----|E - F - C- -- -- H- -- -|EMS.INFSTR.CMCL|Commercial Infrastructure|POINT|![](./images/EFFPC-----H----.png)||
-|1799||G|Friend|EFFPCH----H----|E - F - CH -- -- H- -- -|EMS.INFSTR.CMCL.RXMFG|Pharmaceutical Manufacturer|POINT|![](./images/EFFPCH----H----.png)||
-|1800||G|Friend|EFFPCI----H----|E - F - CI -- -- H- -- -|EMS.INFSTR.CMCL.CHWS|Contaminated Hazardous Waste Site|POINT|![](./images/EFFPCI----H----.png)||
-|1801||G|Friend|EFFPCJ----H----|E - F - CJ -- -- H- -- -|EMS.INFSTR.CMCL.TXRLIN|Toxic Release Inventory|POINT|![](./images/EFFPCJ----H----.png)||
-|1802||G|Friend|EFFPDA----H----|E - F - DA -- -- H- -- -|EMS.INFSTR.EDFAC.COLUNI|College University|POINT|![](./images/EFFPDA----H----.png)||
-|1803||G|Friend|EFFPDB----H----|E - F - DB -- -- H- -- -|EMS.INFSTR.EDFAC.SCHOOL|School|POINT|![](./images/EFFPDB----H----.png)||
-|1804||G|Friend|EFFPD-----H----|E - F - D- -- -- H- -- -|EMS.INFSTR.EDFAC|Educational Facilities Infrastructure|POINT|![](./images/EFFPD-----H----.png)||
-|1805||G|Friend|EFFPEA----H----|E - F - EA -- -- H- -- -|EMS.INFSTR.ENGFAC.GENSTA|Generation Station|POINT|![](./images/EFFPEA----H----.png)||
-|1806||G|Friend|EFFPEB----H----|E - F - EB -- -- H- -- -|EMS.INFSTR.ENGFAC.NTLGAS|Natural Gas Facility|POINT|![](./images/EFFPEB----H----.png)||
-|1807||G|Friend|EFFPEE----H----|E - F - EE -- -- H- -- -|EMS.INFSTR.ENGFAC.PROPNE|Propane Facility|POINT|![](./images/EFFPEE----H----.png)||
-|1808||G|Friend|EFFPF-----H----|E - F - F- -- -- H- -- -|EMS.INFSTR.GVTSTE|Government Site Infrastructure|POINT|![](./images/EFFPF-----H----.png)||
-|1809||G|Friend|EFFPGA----H----|E - F - GA -- -- H- -- -|EMS.INFSTR.MIL.ARMORY|Military Armory|POINT|![](./images/EFFPGA----H----.png)||
-|1810||G|Friend|EFFPG-----H----|E - F - G- -- -- H- -- -|EMS.INFSTR.MIL|Military Infrastructure|POINT|![](./images/EFFPG-----H----.png)||
-|1811||G|Friend|EFFPHA----H----|E - F - HA -- -- H- -- -|EMS.INFSTR.PSTSRV.PDC|Postal Distribution Center|POINT|![](./images/EFFPHA----H----.png)||
-|1812||G|Friend|EFFPHB----H----|E - F - HB -- -- H- -- -|EMS.INFSTR.PSTSRV.PO|Post Office|POINT|![](./images/EFFPHB----H----.png)||
-|1813||G|Friend|EFFPH-----H----|E - F - H- -- -- H- -- -|EMS.INFSTR.PSTSRV|Postal Service Infrastructure|POINT|![](./images/EFFPH-----H----.png)||
-|1814||G|Friend|EFFPIA----H----|E - F - IA -- -- H- -- -|EMS.INFSTR.PUBVEN.ENCFAC|Enclosed Facility|POINT|![](./images/EFFPIA----H----.png)||
-|1815||G|Friend|EFFPIB----H----|E - F - IB -- -- H- -- -|EMS.INFSTR.PUBVEN.OPNFAC|Open Facility|POINT|![](./images/EFFPIB----H----.png)||
-|1816||G|Friend|EFFPIC----H----|E - F - IC -- -- H- -- -|EMS.INFSTR.PUBVEN.RECARE|Recreational Area|POINT|![](./images/EFFPIC----H----.png)||
-|1817||G|Friend|EFFPID----H----|E - F - ID -- -- H- -- -|EMS.INFSTR.PUBVEN.RELIG|Religious Institution|POINT|![](./images/EFFPID----H----.png)||
-|1818||G|Friend|EFFPI-----H----|E - F - I- -- -- H- -- -|EMS.INFSTR.PUBVEN|Public Venues Infrastructure|POINT|![](./images/EFFPI-----H----.png)||
-|1819||G|Friend|EFFPJA----H----|E - F - JA -- -- H- -- -|EMS.INFSTR.SPCNDS.ADLTDC|Adult Day Care|POINT|![](./images/EFFPJA----H----.png)||
-|1820||G|Friend|EFFPJB----H----|E - F - JB -- -- H- -- -|EMS.INFSTR.SPCNDS.CHLDDC|Child Day Care|POINT|![](./images/EFFPJB----H----.png)||
-|1821||G|Friend|EFFPJC----H----|E - F - JC -- -- H- -- -|EMS.INFSTR.SPCNDS.ELDERC|Elder Care|POINT|![](./images/EFFPJC----H----.png)||
-|1822||G|Friend|EFFPJ-----H----|E - F - J- -- -- H- -- -|EMS.INFSTR.SPCNDS|Special Needs Infrastructure|POINT|![](./images/EFFPJ-----H----.png)||
-|1823||G|Friend|EFFPKB----H----|E - F - KB -- -- H- -- -|EMS.INFSTR.TELCOM.TCTWR|Telecommunications Tower|POINT|![](./images/EFFPKB----H----.png)||
-|1824||G|Friend|EFFPK-----H----|E - F - K- -- -- H- -- -|EMS.INFSTR.TELCOM|Telecommunications Infrastructure|POINT|![](./images/EFFPK-----H----.png)||
-|1825||G|Friend|EFFPLA----H----|E - F - LA -- -- H- -- -|EMS.INFSTR.TSP.ATCF|Air Traffic Control Facility|POINT|![](./images/EFFPLA----H----.png)||
-|1826||G|Friend|EFFPLD----H----|E - F - LD -- -- H- -- -|EMS.INFSTR.TSP.BSTN|Bus Station|POINT|![](./images/EFFPLD----H----.png)||
-|1827||G|Friend|EFFPLE----H----|E - F - LE -- -- H- -- -|EMS.INFSTR.TSP.FRYTRM|Ferry Terminal|POINT|![](./images/EFFPLE----H----.png)||
-|1828||G|Friend|EFFPLF----H----|E - F - LF -- -- H- -- -|EMS.INFSTR.TSP.HLS|Helicopter Landing Site|POINT|![](./images/EFFPLF----H----.png)||
-|1829||G|Friend|EFFPLH----H----|E - F - LH -- -- H- -- -|EMS.INFSTR.TSP.MAINTF|Maintenance Facility|POINT|![](./images/EFFPLH----H----.png)||
-|1830||G|Friend|EFFPLJ----H----|E - F - LJ -- -- H- -- -|EMS.INFSTR.TSP.RLSTN|Rail Station|POINT|![](./images/EFFPLJ----H----.png)||
-|1831||G|Friend|EFFPLK----H----|E - F - LK -- -- H- -- -|EMS.INFSTR.TSP.RSTSTP|Rest Stop|POINT|![](./images/EFFPLK----H----.png)||
-|1832||G|Friend|EFFPLM----H----|E - F - LM -- -- H- -- -|EMS.INFSTR.TSP.TOLLF|Toll Facility|POINT|![](./images/EFFPLM----H----.png)||
-|1833||G|Friend|EFFPLO----H----|E - F - LO -- -- H- -- -|EMS.INFSTR.TSP.TIF|Traffic Inspection Facility|POINT|![](./images/EFFPLO----H----.png)||
-|1834||G|Friend|EFFPLP----H----|E - F - LP -- -- H- -- -|EMS.INFSTR.TSP.TNL|Tunnel|POINT|![](./images/EFFPLP----H----.png)||
-|1835||G|Friend|EFFPMA---------|E - F - MA -- -- -- -- -|EMS.INFSTR.WS.CV|Control Valve|POINT|![](./images/EFFPMA---------.png)||
-|1836||G|Friend|EFFPMB----H----|E - F - MB -- -- H- -- -|EMS.INFSTR.WS.DAM|Dam|POINT|![](./images/EFFPMB----H----.png)||
-|1837||G|Friend|EFFPMC---------|E - F - MC -- -- -- -- -|EMS.INFSTR.WS.DO|Discharge Outfall|POINT|![](./images/EFFPMC---------.png)||
-|1838||G|Friend|EFFPMD----H----|E - F - MD -- -- H- -- -|EMS.INFSTR.WS.GWWELL|Ground Water Well|POINT|![](./images/EFFPMD----H----.png)||
-|1839||G|Friend|EFFPME----H----|E - F - ME -- -- H- -- -|EMS.INFSTR.WS.PMPSTN|Pumping Station|POINT|![](./images/EFFPME----H----.png)||
-|1840||G|Friend|EFFPMF----H----|E - F - MF -- -- H- -- -|EMS.INFSTR.WS.RSVR|Reservoir|POINT|![](./images/EFFPMF----H----.png)||
-|1841||G|Friend|EFFPMG----H----|E - F - MG -- -- H- -- -|EMS.INFSTR.WS.STRTWR|Storage Tower|POINT|![](./images/EFFPMG----H----.png)||
-|1842||G|Friend|EFFPMH----H----|E - F - MH -- -- H- -- -|EMS.INFSTR.WS.SWI|Surface Water Intake|POINT|![](./images/EFFPMH----H----.png)||
-|1843||G|Friend|EFFPMI----H----|E - F - MI -- -- H- -- -|EMS.INFSTR.WS.WH20TF|Wastewater Treatment Facility|POINT|![](./images/EFFPMI----H----.png)||
-|1844||G|Friend|EFIPA----------|E - I - A- -- -- -- -- -|EMS.INCDNT.CVDIS|Civil Disturbance Incident|POINT|![](./images/EFIPA----------.png)||
-|1845||G|Friend|EFIPAC---------|E - I - AC -- -- -- -- -|EMS.INCDNT.CVDIS.CVRIOT|Civil Rioting|POINT|![](./images/EFIPAC---------.png)||
-|1846||G|Friend|EFIPB----------|E - I - B- -- -- -- -- -|EMS.INCDNT.CRMACT|Criminal Activity Incident|POINT|![](./images/EFIPB----------.png)||
-|1847||G|Friend|EFIPBA---------|E - I - BA -- -- -- -- -|EMS.INCDNT.CRMACT.BMTHT|Bomb Threat|POINT|![](./images/EFIPBA---------.png)||
-|1848||G|Friend|EFIPBC---------|E - I - BC -- -- -- -- -|EMS.INCDNT.CRMACT.EXPLN|Explosion|POINT|![](./images/EFIPBC---------.png)||
-|1849||G|Friend|EFIPBD---------|E - I - BD -- -- -- -- -|EMS.INCDNT.CRMACT.LOOT|Looting|POINT|![](./images/EFIPBD---------.png)||
-|1850||G|Friend|EFIPBF---------|E - I - BF -- -- -- -- -|EMS.INCDNT.CRMACT.SHTG|Shooting|POINT|![](./images/EFIPBF---------.png)||
-|1851||G|Friend|EFIPC----------|E - I - C- -- -- -- -- -|EMS.INCDNT.FIRE|Fire Incident|POINT|![](./images/EFIPC----------.png)||
-|1852||G|Friend|EFIPCA---------|E - I - CA -- -- -- -- -|EMS.INCDNT.FIRE.HTSPT|Hot Spot|POINT|![](./images/EFIPCA---------.png)||
-|1853||G|Friend|EFIPCB---------|E - I - CB -- -- -- -- -|EMS.INCDNT.FIRE.NRES|Non-Residential Fire|POINT|![](./images/EFIPCB---------.png)||
-|1854||G|Friend|EFIPCC---------|E - I - CC -- -- -- -- -|EMS.INCDNT.FIRE.ORGN|Origin (Of Fire)|POINT|![](./images/EFIPCC---------.png)||
-|1855||G|Friend|EFIPCD---------|E - I - CD -- -- -- -- -|EMS.INCDNT.FIRE.RES|Residential Fire|POINT|![](./images/EFIPCD---------.png)||
-|1856||G|Friend|EFIPCE---------|E - I - CE -- -- -- -- -|EMS.INCDNT.FIRE.SCH|School Fire|POINT|![](./images/EFIPCE---------.png)||
-|1857||G|Friend|EFIPCF---------|E - I - CF -- -- -- -- -|EMS.INCDNT.FIRE.SMK|Smoke|POINT|![](./images/EFIPCF---------.png)||
-|1858||G|Friend|EFIPCG---------|E - I - CG -- -- -- -- -|EMS.INCDNT.FIRE.SN|Special Needs Fire|POINT|![](./images/EFIPCG---------.png)||
-|1859||G|Friend|EFIPCH---------|E - I - CH -- -- -- -- -|EMS.INCDNT.FIRE.WLD|Wild Fire|POINT|![](./images/EFIPCH---------.png)||
-|1860||G|Friend|EFIPD----------|E - I - D- -- -- -- -- -|EMS.INCDNT.HAZMAT|Hazardous Material Incident|POINT|![](./images/EFIPD----------.png)||
-|1861||G|Friend|EFIPDA---------|E - I - DA -- -- -- -- -|EMS.INCDNT.HAZMAT.CHMAGT|Chemical Agent|POINT|![](./images/EFIPDA---------.png)||
-|1862||G|Friend|EFIPDB---------|E - I - DB -- -- -- -- -|EMS.INCDNT.HAZMAT.CORMTL|Corrosive Material|POINT|![](./images/EFIPDB---------.png)||
-|1863||G|Friend|EFIPDC---------|E - I - DC -- -- -- -- -|EMS.INCDNT.HAZMAT.WHWET|Hazardous When Wet|POINT|![](./images/EFIPDC---------.png)||
-|1864||G|Friend|EFIPDD---------|E - I - DD -- -- -- -- -|EMS.INCDNT.HAZMAT.EXPLV|Explosive|POINT|![](./images/EFIPDD---------.png)||
-|1865||G|Friend|EFIPDE---------|E - I - DE -- -- -- -- -|EMS.INCDNT.HAZMAT.FLGAS|Flammable Gas|POINT|![](./images/EFIPDE---------.png)||
-|1866||G|Friend|EFIPDF---------|E - I - DF -- -- -- -- -|EMS.INCDNT.HAZMAT.FLLIQ|Flammable Liquid|POINT|![](./images/EFIPDF---------.png)||
-|1867||G|Friend|EFIPDG---------|E - I - DG -- -- -- -- -|EMS.INCDNT.HAZMAT.FLSLD|Flammable Solid|POINT|![](./images/EFIPDG---------.png)||
-|1868||G|Friend|EFIPDH---------|E - I - DH -- -- -- -- -|EMS.INCDNT.HAZMAT.NFLGAS|Non-Flammable Gas|POINT|![](./images/EFIPDH---------.png)||
-|1869||G|Friend|EFIPDI---------|E - I - DI -- -- -- -- -|EMS.INCDNT.HAZMAT.ORGPER|Organic Peroxide|POINT|![](./images/EFIPDI---------.png)||
-|1870||G|Friend|EFIPDJ---------|E - I - DJ -- -- -- -- -|EMS.INCDNT.HAZMAT.OXDZR|Oxidizer|POINT|![](./images/EFIPDJ---------.png)||
-|1871||G|Friend|EFIPDK---------|E - I - DK -- -- -- -- -|EMS.INCDNT.HAZMAT.RADMTL|Radioactive Material|POINT|![](./images/EFIPDK---------.png)||
-|1872||G|Friend|EFIPDL---------|E - I - DL -- -- -- -- -|EMS.INCDNT.HAZMAT.SPCMB|Spontaneously Combustible|POINT|![](./images/EFIPDL---------.png)||
-|1873||G|Friend|EFIPDM---------|E - I - DM -- -- -- -- -|EMS.INCDNT.HAZMAT.TXGAS|Toxic Gas|POINT|![](./images/EFIPDM---------.png)||
-|1874||G|Friend|EFIPDN---------|E - I - DN -- -- -- -- -|EMS.INCDNT.HAZMAT.TXINF|Toxic And Infectious|POINT|![](./images/EFIPDN---------.png)||
-|1875||G|Friend|EFIPDO---------|E - I - DO -- -- -- -- -|EMS.INCDNT.HAZMAT.UNXORD|Unexploded Ordnance|POINT|![](./images/EFIPDO---------.png)||
-|1876||G|Friend|EFIPE----------|E - I - E- -- -- -- -- -|EMS.INCDNT.AIR|Air Incident|POINT|![](./images/EFIPE----------.png)||
-|1877||G|Friend|EFIPEA---------|E - I - EA -- -- -- -- -|EMS.INCDNT.AIR.ACDNT|Air Accident|POINT|![](./images/EFIPEA---------.png)||
-|1878||G|Friend|EFIPF----------|E - I - F- -- -- -- -- -|EMS.INCDNT.MRN|Marine Incident|POINT|![](./images/EFIPF----------.png)||
-|1879||G|Friend|EFIPFA---------|E - I - FA -- -- -- -- -|EMS.INCDNT.MRN.ACDNT|Marine Accident|POINT|![](./images/EFIPFA---------.png)||
-|1880||G|Friend|EFIPG----------|E - I - G- -- -- -- -- -|EMS.INCDNT.RAIL|Rail Incident|POINT|![](./images/EFIPG----------.png)||
-|1881||G|Friend|EFIPGA---------|E - I - GA -- -- -- -- -|EMS.INCDNT.RAIL.ACDNT|Rail Accident|POINT|![](./images/EFIPGA---------.png)||
-|1882||G|Friend|EFIPGB---------|E - I - GB -- -- -- -- -|EMS.INCDNT.RAIL.HJCK|Rail Hijacking|POINT|![](./images/EFIPGB---------.png)||
-|1883||G|Friend|EFIPH----------|E - I - H- -- -- -- -- -|EMS.INCDNT.VEH|Vehicle Incident|POINT|![](./images/EFIPH----------.png)||
-|1884||G|Friend|EFIPHA---------|E - I - HA -- -- -- -- -|EMS.INCDNT.VEH.ACDNT|Vehicle Accident|POINT|![](./images/EFIPHA---------.png)||
-|1885||G|Friend|EFNPAA---------|E - N - AA -- -- -- -- -|EMS.NATEVT.GEO.AFTSHK|Aftershock|POINT|![](./images/EFNPAA---------.png)||
-|1886||G|Friend|EFNPAB---------|E - N - AB -- -- -- -- -|EMS.NATEVT.GEO.AVL|Avalanche|POINT|![](./images/EFNPAB---------.png)||
-|1887||G|Friend|EFNPAC---------|E - N - AC -- -- -- -- -|EMS.NATEVT.GEO.EQKEPI|Earthquake Epicenter|POINT|![](./images/EFNPAC---------.png)||
-|1888||G|Friend|EFNPAD---------|E - N - AD -- -- -- -- -|EMS.NATEVT.GEO.LNDSLD|Landslide|POINT|![](./images/EFNPAD---------.png)||
-|1889||G|Friend|EFNPAE---------|E - N - AE -- -- -- -- -|EMS.NATEVT.GEO.SBSDNC|Subsidence|POINT|![](./images/EFNPAE---------.png)||
-|1890||G|Friend|EFNPAG---------|E - N - AG -- -- -- -- -|EMS.NATEVT.GEO.VLCTHT|Volcanic Threat|POINT|![](./images/EFNPAG---------.png)||
-|1891||G|Friend|EFNPBB---------|E - N - BB -- -- -- -- -|EMS.NATEVT.HYDMET.DRGHT|Drought|POINT|![](./images/EFNPBB---------.png)||
-|1892||G|Friend|EFNPBC---------|E - N - BC -- -- -- -- -|EMS.NATEVT.HYDMET.FLD|Flood|POINT|![](./images/EFNPBC---------.png)||
-|1893||G|Friend|EFNPBF---------|E - N - BF -- -- -- -- -|EMS.NATEVT.HYDMET.INV|Inversion|POINT|![](./images/EFNPBF---------.png)||
-|1894||G|Friend|EFNPBM---------|E - N - BM -- -- -- -- -|EMS.NATEVT.HYDMET.TSNMI|Tsunami|POINT|![](./images/EFNPBM---------.png)||
-|1895||G|Friend|EFNPCA---------|E - N - CA -- -- -- -- -|EMS.NATEVT.INFST.BIRD|Bird Infestation|POINT|![](./images/EFNPCA---------.png)||
-|1896||G|Friend|EFNPCB---------|E - N - CB -- -- -- -- -|EMS.NATEVT.INFST.INSCT|Insect Infestation|POINT|![](./images/EFNPCB---------.png)||
-|1897||G|Friend|EFNPCC---------|E - N - CC -- -- -- -- -|EMS.NATEVT.INFST.MICROB|Microbial Infestation|POINT|![](./images/EFNPCC---------.png)||
-|1898||G|Friend|EFNPCD---------|E - N - CD -- -- -- -- -|EMS.NATEVT.INFST.REPT|Reptile Infestation|POINT|![](./images/EFNPCD---------.png)||
-|1899||G|Friend|EFNPCE---------|E - N - CE -- -- -- -- -|EMS.NATEVT.INFST.RDNT|Rodent Infestation|POINT|![](./images/EFNPCE---------.png)||
-|1900||G|Friend|EFOPA----------|E - O - A- -- -- -- -- -|EMS.OPN.EMMED|Emergency Medical Operation|POINT|![](./images/EFOPA----------.png)||
-|1901||G|Friend|EFOPAA---------|E - O - AA -- -- -- -- -|EMS.OPN.EMMED.UNT|Emergency Medical Operation Unit|POINT|![](./images/EFOPAA---------.png)||
-|1902||G|Friend|EFOPAB---------|E - O - AB -- -- -- -- -|EMS.OPN.EMMED.EQPT|Emergency Medical Operation Equipment|POINT|![](./images/EFOPAB---------.png)||
-|1903||G|Friend|EFOPAC----H----|E - O - AC -- -- H- -- -|EMS.OPN.EMMED.INS|Emergency Medical Operation Installation|POINT|![](./images/EFOPAC----H----.png)||
-|1904||G|Friend|EFOPAD----H----|E - O - AD -- -- H- -- -|EMS.OPN.EMMED.EMTLOC|Emt Station Location|POINT|![](./images/EFOPAD----H----.png)||
-|1905||G|Friend|EFOPAE---------|E - O - AE -- -- -- -- -|EMS.OPN.EMMED.AMBLNC|Ambulance|POINT|![](./images/EFOPAE---------.png)||
-|1906||G|Friend|EFOPAF---------|E - O - AF -- -- -- -- -|EMS.OPN.EMMED.MEH|Medical Evacuation Helicopter|POINT|![](./images/EFOPAF---------.png)||
-|1907||G|Friend|EFOPAG----H----|E - O - AG -- -- H- -- -|EMS.OPN.EMMED.HDF|Health Department Facility|POINT|![](./images/EFOPAG----H----.png)||
-|1908||G|Friend|EFOPAJ----H----|E - O - AJ -- -- H- -- -|EMS.OPN.EMMED.MFOP|Medical Facilities Out Patient|POINT|![](./images/EFOPAJ----H----.png)||
-|1909||G|Friend|EFOPAK----H----|E - O - AK -- -- H- -- -|EMS.OPN.EMMED.MRG|Morgue|POINT|![](./images/EFOPAK----H----.png)||
-|1910||G|Friend|EFOPAL----H----|E - O - AL -- -- H- -- -|EMS.OPN.EMMED.RX|Pharmacy|POINT|![](./images/EFOPAL----H----.png)||
-|1911||G|Friend|EFOPAM----H----|E - O - AM -- -- H- -- -|EMS.OPN.EMMED.TRIAGE|Triage|POINT|![](./images/EFOPAM----H----.png)||
-|1912||G|Friend|EFOPB----------|E - O - B- -- -- -- -- -|EMS.OPN.EMOPN|Emergency Operation|POINT|![](./images/EFOPB----------.png)||
-|1913||G|Friend|EFOPBA---------|E - O - BA -- -- -- -- -|EMS.OPN.EMOPN.UNT|Emergency Operation Unit|POINT|![](./images/EFOPBA---------.png)||
-|1914||G|Friend|EFOPBB---------|E - O - BB -- -- -- -- -|EMS.OPN.EMOPN.EQPT|Emergency Operation Equipment|POINT|![](./images/EFOPBB---------.png)||
-|1915||G|Friend|EFOPBC----H----|E - O - BC -- -- H- -- -|EMS.OPN.EMOPN.INS|Emergency Operation Installation|POINT|![](./images/EFOPBC----H----.png)||
-|1916||G|Friend|EFOPBD---------|E - O - BD -- -- -- -- -|EMS.OPN.EMOPN.ECEP|Emergency Collection Evacuation Point|POINT|![](./images/EFOPBD---------.png)||
-|1917||G|Friend|EFOPBE----H----|E - O - BE -- -- H- -- -|EMS.OPN.EMOPN.EICC|Emergency Incident Command Center|POINT|![](./images/EFOPBE----H----.png)||
-|1918||G|Friend|EFOPBF----H----|E - O - BF -- -- H- -- -|EMS.OPN.EMOPN.EOC|Emergency Operations Center|POINT|![](./images/EFOPBF----H----.png)||
-|1919||G|Friend|EFOPBG----H----|E - O - BG -- -- H- -- -|EMS.OPN.EMOPN.EPIC|Emergency Public Information Center|POINT|![](./images/EFOPBG----H----.png)||
-|1920||G|Friend|EFOPBH----H----|E - O - BH -- -- H- -- -|EMS.OPN.EMOPN.EMSHLT|Emergency Shelter|POINT|![](./images/EFOPBH----H----.png)||
-|1921||G|Friend|EFOPBI----H----|E - O - BI -- -- H- -- -|EMS.OPN.EMOPN.ESA|Emergency Staging Area|POINT|![](./images/EFOPBI----H----.png)||
-|1922||G|Friend|EFOPBJ---------|E - O - BJ -- -- -- -- -|EMS.OPN.EMOPN.EMTM|Emergency Team|POINT|![](./images/EFOPBJ---------.png)||
-|1923||G|Friend|EFOPBK----H----|E - O - BK -- -- H- -- -|EMS.OPN.EMOPN.EWDC|Emergency Water Distribution Center|POINT|![](./images/EFOPBK----H----.png)||
-|1924||G|Friend|EFOPBL----H----|E - O - BL -- -- H- -- -|EMS.OPN.EMOPN.FDDIST|Emergency Food Distribution Center|POINT|![](./images/EFOPBL----H----.png)||
-|1925||G|Friend|EFOPC----------|E - O - C- -- -- -- -- -|EMS.OPN.FIRFT|Fire Fighting Operation|POINT|![](./images/EFOPC----------.png)||
-|1926||G|Friend|EFOPCA---------|E - O - CA -- -- -- -- -|EMS.OPN.FIRFT.FIRFTU|Fire Fighting Operation Unit|POINT|![](./images/EFOPCA---------.png)||
-|1927||G|Friend|EFOPCB---------|E - O - CB -- -- -- -- -|EMS.OPN.FIRFT.FIRFTE|Fire Fighting Operation Equipment|POINT|![](./images/EFOPCB---------.png)||
-|1928||G|Friend|EFOPCC---------|E - O - CC -- -- -- -- -|EMS.OPN.FIRFT.FIRHYD|Fire Hydrant|POINT|![](./images/EFOPCC---------.png)||
-|1929||G|Friend|EFOPCD----H----|E - O - CD -- -- H- -- -|EMS.OPN.FIRFT.OTHH2O|Other Water Supply Location|POINT|![](./images/EFOPCD----H----.png)||
-|1930||G|Friend|EFOPCE----H----|E - O - CE -- -- H- -- -|EMS.OPN.FIRFT.FIRSTN|Fire Station|POINT|![](./images/EFOPCE----H----.png)||
-|1931||G|Friend|EFOPD----------|E - O - D- -- -- -- -- -|EMS.OPN.LAWENF|Law Enforcement Operation|POINT|![](./images/EFOPD----------.png)||
-|1932||G|Friend|EFOPDA---------|E - O - DA -- -- -- -- -|EMS.OPN.LAWENF.LAWENU|Law Enforcement Operation Unit|POINT|![](./images/EFOPDA---------.png)||
-|1933||G|Friend|EFOPDB---------|E - O - DB -- -- -- -- -|EMS.OPN.LAWENF.LAWENE|Law Enforcement Operation Equipment|POINT|![](./images/EFOPDB---------.png)||
-|1934||G|Friend|EFOPDC----H----|E - O - DC -- -- H- -- -|EMS.OPN.LAWENF.LAWENI|Law Enforcement Operation Installation|POINT|![](./images/EFOPDC----H----.png)||
-|1935||G|Friend|EFOPDD---------|E - O - DD -- -- -- -- -|EMS.OPN.LAWENF.ATF|Atf|POINT|![](./images/EFOPDD---------.png)||
-|1936||G|Friend|EFOPDDA--------|E - O - DD A- -- -- -- -|EMS.OPN.LAWENF.ATF.ATFUNT|Atf Unit|POINT|![](./images/EFOPDDA--------.png)||
-|1937||G|Friend|EFOPDDB--------|E - O - DD B- -- -- -- -|EMS.OPN.LAWENF.ATF.ATFEQP|Atf Equipment|POINT|![](./images/EFOPDDB--------.png)||
-|1938||G|Friend|EFOPDDC---H----|E - O - DD C- -- H- -- -|EMS.OPN.LAWENF.ATF.ATFINS|Atf Installation|POINT|![](./images/EFOPDDC---H----.png)||
-|1939||G|Friend|EFOPDE---------|E - O - DE -- -- -- -- -|EMS.OPN.LAWENF.BDRPT|Border Patrol|POINT|![](./images/EFOPDE---------.png)||
-|1940||G|Friend|EFOPDEA--------|E - O - DE A- -- -- -- -|EMS.OPN.LAWENF.BDRPT.BDRPTU|Border Patrol Unit|POINT|![](./images/EFOPDEA--------.png)||
-|1941||G|Friend|EFOPDEB--------|E - O - DE B- -- -- -- -|EMS.OPN.LAWENF.BDRPT.BDRPTE|Border Patrol Equipment|POINT|![](./images/EFOPDEB--------.png)||
-|1942||G|Friend|EFOPDEC---H----|E - O - DE C- -- H- -- -|EMS.OPN.LAWENF.BDRPT.BDRPTI|Border Patrol Installation|POINT|![](./images/EFOPDEC---H----.png)||
-|1943||G|Friend|EFOPDF---------|E - O - DF -- -- -- -- -|EMS.OPN.LAWENF.CSTM|Customs Service|POINT|![](./images/EFOPDF---------.png)||
-|1944||G|Friend|EFOPDFA--------|E - O - DF A- -- -- -- -|EMS.OPN.LAWENF.CSTM.CSTMUN|Customs Service Unit|POINT|![](./images/EFOPDFA--------.png)||
-|1945||G|Friend|EFOPDFB--------|E - O - DF B- -- -- -- -|EMS.OPN.LAWENF.CSTM.CSTMEQ|Customs Service Equipment|POINT|![](./images/EFOPDFB--------.png)||
-|1946||G|Friend|EFOPDFC---H----|E - O - DF C- -- H- -- -|EMS.OPN.LAWENF.CSTM.CSTMIN|Customs Service Installation|POINT|![](./images/EFOPDFC---H----.png)||
-|1947||G|Friend|EFOPDG---------|E - O - DG -- -- -- -- -|EMS.OPN.LAWENF.DEA|Dea|POINT|![](./images/EFOPDG---------.png)||
-|1948||G|Friend|EFOPDGA--------|E - O - DG A- -- -- -- -|EMS.OPN.LAWENF.DEA.DEAUNT|Dea Unit|POINT|![](./images/EFOPDGA--------.png)||
-|1949||G|Friend|EFOPDGB--------|E - O - DG B- -- -- -- -|EMS.OPN.LAWENF.DEA.DEAEQP|Dea Equipment|POINT|![](./images/EFOPDGB--------.png)||
-|1950||G|Friend|EFOPDGC---H----|E - O - DG C- -- H- -- -|EMS.OPN.LAWENF.DEA.DEAINS|Dea Installation|POINT|![](./images/EFOPDGC---H----.png)||
-|1951||G|Friend|EFOPDH---------|E - O - DH -- -- -- -- -|EMS.OPN.LAWENF.DOJ|Doj|POINT|![](./images/EFOPDH---------.png)||
-|1952||G|Friend|EFOPDHA--------|E - O - DH A- -- -- -- -|EMS.OPN.LAWENF.DOJ.DOJ|Doj Unit|POINT|![](./images/EFOPDHA--------.png)||
-|1953||G|Friend|EFOPDHB--------|E - O - DH B- -- -- -- -|EMS.OPN.LAWENF.DOJ.DOJEQP|Doj Equipment|POINT|![](./images/EFOPDHB--------.png)||
-|1954||G|Friend|EFOPDHC---H----|E - O - DH C- -- H- -- -|EMS.OPN.LAWENF.DOJ.DOJINS|Doj Installation|POINT|![](./images/EFOPDHC---H----.png)||
-|1955||G|Friend|EFOPDI---------|E - O - DI -- -- -- -- -|EMS.OPN.LAWENF.FBI|Fbi|POINT|![](./images/EFOPDI---------.png)||
-|1956||G|Friend|EFOPDIA--------|E - O - DI A- -- -- -- -|EMS.OPN.LAWENF.FBI.FBIUNT|Fbi Unit|POINT|![](./images/EFOPDIA--------.png)||
-|1957||G|Friend|EFOPDIB--------|E - O - DI B- -- -- -- -|EMS.OPN.LAWENF.FBI.FBIEQP|Fbi Equipment|POINT|![](./images/EFOPDIB--------.png)||
-|1958||G|Friend|EFOPDIC---H----|E - O - DI C- -- H- -- -|EMS.OPN.LAWENF.FBI.FBIINS|Fbi Installation|POINT|![](./images/EFOPDIC---H----.png)||
-|1959||G|Friend|EFOPDJ---------|E - O - DJ -- -- -- -- -|EMS.OPN.LAWENF.POL|Police|POINT|![](./images/EFOPDJ---------.png)||
-|1960||G|Friend|EFOPDJB--------|E - O - DJ B- -- -- -- -|EMS.OPN.LAWENF.POL.POLEQP|Police Equipment|POINT|![](./images/EFOPDJB--------.png)||
-|1961||G|Friend|EFOPDJC---H----|E - O - DJ C- -- H- -- -|EMS.OPN.LAWENF.POL.POLINS|Police Installation|POINT|![](./images/EFOPDJC---H----.png)||
-|1962||G|Friend|EFOPDK---------|E - O - DK -- -- -- -- -|EMS.OPN.LAWENF.PRSN|Prison|POINT|![](./images/EFOPDK---------.png)||
-|1963||G|Friend|EFOPDL---------|E - O - DL -- -- -- -- -|EMS.OPN.LAWENF.SECSR|Secret Service|POINT|![](./images/EFOPDL---------.png)||
-|1964||G|Friend|EFOPDLA--------|E - O - DL A- -- -- -- -|EMS.OPN.LAWENF.SECSR.SECSRU|Secret Service Unit|POINT|![](./images/EFOPDLA--------.png)||
-|1965||G|Friend|EFOPDLB--------|E - O - DL B- -- -- -- -|EMS.OPN.LAWENF.SECSR.SECSRE|Secret Service Equipment|POINT|![](./images/EFOPDLB--------.png)||
-|1966||G|Friend|EFOPDLC---H----|E - O - DL C- -- H- -- -|EMS.OPN.LAWENF.SECSR.SECSRI|Secret Service Installation|POINT|![](./images/EFOPDLC---H----.png)||
-|1967||G|Friend|EFOPDM---------|E - O - DM -- -- -- -- -|EMS.OPN.LAWENF.TSA|Tsa|POINT|![](./images/EFOPDM---------.png)||
-|1968||G|Friend|EFOPDMA--------|E - O - DM A- -- -- -- -|EMS.OPN.LAWENF.TSA.TSAUNT|Tsa Unit|POINT|![](./images/EFOPDMA--------.png)||
-|1969||G|Friend|EFOPDMB--------|E - O - DM B- -- -- -- -|EMS.OPN.LAWENF.TSA.TSAEQP|Tsa Equipment|POINT|![](./images/EFOPDMB--------.png)||
-|1970||G|Friend|EFOPDMC---H----|E - O - DM C- -- H- -- -|EMS.OPN.LAWENF.TSA.TSAINS|Tsa Installation|POINT|![](./images/EFOPDMC---H----.png)||
-|1971||G|Friend|EFOPDN---------|E - O - DN -- -- -- -- -|EMS.OPN.LAWENF.CSTGD|Coast Guard|POINT|![](./images/EFOPDN---------.png)||
-|1972||G|Friend|EFOPDNA--------|E - O - DN A- -- -- -- -|EMS.OPN.LAWENF.CSTGD.CSTGDU|Coast Guard Unit|POINT|![](./images/EFOPDNA--------.png)||
-|1973||G|Friend|EFOPDNC---H----|E - O - DN C- -- H- -- -|EMS.OPN.LAWENF.CSTGD.CSTGDI|Coast Guard Installation|POINT|![](./images/EFOPDNC---H----.png)||
-|1974||G|Friend|EFOPDO---------|E - O - DO -- -- -- -- -|EMS.OPN.LAWENF.USMAR|Us Marshals Service|POINT|![](./images/EFOPDO---------.png)||
-|1975||G|Friend|EFOPDOA--------|E - O - DO A- -- -- -- -|EMS.OPN.LAWENF.USMAR.USMARU|Us Marshals Service Unit|POINT|![](./images/EFOPDOA--------.png)||
-|1976||G|Friend|EFOPDOB--------|E - O - DO B- -- -- -- -|EMS.OPN.LAWENF.USMAR.USMARE|Us Marshals Service Equipment|POINT|![](./images/EFOPDOB--------.png)||
-|1977||G|Friend|EFOPDOC---H----|E - O - DO C- -- H- -- -|EMS.OPN.LAWENF.USMAR.USMARI|Us Marshals Service Installation|POINT|![](./images/EFOPDOC---H----.png)||
-|1978||G|Friend|EFOPEA---------|E - O - EA -- -- -- -- -|EMS.OPN.SNS.BIO|Biological Sensor|POINT|![](./images/EFOPEA---------.png)||
-|1979||G|Friend|EFOPEB---------|E - O - EB -- -- -- -- -|EMS.OPN.SNS.CML|Chemical Sensor|POINT|![](./images/EFOPEB---------.png)||
-|1980||G|Friend|EFOPEC---------|E - O - EC -- -- -- -- -|EMS.OPN.SNS.INT|Intrusion Sensor|POINT|![](./images/EFOPEC---------.png)||
-|1981||G|Friend|EFOPED---------|E - O - ED -- -- -- -- -|EMS.OPN.SNS.NUC|Nuclear Sensor|POINT|![](./images/EFOPED---------.png)||
-|1982||G|Friend|EFOPEE---------|E - O - EE -- -- -- -- -|EMS.OPN.SNS.RAD|Radiological Sensor|POINT|![](./images/EFOPEE---------.png)||
-|1983||G|Friend|GFSPPO--------X|G - S - PO -- -- -- -- X|EMS.INFSTR.TSP.TCP|Traffic Control Point|POINT|![](./images/GFSPPO--------X.png)||
-|1984||G|Friend|GFMPBCB-------X|G  - M - BC B- -- -- -- X|EMS.INFSTR.TSP.BRG|Bridge|POINT|![](./images/GFMPBCB-------X.png)||
-|1985||G|Friend|OFIPAC---------|O - I - AC -- -- -- -- -|EMS.INCDNT.CVDIS.DISPOP|Civil Displaced Population|POINT|![](./images/OFIPAC---------.png)||
-|1986||G|Friend|OFOPD----------|O - O - D- -- -- -- -- -|EMS.INCDNT.CVDIS.DEMO|Civil Demonstration|POINT|![](./images/OFOPD----------.png)||
-|1987||G|Friend|OFOPHA---------|O - O - HA -- -- -- -- -|EMS.INCDNT.AIR.HJKG|Air Hijacking|POINT|![](./images/OFOPHA---------.png)||
-|1988||G|Friend|OFOPHT---------|O - O - HT -- -- -- -- -|EMS.INCDNT.VEH.HJKG|Vehicle Hijacking|POINT|![](./images/OFOPHT---------.png)||
-|1989||G|Friend|OFOPHV---------|O - O - HV -- -- -- -- -|EMS.INCDNT.MRN.HJKG|Marine Hijacking|POINT|![](./images/OFOPHV---------.png)||
-|1990||G|Friend|OFVPB----------|O - V - B- -- -- -- -- -|EMS.INCDNT.CRMACT.BM|Bomb|POINT|![](./images/OFVPB----------.png)||
-|1991||G|Friend|OFVPP----------|O - V - P- -- -- -- -- -|EMS.INCDNT.CRMACT.PSNG|Poisoning|POINT|![](./images/OFVPP----------.png)||
-|1992||G|Friend|SFGPES---------|S - G - ES -- -- -- -- -|EMS.OPN.SNS|Sensor|POINT|![](./images/SFGPES---------.png)||
-|1993||G|Friend|SFGPIB----H----|S - G - IB -- -- H- -- -|EMS.INFSTR.MIL.MILBF|Military Base|POINT|![](./images/SFGPIB----H----.png)||
-|1994||G|Friend|SFGPIRP---H----|S - G - IR P- -- H- -- -|EMS.INFSTR.ENGFAC.PETFAC|Petroleum Facility|POINT|![](./images/SFGPIRP---H----.png)||
-|1995||G|Friend|SFGPIT----H----|S - G - IT -- -- H- -- -|EMS.INFSTR.TSP|Transportation Infrastructure|POINT|![](./images/SFGPIT----H----.png)||
-|1996||G|Friend|SFGPIUE---H----|S - G - IU E- -- H- -- -|EMS.INFSTR.ENGFAC|Energy Facilities Infrastructure|POINT|![](./images/SFGPIUE---H----.png)||
-|1997||G|Friend|SFGPIUEN--H----|S - G - IU EN -- H- -- -|EMS.INFSTR.ENGFAC.NUCFAC|Nuclear Facility|POINT|![](./images/SFGPIUEN--H----.png)||
-|1998||G|Friend|SFGPIUP---H----|S - G - IU P- -- H- -- -|EMS.INFSTR.WS|Water Supply Infrastructure|POINT|![](./images/SFGPIUP---H----.png)||
-|1999||G|Friend|SFGPIUT---H----|S - G - IU T- -- H- -- -|EMS.INFSTR.TELCOM.TCF|Telecommunications Facility|POINT|![](./images/SFGPIUT---H----.png)||
-|2000||G|Friend|SFGPIXH---H----|S - G - IX H- -- H- -- -|EMS.OPN.EMMED.HSP|Hospital|POINT|![](./images/SFGPIXH---H----.png)||
-|2001||G|Friend|SFGPUULC-------|S - G - UU LC -- -- -- -|EMS.OPN.LAWENF.POL.POLUNT|Police Unit|POINT|![](./images/SFGPUULC-------.png)||
-|2002||G|Friend|SFSPNM---------|S - S - NM -- -- -- -- -|EMS.OPN.EMMED.HSPSHP|Hospital Ship|POINT|![](./images/SFSPNM---------.png)||
-|2003||G|Friend|SFSPXL---------|S - S - XL -- -- -- -- -|EMS.OPN.LAWENF.CSTGD.CSTGDE|Coast Guard Equipment|POINT|![](./images/SFSPXL---------.png)||
-|2004||G|Friend|SPGPIBA---H----|S  - G - IB A- -- H- -- -|EMS.INFSTR.TSP.AIRPT|Airport|POINT|![](./images/SPGPIBA---H----.png)||
-|2005||G|Friend|SPGPIBN---H----|S  - G - IB N- -- H- -- -|EMS.INFSTR.TSP.SP|Port|POINT|![](./images/SPGPIBN---H----.png)||
-|2006||G|Friend|WAS-WSD-LIP----|W A S - WS D- LI P- -- -|EMS.NATEVT.HYDMET.DZ|Drizzle|POINT|![](./images/WAS-WSD-LIP----.png)||
-|2007||G|Friend|WAS-WSDSLMP----|W A S - WS DS LM P- -- -|EMS.NATEVT.HYDMET.DT/SD|Sand Dust Storm|POINT|![](./images/WAS-WSDSLMP----.png)||
-|2008||G|Friend|WAS-WSFGSOP----|W A S - WS FG SO P- -- -|EMS.NATEVT.HYDMET.FG|Fog|POINT|![](./images/WAS-WSFGSOP----.png)||
-|2009||G|Friend|WAS-WSGRL-P----|W A S - WS GR L- P- -- -|EMS.NATEVT.HYDMET.HL|Hail|POINT|![](./images/WAS-WSGRL-P----.png)||
-|2010||G|Friend|WAS-WSR-LIP----|W A S - WS R- LI P- -- -|EMS.NATEVT.HYDMET.RA|Rain|POINT|![](./images/WAS-WSR-LIP----.png)||
-|2011||G|Friend|WAS-WSS-LIP----|W A S - WS S- LI P- -- -|EMS.NATEVT.HYDMET.SN|Snow|POINT|![](./images/WAS-WSS-LIP----.png)||
-|2012||G|Friend|WAS-WST-FCP----|W A S - WS T- FC P- -- -|EMS.NATEVT.HYDMET.TNDO|Tornado|POINT|![](./images/WAS-WST-FCP----.png)||
-|2013||G|Friend|WAS-WSTMH-P----|W A S - WS TM H- P- -- -|EMS.NATEVT.HYDMET.TSTRM|Thunder Storm|POINT|![](./images/WAS-WSTMH-P----.png)||
-|2014||G|Friend|WAS-WSTSS-P----|W A S - WS TS S- P- -- -|EMS.NATEVT.HYDMET.TRPCYC|Tropical Cyclone|POINT|![](./images/WAS-WSTSS-P----.png)||
-|2015||G|Friend|WAS-WSVE--P----|W A S - WS VE -- P- -- -|EMS.NATEVT.GEO.VOLERN|Volcanic Eruption|POINT|![](./images/WAS-WSVE--P----.png)||
-|2016||G|Friend|WOS-HPBA--P----|W O S - HP BA -- P- -- -|EMS.INFSTR.TSP.ANCRG|Ship Anchorage|POINT|![](./images/WOS-HPBA--P----.png)||
-|2017||G|Friend|WOS-ML----P----|W O S - ML -- -- P- -- -|EMS.INFSTR.TSP.LCK|Lock|POINT|![](./images/WOS-ML----P----.png)||
+|Count|Open Issue?|Image from Export|Image from Standard|Full SIDC|Hierarchy Code|Name|Geometry|Appendix|
+|---|---|---|---|---|---|---|---|---|
+|1||![](./images/SFAP-----------.png)||SFAP-----------|WAR.AIRTRK|Air Track|POINT|A|
+|2||![](./images/SFAPC----------.png)||SFAPC----------|WAR.AIRTRK.CVL|Civil Aircraft|POINT|A|
+|3||![](./images/SFAPCF---------.png)||SFAPCF---------|WAR.AIRTRK.CVL.FIXD|Fixed Wing|POINT|A|
+|4||![](./images/SFAPCH---------.png)||SFAPCH---------|WAR.AIRTRK.CVL.ROT|Rotary Wing|POINT|A|
+|5||![](./images/SFAPCL---------.png)||SFAPCL---------|WAR.AIRTRK.CVL.LTA|Lighter Than Air|POINT|A|
+|6||![](./images/SFAPM----------.png)||SFAPM----------|WAR.AIRTRK.MIL|Military|POINT|A|
+|7||![](./images/SFAPME---------.png)||SFAPME---------|WAR.AIRTRK.MIL.ESCORT|Escort|POINT|A|
+|8||![](./images/SFAPMF---------.png)||SFAPMF---------|WAR.AIRTRK.MIL.FIXD|Fixed Wing|POINT|A|
+|9||![](./images/SFAPMFA--------.png)||SFAPMFA--------|WAR.AIRTRK.MIL.FIXD.ATK|Attack/Strike|POINT|A|
+|10||![](./images/SFAPMFB--------.png)||SFAPMFB--------|WAR.AIRTRK.MIL.FIXD.BMB|Bomber|POINT|A|
+|11||![](./images/SFAPMFC--------.png)||SFAPMFC--------|WAR.AIRTRK.MIL.FIXD.CGOALT|Cargo Airlift (Transport)|POINT|A|
+|12||![](./images/SFAPMFCH-------.png)||SFAPMFCH-------|WAR.AIRTRK.MIL.FIXD.CGOALT.HVY|Cargo Airlift (Heavy)|POINT|A|
+|13||![](./images/SFAPMFCL-------.png)||SFAPMFCL-------|WAR.AIRTRK.MIL.FIXD.CGOALT.LIT|Cargo Airlift (Light)|POINT|A|
+|14||![](./images/SFAPMFCM-------.png)||SFAPMFCM-------|WAR.AIRTRK.MIL.FIXD.CGOALT.MDM|Cargo Airlift (Medium)|POINT|A|
+|15||![](./images/SFAPMFD--------.png)||SFAPMFD--------|WAR.AIRTRK.MIL.FIXD.ABNCP|Airborne Command Post (C2)|POINT|A|
+|16||![](./images/SFAPMFF--------.png)||SFAPMFF--------|WAR.AIRTRK.MIL.FIXD.FTR|Fighter|POINT|A|
+|17||![](./images/SFAPMFFI-------.png)||SFAPMFFI-------|WAR.AIRTRK.MIL.FIXD.FTR.INCR|Interceptor|POINT|A|
+|18||![](./images/SFAPMFH--------.png)||SFAPMFH--------|WAR.AIRTRK.MIL.FIXD.CSAR|Combat Search And Rescue (Csar)|POINT|A|
+|19||![](./images/SFAPMFJ--------.png)||SFAPMFJ--------|WAR.AIRTRK.MIL.FIXD.ECM|Electronic Countermeasures (Ecm/Jammer)|POINT|A|
+|20||![](./images/SFAPMFK--------.png)||SFAPMFK--------|WAR.AIRTRK.MIL.FIXD.TNK|Tanker|POINT|A|
+|21||![](./images/SFAPMFKB-------.png)||SFAPMFKB-------|WAR.AIRTRK.MIL.FIXD.TNK.BOOM|Tanker Boom-Only|POINT|A|
+|22||![](./images/SFAPMFKD-------.png)||SFAPMFKD-------|WAR.AIRTRK.MIL.FIXD.TNK.DROG|Tanker Drogue-Only|POINT|A|
+|23||![](./images/SFAPMFL--------.png)||SFAPMFL--------|WAR.AIRTRK.MIL.FIXD.VSTOL|V/Stol|POINT|A|
+|24||![](./images/SFAPMFM--------.png)||SFAPMFM--------|WAR.AIRTRK.MIL.FIXD.SOF|Special Operations Forces (Sof)|POINT|A|
+|25||![](./images/SFAPMFO--------.png)||SFAPMFO--------|WAR.AIRTRK.MIL.FIXD.MEDV|Medical Evacuation (Medevac)|POINT|A|
+|26||![](./images/SFAPMFP--------.png)||SFAPMFP--------|WAR.AIRTRK.MIL.FIXD.PAT|Patrol|POINT|A|
+|27||![](./images/SFAPMFPM-------.png)||SFAPMFPM-------|WAR.AIRTRK.MIL.FIXD.PAT.MNECM|Mine Countermeasures|POINT|A|
+|28||![](./images/SFAPMFPN-------.png)||SFAPMFPN-------|WAR.AIRTRK.MIL.FIXD.PAT.ASUW|Antisurface Warfare (Asuw)|POINT|A|
+|29||![](./images/SFAPMFQ--------.png)||SFAPMFQ--------|WAR.AIRTRK.MIL.FIXD.DRN|Drone (Rpv/Ua)|POINT|A|
+|30||![](./images/SFAPMFQA-------.png)||SFAPMFQA-------|WAR.AIRTRK.MIL.FIXD.DRN.ATK|Attack|POINT|A|
+|31||![](./images/SFAPMFQB-------.png)||SFAPMFQB-------|WAR.AIRTRK.MIL.FIXD.DRN.BMB|Bomber|POINT|A|
+|32||![](./images/SFAPMFQC-------.png)||SFAPMFQC-------|WAR.AIRTRK.MIL.FIXD.DRN.CGO|Cargo|POINT|A|
+|33||![](./images/SFAPMFQD-------.png)||SFAPMFQD-------|WAR.AIRTRK.MIL.FIXD.DRN.ABNCP|Airborne Command Post|POINT|A|
+|34||![](./images/SFAPMFQF-------.png)||SFAPMFQF-------|WAR.AIRTRK.MIL.FIXD.DRN.FTR|Fighter|POINT|A|
+|35||![](./images/SFAPMFQH-------.png)||SFAPMFQH-------|WAR.AIRTRK.MIL.FIXD.DRN.CSAR|Search & Rescue (Csar)|POINT|A|
+|36||![](./images/SFAPMFQI-------.png)||SFAPMFQI-------|WAR.AIRTRK.MIL.FIXD.DRN.MNECM|Mine Countermeasures|POINT|A|
+|37||![](./images/SFAPMFQJ-------.png)||SFAPMFQJ-------|WAR.AIRTRK.MIL.FIXD.DRN.ECM|Electronic Countermeasures (Jammer)|POINT|A|
+|38||![](./images/SFAPMFQK-------.png)||SFAPMFQK-------|WAR.AIRTRK.MIL.FIXD.DRN.TNK|Tanker|POINT|A|
+|39||![](./images/SFAPMFQL-------.png)||SFAPMFQL-------|WAR.AIRTRK.MIL.FIXD.DRN.VSTOL|V/Stol|POINT|A|
+|40||![](./images/SFAPMFQM-------.png)||SFAPMFQM-------|WAR.AIRTRK.MIL.FIXD.DRN.SOF|Special Operations Forces (Sof)|POINT|A|
+|41||![](./images/SFAPMFQN-------.png)||SFAPMFQN-------|WAR.AIRTRK.MIL.FIXD.DRN.ASUW|Antisurface Warfare (Asuw)|POINT|A|
+|42||![](./images/SFAPMFQO-------.png)||SFAPMFQO-------|WAR.AIRTRK.MIL.FIXD.DRN.MEDV|Medevac|POINT|A|
+|43||![](./images/SFAPMFQP-------.png)||SFAPMFQP-------|WAR.AIRTRK.MIL.FIXD.DRN.PAT|Patrol|POINT|A|
+|44||![](./images/SFAPMFQR-------.png)||SFAPMFQR-------|WAR.AIRTRK.MIL.FIXD.DRN.RECON|Reconnaissance|POINT|A|
+|45||![](./images/SFAPMFQRW------.png)||SFAPMFQRW------|WAR.AIRTRK.MIL.FIXD.DRN.RECON.ABNEW|Airborne Early Warning (Aew)|POINT|A|
+|46||![](./images/SFAPMFQRX------.png)||SFAPMFQRX------|WAR.AIRTRK.MIL.FIXD.DRN.RECON.PHG|Photographic|POINT|A|
+|47||![](./images/SFAPMFQRZ------.png)||SFAPMFQRZ------|WAR.AIRTRK.MIL.FIXD.DRN.RECON.ESM|Electronic Surveillance Measures|POINT|A|
+|48||![](./images/SFAPMFQS-------.png)||SFAPMFQS-------|WAR.AIRTRK.MIL.FIXD.DRN.ASBW|Antisubmarine Warfare (Asw)|POINT|A|
+|49||![](./images/SFAPMFQT-------.png)||SFAPMFQT-------|WAR.AIRTRK.MIL.FIXD.DRN.TNE|Trainer|POINT|A|
+|50||![](./images/SFAPMFQU-------.png)||SFAPMFQU-------|WAR.AIRTRK.MIL.FIXD.DRN.UTY|Utility|POINT|A|
+|51||![](./images/SFAPMFQY-------.png)||SFAPMFQY-------|WAR.AIRTRK.MIL.FIXD.DRN.COMM|Communications|POINT|A|
+|52||![](./images/SFAPMFR--------.png)||SFAPMFR--------|WAR.AIRTRK.MIL.FIXD.RECON|Reconnaissance|POINT|A|
+|53||![](./images/SFAPMFRW-------.png)||SFAPMFRW-------|WAR.AIRTRK.MIL.FIXD.RECON.ABNEW|Airborne Early Warning (Aew)|POINT|A|
+|54||![](./images/SFAPMFRX-------.png)||SFAPMFRX-------|WAR.AIRTRK.MIL.FIXD.RECON.PHG|Photographic|POINT|A|
+|55||![](./images/SFAPMFRZ-------.png)||SFAPMFRZ-------|WAR.AIRTRK.MIL.FIXD.RECON.ESM|Electronic Surveillance Measures|POINT|A|
+|56||![](./images/SFAPMFS--------.png)||SFAPMFS--------|WAR.AIRTRK.MIL.FIXD.ASBWCB|Antisubmarine Warfare (Asw) Carrier Based|POINT|A|
+|57||![](./images/SFAPMFT--------.png)||SFAPMFT--------|WAR.AIRTRK.MIL.FIXD.TNE|Trainer|POINT|A|
+|58||![](./images/SFAPMFU--------.png)||SFAPMFU--------|WAR.AIRTRK.MIL.FIXD.UTY|Utility|POINT|A|
+|59||![](./images/SFAPMFUH-------.png)||SFAPMFUH-------|WAR.AIRTRK.MIL.FIXD.UTY.HVY|Utility (Heavy)|POINT|A|
+|60||![](./images/SFAPMFUL-------.png)||SFAPMFUL-------|WAR.AIRTRK.MIL.FIXD.UTY.LIT|Utility (Light)|POINT|A|
+|61||![](./images/SFAPMFUM-------.png)||SFAPMFUM-------|WAR.AIRTRK.MIL.FIXD.UTY.MDM|Utility (Medium)|POINT|A|
+|62||![](./images/SFAPMFY--------.png)||SFAPMFY--------|WAR.AIRTRK.MIL.FIXD.COMM|Communications|POINT|A|
+|63||![](./images/SFAPMH---------.png)||SFAPMH---------|WAR.AIRTRK.MIL.ROT|Rotary Wing|POINT|A|
+|64||![](./images/SFAPMHA--------.png)||SFAPMHA--------|WAR.AIRTRK.MIL.ROT.ATK|Attack|POINT|A|
+|65||![](./images/SFAPMHC--------.png)||SFAPMHC--------|WAR.AIRTRK.MIL.ROT.CGOALT|Cargo Airlift (Transport)|POINT|A|
+|66||![](./images/SFAPMHCH-------.png)||SFAPMHCH-------|WAR.AIRTRK.MIL.ROT.CGOALT.HVY|Cargo Airlift (Heavy)|POINT|A|
+|67||![](./images/SFAPMHCL-------.png)||SFAPMHCL-------|WAR.AIRTRK.MIL.ROT.CGOALT.LIT|Cargo Airlift (Light)|POINT|A|
+|68||![](./images/SFAPMHCM-------.png)||SFAPMHCM-------|WAR.AIRTRK.MIL.ROT.CGOALT.MDM|Cargo Airlift (Medium)|POINT|A|
+|69||![](./images/SFAPMHD--------.png)||SFAPMHD--------|WAR.AIRTRK.MIL.ROT.ABNCP|Airborne Command Post (C2)|POINT|A|
+|70||![](./images/SFAPMHH--------.png)||SFAPMHH--------|WAR.AIRTRK.MIL.ROT.CSAR|Combat Search And Rescue (Csar)|POINT|A|
+|71||![](./images/SFAPMHI--------.png)||SFAPMHI--------|WAR.AIRTRK.MIL.ROT.MNECM|Mine Countermeasures|POINT|A|
+|72||![](./images/SFAPMHJ--------.png)||SFAPMHJ--------|WAR.AIRTRK.MIL.ROT.ECM|Electronic Countermeasures (Ecm/Jammer)|POINT|A|
+|73||![](./images/SFAPMHK--------.png)||SFAPMHK--------|WAR.AIRTRK.MIL.ROT.TNK|Tanker|POINT|A|
+|74||![](./images/SFAPMHM--------.png)||SFAPMHM--------|WAR.AIRTRK.MIL.ROT.SOF|Special Operations Forces (Sof)|POINT|A|
+|75||![](./images/SFAPMHO--------.png)||SFAPMHO--------|WAR.AIRTRK.MIL.ROT.MEDV|Medevac|POINT|A|
+|76||![](./images/SFAPMHQ--------.png)||SFAPMHQ--------|WAR.AIRTRK.MIL.ROT.DRN|Drone (Rpv/Ua)|POINT|A|
+|77||![](./images/SFAPMHR--------.png)||SFAPMHR--------|WAR.AIRTRK.MIL.ROT.RECON|Reconnaissance|POINT|A|
+|78||![](./images/SFAPMHS--------.png)||SFAPMHS--------|WAR.AIRTRK.MIL.ROT.ASBW|Antisubmarine Warfare/Mpa|POINT|A|
+|79||![](./images/SFAPMHT--------.png)||SFAPMHT--------|WAR.AIRTRK.MIL.ROT.TNE|Trainer|POINT|A|
+|80||![](./images/SFAPMHU--------.png)||SFAPMHU--------|WAR.AIRTRK.MIL.ROT.UTY|Utility|POINT|A|
+|81||![](./images/SFAPMHUH-------.png)||SFAPMHUH-------|WAR.AIRTRK.MIL.ROT.UTY.HVY|Utility (Heavy)|POINT|A|
+|82||![](./images/SFAPMHUL-------.png)||SFAPMHUL-------|WAR.AIRTRK.MIL.ROT.UTY.LIT|Utility (Light)|POINT|A|
+|83||![](./images/SFAPMHUM-------.png)||SFAPMHUM-------|WAR.AIRTRK.MIL.ROT.UTY.MDM|Utility (Medium)|POINT|A|
+|84||![](./images/SFAPML---------.png)||SFAPML---------|WAR.AIRTRK.MIL.LTA|Lighter Than Air|POINT|A|
+|85||![](./images/SFAPMV---------.png)||SFAPMV---------|WAR.AIRTRK.MIL.VIP|Very Important Person (Vip)|POINT|A|
+|86||![](./images/SFAPW----------.png)||SFAPW----------|WAR.AIRTRK.WPN|Weapon|POINT|A|
+|87||![](./images/SFAPWB---------.png)||SFAPWB---------|WAR.AIRTRK.WPN.BM|Bomb|POINT|A|
+|88||![](./images/SFAPWD---------.png)||SFAPWD---------|WAR.AIRTRK.WPN.DCY|Decoy|POINT|A|
+|89||![](./images/SFAPWM---------.png)||SFAPWM---------|WAR.AIRTRK.WPN.MSLIF|Missile In Flight|POINT|A|
+|90||![](./images/SFAPWMA--------.png)||SFAPWMA--------|WAR.AIRTRK.WPN.MSLIF.ALM|Air Launched Missile|POINT|A|
+|91||![](./images/SFAPWMAA-------.png)||SFAPWMAA-------|WAR.AIRTRK.WPN.MSLIF.ALM.AAM|Air-To-Air Missile (Aam)|POINT|A|
+|92||![](./images/SFAPWMAP-------.png)||SFAPWMAP-------|WAR.AIRTRK.WPN.MSLIF.ALM.ASPC|Air-To-Space Missile|POINT|A|
+|93||![](./images/SFAPWMAS-------.png)||SFAPWMAS-------|WAR.AIRTRK.WPN.MSLIF.ALM.ASM|Air-To-Surface Missile (Asm)|POINT|A|
+|94||![](./images/SFAPWMB--------.png)||SFAPWMB--------|WAR.AIRTRK.WPN.MSLIF.BLST|Ballistic Missile|POINT|A|
+|95||![](./images/SFAPWMCM-------.png)||SFAPWMCM-------|WAR.AIRTRK.WPN.MSLIF.CM|Cruise Missile|POINT|A|
+|96||![](./images/SFAPWMS--------.png)||SFAPWMS--------|WAR.AIRTRK.WPN.MSLIF.SLM|Surface Launched Missile|POINT|A|
+|97||![](./images/SFAPWMSA-------.png)||SFAPWMSA-------|WAR.AIRTRK.WPN.MSLIF.SLM.SAM|Surface-To-Air Missile (Sam)|POINT|A|
+|98||![](./images/SFAPWMSB-------.png)||SFAPWMSB-------|WAR.AIRTRK.WPN.MSLIF.SLM.ABM|Antiballistic Missile (Abm)|POINT|A|
+|99||![](./images/SFAPWMSS-------.png)||SFAPWMSS-------|WAR.AIRTRK.WPN.MSLIF.SLM.SSM|Surface-To-Surface Missile (Ssm)|POINT|A|
+|100||![](./images/SFAPWMSU-------.png)||SFAPWMSU-------|WAR.AIRTRK.WPN.MSLIF.SLM.SSUM|Surface-To-Subsurface Missile|POINT|A|
+|101||![](./images/SFAPWMU--------.png)||SFAPWMU--------|WAR.AIRTRK.WPN.MSLIF.SBSM|Subsurface-To-Surface Missile (S/Ssm)|POINT|A|
+|102||![](./images/SFFP-----------.png)||SFFP-----------|WAR.SOFUNT|Special Operations Forces (Sof) Unit|POINT|A|
+|103||![](./images/SFFPA----------.png)||SFFPA----------|WAR.SOFUNT.AVN|Sof Unit Aviation|POINT|A|
+|104||![](./images/SFFPAF---------.png)||SFFPAF---------|WAR.SOFUNT.AVN.FIXD|Sof Unit Fixed Wing|POINT|A|
+|105||![](./images/SFFPAFA--------.png)||SFFPAFA--------|WAR.SOFUNT.AVN.FIXD.ATK|Sof Unit Attack|POINT|A|
+|106||![](./images/SFFPAFK--------.png)||SFFPAFK--------|WAR.SOFUNT.AVN.FIXD.RFE|Sof Unit Refuel|POINT|A|
+|107||![](./images/SFFPAFU--------.png)||SFFPAFU--------|WAR.SOFUNT.AVN.FIXD.UTY|Sof Unit Utility|POINT|A|
+|108||![](./images/SFFPAFUH-------.png)||SFFPAFUH-------|WAR.SOFUNT.AVN.FIXD.UTY.HVY|Sof Unit Utility (Heavy)|POINT|A|
+|109||![](./images/SFFPAFUL-------.png)||SFFPAFUL-------|WAR.SOFUNT.AVN.FIXD.UTY.LIT|Sof Unit Utility (Light)|POINT|A|
+|110||![](./images/SFFPAFUM-------.png)||SFFPAFUM-------|WAR.SOFUNT.AVN.FIXD.UTY.MDM|Sof Unit Utility (Medium)|POINT|A|
+|111||![](./images/SFFPAH---------.png)||SFFPAH---------|WAR.SOFUNT.AVN.ROT|Sof Unit Rotary Wing|POINT|A|
+|112||![](./images/SFFPAHA--------.png)||SFFPAHA--------|WAR.SOFUNT.AVN.ROT.ATK|Sof Unit Attack|POINT|A|
+|113||![](./images/SFFPAHH--------.png)||SFFPAHH--------|WAR.SOFUNT.AVN.ROT.CSAR|Sof Unit Combat Search And Rescue|POINT|A|
+|114||![](./images/SFFPAHU--------.png)||SFFPAHU--------|WAR.SOFUNT.AVN.ROT.UTY|Sof Unit Utility|POINT|A|
+|115||![](./images/SFFPAHUH-------.png)||SFFPAHUH-------|WAR.SOFUNT.AVN.ROT.UTY.HVY|Sof Unit Utility (Heavy)|POINT|A|
+|116||![](./images/SFFPAHUL-------.png)||SFFPAHUL-------|WAR.SOFUNT.AVN.ROT.UTY.LIT|Sof Unit Utility (Light)|POINT|A|
+|117||![](./images/SFFPAHUM-------.png)||SFFPAHUM-------|WAR.SOFUNT.AVN.ROT.UTY.MDM|Sof Unit Utility (Medium)|POINT|A|
+|118||![](./images/SFFPAV---------.png)||SFFPAV---------|WAR.SOFUNT.AVN.VSTOL|Sof Unit V/Stol|POINT|A|
+|119||![](./images/SFFPB----------.png)||SFFPB----------|WAR.SOFUNT.SUP|Sof Unit Support|POINT|A|
+|120||![](./images/SFFPG----------.png)||SFFPG----------|WAR.SOFUNT.GRD|Sof Unit Ground|POINT|A|
+|121||![](./images/SFFPGC---------.png)||SFFPGC---------|WAR.SOFUNT.GRD.CVLAFF|Sof Unit Civil Affairs|POINT|A|
+|122||![](./images/SFFPGP---------.png)||SFFPGP---------|WAR.SOFUNT.GRD.PSYOP|Sof Unit Psychological Operations (Psyop)|POINT|A|
+|123||![](./images/SFFPGPA--------.png)||SFFPGPA--------|WAR.SOFUNT.GRD.PSYOP.FIXAVN|Sof Unit Fixed Wing Aviation|POINT|A|
+|124||![](./images/SFFPGR---------.png)||SFFPGR---------|WAR.SOFUNT.GRD.RGR|Sof Unit Ranger|POINT|A|
+|125||![](./images/SFFPGS---------.png)||SFFPGS---------|WAR.SOFUNT.GRD.SOF|Sof Unit Special Forces|POINT|A|
+|126||![](./images/SFFPN----------.png)||SFFPN----------|WAR.SOFUNT.NAV|Sof Unit Sof Unit Naval|POINT|A|
+|127||![](./images/SFFPNB---------.png)||SFFPNB---------|WAR.SOFUNT.NAV.SBT|Sof Unit Special Boat|POINT|A|
+|128||![](./images/SFFPNN---------.png)||SFFPNN---------|WAR.SOFUNT.NAV.SSSNR|Sof Unit Special Ssnr|POINT|A|
+|129||![](./images/SFFPNS---------.png)||SFFPNS---------|WAR.SOFUNT.NAV.SEAL|Sof Unit Seal|POINT|A|
+|130||![](./images/SFFPNU---------.png)||SFFPNU---------|WAR.SOFUNT.NAV.UH2DML|Sof Unit Underwater Demolition Team|POINT|A|
+|131||![](./images/SFGP-----------.png)||SFGP-----------|WAR.GRDTRK|Ground Track|POINT|A|
+|132||![](./images/SFGPE----------.png)||SFGPE----------|WAR.GRDTRK.EQT|Ground Track Equipment|POINT|A|
+|133||![](./images/SFGPES---------.png)||SFGPES---------|WAR.GRDTRK.EQT.SNS|Sensor|POINT|A|
+|134||![](./images/SFGPESE--------.png)||SFGPESE--------|WAR.GRDTRK.EQT.SNS.EMP|Emplaced Sensor|POINT|A|
+|135||![](./images/SFGPESR--------.png)||SFGPESR--------|WAR.GRDTRK.EQT.SNS.RAD|Radar|POINT|A|
+|136||![](./images/SFGPEV---------.png)||SFGPEV---------|WAR.GRDTRK.EQT.GRDVEH|Ground Vehicle|POINT|A|
+|137||![](./images/SFGPEVA--------.png)||SFGPEVA--------|WAR.GRDTRK.EQT.GRDVEH.ARMD|Armored Vehicle|POINT|A|
+|138||![](./images/SFGPEVAA-------.png)||SFGPEVAA-------|WAR.GRDTRK.EQT.GRDVEH.ARMD.ARMPC|Armored Personnel Carrier|POINT|A|
+|139||![](./images/SFGPEVAAR------.png)||SFGPEVAAR------|WAR.GRDTRK.EQT.GRDVEH.ARMD.ARMPC.RCY|Armored Personnel Carrier Recovery|POINT|A|
+|140||![](./images/SFGPEVAC-------.png)||SFGPEVAC-------|WAR.GRDTRK.EQT.GRDVEH.ARMD.C2V|C2V/Acv|POINT|A|
+|141||![](./images/SFGPEVAI-------.png)||SFGPEVAI-------|WAR.GRDTRK.EQT.GRDVEH.ARMD.ARMINF|Armored Infantry|POINT|A|
+|142||![](./images/SFGPEVAL-------.png)||SFGPEVAL-------|WAR.GRDTRK.EQT.GRDVEH.ARMD.LARMVH|Light Armored Vehicle|POINT|A|
+|143||![](./images/SFGPEVAS-------.png)||SFGPEVAS-------|WAR.GRDTRK.EQT.GRDVEH.ARMD.CSSVEH|Combat Service Support Vehicle|POINT|A|
+|144||![](./images/SFGPEVAT-------.png)||SFGPEVAT-------|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK|Tank|POINT|A|
+|145||![](./images/SFGPEVATH------.png)||SFGPEVATH------|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.HVY|Tank Heavy|POINT|A|
+|146||![](./images/SFGPEVATHR-----.png)||SFGPEVATHR-----|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.HVY.RCY|Tank Heavy Recovery|POINT|A|
+|147||![](./images/SFGPEVATL------.png)||SFGPEVATL------|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.LIT|Tank Light|POINT|A|
+|148||![](./images/SFGPEVATLR-----.png)||SFGPEVATLR-----|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.LIT.RCY|Tank Light Recovery|POINT|A|
+|149||![](./images/SFGPEVATM------.png)||SFGPEVATM------|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.MDM|Tank Medium|POINT|A|
+|150||![](./images/SFGPEVATMR-----.png)||SFGPEVATMR-----|WAR.GRDTRK.EQT.GRDVEH.ARMD.TANK.MDM.RCY|Tank Medium Recovery|POINT|A|
+|151||![](./images/SFGPEVC--------.png)||SFGPEVC--------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH|Civilian Vehicle|POINT|A|
+|152||![](./images/SFGPEVCA-------.png)||SFGPEVCA-------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT|Automobile|POINT|A|
+|153||![](./images/SFGPEVCAH------.png)||SFGPEVCAH------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT.SDN|Sedan Automobile|POINT|A|
+|154||![](./images/SFGPEVCAL------.png)||SFGPEVCAL------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT.CPCT|Compact Automobile|POINT|A|
+|155||![](./images/SFGPEVCAM------.png)||SFGPEVCAM------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.AUT.MDSZ|Midsize Automobile|POINT|A|
+|156||![](./images/SFGPEVCF-------.png)||SFGPEVCF-------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF|Tractor Trailer Truck With Flatbed Trailer|POINT|A|
+|157||![](./images/SFGPEVCFH------.png)||SFGPEVCFH------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF.LRG|Large/Heavy Flatbed Trailer Tractor Trailer Truck|POINT|A|
+|158||![](./images/SFGPEVCFL------.png)||SFGPEVCFL------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF.SMAL|Small/Light Flatbed Trailer Tractor Trailer Truck|POINT|A|
+|159||![](./images/SFGPEVCFM------.png)||SFGPEVCFM------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRLF.MDM|Medium Flatbed Trailer Tractor Trailer Truck|POINT|A|
+|160||![](./images/SFGPEVCJ-------.png)||SFGPEVCJ-------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP|Jeep Type Vehicle|POINT|A|
+|161||![](./images/SFGPEVCJH------.png)||SFGPEVCJH------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP.LRG|Large/Heavy Jeep Type Vehicle|POINT|A|
+|162||![](./images/SFGPEVCJL------.png)||SFGPEVCJL------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP.SMAL|Small/Light Jeep Type Vehicle|POINT|A|
+|163||![](./images/SFGPEVCJM------.png)||SFGPEVCJM------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.JP.MDM|Medium Jeep Type Vehicle|POINT|A|
+|164||![](./images/SFGPEVCM-------.png)||SFGPEVCM-------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV|Multiple Passenger Vehicle|POINT|A|
+|165||![](./images/SFGPEVCMH------.png)||SFGPEVCMH------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV.LBUS|Large Bus Multiple Passenger Vehicle|POINT|A|
+|166||![](./images/SFGPEVCML------.png)||SFGPEVCML------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV.VAN|Van Multiple Passenger Vehicle|POINT|A|
+|167||![](./images/SFGPEVCMM------.png)||SFGPEVCMM------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.MPV.SBUS|Small Bus Multiple Passenger Vehicle|POINT|A|
+|168||![](./images/SFGPEVCO-------.png)||SFGPEVCO-------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK|Open-Bed Truck|POINT|A|
+|169||![](./images/SFGPEVCOH------.png)||SFGPEVCOH------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK.LRG|Large Open-Bed Truck|POINT|A|
+|170||![](./images/SFGPEVCOL------.png)||SFGPEVCOL------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK.PU|Pickup Open-Bed Truck|POINT|A|
+|171||![](./images/SFGPEVCOM------.png)||SFGPEVCOM------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.OBTRK.SMAL|Small Open-Bed Truck|POINT|A|
+|172||![](./images/SFGPEVCT-------.png)||SFGPEVCT-------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL|Tractor Trailer Truck With Box Trailer|POINT|A|
+|173||![](./images/SFGPEVCTH------.png)||SFGPEVCTH------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL.LRG|Large/Heavy Box Trailer Tractor Trailer Truck|POINT|A|
+|174||![](./images/SFGPEVCTL------.png)||SFGPEVCTL------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL.SMAL|Small/Light Box Trailer Tractor Trailer Truck|POINT|A|
+|175||![](./images/SFGPEVCTM------.png)||SFGPEVCTM------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.TRTRL.MDM|Medium Box Trailer Tractor Trailer Truck|POINT|A|
+|176||![](./images/SFGPEVCU-------.png)||SFGPEVCU-------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH|Utility Vehicle|POINT|A|
+|177||![](./images/SFGPEVCUH------.png)||SFGPEVCUH------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH.LBOX|Large Box Truck Utility Vehicle|POINT|A|
+|178||![](./images/SFGPEVCUL------.png)||SFGPEVCUL------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH.SUV|Sport Utility Vehicle (Suv) Utility Vehicle|POINT|A|
+|179||![](./images/SFGPEVCUM------.png)||SFGPEVCUM------|WAR.GRDTRK.EQT.GRDVEH.CVLVEH.UTYVEH.SBOX|Small Box Truck Utility Vehicle|POINT|A|
+|180||![](./images/SFGPEVE--------.png)||SFGPEVE--------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH|Engineer Vehicle|POINT|A|
+|181||![](./images/SFGPEVEA-------.png)||SFGPEVEA-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MCVEH|Mine Clearing Vehicle|POINT|A|
+|182||![](./images/SFGPEVEAA------.png)||SFGPEVEAA------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MCVEH.ARMVM|Armored Mounted Mine Clearing Vehicle|POINT|A|
+|183||![](./images/SFGPEVEAT------.png)||SFGPEVEAT------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MCVEH.TM|Trailer Mounted Mine Clearing Vehicle|POINT|A|
+|184||![](./images/SFGPEVEB-------.png)||SFGPEVEB-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.BRG|Bridge|POINT|A|
+|185||![](./images/SFGPEVEC-------.png)||SFGPEVEC-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.CSNVEH|Construction Vehicle|POINT|A|
+|186||![](./images/SFGPEVED-------.png)||SFGPEVED-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.DZR|Dozer|POINT|A|
+|187||![](./images/SFGPEVEDA------.png)||SFGPEVEDA------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.DZR.ARMD|Armored Dozer|POINT|A|
+|188||![](./images/SFGPEVEE-------.png)||SFGPEVEE-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.ERHMR|Earthmover|POINT|A|
+|189||![](./images/SFGPEVEF-------.png)||SFGPEVEF-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.FRYTSP|Ferry Transporter|POINT|A|
+|190||![](./images/SFGPEVEH-------.png)||SFGPEVEH-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.BH|Backhoe|POINT|A|
+|191||![](./images/SFGPEVEM-------.png)||SFGPEVEM-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MLVEH|Mine Laying Vehicle|POINT|A|
+|192||![](./images/SFGPEVEML------.png)||SFGPEVEML------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MLVEH.TRKMV|Truck Mounted With Volcano|POINT|A|
+|193||![](./images/SFGPEVEMV------.png)||SFGPEVEMV------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.MLVEH.ARMCV|Armored Carrier With Volcano|POINT|A|
+|194||![](./images/SFGPEVER-------.png)||SFGPEVER-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.ARMERV|Armored Engineer Recon Vehicle (Aerv)|POINT|A|
+|195||![](./images/SFGPEVES-------.png)||SFGPEVES-------|WAR.GRDTRK.EQT.GRDVEH.ENGVEH.AST|Armored Assault|POINT|A|
+|196||![](./images/SFGPEVM--------.png)||SFGPEVM--------|WAR.GRDTRK.EQT.GRDVEH.PKAN|Pack Animal(S)|POINT|A|
+|197||![](./images/SFGPEVS--------.png)||SFGPEVS--------|WAR.GRDTRK.EQT.GRDVEH.MSLSPT|Missile Support Vehicle|POINT|A|
+|198||![](./images/SFGPEVSC-------.png)||SFGPEVSC-------|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.CRN|Missile Support Vehicle Crane/Loading Device|POINT|A|
+|199||![](./images/SFGPEVSP-------.png)||SFGPEVSP-------|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.PLNT|Missile Support Vehicle Propellant Transporter|POINT|A|
+|200||![](./images/SFGPEVSR-------.png)||SFGPEVSR-------|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.TPTR|Missile Support Vehicle Transporter|POINT|A|
+|201||![](./images/SFGPEVST-------.png)||SFGPEVST-------|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.TLDR|Missile Support Vehicle Transloader|POINT|A|
+|202||![](./images/SFGPEVSW-------.png)||SFGPEVSW-------|WAR.GRDTRK.EQT.GRDVEH.MSLSPT.WH|Missile Support Vehicle Warhead Transporter|POINT|A|
+|203||![](./images/SFGPEVT--------.png)||SFGPEVT--------|WAR.GRDTRK.EQT.GRDVEH.TRNLCO|Train Locomotive|POINT|A|
+|204||![](./images/SFGPEVU--------.png)||SFGPEVU--------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH|Utility Vehicle|POINT|A|
+|205||![](./images/SFGPEVUA-------.png)||SFGPEVUA-------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.AMBLNC|Ambulance|POINT|A|
+|206||![](./images/SFGPEVUAA------.png)||SFGPEVUAA------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.AMBLNC.ARMD|Armored Ambulance|POINT|A|
+|207||![](./images/SFGPEVUB-------.png)||SFGPEVUB-------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.BUS|Bus|POINT|A|
+|208||![](./images/SFGPEVUL-------.png)||SFGPEVUL-------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.LCCTRK|Limited Cross-Country Truck|POINT|A|
+|209||![](./images/SFGPEVUR-------.png)||SFGPEVUR-------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.H2OCRT|Water Craft|POINT|A|
+|210||![](./images/SFGPEVUS-------.png)||SFGPEVUS-------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI|Semi|POINT|A|
+|211||![](./images/SFGPEVUSH------.png)||SFGPEVUSH------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI.HVY|Semi Heavy|POINT|A|
+|212||![](./images/SFGPEVUSL------.png)||SFGPEVUSL------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI.LIT|Semi Light|POINT|A|
+|213||![](./images/SFGPEVUSM------.png)||SFGPEVUSM------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.SEMI.MDM|Semi Medium|POINT|A|
+|214||![](./images/SFGPEVUT-------.png)||SFGPEVUT-------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.TOWTRK|Tow Truck|POINT|A|
+|215||![](./images/SFGPEVUTH------.png)||SFGPEVUTH------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.TOWTRK.HVY|Tow Truck Heavy|POINT|A|
+|216||![](./images/SFGPEVUTL------.png)||SFGPEVUTL------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.TOWTRK.LIT|Tow Truck Light|POINT|A|
+|217||![](./images/SFGPEVUX-------.png)||SFGPEVUX-------|WAR.GRDTRK.EQT.GRDVEH.UTYVEH.CCTRK|Cross-Country Truck|POINT|A|
+|218||![](./images/SFGPEWA--------.png)||SFGPEWA--------|WAR.GRDTRK.EQT.WPN.ADFG|Air Defense Gun|POINT|A|
+|219||![](./images/SFGPEWAH-------.png)||SFGPEWAH-------|WAR.GRDTRK.EQT.WPN.ADFG.HVY|Air Defense Gun Heavy|POINT|A|
+|220||![](./images/SFGPEWAL-------.png)||SFGPEWAL-------|WAR.GRDTRK.EQT.WPN.ADFG.LIT|Air Defense Gun Light|POINT|A|
+|221||![](./images/SFGPEWAM-------.png)||SFGPEWAM-------|WAR.GRDTRK.EQT.WPN.ADFG.MDM|Air Defense Gun Medium|POINT|A|
+|222||![](./images/SFGPEWD--------.png)||SFGPEWD--------|WAR.GRDTRK.EQT.WPN.DFG|Direct Fire Gun|POINT|A|
+|223||![](./images/SFGPEWDH-------.png)||SFGPEWDH-------|WAR.GRDTRK.EQT.WPN.DFG.HVY|Direct Fire Gun Heavy|POINT|A|
+|224||![](./images/SFGPEWDHS------.png)||SFGPEWDHS------|WAR.GRDTRK.EQT.WPN.DFG.HVY.SPD|Direct Fire Gun Heavy Self-Propelled|POINT|A|
+|225||![](./images/SFGPEWDL-------.png)||SFGPEWDL-------|WAR.GRDTRK.EQT.WPN.DFG.LIT|Direct Fire Gun Light|POINT|A|
+|226||![](./images/SFGPEWDLS------.png)||SFGPEWDLS------|WAR.GRDTRK.EQT.WPN.DFG.LIT.SPD|Direct Fire Gun Light Self-Propelled|POINT|A|
+|227||![](./images/SFGPEWDM-------.png)||SFGPEWDM-------|WAR.GRDTRK.EQT.WPN.DFG.MDM|Direct Fire Gun Medium|POINT|A|
+|228||![](./images/SFGPEWDMS------.png)||SFGPEWDMS------|WAR.GRDTRK.EQT.WPN.DFG.MDM.SPD|Direct Fire Gun Medium Self-Propelled|POINT|A|
+|229||![](./images/SFGPEWG--------.png)||SFGPEWG--------|WAR.GRDTRK.EQT.WPN.ATG|Antitank Gun|POINT|A|
+|230||![](./images/SFGPEWGH-------.png)||SFGPEWGH-------|WAR.GRDTRK.EQT.WPN.ATG.HVY|Antitank Gun Heavy|POINT|A|
+|231||![](./images/SFGPEWGL-------.png)||SFGPEWGL-------|WAR.GRDTRK.EQT.WPN.ATG.LIT|Antitank Gun Light|POINT|A|
+|232||![](./images/SFGPEWGM-------.png)||SFGPEWGM-------|WAR.GRDTRK.EQT.WPN.ATG.MDM|Antitank Gun Medium|POINT|A|
+|233||![](./images/SFGPEWGR-------.png)||SFGPEWGR-------|WAR.GRDTRK.EQT.WPN.ATG.RECL|Antitank Gun Recoilless|POINT|A|
+|234||![](./images/SFGPEWH--------.png)||SFGPEWH--------|WAR.GRDTRK.EQT.WPN.HOW|Howitzer|POINT|A|
+|235||![](./images/SFGPEWHH-------.png)||SFGPEWHH-------|WAR.GRDTRK.EQT.WPN.HOW.HVY|Howitzer Heavy|POINT|A|
+|236||![](./images/SFGPEWHHS------.png)||SFGPEWHHS------|WAR.GRDTRK.EQT.WPN.HOW.HVY.SPD|Howitzer Heavy Self-Propelled|POINT|A|
+|237||![](./images/SFGPEWHL-------.png)||SFGPEWHL-------|WAR.GRDTRK.EQT.WPN.HOW.LIT|Howitzer Light|POINT|A|
+|238||![](./images/SFGPEWHLS------.png)||SFGPEWHLS------|WAR.GRDTRK.EQT.WPN.HOW.LIT.SPD|Howitzer Light Self-Propelled|POINT|A|
+|239||![](./images/SFGPEWHM-------.png)||SFGPEWHM-------|WAR.GRDTRK.EQT.WPN.HOW.MDM|Howitzer Medium|POINT|A|
+|240||![](./images/SFGPEWHMS------.png)||SFGPEWHMS------|WAR.GRDTRK.EQT.WPN.HOW.MDM.SPD|Howitzer Medium Self-Propelled|POINT|A|
+|241||![](./images/SFGPEWM--------.png)||SFGPEWM--------|WAR.GRDTRK.EQT.WPN.MSLL|Missile Launcher|POINT|A|
+|242||![](./images/SFGPEWMA-------.png)||SFGPEWMA-------|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD|Air Defense (Ad) Missile Launcher|POINT|A|
+|243||![](./images/SFGPEWMAI------.png)||SFGPEWMAI------|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.INTMR|Intermediate Range Ad Missile Launcher|POINT|A|
+|244||![](./images/SFGPEWMAIE-----.png)||SFGPEWMAIE-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.INTMR.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|A|
+|245||![](./images/SFGPEWMAIR-----.png)||SFGPEWMAIR-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.INTMR.TLAR|Transporter Launcher And Radar (Tlar)|POINT|A|
+|246||![](./images/SFGPEWMAL------.png)||SFGPEWMAL------|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.LNGR|Long Range Ad Missile Launcher|POINT|A|
+|247||![](./images/SFGPEWMALE-----.png)||SFGPEWMALE-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.LNGR.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|A|
+|248||![](./images/SFGPEWMALR-----.png)||SFGPEWMALR-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.LNGR.TLAR|Transporter Launcher And Radar (Tlar)|POINT|A|
+|249||![](./images/SFGPEWMAS------.png)||SFGPEWMAS------|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.SHTR|Short Range Ad Missile Launcher|POINT|A|
+|250||![](./images/SFGPEWMASE-----.png)||SFGPEWMASE-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.SHTR.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|A|
+|251||![](./images/SFGPEWMASR-----.png)||SFGPEWMASR-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.SHTR.TLAR|Transporter Launcher And Radar (Tlar)|POINT|A|
+|252||![](./images/SFGPEWMAT------.png)||SFGPEWMAT------|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.THT|Ad Missile Launcher Theater|POINT|A|
+|253||![](./images/SFGPEWMATE-----.png)||SFGPEWMATE-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.THT.TELAR|Transporter Erector Launcher And Radar (Telar)|POINT|A|
+|254||![](./images/SFGPEWMATR-----.png)||SFGPEWMATR-----|WAR.GRDTRK.EQT.WPN.MSLL.ADFAD.THT.TLAR|Transporter Launcher And Radar (Tlar)|POINT|A|
+|255||![](./images/SFGPEWMS-------.png)||SFGPEWMS-------|WAR.GRDTRK.EQT.WPN.MSLL.SUF|Surf-Surf (Ss) Missile Launcher|POINT|A|
+|256||![](./images/SFGPEWMSI------.png)||SFGPEWMSI------|WAR.GRDTRK.EQT.WPN.MSLL.SUF.INTMR|Intermediate Range Ss Missile Launcher|POINT|A|
+|257||![](./images/SFGPEWMSL------.png)||SFGPEWMSL------|WAR.GRDTRK.EQT.WPN.MSLL.SUF.LNGR|Long Range Ss Missile Launcher|POINT|A|
+|258||![](./images/SFGPEWMSS------.png)||SFGPEWMSS------|WAR.GRDTRK.EQT.WPN.MSLL.SUF.SHTR|Short Range Ss Missile Launcher|POINT|A|
+|259||![](./images/SFGPEWMT-------.png)||SFGPEWMT-------|WAR.GRDTRK.EQT.WPN.MSLL.AT|Missile Launcher Antitank (At)|POINT|A|
+|260||![](./images/SFGPEWMTH------.png)||SFGPEWMTH------|WAR.GRDTRK.EQT.WPN.MSLL.AT.HVY|Missile Launcher At Heavy|POINT|A|
+|261||![](./images/SFGPEWMTL------.png)||SFGPEWMTL------|WAR.GRDTRK.EQT.WPN.MSLL.AT.LIT|Missile Launcher At Light|POINT|A|
+|262||![](./images/SFGPEWMTM------.png)||SFGPEWMTM------|WAR.GRDTRK.EQT.WPN.MSLL.AT.MDM|Missile Launcher At Medium|POINT|A|
+|263||![](./images/SFGPEWO--------.png)||SFGPEWO--------|WAR.GRDTRK.EQT.WPN.MORT|Mortar|POINT|A|
+|264||![](./images/SFGPEWOH-------.png)||SFGPEWOH-------|WAR.GRDTRK.EQT.WPN.MORT.HVY|Mortar Heavy|POINT|A|
+|265||![](./images/SFGPEWOL-------.png)||SFGPEWOL-------|WAR.GRDTRK.EQT.WPN.MORT.LIT|Mortar Light|POINT|A|
+|266||![](./images/SFGPEWOM-------.png)||SFGPEWOM-------|WAR.GRDTRK.EQT.WPN.MORT.MDM|Mortar Medium|POINT|A|
+|267||![](./images/SFGPEWR--------.png)||SFGPEWR--------|WAR.GRDTRK.EQT.WPN.RIFWPN|Rifle/Automatic Weapon|POINT|A|
+|268||![](./images/SFGPEWRH-------.png)||SFGPEWRH-------|WAR.GRDTRK.EQT.WPN.RIFWPN.HMG|Heavy Machine Gun|POINT|A|
+|269||![](./images/SFGPEWRL-------.png)||SFGPEWRL-------|WAR.GRDTRK.EQT.WPN.RIFWPN.LMG|Light Machine Gun|POINT|A|
+|270||![](./images/SFGPEWRR-------.png)||SFGPEWRR-------|WAR.GRDTRK.EQT.WPN.RIFWPN.RIF|Rifle|POINT|A|
+|271||![](./images/SFGPEWS--------.png)||SFGPEWS--------|WAR.GRDTRK.EQT.WPN.SRL|Single Rocket Launcher|POINT|A|
+|272||![](./images/SFGPEWSH-------.png)||SFGPEWSH-------|WAR.GRDTRK.EQT.WPN.SRL.HVY|Single Rocket Launcher Heavy|POINT|A|
+|273||![](./images/SFGPEWSL-------.png)||SFGPEWSL-------|WAR.GRDTRK.EQT.WPN.SRL.LIT|Single Rocket Launcher Light|POINT|A|
+|274||![](./images/SFGPEWSM-------.png)||SFGPEWSM-------|WAR.GRDTRK.EQT.WPN.SRL.MDM|Single Rocket Launcher Medium|POINT|A|
+|275||![](./images/SFGPEWT--------.png)||SFGPEWT--------|WAR.GRDTRK.EQT.WPN.ATRL|Antitank Rocket Launcher|POINT|A|
+|276||![](./images/SFGPEWTH-------.png)||SFGPEWTH-------|WAR.GRDTRK.EQT.WPN.ATRL.HVY|Antitank Rocket Launcher Heavy|POINT|A|
+|277||![](./images/SFGPEWTL-------.png)||SFGPEWTL-------|WAR.GRDTRK.EQT.WPN.ATRL.LIT|Antitank Rocket Launcher Light|POINT|A|
+|278||![](./images/SFGPEWTM-------.png)||SFGPEWTM-------|WAR.GRDTRK.EQT.WPN.ATRL.MDM|Antitank Rocket Launcher Medium|POINT|A|
+|279||![](./images/SFGPEWX--------.png)||SFGPEWX--------|WAR.GRDTRK.EQT.WPN.MRL|Multiple Rocket Launcher|POINT|A|
+|280||![](./images/SFGPEWXH-------.png)||SFGPEWXH-------|WAR.GRDTRK.EQT.WPN.MRL.HVY|Multiple Rocket Launcher Heavy|POINT|A|
+|281||![](./images/SFGPEWXL-------.png)||SFGPEWXL-------|WAR.GRDTRK.EQT.WPN.MRL.LIT|Multiple Rocket Launcher Light|POINT|A|
+|282||![](./images/SFGPEWXM-------.png)||SFGPEWXM-------|WAR.GRDTRK.EQT.WPN.MRL.MDM|Multiple Rocket Launcher Medium|POINT|A|
+|283||![](./images/SFGPEWZ--------.png)||SFGPEWZ--------|WAR.GRDTRK.EQT.WPN.GREL|Grenade Launcher|POINT|A|
+|284||![](./images/SFGPEWZH-------.png)||SFGPEWZH-------|WAR.GRDTRK.EQT.WPN.GREL.HVY|Grenade Launcher Heavy|POINT|A|
+|285||![](./images/SFGPEWZL-------.png)||SFGPEWZL-------|WAR.GRDTRK.EQT.WPN.GREL.LIT|Grenade Launcher Light|POINT|A|
+|286||![](./images/SFGPEWZM-------.png)||SFGPEWZM-------|WAR.GRDTRK.EQT.WPN.GREL.MDM|Grenade Launcher Medium|POINT|A|
+|287||![](./images/SFGPEXF--------.png)||SFGPEXF--------|WAR.GRDTRK.EQT.SPL.FLMTHR|Flame Thrower|POINT|A|
+|288||![](./images/SFGPEXI--------.png)||SFGPEXI--------|WAR.GRDTRK.EQT.SPL.IED|Improvised Explosive Device|POINT|A|
+|289||![](./images/SFGPEXL--------.png)||SFGPEXL--------|WAR.GRDTRK.EQT.SPL.LSR|Laser|POINT|A|
+|290||![](./images/SFGPEXM--------.png)||SFGPEXM--------|WAR.GRDTRK.EQT.SPL.LNDMNE|Land Mines|POINT|A|
+|291||![](./images/SFGPEXMC-------.png)||SFGPEXMC-------|WAR.GRDTRK.EQT.SPL.LNDMNE.CLM|Claymore|POINT|A|
+|292||![](./images/SFGPEXML-------.png)||SFGPEXML-------|WAR.GRDTRK.EQT.SPL.LNDMNE.LTL|Less Than Lethal|POINT|A|
+|293||![](./images/SFGPEXN--------.png)||SFGPEXN--------|WAR.GRDTRK.EQT.SPL.CBRNEQ|Cbrn Equipment|POINT|A|
+|294||![](./images/SFGPIBA---H----.png)||SFGPIBA---H----|WAR.GRDTRK.INS.MILBF.AB|Airport/Airbase|POINT|A|
+|295||![](./images/SFGPIB----H----.png)||SFGPIB----H----|WAR.GRDTRK.INS.MILBF|Military Base/Facility|POINT|A|
+|296||![](./images/SFGPIBN---H----.png)||SFGPIBN---H----|WAR.GRDTRK.INS.MILBF.SP|Seaport/Naval Base|POINT|A|
+|297||![](./images/SFGPIE----H----.png)||SFGPIE----H----|WAR.GRDTRK.INS.EQTMNF|Equipment Manufacture|POINT|A|
+|298||![](./images/SFGPIG----H----.png)||SFGPIG----H----|WAR.GRDTRK.INS.GOVLDR|Government Leadership|POINT|A|
+|299||![](./images/SFGPI-----H----.png)||SFGPI-----H----|WAR.GRDTRK.INS|Installation|POINT|A|
+|300||![](./images/SFGPIMA---H----.png)||SFGPIMA---H----|WAR.GRDTRK.INS.MMF.APA|Aircraft Production & Assembly|POINT|A|
+|301||![](./images/SFGPIMC---H----.png)||SFGPIMC---H----|WAR.GRDTRK.INS.MMF.CBWP|Chemical & Biological Warfare Production|POINT|A|
+|302||![](./images/SFGPIME---H----.png)||SFGPIME---H----|WAR.GRDTRK.INS.MMF.AMEP|Ammunition And Explosives Production|POINT|A|
+|303||![](./images/SFGPIMFA--H----.png)||SFGPIMFA--H----|WAR.GRDTRK.INS.MMF.NENY.ATMER|Atomic Energy Reactor|POINT|A|
+|304||![](./images/SFGPIMF---H----.png)||SFGPIMF---H----|WAR.GRDTRK.INS.MMF.NENY|Nuclear Energy|POINT|A|
+|305||![](./images/SFGPIMFP--H----.png)||SFGPIMFP--H----|WAR.GRDTRK.INS.MMF.NENY.NMP|Nuclear Material Production|POINT|A|
+|306||![](./images/SFGPIMFPW-H----.png)||SFGPIMFPW-H----|WAR.GRDTRK.INS.MMF.NENY.NMP.WPNGR|Weapons Grade|POINT|A|
+|307||![](./images/SFGPIMFS--H----.png)||SFGPIMFS--H----|WAR.GRDTRK.INS.MMF.NENY.NMS|Nuclear Material Storage|POINT|A|
+|308||![](./images/SFGPIMG---H----.png)||SFGPIMG---H----|WAR.GRDTRK.INS.MMF.AMTP|Armament Production|POINT|A|
+|309||![](./images/SFGPIMM---H----.png)||SFGPIMM---H----|WAR.GRDTRK.INS.MMF.MSSP|Missile & Space System Production|POINT|A|
+|310||![](./images/SFGPIMNB--H----.png)||SFGPIMNB--H----|WAR.GRDTRK.INS.MMF.ENGEP.BRG|Bridge|POINT|A|
+|311||![](./images/SFGPIMN---H----.png)||SFGPIMN---H----|WAR.GRDTRK.INS.MMF.ENGEP|Engineering Equipment Production|POINT|A|
+|312||![](./images/SFGPIMS---H----.png)||SFGPIMS---H----|WAR.GRDTRK.INS.MMF.SHPCSN|Ship Construction|POINT|A|
+|313||![](./images/SFGPIMV---H----.png)||SFGPIMV---H----|WAR.GRDTRK.INS.MMF.MILVP|Military Vehicle Production|POINT|A|
+|314||![](./images/SFGPIPD---H----.png)||SFGPIPD---H----|WAR.GRDTRK.INS.PF.DECON|Decontamination|POINT|A|
+|315||![](./images/SFGPIP----H----.png)||SFGPIP----H----|WAR.GRDTRK.INS.PF|Processing Facility|POINT|A|
+|316||![](./images/SFGPIR----H----.png)||SFGPIR----H----|WAR.GRDTRK.INS.RMP|Raw Material Production/Storage|POINT|A|
+|317||![](./images/SFGPIRM---H----.png)||SFGPIRM---H----|WAR.GRDTRK.INS.RMP.MNE|Mine|POINT|A|
+|318||![](./images/SFGPIRNB--H----.png)||SFGPIRNB--H----|WAR.GRDTRK.INS.RMP.CBRN.BIO|Biological|POINT|A|
+|319||![](./images/SFGPIRNC--H----.png)||SFGPIRNC--H----|WAR.GRDTRK.INS.RMP.CBRN.CML|Chemical|POINT|A|
+|320||![](./images/SFGPIRN---H----.png)||SFGPIRN---H----|WAR.GRDTRK.INS.RMP.CBRN|Cbrn|POINT|A|
+|321||![](./images/SFGPIRNN--H----.png)||SFGPIRNN--H----|WAR.GRDTRK.INS.RMP.CBRN.NUC|Nuclear|POINT|A|
+|322||![](./images/SFGPIRP---H----.png)||SFGPIRP---H----|WAR.GRDTRK.INS.RMP.PGO|Petroleum/Gas/Oil|POINT|A|
+|323||![](./images/SFGPIT----H----.png)||SFGPIT----H----|WAR.GRDTRK.INS.TSPF|Transport Facility|POINT|A|
+|324||![](./images/SFGPIUED--H----.png)||SFGPIUED--H----|WAR.GRDTRK.INS.SRUF.EPF.DAM|Dam|POINT|A|
+|325||![](./images/SFGPIUEF--H----.png)||SFGPIUEF--H----|WAR.GRDTRK.INS.SRUF.EPF.FOSF|Fossil Fuel|POINT|A|
+|326||![](./images/SFGPIUE---H----.png)||SFGPIUE---H----|WAR.GRDTRK.INS.SRUF.EPF|Electric Power Facility|POINT|A|
+|327||![](./images/SFGPIUEN--H----.png)||SFGPIUEN--H----|WAR.GRDTRK.INS.SRUF.EPF.NPT|Nuclear Plant|POINT|A|
+|328||![](./images/SFGPIU----H----.png)||SFGPIU----H----|WAR.GRDTRK.INS.SRUF|Service Research Utility Facility|POINT|A|
+|329||![](./images/SFGPIUP---H----.png)||SFGPIUP---H----|WAR.GRDTRK.INS.SRUF.PWS|Public Water Services|POINT|A|
+|330||![](./images/SFGPIUR---H----.png)||SFGPIUR---H----|WAR.GRDTRK.INS.SRUF.TRF|Technological Research Facility|POINT|A|
+|331||![](./images/SFGPIUT---H----.png)||SFGPIUT---H----|WAR.GRDTRK.INS.SRUF.TCF|Telecommunications Facility|POINT|A|
+|332||![](./images/SFGPIX----H----.png)||SFGPIX----H----|WAR.GRDTRK.INS.MEDF|Medical Facility|POINT|A|
+|333||![](./images/SFGPIXH---H----.png)||SFGPIXH---H----|WAR.GRDTRK.INS.MEDF.HSP|Hospital|POINT|A|
+|334||![](./images/SFGPU----------.png)||SFGPU----------|WAR.GRDTRK.UNT|Unit|POINT|A|
+|335||![](./images/SFGPUC---------.png)||SFGPUC---------|WAR.GRDTRK.UNT.CBT|Combat|POINT|A|
+|336||![](./images/SFGPUCA--------.png)||SFGPUCA--------|WAR.GRDTRK.UNT.CBT.ARM|Armor|POINT|A|
+|337||![](./images/SFGPUCAA-------.png)||SFGPUCAA-------|WAR.GRDTRK.UNT.CBT.AARM|Antiarmor|POINT|A|
+|338||![](./images/SFGPUCAAA------.png)||SFGPUCAAA------|WAR.GRDTRK.UNT.CBT.AARM.ARMD|Antiarmor Armored|POINT|A|
+|339||![](./images/SFGPUCAAAS-----.png)||SFGPUCAAAS-----|WAR.GRDTRK.UNT.CBT.AARM.ARMD.AAST|Antiarmor Armored Air Assault|POINT|A|
+|340||![](./images/SFGPUCAAAT-----.png)||SFGPUCAAAT-----|WAR.GRDTRK.UNT.CBT.AARM.ARMD.TKD|Antiarmor Armored Tracked|POINT|A|
+|341||![](./images/SFGPUCAAAW-----.png)||SFGPUCAAAW-----|WAR.GRDTRK.UNT.CBT.AARM.ARMD.WHD|Antiarmor Armored Wheeled|POINT|A|
+|342||![](./images/SFGPUCAAC------.png)||SFGPUCAAC------|WAR.GRDTRK.UNT.CBT.AARM.ARC|Antiarmor Arctic|POINT|A|
+|343||![](./images/SFGPUCAAD------.png)||SFGPUCAAD------|WAR.GRDTRK.UNT.CBT.AARM.DMD|Antiarmor Dismounted|POINT|A|
+|344||![](./images/SFGPUCAAL------.png)||SFGPUCAAL------|WAR.GRDTRK.UNT.CBT.AARM.LIT|Antiarmor Light|POINT|A|
+|345||![](./images/SFGPUCAAM------.png)||SFGPUCAAM------|WAR.GRDTRK.UNT.CBT.AARM.ABN|Antiarmor Airborne|POINT|A|
+|346||![](./images/SFGPUCAAO------.png)||SFGPUCAAO------|WAR.GRDTRK.UNT.CBT.AARM.MOT|Antiarmor Motorized|POINT|A|
+|347||![](./images/SFGPUCAAOS-----.png)||SFGPUCAAOS-----|WAR.GRDTRK.UNT.CBT.AARM.MOT.AAST|Antiarmor Motorized Air Assault|POINT|A|
+|348||![](./images/SFGPUCAAS------.png)||SFGPUCAAS------|WAR.GRDTRK.UNT.CBT.AARM.AAST|Antiarmor Air Assault|POINT|A|
+|349||![](./images/SFGPUCAAU------.png)||SFGPUCAAU------|WAR.GRDTRK.UNT.CBT.AARM.MNT|Antiarmor Mountain|POINT|A|
+|350||![](./images/SFGPUCAT-------.png)||SFGPUCAT-------|WAR.GRDTRK.UNT.CBT.ARM.TRK|Armor Track|POINT|A|
+|351||![](./images/SFGPUCATA------.png)||SFGPUCATA------|WAR.GRDTRK.UNT.CBT.ARM.TRK.ABN|Armor Track Airborne|POINT|A|
+|352||![](./images/SFGPUCATH------.png)||SFGPUCATH------|WAR.GRDTRK.UNT.CBT.ARM.TRK.HVY|Armor Track Heavy|POINT|A|
+|353||![](./images/SFGPUCATL------.png)||SFGPUCATL------|WAR.GRDTRK.UNT.CBT.ARM.TRK.LIT|Armor Track Light|POINT|A|
+|354||![](./images/SFGPUCATM------.png)||SFGPUCATM------|WAR.GRDTRK.UNT.CBT.ARM.TRK.MDM|Armor Track Medium|POINT|A|
+|355||![](./images/SFGPUCATR------.png)||SFGPUCATR------|WAR.GRDTRK.UNT.CBT.ARM.TRK.RCY|Armor Track Recovery|POINT|A|
+|356||![](./images/SFGPUCATW------.png)||SFGPUCATW------|WAR.GRDTRK.UNT.CBT.ARM.TRK.AMP|Armor Track Amphibious|POINT|A|
+|357||![](./images/SFGPUCATWR-----.png)||SFGPUCATWR-----|WAR.GRDTRK.UNT.CBT.ARM.TRK.AMP.RCY|Armor Track Amphibious Recovery|POINT|A|
+|358||![](./images/SFGPUCAW-------.png)||SFGPUCAW-------|WAR.GRDTRK.UNT.CBT.ARM.WHD|Armor Wheeled|POINT|A|
+|359||![](./images/SFGPUCAWA------.png)||SFGPUCAWA------|WAR.GRDTRK.UNT.CBT.ARM.WHD.ABN|Armor Wheeled Airborne|POINT|A|
+|360||![](./images/SFGPUCAWH------.png)||SFGPUCAWH------|WAR.GRDTRK.UNT.CBT.ARM.WHD.HVY|Armor Wheeled Heavy|POINT|A|
+|361||![](./images/SFGPUCAWL------.png)||SFGPUCAWL------|WAR.GRDTRK.UNT.CBT.ARM.WHD.LIT|Armor Wheeled Light|POINT|A|
+|362||![](./images/SFGPUCAWM------.png)||SFGPUCAWM------|WAR.GRDTRK.UNT.CBT.ARM.WHD.MDM|Armor Wheeled Medium|POINT|A|
+|363||![](./images/SFGPUCAWR------.png)||SFGPUCAWR------|WAR.GRDTRK.UNT.CBT.ARM.WHD.RCY|Armor Wheeled Recovery|POINT|A|
+|364||![](./images/SFGPUCAWS------.png)||SFGPUCAWS------|WAR.GRDTRK.UNT.CBT.ARM.WHD.AAST|Armor Wheeled Air Assault|POINT|A|
+|365||![](./images/SFGPUCAWW------.png)||SFGPUCAWW------|WAR.GRDTRK.UNT.CBT.ARM.WHD.AMP|Armor Wheeled Amphibious|POINT|A|
+|366||![](./images/SFGPUCAWWR-----.png)||SFGPUCAWWR-----|WAR.GRDTRK.UNT.CBT.ARM.WHD.AMP.RCY|Armor Wheeled Amphibious Recovery|POINT|A|
+|367||![](./images/SFGPUCD--------.png)||SFGPUCD--------|WAR.GRDTRK.UNT.CBT.ADF|Air Defense|POINT|A|
+|368||![](./images/SFGPUCDC-------.png)||SFGPUCDC-------|WAR.GRDTRK.UNT.CBT.ADF.CMPS|Composite|POINT|A|
+|369||![](./images/SFGPUCDG-------.png)||SFGPUCDG-------|WAR.GRDTRK.UNT.CBT.ADF.GUNUNT|Gun Unit|POINT|A|
+|370||![](./images/SFGPUCDH-------.png)||SFGPUCDH-------|WAR.GRDTRK.UNT.CBT.ADF.MSL.HMAD|H/Mad|POINT|A|
+|371||![](./images/SFGPUCDHH------.png)||SFGPUCDHH------|WAR.GRDTRK.UNT.CBT.ADF.MSL.HMAD.HWK|Hawk|POINT|A|
+|372||![](./images/SFGPUCDHP------.png)||SFGPUCDHP------|WAR.GRDTRK.UNT.CBT.ADF.MSL.HMAD.PATT|Patriot|POINT|A|
+|373||![](./images/SFGPUCDM-------.png)||SFGPUCDM-------|WAR.GRDTRK.UNT.CBT.ADF.MSL|Air Defense Missile|POINT|A|
+|374||![](./images/SFGPUCDMH------.png)||SFGPUCDMH------|WAR.GRDTRK.UNT.CBT.ADF.MSL.HVY|Air Defense Missile Heavy|POINT|A|
+|375||![](./images/SFGPUCDML------.png)||SFGPUCDML------|WAR.GRDTRK.UNT.CBT.ADF.MSL.LIT|Air Defense Missile Light|POINT|A|
+|376||![](./images/SFGPUCDMLA-----.png)||SFGPUCDMLA-----|WAR.GRDTRK.UNT.CBT.ADF.MSL.LIT.MOT|Air Defense Missile Motorized (Avenger)|POINT|A|
+|377||![](./images/SFGPUCDMM------.png)||SFGPUCDMM------|WAR.GRDTRK.UNT.CBT.ADF.MSL.MDM|Air Defense Missile Medium|POINT|A|
+|378||![](./images/SFGPUCDO-------.png)||SFGPUCDO-------|WAR.GRDTRK.UNT.CBT.ADF.TMDU|Theater Missile Defense Unit|POINT|A|
+|379||![](./images/SFGPUCDS-------.png)||SFGPUCDS-------|WAR.GRDTRK.UNT.CBT.ADF.SHTR|Short Range|POINT|A|
+|380||![](./images/SFGPUCDSC------.png)||SFGPUCDSC------|WAR.GRDTRK.UNT.CBT.ADF.SHTR.CPL|Chaparral|POINT|A|
+|381||![](./images/SFGPUCDSS------.png)||SFGPUCDSS------|WAR.GRDTRK.UNT.CBT.ADF.SHTR.STG|Stinger|POINT|A|
+|382||![](./images/SFGPUCDSV------.png)||SFGPUCDSV------|WAR.GRDTRK.UNT.CBT.ADF.SHTR.VUL|Vulcan|POINT|A|
+|383||![](./images/SFGPUCDT-------.png)||SFGPUCDT-------|WAR.GRDTRK.UNT.CBT.ADF.TGTGUT|Targeting Unit|POINT|A|
+|384||![](./images/SFGPUCE--------.png)||SFGPUCE--------|WAR.GRDTRK.UNT.CBT.ENG|Engineer|POINT|A|
+|385||![](./images/SFGPUCEC-------.png)||SFGPUCEC-------|WAR.GRDTRK.UNT.CBT.ENG.CBT|Engineer Combat|POINT|A|
+|386||![](./images/SFGPUCECA------.png)||SFGPUCECA------|WAR.GRDTRK.UNT.CBT.ENG.CBT.ABN|Engineer Combat Airborne|POINT|A|
+|387||![](./images/SFGPUCECC------.png)||SFGPUCECC------|WAR.GRDTRK.UNT.CBT.ENG.CBT.ARC|Engineer Combat Arctic|POINT|A|
+|388||![](./images/SFGPUCECH------.png)||SFGPUCECH------|WAR.GRDTRK.UNT.CBT.ENG.CBT.HVY|Engineer Combat Heavy|POINT|A|
+|389||![](./images/SFGPUCECL------.png)||SFGPUCECL------|WAR.GRDTRK.UNT.CBT.ENG.CBT.LIT|Engineer Combat Light (Sapper)|POINT|A|
+|390||![](./images/SFGPUCECM------.png)||SFGPUCECM------|WAR.GRDTRK.UNT.CBT.ENG.CBT.MDM|Engineer Combat Medium|POINT|A|
+|391||![](./images/SFGPUCECO------.png)||SFGPUCECO------|WAR.GRDTRK.UNT.CBT.ENG.CBT.MNT|Engineer Combat Mountain|POINT|A|
+|392||![](./images/SFGPUCECR------.png)||SFGPUCECR------|WAR.GRDTRK.UNT.CBT.ENG.CBT.RECON|Engineer Combat Recon|POINT|A|
+|393||![](./images/SFGPUCECS------.png)||SFGPUCECS------|WAR.GRDTRK.UNT.CBT.ENG.CBT.AAST|Engineer Combat Air Assault|POINT|A|
+|394||![](./images/SFGPUCECT------.png)||SFGPUCECT------|WAR.GRDTRK.UNT.CBT.ENG.CBT.MECH|Engineer Combat Mechanized (Track)|POINT|A|
+|395||![](./images/SFGPUCECW------.png)||SFGPUCECW------|WAR.GRDTRK.UNT.CBT.ENG.CBT.MOT|Engineer Combat Motorized|POINT|A|
+|396||![](./images/SFGPUCEN-------.png)||SFGPUCEN-------|WAR.GRDTRK.UNT.CBT.ENG.CSN|Engineer Construction|POINT|A|
+|397||![](./images/SFGPUCENN------.png)||SFGPUCENN------|WAR.GRDTRK.UNT.CBT.ENG.CSN.NAV|Engineer Naval Construction|POINT|A|
+|398||![](./images/SFGPUCF--------.png)||SFGPUCF--------|WAR.GRDTRK.UNT.CBT.FLDART|Field Artillery|POINT|A|
+|399||![](./images/SFGPUCFH-------.png)||SFGPUCFH-------|WAR.GRDTRK.UNT.CBT.FLDART.HOW|Howitzer/Gun|POINT|A|
+|400||![](./images/SFGPUCFHA------.png)||SFGPUCFHA------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.ABN|Airborne|POINT|A|
+|401||![](./images/SFGPUCFHC------.png)||SFGPUCFHC------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.ARC|Arctic|POINT|A|
+|402||![](./images/SFGPUCFHE------.png)||SFGPUCFHE------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.SPD|Self-Propelled|POINT|A|
+|403||![](./images/SFGPUCFHH------.png)||SFGPUCFHH------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.HVY|Heavy|POINT|A|
+|404||![](./images/SFGPUCFHL------.png)||SFGPUCFHL------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.LIT|Light|POINT|A|
+|405||![](./images/SFGPUCFHM------.png)||SFGPUCFHM------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.MDM|Medium|POINT|A|
+|406||![](./images/SFGPUCFHO------.png)||SFGPUCFHO------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.MNT|Mountain|POINT|A|
+|407||![](./images/SFGPUCFHS------.png)||SFGPUCFHS------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.AAST|Air Assault|POINT|A|
+|408||![](./images/SFGPUCFHX------.png)||SFGPUCFHX------|WAR.GRDTRK.UNT.CBT.FLDART.HOW.AMP|Amphibious|POINT|A|
+|409||![](./images/SFGPUCFM-------.png)||SFGPUCFM-------|WAR.GRDTRK.UNT.CBT.FLDART.MORT|Mortar|POINT|A|
+|410||![](./images/SFGPUCFML------.png)||SFGPUCFML------|WAR.GRDTRK.UNT.CBT.FLDART.MORT.AMP|Amphibious Mortar|POINT|A|
+|411||![](./images/SFGPUCFMS------.png)||SFGPUCFMS------|WAR.GRDTRK.UNT.CBT.FLDART.MORT.SPDTRK|Self-Propelled (Sp) Tracked Mortar|POINT|A|
+|412||![](./images/SFGPUCFMT------.png)||SFGPUCFMT------|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW|Towed Mortar|POINT|A|
+|413||![](./images/SFGPUCFMTA-----.png)||SFGPUCFMTA-----|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.ABN|Towed Airborne Mortar|POINT|A|
+|414||![](./images/SFGPUCFMTC-----.png)||SFGPUCFMTC-----|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.ARC|Towed Arctic Mortar|POINT|A|
+|415||![](./images/SFGPUCFMTO-----.png)||SFGPUCFMTO-----|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.MNT|Towed Mountain Mortar|POINT|A|
+|416||![](./images/SFGPUCFMTS-----.png)||SFGPUCFMTS-----|WAR.GRDTRK.UNT.CBT.FLDART.MORT.TOW.AAST|Towed Air Assault Mortar|POINT|A|
+|417||![](./images/SFGPUCFMW------.png)||SFGPUCFMW------|WAR.GRDTRK.UNT.CBT.FLDART.MORT.SPDWHD|Sp Wheeled Mortar|POINT|A|
+|418||![](./images/SFGPUCFO-------.png)||SFGPUCFO-------|WAR.GRDTRK.UNT.CBT.FLDART.METO|Meteorological|POINT|A|
+|419||![](./images/SFGPUCFOA------.png)||SFGPUCFOA------|WAR.GRDTRK.UNT.CBT.FLDART.METO.ABN|Airborne Meteorological|POINT|A|
+|420||![](./images/SFGPUCFOL------.png)||SFGPUCFOL------|WAR.GRDTRK.UNT.CBT.FLDART.METO.LIT|Light Meteorological|POINT|A|
+|421||![](./images/SFGPUCFOO------.png)||SFGPUCFOO------|WAR.GRDTRK.UNT.CBT.FLDART.METO.MNT|Mountain Meteorological|POINT|A|
+|422||![](./images/SFGPUCFOS------.png)||SFGPUCFOS------|WAR.GRDTRK.UNT.CBT.FLDART.METO.AAST|Air Assault Meteorological|POINT|A|
+|423||![](./images/SFGPUCFR-------.png)||SFGPUCFR-------|WAR.GRDTRK.UNT.CBT.FLDART.ROC|Rocket|POINT|A|
+|424||![](./images/SFGPUCFRM------.png)||SFGPUCFRM------|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL|Multiple Rocket Launcher|POINT|A|
+|425||![](./images/SFGPUCFRMR-----.png)||SFGPUCFRMR-----|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL.MRTRK|Multiple Rocket Truck|POINT|A|
+|426||![](./images/SFGPUCFRMS-----.png)||SFGPUCFRMS-----|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL.MRSPD|Multiple Rocket Self-Propelled|POINT|A|
+|427||![](./images/SFGPUCFRMT-----.png)||SFGPUCFRMT-----|WAR.GRDTRK.UNT.CBT.FLDART.ROC.MRL.MRTOW|Multiple Rocket Towed|POINT|A|
+|428||![](./images/SFGPUCFRS------.png)||SFGPUCFRS------|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL|Single Rocket Launcher|POINT|A|
+|429||![](./images/SFGPUCFRSR-----.png)||SFGPUCFRSR-----|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL.SRTRK|Single Rocket Truck|POINT|A|
+|430||![](./images/SFGPUCFRSS-----.png)||SFGPUCFRSS-----|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL.SRSPD|Single Rocket Self-Propelled|POINT|A|
+|431||![](./images/SFGPUCFRST-----.png)||SFGPUCFRST-----|WAR.GRDTRK.UNT.CBT.FLDART.ROC.SRL.SRTOW|Single Rocket Towed|POINT|A|
+|432||![](./images/SFGPUCFS-------.png)||SFGPUCFS-------|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY|Artillery Survey|POINT|A|
+|433||![](./images/SFGPUCFSA------.png)||SFGPUCFSA------|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.ABN|Airborne|POINT|A|
+|434||![](./images/SFGPUCFSL------.png)||SFGPUCFSL------|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.LIT|Light|POINT|A|
+|435||![](./images/SFGPUCFSO------.png)||SFGPUCFSO------|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.MNT|Mountain|POINT|A|
+|436||![](./images/SFGPUCFSS------.png)||SFGPUCFSS------|WAR.GRDTRK.UNT.CBT.FLDART.ARTSVY.AAST|Air Assault|POINT|A|
+|437||![](./images/SFGPUCFT-------.png)||SFGPUCFT-------|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ|Target Acquisition|POINT|A|
+|438||![](./images/SFGPUCFTA------.png)||SFGPUCFTA------|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.ANG|Anglico|POINT|A|
+|439||![](./images/SFGPUCFTC------.png)||SFGPUCFTC------|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.CLT|Colt/Fist|POINT|A|
+|440||![](./images/SFGPUCFTCD-----.png)||SFGPUCFTCD-----|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.CLT.DMD|Dismounted Colt/Fist|POINT|A|
+|441||![](./images/SFGPUCFTCM-----.png)||SFGPUCFTCM-----|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.CLT.TKD|Tracked Colt/Fist|POINT|A|
+|442||![](./images/SFGPUCFTF------.png)||SFGPUCFTF------|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.FLH|Flash (Optical)|POINT|A|
+|443||![](./images/SFGPUCFTR------.png)||SFGPUCFTR------|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.RAD|Radar|POINT|A|
+|444||![](./images/SFGPUCFTS------.png)||SFGPUCFTS------|WAR.GRDTRK.UNT.CBT.FLDART.TGTAQ.SND|Sound|POINT|A|
+|445||![](./images/SFGPUCI--------.png)||SFGPUCI--------|WAR.GRDTRK.UNT.CBT.INF|Infantry|POINT|A|
+|446||![](./images/SFGPUCIA-------.png)||SFGPUCIA-------|WAR.GRDTRK.UNT.CBT.INF.ABN|Infantry Airborne|POINT|A|
+|447||![](./images/SFGPUCIC-------.png)||SFGPUCIC-------|WAR.GRDTRK.UNT.CBT.INF.ARC|Infantry Arctic|POINT|A|
+|448||![](./images/SFGPUCII-------.png)||SFGPUCII-------|WAR.GRDTRK.UNT.CBT.INF.INFFV|Infantry Fighting Vehicle|POINT|A|
+|449||![](./images/SFGPUCIL-------.png)||SFGPUCIL-------|WAR.GRDTRK.UNT.CBT.INF.LIT|Infantry Light|POINT|A|
+|450||![](./images/SFGPUCIM-------.png)||SFGPUCIM-------|WAR.GRDTRK.UNT.CBT.INF.MOT|Infantry Motorized|POINT|A|
+|451||![](./images/SFGPUCIN-------.png)||SFGPUCIN-------|WAR.GRDTRK.UNT.CBT.INF.NAV|Infantry Naval|POINT|A|
+|452||![](./images/SFGPUCIO-------.png)||SFGPUCIO-------|WAR.GRDTRK.UNT.CBT.INF.MNT|Infantry Mountain|POINT|A|
+|453||![](./images/SFGPUCIS-------.png)||SFGPUCIS-------|WAR.GRDTRK.UNT.CBT.INF.AAST|Infantry Air Assault|POINT|A|
+|454||![](./images/SFGPUCIZ-------.png)||SFGPUCIZ-------|WAR.GRDTRK.UNT.CBT.INF.MECH|Infantry Mechanized|POINT|A|
+|455||![](./images/SFGPUCM--------.png)||SFGPUCM--------|WAR.GRDTRK.UNT.CBT.MSL|Missile (Surf-Surf)|POINT|A|
+|456||![](./images/SFGPUCMS-------.png)||SFGPUCMS-------|WAR.GRDTRK.UNT.CBT.MSL.STGC|Missile (Surf-Surf) Strategic|POINT|A|
+|457||![](./images/SFGPUCMT-------.png)||SFGPUCMT-------|WAR.GRDTRK.UNT.CBT.MSL.TAC|Missile (Surf-Surf) Tactical|POINT|A|
+|458||![](./images/SFGPUCR--------.png)||SFGPUCR--------|WAR.GRDTRK.UNT.CBT.RECON|Reconnaissance|POINT|A|
+|459||![](./images/SFGPUCRA-------.png)||SFGPUCRA-------|WAR.GRDTRK.UNT.CBT.RECON.ABN|Reconnaissance Airborne|POINT|A|
+|460||![](./images/SFGPUCRC-------.png)||SFGPUCRC-------|WAR.GRDTRK.UNT.CBT.RECON.ARC|Reconnaissance Arctic|POINT|A|
+|461||![](./images/SFGPUCRH-------.png)||SFGPUCRH-------|WAR.GRDTRK.UNT.CBT.RECON.HRE|Reconnaissance Horse|POINT|A|
+|462||![](./images/SFGPUCRL-------.png)||SFGPUCRL-------|WAR.GRDTRK.UNT.CBT.RECON.LIT|Reconnaissance Light|POINT|A|
+|463||![](./images/SFGPUCRO-------.png)||SFGPUCRO-------|WAR.GRDTRK.UNT.CBT.RECON.MNT|Reconnaissance Mountain|POINT|A|
+|464||![](./images/SFGPUCRR-------.png)||SFGPUCRR-------|WAR.GRDTRK.UNT.CBT.RECON.MAR|Reconnaissance Marine|POINT|A|
+|465||![](./images/SFGPUCRRD------.png)||SFGPUCRRD------|WAR.GRDTRK.UNT.CBT.RECON.MAR.DIV|Reconnaissance Marine Division|POINT|A|
+|466||![](./images/SFGPUCRRF------.png)||SFGPUCRRF------|WAR.GRDTRK.UNT.CBT.RECON.MAR.FOR|Reconnaissance Marine Force|POINT|A|
+|467||![](./images/SFGPUCRRL------.png)||SFGPUCRRL------|WAR.GRDTRK.UNT.CBT.RECON.MAR.LAR|Reconnaissance Marine Light Armored Reconnaissnace (Lar)|POINT|A|
+|468||![](./images/SFGPUCRS-------.png)||SFGPUCRS-------|WAR.GRDTRK.UNT.CBT.RECON.AAST|Reconnaissance Air Assault|POINT|A|
+|469||![](./images/SFGPUCRV-------.png)||SFGPUCRV-------|WAR.GRDTRK.UNT.CBT.RECON.CVY|Reconnaissance Cavalry|POINT|A|
+|470||![](./images/SFGPUCRVA------.png)||SFGPUCRVA------|WAR.GRDTRK.UNT.CBT.RECON.CVY.ARMD|Reconnaissance Cavalry Armored|POINT|A|
+|471||![](./images/SFGPUCRVG------.png)||SFGPUCRVG------|WAR.GRDTRK.UNT.CBT.RECON.CVY.GRD|Reconnaissance Cavalry Ground|POINT|A|
+|472||![](./images/SFGPUCRVM------.png)||SFGPUCRVM------|WAR.GRDTRK.UNT.CBT.RECON.CVY.MOT|Reconnaissance Cavalry Motorized|POINT|A|
+|473||![](./images/SFGPUCRVO------.png)||SFGPUCRVO------|WAR.GRDTRK.UNT.CBT.RECON.CVY.AIR|Reconnaissance Cavalry Air|POINT|A|
+|474||![](./images/SFGPUCRX-------.png)||SFGPUCRX-------|WAR.GRDTRK.UNT.CBT.RECON.LRS|Reconnaissance Long Range Surveillance (Lrs)|POINT|A|
+|475||![](./images/SFGPUCS--------.png)||SFGPUCS--------|WAR.GRDTRK.UNT.CBT.ISF|Internal Security Forces|POINT|A|
+|476||![](./images/SFGPUCSA-------.png)||SFGPUCSA-------|WAR.GRDTRK.UNT.CBT.ISF.AVN|Aviation|POINT|A|
+|477||![](./images/SFGPUCSG-------.png)||SFGPUCSG-------|WAR.GRDTRK.UNT.CBT.ISF.GRD|Ground|POINT|A|
+|478||![](./images/SFGPUCSGA------.png)||SFGPUCSGA------|WAR.GRDTRK.UNT.CBT.ISF.GRD.MECH|Mechanized Ground|POINT|A|
+|479||![](./images/SFGPUCSGD------.png)||SFGPUCSGD------|WAR.GRDTRK.UNT.CBT.ISF.GRD.DMD|Dismounted Ground|POINT|A|
+|480||![](./images/SFGPUCSGM------.png)||SFGPUCSGM------|WAR.GRDTRK.UNT.CBT.ISF.GRD.MOT|Motorized Ground|POINT|A|
+|481||![](./images/SFGPUCSM-------.png)||SFGPUCSM-------|WAR.GRDTRK.UNT.CBT.ISF.WHMECH|Wheeled Mechanized|POINT|A|
+|482||![](./images/SFGPUCSR-------.png)||SFGPUCSR-------|WAR.GRDTRK.UNT.CBT.ISF.RALRD|Railroad|POINT|A|
+|483||![](./images/SFGPUCSW-------.png)||SFGPUCSW-------|WAR.GRDTRK.UNT.CBT.ISF.RIV|Riverine|POINT|A|
+|484||![](./images/SFGPUCV--------.png)||SFGPUCV--------|WAR.GRDTRK.UNT.CBT.AVN|Aviation|POINT|A|
+|485||![](./images/SFGPUCVC-------.png)||SFGPUCVC-------|WAR.GRDTRK.UNT.CBT.AVN.CMPS|Composite|POINT|A|
+|486||![](./images/SFGPUCVF-------.png)||SFGPUCVF-------|WAR.GRDTRK.UNT.CBT.AVN.FIXD|Fixed Wing|POINT|A|
+|487||![](./images/SFGPUCVFA------.png)||SFGPUCVFA------|WAR.GRDTRK.UNT.CBT.AVN.FIXD.ATK|Attack Fixed Wing|POINT|A|
+|488||![](./images/SFGPUCVFR------.png)||SFGPUCVFR------|WAR.GRDTRK.UNT.CBT.AVN.FIXD.RECON|Recon Fixed Wing|POINT|A|
+|489||![](./images/SFGPUCVFU------.png)||SFGPUCVFU------|WAR.GRDTRK.UNT.CBT.AVN.FIXD.UTY|Utility Fixed Wing|POINT|A|
+|490||![](./images/SFGPUCVR-------.png)||SFGPUCVR-------|WAR.GRDTRK.UNT.CBT.AVN.ROT|Rotary Wing|POINT|A|
+|491||![](./images/SFGPUCVRA------.png)||SFGPUCVRA------|WAR.GRDTRK.UNT.CBT.AVN.ROT.ATK|Attack Rotary Wing|POINT|A|
+|492||![](./images/SFGPUCVRM------.png)||SFGPUCVRM------|WAR.GRDTRK.UNT.CBT.AVN.ROT.MNECM|Mine Countermeasure Rotary Wing|POINT|A|
+|493||![](./images/SFGPUCVRS------.png)||SFGPUCVRS------|WAR.GRDTRK.UNT.CBT.AVN.ROT.SCUT|Scout Rotary Wing|POINT|A|
+|494||![](./images/SFGPUCVRU------.png)||SFGPUCVRU------|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY|Utility Rotary Wing|POINT|A|
+|495||![](./images/SFGPUCVRUC-----.png)||SFGPUCVRUC-----|WAR.GRDTRK.UNT.CBT.AVN.ROT.C2|C2 Rotary Wing|POINT|A|
+|496||![](./images/SFGPUCVRUE-----.png)||SFGPUCVRUE-----|WAR.GRDTRK.UNT.CBT.AVN.ROT.MEDV|Medevac Rotary Wing|POINT|A|
+|497||![](./images/SFGPUCVRUH-----.png)||SFGPUCVRUH-----|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY.HVY|Heavy Utility Rotary Win|POINT|A|
+|498||![](./images/SFGPUCVRUL-----.png)||SFGPUCVRUL-----|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY.LIT|Light Utility Rotary Wing|POINT|A|
+|499||![](./images/SFGPUCVRUM-----.png)||SFGPUCVRUM-----|WAR.GRDTRK.UNT.CBT.AVN.ROT.UTY.MDM|Medium Utility Rotary Wing|POINT|A|
+|500||![](./images/SFGPUCVRW------.png)||SFGPUCVRW------|WAR.GRDTRK.UNT.CBT.AVN.ROT.ASBW|Antisubmarine Warfare Rotary Wing|POINT|A|
+|501||![](./images/SFGPUCVS-------.png)||SFGPUCVS-------|WAR.GRDTRK.UNT.CBT.AVN.SAR|Search And Rescue|POINT|A|
+|502||![](./images/SFGPUCVU-------.png)||SFGPUCVU-------|WAR.GRDTRK.UNT.CBT.AVN.UA|Unmanned Aircraft|POINT|A|
+|503||![](./images/SFGPUCVUF------.png)||SFGPUCVUF------|WAR.GRDTRK.UNT.CBT.AVN.UA.FIXD|Unmanned Aircraft Fixed Wing|POINT|A|
+|504||![](./images/SFGPUCVUR------.png)||SFGPUCVUR------|WAR.GRDTRK.UNT.CBT.AVN.UA.ROT|Unmanned Aircraft Rotary Wing|POINT|A|
+|505||![](./images/SFGPUCVV-------.png)||SFGPUCVV-------|WAR.GRDTRK.UNT.CBT.AVN.VSTOL|Vertical And/Or Short Takeoff And Landing Aircraft (V/Stol)|POINT|A|
+|506||![](./images/SFGPUH---------.png)||SFGPUH---------|WAR.GRDTRK.UNT.C2HQ|Special C2 Headquarters Component|POINT|A|
+|507||![](./images/SFGPUS---------.png)||SFGPUS---------|WAR.GRDTRK.UNT.CSS|Combat Service Support|POINT|A|
+|508||![](./images/SFGPUSA--------.png)||SFGPUSA--------|WAR.GRDTRK.UNT.CSS.ADMIN|Administrative (Admin)|POINT|A|
+|509||![](./images/SFGPUSAC-------.png)||SFGPUSAC-------|WAR.GRDTRK.UNT.CSS.ADMIN.CRP|Admin Corps|POINT|A|
+|510||![](./images/SFGPUSAF-------.png)||SFGPUSAF-------|WAR.GRDTRK.UNT.CSS.ADMIN.FIN|Finance|POINT|A|
+|511||![](./images/SFGPUSAFC------.png)||SFGPUSAFC------|WAR.GRDTRK.UNT.CSS.ADMIN.FIN.CRP|Finance Corps|POINT|A|
+|512||![](./images/SFGPUSAFT------.png)||SFGPUSAFT------|WAR.GRDTRK.UNT.CSS.ADMIN.FIN.THT|Finance Theater|POINT|A|
+|513||![](./images/SFGPUSAJ-------.png)||SFGPUSAJ-------|WAR.GRDTRK.UNT.CSS.ADMIN.JAG|Judge Advocate General (Jag)|POINT|A|
+|514||![](./images/SFGPUSAJC------.png)||SFGPUSAJC------|WAR.GRDTRK.UNT.CSS.ADMIN.JAG.CRP|Jag Corps|POINT|A|
+|515||![](./images/SFGPUSAJT------.png)||SFGPUSAJT------|WAR.GRDTRK.UNT.CSS.ADMIN.JAG.THT|Jag Theater|POINT|A|
+|516||![](./images/SFGPUSAL-------.png)||SFGPUSAL-------|WAR.GRDTRK.UNT.CSS.ADMIN.LBR|Labor|POINT|A|
+|517||![](./images/SFGPUSALC------.png)||SFGPUSALC------|WAR.GRDTRK.UNT.CSS.ADMIN.LBR.CRP|Labor Corps|POINT|A|
+|518||![](./images/SFGPUSALT------.png)||SFGPUSALT------|WAR.GRDTRK.UNT.CSS.ADMIN.LBR.THT|Labor Theater|POINT|A|
+|519||![](./images/SFGPUSAM-------.png)||SFGPUSAM-------|WAR.GRDTRK.UNT.CSS.ADMIN.MTRY|Mortuary/Graves Registry|POINT|A|
+|520||![](./images/SFGPUSAMC------.png)||SFGPUSAMC------|WAR.GRDTRK.UNT.CSS.ADMIN.MTRY.CRP|Mortuary/Graves Registry Corps|POINT|A|
+|521||![](./images/SFGPUSAMT------.png)||SFGPUSAMT------|WAR.GRDTRK.UNT.CSS.ADMIN.MTRY.THT|Mortuary/Graves Registry Theater|POINT|A|
+|522||![](./images/SFGPUSAO-------.png)||SFGPUSAO-------|WAR.GRDTRK.UNT.CSS.ADMIN.PST|Postal|POINT|A|
+|523||![](./images/SFGPUSAOC------.png)||SFGPUSAOC------|WAR.GRDTRK.UNT.CSS.ADMIN.PST.CRP|Postal Corps|POINT|A|
+|524||![](./images/SFGPUSAOT------.png)||SFGPUSAOT------|WAR.GRDTRK.UNT.CSS.ADMIN.PST.THT|Postal Theater|POINT|A|
+|525||![](./images/SFGPUSAP-------.png)||SFGPUSAP-------|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF|Public Affairs|POINT|A|
+|526||![](./images/SFGPUSAPB------.png)||SFGPUSAPB------|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.BRCT|Public Affairs Broadcast|POINT|A|
+|527||![](./images/SFGPUSAPBC-----.png)||SFGPUSAPBC-----|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.BRCT.CRP|Public Affairs Broadcast Corps|POINT|A|
+|528||![](./images/SFGPUSAPBT-----.png)||SFGPUSAPBT-----|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.BRCT.THT|Public Affairs Broadcast Theater|POINT|A|
+|529||![](./images/SFGPUSAPC------.png)||SFGPUSAPC------|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.CRP|Public Affairs Corps|POINT|A|
+|530||![](./images/SFGPUSAPM------.png)||SFGPUSAPM------|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.JIB|Public Affairs Joint Information Bureau (Jib)|POINT|A|
+|531||![](./images/SFGPUSAPMC-----.png)||SFGPUSAPMC-----|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.JIB.CRP|Public Affairs Jib Corps|POINT|A|
+|532||![](./images/SFGPUSAPMT-----.png)||SFGPUSAPMT-----|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.JIB.THT|Public Affairs Jib Theater|POINT|A|
+|533||![](./images/SFGPUSAPT------.png)||SFGPUSAPT------|WAR.GRDTRK.UNT.CSS.ADMIN.PUBAFF.THT|Public Affairs Theater|POINT|A|
+|534||![](./images/SFGPUSAQ-------.png)||SFGPUSAQ-------|WAR.GRDTRK.UNT.CSS.ADMIN.SUPPLY|Quartermaster (Supply)|POINT|A|
+|535||![](./images/SFGPUSAQC------.png)||SFGPUSAQC------|WAR.GRDTRK.UNT.CSS.ADMIN.SUPPLY.CRP|Quartermaster (Supply) Corps|POINT|A|
+|536||![](./images/SFGPUSAQT------.png)||SFGPUSAQT------|WAR.GRDTRK.UNT.CSS.ADMIN.SUPPLY.THT|Quartermaster (Supply) Theater|POINT|A|
+|537||![](./images/SFGPUSAR-------.png)||SFGPUSAR-------|WAR.GRDTRK.UNT.CSS.ADMIN.RELG|Religious/Chaplain|POINT|A|
+|538||![](./images/SFGPUSARC------.png)||SFGPUSARC------|WAR.GRDTRK.UNT.CSS.ADMIN.RELG.CRP|Religious/Chaplain Corps|POINT|A|
+|539||![](./images/SFGPUSART------.png)||SFGPUSART------|WAR.GRDTRK.UNT.CSS.ADMIN.RELG.THT|Religious/Chaplain Theater|POINT|A|
+|540||![](./images/SFGPUSAS-------.png)||SFGPUSAS-------|WAR.GRDTRK.UNT.CSS.ADMIN.PERSVC|Personnel Services|POINT|A|
+|541||![](./images/SFGPUSASC------.png)||SFGPUSASC------|WAR.GRDTRK.UNT.CSS.ADMIN.PERSVC.CRP|Personnel Corps|POINT|A|
+|542||![](./images/SFGPUSAST------.png)||SFGPUSAST------|WAR.GRDTRK.UNT.CSS.ADMIN.PERSVC.THT|Personnel Theater|POINT|A|
+|543||![](./images/SFGPUSAT-------.png)||SFGPUSAT-------|WAR.GRDTRK.UNT.CSS.ADMIN.THT|Admin Theater|POINT|A|
+|544||![](./images/SFGPUSAW-------.png)||SFGPUSAW-------|WAR.GRDTRK.UNT.CSS.ADMIN.MWR|Morale Welfare Recreation (Mwr)|POINT|A|
+|545||![](./images/SFGPUSAWC------.png)||SFGPUSAWC------|WAR.GRDTRK.UNT.CSS.ADMIN.MWR.CRP|Mwr Corps|POINT|A|
+|546||![](./images/SFGPUSAWT------.png)||SFGPUSAWT------|WAR.GRDTRK.UNT.CSS.ADMIN.MWR.THT|Mwr Theater|POINT|A|
+|547||![](./images/SFGPUSAX-------.png)||SFGPUSAX-------|WAR.GRDTRK.UNT.CSS.ADMIN.RHU|Replacement Holding Unit (Rhu)|POINT|A|
+|548||![](./images/SFGPUSAXC------.png)||SFGPUSAXC------|WAR.GRDTRK.UNT.CSS.ADMIN.RHU.CRP|Rhu Corps|POINT|A|
+|549||![](./images/SFGPUSAXT------.png)||SFGPUSAXT------|WAR.GRDTRK.UNT.CSS.ADMIN.RHU.THT|Rhu Theater|POINT|A|
+|550||![](./images/SFGPUSM--------.png)||SFGPUSM--------|WAR.GRDTRK.UNT.CSS.MED|Medical|POINT|A|
+|551||![](./images/SFGPUSMC-------.png)||SFGPUSMC-------|WAR.GRDTRK.UNT.CSS.MED.CRP|Medical Corps|POINT|A|
+|552||![](./images/SFGPUSMD-------.png)||SFGPUSMD-------|WAR.GRDTRK.UNT.CSS.MED.DEN|Medical Dental|POINT|A|
+|553||![](./images/SFGPUSMDC------.png)||SFGPUSMDC------|WAR.GRDTRK.UNT.CSS.MED.DEN.CRP|Medical Dental Corps|POINT|A|
+|554||![](./images/SFGPUSMDT------.png)||SFGPUSMDT------|WAR.GRDTRK.UNT.CSS.MED.DEN.THT|Medical Dental Theater|POINT|A|
+|555||![](./images/SFGPUSMM-------.png)||SFGPUSMM-------|WAR.GRDTRK.UNT.CSS.MED.MEDTF|Medical Treatment Facility|POINT|A|
+|556||![](./images/SFGPUSMMC------.png)||SFGPUSMMC------|WAR.GRDTRK.UNT.CSS.MED.MEDTF.CRP|Medical Treatment Facility Corps|POINT|A|
+|557||![](./images/SFGPUSMMT------.png)||SFGPUSMMT------|WAR.GRDTRK.UNT.CSS.MED.MEDTF.THT|Medical Treatment Facility Theater|POINT|A|
+|558||![](./images/SFGPUSMP-------.png)||SFGPUSMP-------|WAR.GRDTRK.UNT.CSS.MED.PSY|Medical Psychological|POINT|A|
+|559||![](./images/SFGPUSMPC------.png)||SFGPUSMPC------|WAR.GRDTRK.UNT.CSS.MED.PSY.CRP|Medical Psychological Corps|POINT|A|
+|560||![](./images/SFGPUSMPT------.png)||SFGPUSMPT------|WAR.GRDTRK.UNT.CSS.MED.PSY.THT|Medical Psychological Theater|POINT|A|
+|561||![](./images/SFGPUSMT-------.png)||SFGPUSMT-------|WAR.GRDTRK.UNT.CSS.MED.THT|Medical Theater|POINT|A|
+|562||![](./images/SFGPUSMV-------.png)||SFGPUSMV-------|WAR.GRDTRK.UNT.CSS.MED.VNY|Medical Veterinary|POINT|A|
+|563||![](./images/SFGPUSMVC------.png)||SFGPUSMVC------|WAR.GRDTRK.UNT.CSS.MED.VNY.CRP|Medical Veterinary Corps|POINT|A|
+|564||![](./images/SFGPUSMVT------.png)||SFGPUSMVT------|WAR.GRDTRK.UNT.CSS.MED.VNY.THT|Medical Veterinary Theater|POINT|A|
+|565||![](./images/SFGPUSS--------.png)||SFGPUSS--------|WAR.GRDTRK.UNT.CSS.SLP|Supply|POINT|A|
+|566||![](./images/SFGPUSS1-------.png)||SFGPUSS1-------|WAR.GRDTRK.UNT.CSS.SLP.CLS1|Supply Class I|POINT|A|
+|567||![](./images/SFGPUSS1C------.png)||SFGPUSS1C------|WAR.GRDTRK.UNT.CSS.SLP.CLS1.CRP|Supply Class I Corps|POINT|A|
+|568||![](./images/SFGPUSS1T------.png)||SFGPUSS1T------|WAR.GRDTRK.UNT.CSS.SLP.CLS1.THT|Supply Class I Theater|POINT|A|
+|569||![](./images/SFGPUSS2-------.png)||SFGPUSS2-------|WAR.GRDTRK.UNT.CSS.SLP.CLS2|Supply Class Ii|POINT|A|
+|570||![](./images/SFGPUSS2C------.png)||SFGPUSS2C------|WAR.GRDTRK.UNT.CSS.SLP.CLS2.CRP|Supply Class Ii Corps|POINT|A|
+|571||![](./images/SFGPUSS2T------.png)||SFGPUSS2T------|WAR.GRDTRK.UNT.CSS.SLP.CLS2.THT|Supply Class Ii Theater|POINT|A|
+|572||![](./images/SFGPUSS3-------.png)||SFGPUSS3-------|WAR.GRDTRK.UNT.CSS.SLP.CLS3|Supply Class Iii|POINT|A|
+|573||![](./images/SFGPUSS3A------.png)||SFGPUSS3A------|WAR.GRDTRK.UNT.CSS.SLP.CLS3.AVN|Supply Class Iii Aviation|POINT|A|
+|574||![](./images/SFGPUSS3AC-----.png)||SFGPUSS3AC-----|WAR.GRDTRK.UNT.CSS.SLP.CLS3.AVN.CRP|Supply Class Iii Aviation Corps|POINT|A|
+|575||![](./images/SFGPUSS3AT-----.png)||SFGPUSS3AT-----|WAR.GRDTRK.UNT.CSS.SLP.CLS3.AVN.THT|Supply Class Iii Aviation Theater|POINT|A|
+|576||![](./images/SFGPUSS3C------.png)||SFGPUSS3C------|WAR.GRDTRK.UNT.CSS.SLP.CLS3.CRP|Supply Class Iii Corps|POINT|A|
+|577||![](./images/SFGPUSS3T------.png)||SFGPUSS3T------|WAR.GRDTRK.UNT.CSS.SLP.CLS3.THT|Supply Class Iii Theater|POINT|A|
+|578||![](./images/SFGPUSS4-------.png)||SFGPUSS4-------|WAR.GRDTRK.UNT.CSS.SLP.CLS4|Supply Class Iv|POINT|A|
+|579||![](./images/SFGPUSS4C------.png)||SFGPUSS4C------|WAR.GRDTRK.UNT.CSS.SLP.CLS4.CRP|Supply Class Iv Corps|POINT|A|
+|580||![](./images/SFGPUSS4T------.png)||SFGPUSS4T------|WAR.GRDTRK.UNT.CSS.SLP.CLS4.THT|Supply Class Iv Theater|POINT|A|
+|581||![](./images/SFGPUSS5-------.png)||SFGPUSS5-------|WAR.GRDTRK.UNT.CSS.SLP.CLS5|Supply Class V|POINT|A|
+|582||![](./images/SFGPUSS5C------.png)||SFGPUSS5C------|WAR.GRDTRK.UNT.CSS.SLP.CLS5.CRP|Supply Class V Corps|POINT|A|
+|583||![](./images/SFGPUSS5T------.png)||SFGPUSS5T------|WAR.GRDTRK.UNT.CSS.SLP.CLS5.THT|Supply Class V Theater|POINT|A|
+|584||![](./images/SFGPUSS6-------.png)||SFGPUSS6-------|WAR.GRDTRK.UNT.CSS.SLP.CLS6|Supply Class Vi|POINT|A|
+|585||![](./images/SFGPUSS6C------.png)||SFGPUSS6C------|WAR.GRDTRK.UNT.CSS.SLP.CLS6.CRP|Supply Class Vi Corps|POINT|A|
+|586||![](./images/SFGPUSS6T------.png)||SFGPUSS6T------|WAR.GRDTRK.UNT.CSS.SLP.CLS6.THT|Supply Class Vi Theater|POINT|A|
+|587||![](./images/SFGPUSS7-------.png)||SFGPUSS7-------|WAR.GRDTRK.UNT.CSS.SLP.CLS7|Supply Class Vii|POINT|A|
+|588||![](./images/SFGPUSS7C------.png)||SFGPUSS7C------|WAR.GRDTRK.UNT.CSS.SLP.CLS7.CRP|Supply Class Vii Corps|POINT|A|
+|589||![](./images/SFGPUSS7T------.png)||SFGPUSS7T------|WAR.GRDTRK.UNT.CSS.SLP.CLS7.THT|Supply Class Vii Theater|POINT|A|
+|590||![](./images/SFGPUSS8-------.png)||SFGPUSS8-------|WAR.GRDTRK.UNT.CSS.SLP.CLS8|Supply Class Viii|POINT|A|
+|591||![](./images/SFGPUSS8C------.png)||SFGPUSS8C------|WAR.GRDTRK.UNT.CSS.SLP.CLS8.CRP|Supply Class Viii Corps|POINT|A|
+|592||![](./images/SFGPUSS8T------.png)||SFGPUSS8T------|WAR.GRDTRK.UNT.CSS.SLP.CLS8.THT|Supply Class Viii Theater|POINT|A|
+|593||![](./images/SFGPUSS9-------.png)||SFGPUSS9-------|WAR.GRDTRK.UNT.CSS.SLP.CLS9|Supply Class Ix|POINT|A|
+|594||![](./images/SFGPUSS9C------.png)||SFGPUSS9C------|WAR.GRDTRK.UNT.CSS.SLP.CLS9.CRP|Supply Class Ix Corps|POINT|A|
+|595||![](./images/SFGPUSS9T------.png)||SFGPUSS9T------|WAR.GRDTRK.UNT.CSS.SLP.CLS9.THT|Supply Class Ix Theater|POINT|A|
+|596||![](./images/SFGPUSSC-------.png)||SFGPUSSC-------|WAR.GRDTRK.UNT.CSS.SLP.CRP|Supply Corps|POINT|A|
+|597||![](./images/SFGPUSSL-------.png)||SFGPUSSL-------|WAR.GRDTRK.UNT.CSS.SLP.LDY|Supply Laundry/Bath|POINT|A|
+|598||![](./images/SFGPUSSLC------.png)||SFGPUSSLC------|WAR.GRDTRK.UNT.CSS.SLP.LDY.CRP|Supply Laundry/Bath Corps|POINT|A|
+|599||![](./images/SFGPUSSLT------.png)||SFGPUSSLT------|WAR.GRDTRK.UNT.CSS.SLP.LDY.THT|Supply Laundry/Bath Theater|POINT|A|
+|600||![](./images/SFGPUSST-------.png)||SFGPUSST-------|WAR.GRDTRK.UNT.CSS.SLP.THT|Supply Theater|POINT|A|
+|601||![](./images/SFGPUSSW-------.png)||SFGPUSSW-------|WAR.GRDTRK.UNT.CSS.SLP.H2O|Supply Water|POINT|A|
+|602||![](./images/SFGPUSSWC------.png)||SFGPUSSWC------|WAR.GRDTRK.UNT.CSS.SLP.H2O.CRP|Supply Water Corps|POINT|A|
+|603||![](./images/SFGPUSSWP------.png)||SFGPUSSWP------|WAR.GRDTRK.UNT.CSS.SLP.H2O.PUR|Supply Water Purification|POINT|A|
+|604||![](./images/SFGPUSSWPC-----.png)||SFGPUSSWPC-----|WAR.GRDTRK.UNT.CSS.SLP.H2O.PUR.CRP|Supply Water Purification Corps|POINT|A|
+|605||![](./images/SFGPUSSWPT-----.png)||SFGPUSSWPT-----|WAR.GRDTRK.UNT.CSS.SLP.H2O.PUR.THT|Supply Water Purification Theater|POINT|A|
+|606||![](./images/SFGPUSSWT------.png)||SFGPUSSWT------|WAR.GRDTRK.UNT.CSS.SLP.H2O.THT|Supply Water Theater|POINT|A|
+|607||![](./images/SFGPUSSX-------.png)||SFGPUSSX-------|WAR.GRDTRK.UNT.CSS.SLP.CLS10|Supply Class X|POINT|A|
+|608||![](./images/SFGPUSSXC------.png)||SFGPUSSXC------|WAR.GRDTRK.UNT.CSS.SLP.CLS10.CRP|Supply Class X Corps|POINT|A|
+|609||![](./images/SFGPUSSXT------.png)||SFGPUSSXT------|WAR.GRDTRK.UNT.CSS.SLP.CLS10.THT|Supply Class X Theater|POINT|A|
+|610||![](./images/SFGPUST--------.png)||SFGPUST--------|WAR.GRDTRK.UNT.CSS.TPT|Transportation|POINT|A|
+|611||![](./images/SFGPUSTA-------.png)||SFGPUSTA-------|WAR.GRDTRK.UNT.CSS.TPT.APOD|Apod/Apoe|POINT|A|
+|612||![](./images/SFGPUSTAC------.png)||SFGPUSTAC------|WAR.GRDTRK.UNT.CSS.TPT.APOD.CRP|Apod/Apoe Corps|POINT|A|
+|613||![](./images/SFGPUSTAT------.png)||SFGPUSTAT------|WAR.GRDTRK.UNT.CSS.TPT.APOD.THT|Apod/Apoe Theater|POINT|A|
+|614||![](./images/SFGPUSTC-------.png)||SFGPUSTC-------|WAR.GRDTRK.UNT.CSS.TPT.CRP|Transportation Corps|POINT|A|
+|615||![](./images/SFGPUSTI-------.png)||SFGPUSTI-------|WAR.GRDTRK.UNT.CSS.TPT.MSL|Missile|POINT|A|
+|616||![](./images/SFGPUSTIC------.png)||SFGPUSTIC------|WAR.GRDTRK.UNT.CSS.TPT.MSL.CRP|Missile Corps|POINT|A|
+|617||![](./images/SFGPUSTIT------.png)||SFGPUSTIT------|WAR.GRDTRK.UNT.CSS.TPT.MSL.THT|Missile Theater|POINT|A|
+|618||![](./images/SFGPUSTM-------.png)||SFGPUSTM-------|WAR.GRDTRK.UNT.CSS.TPT.MCC|Movement Control Center (Mcc)|POINT|A|
+|619||![](./images/SFGPUSTMC------.png)||SFGPUSTMC------|WAR.GRDTRK.UNT.CSS.TPT.MCC.CRP|Mcc Corps|POINT|A|
+|620||![](./images/SFGPUSTMT------.png)||SFGPUSTMT------|WAR.GRDTRK.UNT.CSS.TPT.MCC.THT|Mcc Theater|POINT|A|
+|621||![](./images/SFGPUSTR-------.png)||SFGPUSTR-------|WAR.GRDTRK.UNT.CSS.TPT.RHD|Railhead|POINT|A|
+|622||![](./images/SFGPUSTRC------.png)||SFGPUSTRC------|WAR.GRDTRK.UNT.CSS.TPT.RHD.CRP|Railhead Corps|POINT|A|
+|623||![](./images/SFGPUSTRT------.png)||SFGPUSTRT------|WAR.GRDTRK.UNT.CSS.TPT.RHD.THT|Railhead Theater|POINT|A|
+|624||![](./images/SFGPUSTS-------.png)||SFGPUSTS-------|WAR.GRDTRK.UNT.CSS.TPT.SPOD|Spod/Spoe|POINT|A|
+|625||![](./images/SFGPUSTSC------.png)||SFGPUSTSC------|WAR.GRDTRK.UNT.CSS.TPT.SPOD.CRP|Spod/Spoe Corps|POINT|A|
+|626||![](./images/SFGPUSTST------.png)||SFGPUSTST------|WAR.GRDTRK.UNT.CSS.TPT.SPOD.THT|Spod/Spoe Theater|POINT|A|
+|627||![](./images/SFGPUSTT-------.png)||SFGPUSTT-------|WAR.GRDTRK.UNT.CSS.TPT.THT|Transportation Theater|POINT|A|
+|628||![](./images/SFGPUSX--------.png)||SFGPUSX--------|WAR.GRDTRK.UNT.CSS.MAINT|Maintenance|POINT|A|
+|629||![](./images/SFGPUSXC-------.png)||SFGPUSXC-------|WAR.GRDTRK.UNT.CSS.MAINT.CRP|Maintenance Corps|POINT|A|
+|630||![](./images/SFGPUSXE-------.png)||SFGPUSXE-------|WAR.GRDTRK.UNT.CSS.MAINT.EOP|Electro-Optical|POINT|A|
+|631||![](./images/SFGPUSXEC------.png)||SFGPUSXEC------|WAR.GRDTRK.UNT.CSS.MAINT.EOP.CRP|Electro-Optical Corps|POINT|A|
+|632||![](./images/SFGPUSXET------.png)||SFGPUSXET------|WAR.GRDTRK.UNT.CSS.MAINT.EOP.THT|Electro-Optical Theater|POINT|A|
+|633||![](./images/SFGPUSXH-------.png)||SFGPUSXH-------|WAR.GRDTRK.UNT.CSS.MAINT.HVY|Maintenance Heavy|POINT|A|
+|634||![](./images/SFGPUSXHC------.png)||SFGPUSXHC------|WAR.GRDTRK.UNT.CSS.MAINT.HVY.CRP|Maintenance Heavy Corps|POINT|A|
+|635||![](./images/SFGPUSXHT------.png)||SFGPUSXHT------|WAR.GRDTRK.UNT.CSS.MAINT.HVY.THT|Maintenance Heavy Theater|POINT|A|
+|636||![](./images/SFGPUSXO-------.png)||SFGPUSXO-------|WAR.GRDTRK.UNT.CSS.MAINT.ORD|Ordnance|POINT|A|
+|637||![](./images/SFGPUSXOC------.png)||SFGPUSXOC------|WAR.GRDTRK.UNT.CSS.MAINT.ORD.CRP|Ordnance Corps|POINT|A|
+|638||![](./images/SFGPUSXOM------.png)||SFGPUSXOM------|WAR.GRDTRK.UNT.CSS.MAINT.ORD.MSL|Ordnance Missile|POINT|A|
+|639||![](./images/SFGPUSXOMC-----.png)||SFGPUSXOMC-----|WAR.GRDTRK.UNT.CSS.MAINT.ORD.MSL.CRP|Ordnance Missile Corps|POINT|A|
+|640||![](./images/SFGPUSXOMT-----.png)||SFGPUSXOMT-----|WAR.GRDTRK.UNT.CSS.MAINT.ORD.MSL.THT|Ordnance Missile Theater|POINT|A|
+|641||![](./images/SFGPUSXOT------.png)||SFGPUSXOT------|WAR.GRDTRK.UNT.CSS.MAINT.ORD.THT|Ordnance Theater|POINT|A|
+|642||![](./images/SFGPUSXR-------.png)||SFGPUSXR-------|WAR.GRDTRK.UNT.CSS.MAINT.RCY|Maintenance Recovery|POINT|A|
+|643||![](./images/SFGPUSXRC------.png)||SFGPUSXRC------|WAR.GRDTRK.UNT.CSS.MAINT.RCY.CRP|Maintenance Recovery Corps|POINT|A|
+|644||![](./images/SFGPUSXRT------.png)||SFGPUSXRT------|WAR.GRDTRK.UNT.CSS.MAINT.RCY.THT|Maintenance Recovery Theater|POINT|A|
+|645||![](./images/SFGPUSXT-------.png)||SFGPUSXT-------|WAR.GRDTRK.UNT.CSS.MAINT.THT|Maintenance Theater|POINT|A|
+|646||![](./images/SFGPUU---------.png)||SFGPUU---------|WAR.GRDTRK.UNT.CS|Combat Support|POINT|A|
+|647||![](./images/SFGPUUA--------.png)||SFGPUUA--------|WAR.GRDTRK.UNT.CS.CBRN|Combat Support Cbrn|POINT|A|
+|648||![](./images/SFGPUUAB-------.png)||SFGPUUAB-------|WAR.GRDTRK.UNT.CS.CBRN.BIO|Biological|POINT|A|
+|649||![](./images/SFGPUUABR------.png)||SFGPUUABR------|WAR.GRDTRK.UNT.CS.CBRN.BIO.RECEQP|Recon Equipped|POINT|A|
+|650||![](./images/SFGPUUAC-------.png)||SFGPUUAC-------|WAR.GRDTRK.UNT.CS.CBRN.CML|Chemical|POINT|A|
+|651||![](./images/SFGPUUACC------.png)||SFGPUUACC------|WAR.GRDTRK.UNT.CS.CBRN.CML.SMKDEC|Smoke/Decon|POINT|A|
+|652||![](./images/SFGPUUACCK-----.png)||SFGPUUACCK-----|WAR.GRDTRK.UNT.CS.CBRN.CML.SMKDEC.MECH|Mechanized Smoke/Decon|POINT|A|
+|653||![](./images/SFGPUUACCM-----.png)||SFGPUUACCM-----|WAR.GRDTRK.UNT.CS.CBRN.CML.SMKDEC.MOT|Motorized Smoke/Decon|POINT|A|
+|654||![](./images/SFGPUUACR------.png)||SFGPUUACR------|WAR.GRDTRK.UNT.CS.CBRN.CML.RECON|Chemical Recon|POINT|A|
+|655||![](./images/SFGPUUACRS-----.png)||SFGPUUACRS-----|WAR.GRDTRK.UNT.CS.CBRN.CML.RECON.WAVS|Chemical Wheeled Armored Vehicle Reconnaissance Surveillance|POINT|A|
+|656||![](./images/SFGPUUACRW-----.png)||SFGPUUACRW-----|WAR.GRDTRK.UNT.CS.CBRN.CML.RECON.WARMVH|Chemical Wheeled Armored Vehicle|POINT|A|
+|657||![](./images/SFGPUUACS------.png)||SFGPUUACS------|WAR.GRDTRK.UNT.CS.CBRN.CML.SMK|Smoke|POINT|A|
+|658||![](./images/SFGPUUACSA-----.png)||SFGPUUACSA-----|WAR.GRDTRK.UNT.CS.CBRN.CML.SMK.ARM|Armor Smoke|POINT|A|
+|659||![](./images/SFGPUUACSM-----.png)||SFGPUUACSM-----|WAR.GRDTRK.UNT.CS.CBRN.CML.SMK.MOT|Motorized Smoke|POINT|A|
+|660||![](./images/SFGPUUAD-------.png)||SFGPUUAD-------|WAR.GRDTRK.UNT.CS.CBRN.DECON|Decontamination|POINT|A|
+|661||![](./images/SFGPUUAN-------.png)||SFGPUUAN-------|WAR.GRDTRK.UNT.CS.CBRN.NUC|Nuclear|POINT|A|
+|662||![](./images/SFGPUUE--------.png)||SFGPUUE--------|WAR.GRDTRK.UNT.CS.EOD|Explosive Ordnance Disposal|POINT|A|
+|663||![](./images/SFGPUUI--------.png)||SFGPUUI--------|WAR.GRDTRK.UNT.CS.IWU|Information Warfare Unit|POINT|A|
+|664||![](./images/SFGPUUL--------.png)||SFGPUUL--------|WAR.GRDTRK.UNT.CS.LAWENU|Law Enforcement Unit|POINT|A|
+|665||![](./images/SFGPUULC-------.png)||SFGPUULC-------|WAR.GRDTRK.UNT.CS.LAWENU.CLE|Civilian Law Enforcement|POINT|A|
+|666||![](./images/SFGPUULD-------.png)||SFGPUULD-------|WAR.GRDTRK.UNT.CS.LAWENU.CID|Central Intelligence Division (Cid)|POINT|A|
+|667||![](./images/SFGPUULF-------.png)||SFGPUULF-------|WAR.GRDTRK.UNT.CS.LAWENU.SECPOL|Security Police (Air)|POINT|A|
+|668||![](./images/SFGPUULM-------.png)||SFGPUULM-------|WAR.GRDTRK.UNT.CS.LAWENU.MILP|Military Police|POINT|A|
+|669||![](./images/SFGPUULS-------.png)||SFGPUULS-------|WAR.GRDTRK.UNT.CS.LAWENU.SHRPAT|Shore Patrol|POINT|A|
+|670||![](./images/SFGPUUM--------.png)||SFGPUUM--------|WAR.GRDTRK.UNT.CS.MILINT|Military Intelligence|POINT|A|
+|671||![](./images/SFGPUUMA-------.png)||SFGPUUMA-------|WAR.GRDTRK.UNT.CS.MILINT.AEREXP|Aerial Exploitation|POINT|A|
+|672||![](./images/SFGPUUMC-------.png)||SFGPUUMC-------|WAR.GRDTRK.UNT.CS.MILINT.CINT|Counterintelligence|POINT|A|
+|673||![](./images/SFGPUUMJ-------.png)||SFGPUUMJ-------|WAR.GRDTRK.UNT.CS.MILINT.JINTCT|Joint Intelligence Center|POINT|A|
+|674||![](./images/SFGPUUMMO------.png)||SFGPUUMMO------|WAR.GRDTRK.UNT.CS.MILINT.SVL.METO|Meteorological|POINT|A|
+|675||![](./images/SFGPUUMO-------.png)||SFGPUUMO-------|WAR.GRDTRK.UNT.CS.MILINT.OPN|Operations|POINT|A|
+|676||![](./images/SFGPUUMQ-------.png)||SFGPUUMQ-------|WAR.GRDTRK.UNT.CS.MILINT.INTGN|Interrogation|POINT|A|
+|677||![](./images/SFGPUUMR-------.png)||SFGPUUMR-------|WAR.GRDTRK.UNT.CS.MILINT.SVL|Surveillance|POINT|A|
+|678||![](./images/SFGPUUMRG------.png)||SFGPUUMRG------|WAR.GRDTRK.UNT.CS.MILINT.SVL.GRDSR|Ground Surveillance Radar|POINT|A|
+|679||![](./images/SFGPUUMRS------.png)||SFGPUUMRS------|WAR.GRDTRK.UNT.CS.MILINT.SVL.SNS|Sensor|POINT|A|
+|680||![](./images/SFGPUUMRSS-----.png)||SFGPUUMRSS-----|WAR.GRDTRK.UNT.CS.MILINT.SVL.SNS.SCM|Sensor Scm|POINT|A|
+|681||![](./images/SFGPUUMRX------.png)||SFGPUUMRX------|WAR.GRDTRK.UNT.CS.MILINT.SVL.GRDSM|Ground Station Module|POINT|A|
+|682||![](./images/SFGPUUMS-------.png)||SFGPUUMS-------|WAR.GRDTRK.UNT.CS.MILINT.SIGINT|Signal Intelligence (Sigint)|POINT|A|
+|683||![](./images/SFGPUUMSE------.png)||SFGPUUMSE------|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW|Electronic Warfare|POINT|A|
+|684||![](./images/SFGPUUMSEA-----.png)||SFGPUUMSEA-----|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.ARMWVH|Armored Wheeled Vehicle|POINT|A|
+|685||![](./images/SFGPUUMSEC-----.png)||SFGPUUMSEC-----|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.CRP|Corps|POINT|A|
+|686||![](./images/SFGPUUMSED-----.png)||SFGPUUMSED-----|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.DFN|Direction Finding|POINT|A|
+|687||![](./images/SFGPUUMSEI-----.png)||SFGPUUMSEI-----|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.INC|Intercept|POINT|A|
+|688||![](./images/SFGPUUMSEJ-----.png)||SFGPUUMSEJ-----|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.JMG|Jamming|POINT|A|
+|689||![](./images/SFGPUUMSET-----.png)||SFGPUUMSET-----|WAR.GRDTRK.UNT.CS.MILINT.SIGINT.ECW.THT|Theater|POINT|A|
+|690||![](./images/SFGPUUMT-------.png)||SFGPUUMT-------|WAR.GRDTRK.UNT.CS.MILINT.TACEXP|Tactical Exploit|POINT|A|
+|691||![](./images/SFGPUUP--------.png)||SFGPUUP--------|WAR.GRDTRK.UNT.CS.LNDSUP|Landing Support|POINT|A|
+|692||![](./images/SFGPUUS--------.png)||SFGPUUS--------|WAR.GRDTRK.UNT.CS.SIGUNT|Signal Unit|POINT|A|
+|693||![](./images/SFGPUUSA-------.png)||SFGPUUSA-------|WAR.GRDTRK.UNT.CS.SIGUNT.ARA|Area|POINT|A|
+|694||![](./images/SFGPUUSC-------.png)||SFGPUUSC-------|WAR.GRDTRK.UNT.CS.SIGUNT.COMCP|Communication Configured Package|POINT|A|
+|695||![](./images/SFGPUUSCL------.png)||SFGPUUSCL------|WAR.GRDTRK.UNT.CS.SIGUNT.COMCP.LCCP|Large Communication Configured Package (Lccp)|POINT|A|
+|696||![](./images/SFGPUUSF-------.png)||SFGPUUSF-------|WAR.GRDTRK.UNT.CS.SIGUNT.FWDCOM|Forward Communications|POINT|A|
+|697||![](./images/SFGPUUSM-------.png)||SFGPUUSM-------|WAR.GRDTRK.UNT.CS.SIGUNT.MSE|Multiple Subscriber Element|POINT|A|
+|698||![](./images/SFGPUUSML------.png)||SFGPUUSML------|WAR.GRDTRK.UNT.CS.SIGUNT.MSE.LEN|Large Extension Node|POINT|A|
+|699||![](./images/SFGPUUSMN------.png)||SFGPUUSMN------|WAR.GRDTRK.UNT.CS.SIGUNT.MSE.NODCTR|Node Center|POINT|A|
+|700||![](./images/SFGPUUSMS------.png)||SFGPUUSMS------|WAR.GRDTRK.UNT.CS.SIGUNT.MSE.SEN|Small Extension Node|POINT|A|
+|701||![](./images/SFGPUUSO-------.png)||SFGPUUSO-------|WAR.GRDTRK.UNT.CS.SIGUNT.CMDOPN|Command Operations|POINT|A|
+|702||![](./images/SFGPUUSR-------.png)||SFGPUUSR-------|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT|Radio Unit|POINT|A|
+|703||![](./images/SFGPUUSRS------.png)||SFGPUUSRS------|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT.TACSAT|Tactical Satellite|POINT|A|
+|704||![](./images/SFGPUUSRT------.png)||SFGPUUSRT------|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT.TTYCTR|Teletype Center|POINT|A|
+|705||![](./images/SFGPUUSRW------.png)||SFGPUUSRW------|WAR.GRDTRK.UNT.CS.SIGUNT.RDOUNT.RLY|Relay|POINT|A|
+|706||![](./images/SFGPUUSS-------.png)||SFGPUUSS-------|WAR.GRDTRK.UNT.CS.SIGUNT.SIGSUP|Signal Support|POINT|A|
+|707||![](./images/SFGPUUSW-------.png)||SFGPUUSW-------|WAR.GRDTRK.UNT.CS.SIGUNT.PHOSWT|Telephone Switch|POINT|A|
+|708||![](./images/SFGPUUSX-------.png)||SFGPUUSX-------|WAR.GRDTRK.UNT.CS.SIGUNT.ECRG|Electronic Ranging|POINT|A|
+|709||![](./images/SFPP-----------.png)||SFPP-----------|WAR.SPC|Space Track|POINT|A|
+|710||![](./images/SFPPL----------.png)||SFPPL----------|WAR.SPC.SLV|Space Launch Vehicle|POINT|A|
+|711||![](./images/SFPPS----------.png)||SFPPS----------|WAR.SPC.SAT|Satellite|POINT|A|
+|712||![](./images/SFPPT----------.png)||SFPPT----------|WAR.SPC.SST|Space Station|POINT|A|
+|713||![](./images/SFPPV----------.png)||SFPPV----------|WAR.SPC.CSV|Crewed Space Vehicle|POINT|A|
+|714||![](./images/SFSP-----------.png)||SFSP-----------|WAR.SSUF|Sea Surface Track|POINT|A|
+|715||![](./images/SFSPC----------.png)||SFSPC----------|WAR.SSUF.CBTT|Combatant|POINT|A|
+|716||![](./images/SFSPCA---------.png)||SFSPCA---------|WAR.SSUF.CBTT.AMPWS|Amphibious Warfare Ship|POINT|A|
+|717||![](./images/SFSPCALA-------.png)||SFSPCALA-------|WAR.SSUF.CBTT.AMPWS.ASTVES|Assault Vessel|POINT|A|
+|718||![](./images/SFSPCALC-------.png)||SFSPCALC-------|WAR.SSUF.CBTT.AMPWS.LNDCRT|Landing Craft|POINT|A|
+|719||![](./images/SFSPCALS-------.png)||SFSPCALS-------|WAR.SSUF.CBTT.AMPWS.LNDSHP|Landing Ship|POINT|A|
+|720||![](./images/SFSPCALSM------.png)||SFSPCALSM------|WAR.SSUF.CBTT.AMPWS.LNDSHP.MDM|Landing Ship Medium|POINT|A|
+|721||![](./images/SFSPCALST------.png)||SFSPCALST------|WAR.SSUF.CBTT.AMPWS.LNDSHP.TANK|Landing Ship Tank|POINT|A|
+|722||![](./images/SFSPCD---------.png)||SFSPCD---------|WAR.SSUF.CBTT.SUFDCY|Surface Decoy|POINT|A|
+|723||![](./images/SFSPCH---------.png)||SFSPCH---------|WAR.SSUF.CBTT.HOV|Hovercraft|POINT|A|
+|724||![](./images/SFSPCL---------.png)||SFSPCL---------|WAR.SSUF.CBTT.LNE|Line|POINT|A|
+|725||![](./images/SFSPCLBB-------.png)||SFSPCLBB-------|WAR.SSUF.CBTT.LNE.BBS|Battleship|POINT|A|
+|726||![](./images/SFSPCLCC-------.png)||SFSPCLCC-------|WAR.SSUF.CBTT.LNE.CRU|Cruiser|POINT|A|
+|727||![](./images/SFSPCLCV-------.png)||SFSPCLCV-------|WAR.SSUF.CBTT.LNE.CRR|Carrier|POINT|A|
+|728||![](./images/SFSPCLDD-------.png)||SFSPCLDD-------|WAR.SSUF.CBTT.LNE.DD|Destroyer|POINT|A|
+|729||![](./images/SFSPCLFF-------.png)||SFSPCLFF-------|WAR.SSUF.CBTT.LNE.FFR|Frigate/Corvette|POINT|A|
+|730||![](./images/SFSPCLLL-------.png)||SFSPCLLL-------|WAR.SSUF.CBTT.LNE.LL|Littoral Combatant|POINT|A|
+|731||![](./images/SFSPCLLLAS-----.png)||SFSPCLLLAS-----|WAR.SSUF.CBTT.LNE.LL.ASBW|Antisubmarine Warfare Mission Package|POINT|A|
+|732||![](./images/SFSPCLLLMI-----.png)||SFSPCLLLMI-----|WAR.SSUF.CBTT.LNE.LL.MNEW|Mine Warfare Mission Package|POINT|A|
+|733||![](./images/SFSPCLLLSU-----.png)||SFSPCLLLSU-----|WAR.SSUF.CBTT.LNE.LL.SUW|Surface Warfare (Suw) Mission Package|POINT|A|
+|734||![](./images/SFSPCM---------.png)||SFSPCM---------|WAR.SSUF.CBTT.MNEWV|Mine Warfare Vessel|POINT|A|
+|735||![](./images/SFSPCMMA-------.png)||SFSPCMMA-------|WAR.SSUF.CBTT.MNEWV.MCMSUP|Mcm Support|POINT|A|
+|736||![](./images/SFSPCMMH-------.png)||SFSPCMMH-------|WAR.SSUF.CBTT.MNEWV.MNEHNT|Minehunter|POINT|A|
+|737||![](./images/SFSPCMML-------.png)||SFSPCMML-------|WAR.SSUF.CBTT.MNEWV.MNELYR|Minelayer|POINT|A|
+|738||![](./images/SFSPCMMS-------.png)||SFSPCMMS-------|WAR.SSUF.CBTT.MNEWV.MNESWE|Minesweeper|POINT|A|
+|739||![](./images/SFSPCP---------.png)||SFSPCP---------|WAR.SSUF.CBTT.PAT|Patrol|POINT|A|
+|740||![](./images/SFSPCPSB-------.png)||SFSPCPSB-------|WAR.SSUF.CBTT.PAT.ASBW|Antisubmarine Warfare|POINT|A|
+|741||![](./images/SFSPCPSU-------.png)||SFSPCPSU-------|WAR.SSUF.CBTT.PAT.ASUW|Antisurface Warfare|POINT|A|
+|742||![](./images/SFSPCPSUG------.png)||SFSPCPSUG------|WAR.SSUF.CBTT.PAT.ASUW.GUN|Gun Patrol Craft|POINT|A|
+|743||![](./images/SFSPCPSUM------.png)||SFSPCPSUM------|WAR.SSUF.CBTT.PAT.ASUW.ASMSL|Antiship Missile Patrol Craft|POINT|A|
+|744||![](./images/SFSPCPSUT------.png)||SFSPCPSUT------|WAR.SSUF.CBTT.PAT.ASUW.TPD|Torpedo Patrol Craft|POINT|A|
+|745||![](./images/SFSPCU---------.png)||SFSPCU---------|WAR.SSUF.CBTT.USV|Unmanned Surface Vehicle|POINT|A|
+|746||![](./images/SFSPCUM--------.png)||SFSPCUM--------|WAR.SSUF.CBTT.USV.MNECM|Mine Countermeasures Surface Drone|POINT|A|
+|747||![](./images/SFSPCUN--------.png)||SFSPCUN--------|WAR.SSUF.CBTT.USV.ASUW|Antisurface Warfare Surface Drone|POINT|A|
+|748||![](./images/SFSPCUR--------.png)||SFSPCUR--------|WAR.SSUF.CBTT.USV.RMV|Remote Multimission Vehicle|POINT|A|
+|749||![](./images/SFSPCUS--------.png)||SFSPCUS--------|WAR.SSUF.CBTT.USV.ASBW|Antisubmarine Warfare Surface Drone|POINT|A|
+|750||![](./images/SFSPG----------.png)||SFSPG----------|WAR.SSUF.CBTT.NAVGRP|Navy Group|POINT|A|
+|751||![](./images/SFSPGC---------.png)||SFSPGC---------|WAR.SSUF.CBTT.NAVGRP.CNY|Convoy|POINT|A|
+|752||![](./images/SFSPGG---------.png)||SFSPGG---------|WAR.SSUF.CBTT.NAVGRP.NAVTG|Navy Task Group|POINT|A|
+|753||![](./images/SFSPGT---------.png)||SFSPGT---------|WAR.SSUF.CBTT.NAVGRP.NAVTF|Navy Task Force|POINT|A|
+|754||![](./images/SFSPGU---------.png)||SFSPGU---------|WAR.SSUF.CBTT.NAVGRP.NAVTU|Navy Task Unit|POINT|A|
+|755||![](./images/SFSPN----------.png)||SFSPN----------|WAR.SSUF.NCBTT|Noncombatant|POINT|A|
+|756||![](./images/SFSPNF---------.png)||SFSPNF---------|WAR.SSUF.NCBTT.FLTSUP|Fleet Support|POINT|A|
+|757||![](./images/SFSPNH---------.png)||SFSPNH---------|WAR.SSUF.NCBTT.HOV|Hovercraft|POINT|A|
+|758||![](./images/SFSPNI---------.png)||SFSPNI---------|WAR.SSUF.NCBTT.INT|Intelligence|POINT|A|
+|759||![](./images/SFSPNM---------.png)||SFSPNM---------|WAR.SSUF.NCBTT.HSPSHP|Hospital Ship|POINT|A|
+|760||![](./images/SFSPNR---------.png)||SFSPNR---------|WAR.SSUF.NCBTT.UWRPM|Underway Replenishment|POINT|A|
+|761||![](./images/SFSPNS---------.png)||SFSPNS---------|WAR.SSUF.NCBTT.SSH|Service & Support Harbor|POINT|A|
+|762||![](./images/SFSPO----------.png)||SFSPO----------|WAR.SSUF.OWN|Own Track|POINT|A|
+|763||![](./images/SFSPXA---------.png)||SFSPXA---------|WAR.SSUF.NMIL.FSTREC|Fast Recreactional Craft|POINT|A|
+|764||![](./images/SFSPXAR--------.png)||SFSPXAR--------|WAR.SSUF.NMIL.FSTREC.RHIB|Rigid-Hull Inflatable Boat|POINT|A|
+|765||![](./images/SFSPXAS--------.png)||SFSPXAS--------|WAR.SSUF.NMIL.FSTREC.SPDBT|Speed Boat|POINT|A|
+|766||![](./images/SFSPXF---------.png)||SFSPXF---------|WAR.SSUF.NMIL.FSG|Fishing|POINT|A|
+|767||![](./images/SFSPXFDF-------.png)||SFSPXFDF-------|WAR.SSUF.NMIL.FSG.DRFT|Drifter|POINT|A|
+|768||![](./images/SFSPXFDR-------.png)||SFSPXFDR-------|WAR.SSUF.NMIL.FSG.DRG|Dredge|POINT|A|
+|769||![](./images/SFSPXFTR-------.png)||SFSPXFTR-------|WAR.SSUF.NMIL.FSG.TRW|Trawler|POINT|A|
+|770||![](./images/SFSPXH---------.png)||SFSPXH---------|WAR.SSUF.NMIL.HOV|Hovercraft|POINT|A|
+|771||![](./images/SFSPXL---------.png)||SFSPXL---------|WAR.SSUF.NMIL.LAWENV|Law Enforcement Vessel|POINT|A|
+|772||![](./images/SFSPXM---------.png)||SFSPXM---------|WAR.SSUF.NMIL.MCT|Merchant|POINT|A|
+|773||![](./images/SFSPXMC--------.png)||SFSPXMC--------|WAR.SSUF.NMIL.MCT.CGO|Cargo|POINT|A|
+|774||![](./images/SFSPXMF--------.png)||SFSPXMF--------|WAR.SSUF.NMIL.MCT.FRY|Ferry|POINT|A|
+|775||![](./images/SFSPXMH--------.png)||SFSPXMH--------|WAR.SSUF.NMIL.MCT.HAZMAT|Hazardous Materials (Hazmat)|POINT|A|
+|776||![](./images/SFSPXMO--------.png)||SFSPXMO--------|WAR.SSUF.NMIL.MCT.OLR|Oiler/Tanker|POINT|A|
+|777||![](./images/SFSPXMP--------.png)||SFSPXMP--------|WAR.SSUF.NMIL.MCT.PSG|Passenger|POINT|A|
+|778||![](./images/SFSPXMR--------.png)||SFSPXMR--------|WAR.SSUF.NMIL.MCT.RORO|Roll On/Roll Off|POINT|A|
+|779||![](./images/SFSPXMTO-------.png)||SFSPXMTO-------|WAR.SSUF.NMIL.MCT.TOWVES|Towing Vessel|POINT|A|
+|780||![](./images/SFSPXMTU-------.png)||SFSPXMTU-------|WAR.SSUF.NMIL.MCT.TUG|Tug|POINT|A|
+|781||![](./images/SFSPXP---------.png)||SFSPXP---------|WAR.SSUF.NMIL.PWC|Personal Watercraft|POINT|A|
+|782||![](./images/SFSPXR---------.png)||SFSPXR---------|WAR.SSUF.NMIL.LESCRT|Leisure Craft|POINT|A|
+|783||![](./images/SFUP-----------.png)||SFUP-----------|WAR.SBSUF|Subsurface Track|POINT|A|
+|784||![](./images/SFUPE----------.png)||SFUPE----------|WAR.SBSUF.ERL|Environmental Report Location|POINT|A|
+|785||![](./images/SFUPND---------.png)||SFUPND---------|WAR.SBSUF.NSUB.DVR|Diver|POINT|A|
+|786||![](./images/SFUPS----------.png)||SFUPS----------|WAR.SBSUF.SUB|Submarine|POINT|A|
+|787||![](./images/SFUPS1---------.png)||SFUPS1---------|WAR.SBSUF.SUB.POSS1|Possible Submarine 1|POINT|A|
+|788||![](./images/SFUPS2---------.png)||SFUPS2---------|WAR.SBSUF.SUB.POSS2|Possible Submarine 2|POINT|A|
+|789||![](./images/SFUPS3---------.png)||SFUPS3---------|WAR.SBSUF.SUB.POSS3|Possible Submarine 3|POINT|A|
+|790||![](./images/SFUPS4---------.png)||SFUPS4---------|WAR.SBSUF.SUB.POSS4|Possible Submarine 4|POINT|A|
+|791||![](./images/SFUPSB---------.png)||SFUPSB---------|WAR.SBSUF.SUB.BOTTMD|Bottomed|POINT|A|
+|792||![](./images/SFUPSC---------.png)||SFUPSC---------|WAR.SBSUF.SUB.CNVPRN|Conventional Propulsion|POINT|A|
+|793||![](./images/SFUPSCA--------.png)||SFUPSCA--------|WAR.SBSUF.SUB.CNVPRN.ATK|Attack Submarine (Ss)|POINT|A|
+|794||![](./images/SFUPSCB--------.png)||SFUPSCB--------|WAR.SBSUF.SUB.CNVPRN.BLST|Ballistic Missile Submarine (Ssb)|POINT|A|
+|795||![](./images/SFUPSCF--------.png)||SFUPSCF--------|WAR.SBSUF.SUB.CNVPRN.SURF|Surfaced Conventional Propulsion Submarine|POINT|A|
+|796||![](./images/SFUPSCG--------.png)||SFUPSCG--------|WAR.SBSUF.SUB.CNVPRN.GDD|Guided Missile Submarine (Ssg)|POINT|A|
+|797||![](./images/SFUPSCM--------.png)||SFUPSCM--------|WAR.SBSUF.SUB.CNVPRN.MSL|Missile Submarine (Type Unknown)|POINT|A|
+|798||![](./images/SFUPSF---------.png)||SFUPSF---------|WAR.SBSUF.SUB.SURF|Surfaced Submarine|POINT|A|
+|799||![](./images/SFUPSK---------.png)||SFUPSK---------|WAR.SBSUF.SUB.SNORKL|Snorkeling Submarine|POINT|A|
+|800||![](./images/SFUPSL---------.png)||SFUPSL---------|WAR.SBSUF.SUB.PRBSUB|Probable Submarine|POINT|A|
+|801||![](./images/SFUPSN---------.png)||SFUPSN---------|WAR.SBSUF.SUB.NPRN|Nuclear Propulsion|POINT|A|
+|802||![](./images/SFUPSNA--------.png)||SFUPSNA--------|WAR.SBSUF.SUB.NPRN.ATK|Attack Submarine (Ssn)|POINT|A|
+|803||![](./images/SFUPSNB--------.png)||SFUPSNB--------|WAR.SBSUF.SUB.NPRN.BLST|Ballistic Missile Submarine (Ssbn)|POINT|A|
+|804||![](./images/SFUPSNF--------.png)||SFUPSNF--------|WAR.SBSUF.SUB.NPRN.SURF|Surfaced Nuclear Propulsion Submarine|POINT|A|
+|805||![](./images/SFUPSNG--------.png)||SFUPSNG--------|WAR.SBSUF.SUB.NPRN.GDD|Guided Missile Submarine (Ssgn)|POINT|A|
+|806||![](./images/SFUPSNM--------.png)||SFUPSNM--------|WAR.SBSUF.SUB.NPRN.MSL|Missile Submarine (Type Unknown)|POINT|A|
+|807||![](./images/SFUPSO---------.png)||SFUPSO---------|WAR.SBSUF.SUB.OTH|Other Submersible|POINT|A|
+|808||![](./images/SFUPSOF--------.png)||SFUPSOF--------|WAR.SBSUF.SUB.OTH.SURF|Surfaced Other Submersible|POINT|A|
+|809||![](./images/SFUPSR---------.png)||SFUPSR---------|WAR.SBSUF.SUB.CRT|Certain Submarine|POINT|A|
+|810||![](./images/SFUPSU---------.png)||SFUPSU---------|WAR.SBSUF.SUB.UUV|Unmanned Underwater Vehicle (Uuv)|POINT|A|
+|811||![](./images/SFUPSUM--------.png)||SFUPSUM--------|WAR.SBSUF.SUB.UUV.MNEW|Mine Warfare Subsurface Drone|POINT|A|
+|812||![](./images/SFUPSUN--------.png)||SFUPSUN--------|WAR.SBSUF.SUB.UUV.ASUW|Antisurface Warfare Subsurface Drone|POINT|A|
+|813||![](./images/SFUPSUS--------.png)||SFUPSUS--------|WAR.SBSUF.SUB.UUV.ASBW|Antisubmarine Warfare Subsurface Drone|POINT|A|
+|814||![](./images/SFUPSX---------.png)||SFUPSX---------|WAR.SBSUF.SUB.NONSUB|Nonsubmarine|POINT|A|
+|815||![](./images/SFUPV----------.png)||SFUPV----------|WAR.SBSUF.DRL|Dive Report Location|POINT|A|
+|816||![](./images/SFUPW----------.png)||SFUPW----------|WAR.SBSUF.UH2WPN|Underwater Weapon|POINT|A|
+|817||![](./images/SFUPWD---------.png)||SFUPWD---------|WAR.SBSUF.UH2DCY|Underwater Decoy|POINT|A|
+|818||![](./images/SFUPWDM--------.png)||SFUPWDM--------|WAR.SBSUF.UH2DCY.SMDCY|Sea Mine Decoy|POINT|A|
+|819||![](./images/SFUPWDMG-------.png)||SFUPWDMG-------|WAR.SBSUF.UH2DCY.SMDCY.GRND|Ground (Bottom) Decoy|POINT|A|
+|820||![](./images/SFUPWDMM-------.png)||SFUPWDMM-------|WAR.SBSUF.UH2DCY.SMDCY.MOORED|Moored Decoy|POINT|A|
+|821||![](./images/SFUPWM---------.png)||SFUPWM---------|WAR.SBSUF.UH2WPN.SMNE|Sea Mine|POINT|A|
+|822||![](./images/SFUPWMA--------.png)||SFUPWMA--------|WAR.SBSUF.UH2WPN.SMNE.ANCHOR|General Mine Anchor|POINT|A|
+|823||![](./images/SFUPWMB--------.png)||SFUPWMB--------|WAR.SBSUF.UH2WPN.SMNE.OBSTRC|General Obstructor|POINT|A|
+|824||![](./images/SFUPWMBD-------.png)||SFUPWMBD-------|WAR.SBSUF.UH2WPN.SMNE.OBSTRC.NTRLZD|General Neutralized Obstructor|POINT|A|
+|825||![](./images/SFUPWMC--------.png)||SFUPWMC--------|WAR.SBSUF.UH2WPN.SMNE.MILCO|General Mine-Like Contact (Milco)|POINT|A|
+|826||![](./images/SFUPWMD--------.png)||SFUPWMD--------|WAR.SBSUF.UH2WPN.SMNE.NTRLZD|Sea Mine Neutralized|POINT|A|
+|827||![](./images/SFUPWME--------.png)||SFUPWME--------|WAR.SBSUF.UH2WPN.SMNE.MILEC|General Mine-Like Echo (Milec)|POINT|A|
+|828||![](./images/SFUPWMF--------.png)||SFUPWMF--------|WAR.SBSUF.UH2WPN.SMNE.SMF|Sea Mine (Floating)|POINT|A|
+|829||![](./images/SFUPWMFC-------.png)||SFUPWMFC-------|WAR.SBSUF.UH2WPN.SMNE.SMF.MILCO|Floating Mine-Like Contact (Milco)|POINT|A|
+|830||![](./images/SFUPWMFD-------.png)||SFUPWMFD-------|WAR.SBSUF.UH2WPN.SMNE.SMF.NTRLZD|Sea Mine (Floating) Neutralized|POINT|A|
+|831||![](./images/SFUPWMFE-------.png)||SFUPWMFE-------|WAR.SBSUF.UH2WPN.SMNE.SMF.MILEC|Floating Mine-Like Echo (Milec)|POINT|A|
+|832||![](./images/SFUPWMFO-------.png)||SFUPWMFO-------|WAR.SBSUF.UH2WPN.SMNE.SMF.NMMLCO|Floating Non-Mine Mine-Like Contact|POINT|A|
+|833||![](./images/SFUPWMFR-------.png)||SFUPWMFR-------|WAR.SBSUF.UH2WPN.SMNE.SMF.NGREAC|Floating Negative Reacquisition|POINT|A|
+|834||![](./images/SFUPWMFX-------.png)||SFUPWMFX-------|WAR.SBSUF.UH2WPN.SMNE.SMF.EXER|Floating Exercise Mine|POINT|A|
+|835||![](./images/SFUPWMG--------.png)||SFUPWMG--------|WAR.SBSUF.UH2WPN.SMNE.SMG|Sea Mine (Ground)|POINT|A|
+|836||![](./images/SFUPWMGC-------.png)||SFUPWMGC-------|WAR.SBSUF.UH2WPN.SMNE.SMG.MILCO|Ground (Bottom) Mine-Like Contact (Milco)|POINT|A|
+|837||![](./images/SFUPWMGD-------.png)||SFUPWMGD-------|WAR.SBSUF.UH2WPN.SMNE.SMG.NTRLZD|Sea Mine (Ground) Neutralized|POINT|A|
+|838||![](./images/SFUPWMGE-------.png)||SFUPWMGE-------|WAR.SBSUF.UH2WPN.SMNE.SMG.MILEC|Ground (Bottom) Mine-Like Echo (Milec)|POINT|A|
+|839||![](./images/SFUPWMGO-------.png)||SFUPWMGO-------|WAR.SBSUF.UH2WPN.SMNE.SMG.NMMLCO|Ground (Bottom) Non-Mine Mine-Like Contact|POINT|A|
+|840||![](./images/SFUPWMGR-------.png)||SFUPWMGR-------|WAR.SBSUF.UH2WPN.SMNE.SMG.NGREAC|Ground (Bottom) Negative Reacquisition|POINT|A|
+|841||![](./images/SFUPWMGX-------.png)||SFUPWMGX-------|WAR.SBSUF.UH2WPN.SMNE.SMG.EXER|Ground (Bottom) Exercise Mine|POINT|A|
+|842||![](./images/SFUPWMM--------.png)||SFUPWMM--------|WAR.SBSUF.UH2WPN.SMNE.SMM|Sea Mine (Moored)|POINT|A|
+|843||![](./images/SFUPWMMC-------.png)||SFUPWMMC-------|WAR.SBSUF.UH2WPN.SMNE.SMM.MILCO|Moored Mine-Like Contact|POINT|A|
+|844||![](./images/SFUPWMMD-------.png)||SFUPWMMD-------|WAR.SBSUF.UH2WPN.SMNE.SMM.NTRLZD|Sea Mine (Moored) Neutralized|POINT|A|
+|845||![](./images/SFUPWMME-------.png)||SFUPWMME-------|WAR.SBSUF.UH2WPN.SMNE.SMM.MILEC|Moored Mine-Like Echo|POINT|A|
+|846||![](./images/SFUPWMMO-------.png)||SFUPWMMO-------|WAR.SBSUF.UH2WPN.SMNE.SMM.NMMLCO|Moored Non-Mine Mine-Like Object|POINT|A|
+|847||![](./images/SFUPWMMR-------.png)||SFUPWMMR-------|WAR.SBSUF.UH2WPN.SMNE.SMM.NGREAC|Moored Negative Reacquisition|POINT|A|
+|848||![](./images/SFUPWMMX-------.png)||SFUPWMMX-------|WAR.SBSUF.UH2WPN.SMNE.SMM.EXER|Moored Exercise Mine|POINT|A|
+|849||![](./images/SFUPWMN--------.png)||SFUPWMN--------|WAR.SBSUF.UH2WPN.SMNE.NMMLCO|General Non-Mine Mine-Like Object|POINT|A|
+|850||![](./images/SFUPWMO--------.png)||SFUPWMO--------|WAR.SBSUF.UH2WPN.SMNE.SMOP|Sea Mine (Other Position)|POINT|A|
+|851||![](./images/SFUPWMOD-------.png)||SFUPWMOD-------|WAR.SBSUF.UH2WPN.SMNE.SMOP.NTRLZD|Sea Mine (Other Position) Neutralized|POINT|A|
+|852||![](./images/SFUPWMR--------.png)||SFUPWMR--------|WAR.SBSUF.UH2WPN.SMNE.NGREAC|General Negative Reacquisition|POINT|A|
+|853||![](./images/SFUPWMS--------.png)||SFUPWMS--------|WAR.SBSUF.UH2WPN.SMNE.RISING|Rising Mine|POINT|A|
+|854||![](./images/SFUPWMSD-------.png)||SFUPWMSD-------|WAR.SBSUF.UH2WPN.SMNE.RISING.NTRLZD|Rising Neutralized Mine|POINT|A|
+|855||![](./images/SFUPWMSX-------.png)||SFUPWMSX-------|WAR.SBSUF.UH2WPN.SMNE.RISING.EXER|Rising Exercise Mine|POINT|A|
+|856||![](./images/SFUPWMX--------.png)||SFUPWMX--------|WAR.SBSUF.UH2WPN.SMNE.EXER|General Exercise Mine|POINT|A|
+|857||![](./images/SFUPWT---------.png)||SFUPWT---------|WAR.SBSUF.UH2WPN.TPD|Torpedo|POINT|A|
+|858||![](./images/SFUPX----------.png)||SFUPX----------|WAR.SBSUF.UXO|Unexploded Ordnance Area|POINT|A|
+|859||![](./images/GFFPACAC------X.png)||GFFPACAC------X|TACGRP.FSUPP.ARS.C2ARS.ACA.CIRCLR|Airspace Coordination Area (Aca)  Circular|AREA|B|
+|860||![](./images/GFFPACAI------X.png)||GFFPACAI------X|TACGRP.FSUPP.ARS.C2ARS.ACA.IRR|Airspace Coordination Area (Aca)  Irregular|AREA|B|
+|861||![](./images/GFFPACAR------X.png)||GFFPACAR------X|TACGRP.FSUPP.ARS.C2ARS.ACA.RTG|Airspace Coordination Area (Aca)  Rectangular|AREA|B|
+|862||![](./images/GFFPACBC------X.png)||GFFPACBC------X|TACGRP.FSUPP.ARS.C2ARS.TBA.CIRCLR|Target Build Up Area (Tba)  Circular|AREA|B|
+|863||![](./images/GFFPACBI------X.png)||GFFPACBI------X|TACGRP.FSUPP.ARS.C2ARS.TBA.IRR|Target Build Up Area (Tba)  Irregular|AREA|B|
+|864||![](./images/GFFPACBR------X.png)||GFFPACBR------X|TACGRP.FSUPP.ARS.C2ARS.TBA.RTG|Target Build Up Area (Tba)  Rectangular|AREA|B|
+|865||![](./images/GFFPACDC------X.png)||GFFPACDC------X|TACGRP.FSUPP.ARS.C2ARS.DA.CIRCLR|Dead Space Area (Da)  Circular|AREA|B|
+|866||![](./images/GFFPACDI------X.png)||GFFPACDI------X|TACGRP.FSUPP.ARS.C2ARS.DA.IRR|Dead Space Area (Da)  Irregular|AREA|B|
+|867||![](./images/GFFPACDR------X.png)||GFFPACDR------X|TACGRP.FSUPP.ARS.C2ARS.DA.RTG|Dead Space Area (Da)  Rectangular|AREA|B|
+|868||![](./images/GFFPACEC------X.png)||GFFPACEC------X|TACGRP.FSUPP.ARS.C2ARS.SNSZ.CIRCLR|Sensor Zone  Circular|AREA|B|
+|869||![](./images/GFFPACEI------X.png)||GFFPACEI------X|TACGRP.FSUPP.ARS.C2ARS.SNSZ.IRR|Sensor Zone  Irregular|AREA|B|
+|870||![](./images/GFFPACER------X.png)||GFFPACER------X|TACGRP.FSUPP.ARS.C2ARS.SNSZ.RTG|Sensor Zone  Rectangular|AREA|B|
+|871||![](./images/GFFPACFC------X.png)||GFFPACFC------X|TACGRP.FSUPP.ARS.C2ARS.FFA.CIRCLR|Free Fire Area (Ffa)  Circular|AREA|B|
+|872||![](./images/GFFPACFI------X.png)||GFFPACFI------X|TACGRP.FSUPP.ARS.C2ARS.FFA.IRR|Free Fire Area (Ffa)  Irregular|AREA|B|
+|873||![](./images/GFFPACFR------X.png)||GFFPACFR------X|TACGRP.FSUPP.ARS.C2ARS.FFA.RTG|Free Fire Area (Ffa)  Rectangular|AREA|B|
+|874||![](./images/GFFPACNC------X.png)||GFFPACNC------X|TACGRP.FSUPP.ARS.C2ARS.NFA.CIRCLR|No Fire Area (Nfa)  Circular|AREA|B|
+|875||![](./images/GFFPACNI------X.png)||GFFPACNI------X|TACGRP.FSUPP.ARS.C2ARS.NFA.IRR|No Fire Area (Nfa)  Irregular|AREA|B|
+|876||![](./images/GFFPACNR------X.png)||GFFPACNR------X|TACGRP.FSUPP.ARS.C2ARS.NFA.RTG|No Fire Area (Nfa)  Rectangular|AREA|B|
+|877||![](./images/GFFPACPC------X.png)||GFFPACPC------X|TACGRP.FSUPP.ARS.C2ARS.PAA.CIRCLR|Position Area For Artillery (Paa)  Circular|AREA|B|
+|878||![](./images/GFFPACPR------X.png)||GFFPACPR------X|TACGRP.FSUPP.ARS.C2ARS.PAA.RTG|Position Area For Artillery (Paa)  Rectangular|AREA|B|
+|879||![](./images/GFFPACRC------X.png)||GFFPACRC------X|TACGRP.FSUPP.ARS.C2ARS.RFA.CIRCLR|Restrictive Fire Area (Rfa)  Circular|AREA|B|
+|880||![](./images/GFFPACRI------X.png)||GFFPACRI------X|TACGRP.FSUPP.ARS.C2ARS.RFA.IRR|Restrictive Fire Area (Rfa)  Irregular|AREA|B|
+|881||![](./images/GFFPACRR------X.png)||GFFPACRR------X|TACGRP.FSUPP.ARS.C2ARS.RFA.RTG|Restrictive Fire Area (Rfa)  Rectangular|AREA|B|
+|882||![](./images/GFFPACSC------X.png)||GFFPACSC------X|TACGRP.FSUPP.ARS.C2ARS.FSA.CIRCLR|Fire Support Area (Fsa)  Circular|AREA|B|
+|883||![](./images/GFFPACSI------X.png)||GFFPACSI------X|TACGRP.FSUPP.ARS.C2ARS.FSA.IRR|Fire Support Area (Fsa)  Irregular|AREA|B|
+|884||![](./images/GFFPACSR------X.png)||GFFPACSR------X|TACGRP.FSUPP.ARS.C2ARS.FSA.RTG|Fire Support Area (Fsa)  Rectangular|AREA|B|
+|885||![](./images/GFFPACT-------X.png)||GFFPACT-------X|TACGRP.FSUPP.ARS.C2ARS.TGMF|Terminally Guided Munition Footprint (Tgmf)|AREA|B|
+|886||![](./images/GFFPACVC------X.png)||GFFPACVC------X|TACGRP.FSUPP.ARS.C2ARS.TVAR.CIRCLR|Target Value Area (Tvar)  Circular|AREA|B|
+|887||![](./images/GFFPACVI------X.png)||GFFPACVI------X|TACGRP.FSUPP.ARS.C2ARS.TVAR.IRR|Target Value Area (Tvar)  Irregular|AREA|B|
+|888||![](./images/GFFPACVR------X.png)||GFFPACVR------X|TACGRP.FSUPP.ARS.C2ARS.TVAR.RTG|Target Value Area (Tvar)  Rectangular|AREA|B|
+|889||![](./images/GFFPACZC------X.png)||GFFPACZC------X|TACGRP.FSUPP.ARS.C2ARS.ZOR.CIRCLR|Zone Of Responsibility (Zor)  Circular|AREA|B|
+|890||![](./images/GFFPACZI------X.png)||GFFPACZI------X|TACGRP.FSUPP.ARS.C2ARS.ZOR.IRR|Zone Of Responsibility (Zor)  Irregular|AREA|B|
+|891||![](./images/GFFPACZR------X.png)||GFFPACZR------X|TACGRP.FSUPP.ARS.C2ARS.ZOR.RTG|Zone Of Responsibility (Zor)  Rectangular|AREA|B|
+|892||![](./images/GFFPAKBC------X.png)||GFFPAKBC------X|TACGRP.FSUPP.ARS.KLBOX.BLUE.CIRCLR|Blue Kill Box  Circular|AREA|B|
+|893||![](./images/GFFPAKBI------X.png)||GFFPAKBI------X|TACGRP.FSUPP.ARS.KLBOX.BLUE.IRR|Blue Kill Box  Irregular|AREA|B|
+|894||![](./images/GFFPAKBR------X.png)||GFFPAKBR------X|TACGRP.FSUPP.ARS.KLBOX.BLUE.RTG|Blue Kill Box  Rectangular|AREA|B|
+|895||![](./images/GFFPAKPC------X.png)||GFFPAKPC------X|TACGRP.FSUPP.ARS.KLBOX.PURPLE.CIRCLR|Purple Kill Box  Circular|AREA|B|
+|896||![](./images/GFFPAKPI------X.png)||GFFPAKPI------X|TACGRP.FSUPP.ARS.KLBOX.PURPLE.IRR|Purple Kill Box  Irregular|AREA|B|
+|897||![](./images/GFFPAKPR------X.png)||GFFPAKPR------X|TACGRP.FSUPP.ARS.KLBOX.PURPLE.RTG|Purple Kill Box  Rectangular|AREA|B|
+|898||![](./images/GFFPATB-------X.png)||GFFPATB-------X|TACGRP.FSUPP.ARS.ARATGT.BMARA|Bomb Area|AREA|B|
+|899||![](./images/GFFPATC-------X.png)||GFFPATC-------X|TACGRP.FSUPP.ARS.ARATGT.CIRTGT|Circular Target|AREA|B|
+|900||![](./images/GFFPATG-------X.png)||GFFPATG-------X|TACGRP.FSUPP.ARS.ARATGT.SGTGT|Series Or Group Of Targets|AREA|B|
+|901||![](./images/GFFPATR-------X.png)||GFFPATR-------X|TACGRP.FSUPP.ARS.ARATGT.RTGTGT|Rectangular Target|AREA|B|
+|902||![](./images/GFFPATS-------X.png)||GFFPATS-------X|TACGRP.FSUPP.ARS.ARATGT.SMK|Smoke|AREA|B|
+|903||![](./images/GFFPAT--------X.png)||GFFPAT--------X|TACGRP.FSUPP.ARS.ARATGT|Area Target|AREA|B|
+|904||![](./images/GFFPAXC-------X.png)||GFFPAXC-------X|TACGRP.FSUPP.ARS.WPNRF.CIRCLR|Weapon/Sensor Range Fan  Circular|AREA|B|
+|905||![](./images/GFFPAXS-------X.png)||GFFPAXS-------X|TACGRP.FSUPP.ARS.WPNRF.SCR|Weapon/Sensor Range Fan  Sector|AREA|B|
+|906||![](./images/GFFPAZCI------X.png)||GFFPAZCI------X|TACGRP.FSUPP.ARS.TGTAQZ.CNS.IRR|Censor Zone  Irregular|AREA|B|
+|907||![](./images/GFFPAZCR------X.png)||GFFPAZCR------X|TACGRP.FSUPP.ARS.TGTAQZ.CNS.RTG|Censor Zone  Rectangular|AREA|B|
+|908||![](./images/GFFPAZFI------X.png)||GFFPAZFI------X|TACGRP.FSUPP.ARS.TGTAQZ.CFZ.IRR|Critical Friendly Zone (Cfz)  Irregular|AREA|B|
+|909||![](./images/GFFPAZFR------X.png)||GFFPAZFR------X|TACGRP.FSUPP.ARS.TGTAQZ.CFZ.RTG|Critical Friendly Zone (Cfz)  Rectangular|AREA|B|
+|910||![](./images/GFFPAZII------X.png)||GFFPAZII------X|TACGRP.FSUPP.ARS.TGTAQZ.ATIZ.IRR|Artillery Target Intelligence (Ati) Zone  Irregular|AREA|B|
+|911||![](./images/GFFPAZIR------X.png)||GFFPAZIR------X|TACGRP.FSUPP.ARS.TGTAQZ.ATIZ.RTG|Artillery Target Intelligence (Ati) Zone  Rectangular|AREA|B|
+|912||![](./images/GFFPAZXI------X.png)||GFFPAZXI------X|TACGRP.FSUPP.ARS.TGTAQZ.CFFZ.IRR|Call For Fire Zone (Cffz)  Irregular|AREA|B|
+|913||![](./images/GFFPAZXR------X.png)||GFFPAZXR------X|TACGRP.FSUPP.ARS.TGTAQZ.CFFZ.RTG|Call For Fire Zone (Cffz)  Rectangular|AREA|B|
+|914||![](./images/GFFPLCC-------X.png)||GFFPLCC-------X|TACGRP.FSUPP.LNE.C2LNE.CFL|Coordinated Fire Line (Cfl)|LINE|B|
+|915||![](./images/GFFPLCF-------X.png)||GFFPLCF-------X|TACGRP.FSUPP.LNE.C2LNE.FSCL|Fire Support Coordination Line (Fscl)|LINE|B|
+|916||![](./images/GFFPLCM-------X.png)||GFFPLCM-------X|TACGRP.FSUPP.LNE.C2LNE.MFP|Munition Flight Path (Mfp)|LINE|B|
+|917||![](./images/GFFPLCN-------X.png)||GFFPLCN-------X|TACGRP.FSUPP.LNE.C2LNE.NFL|No-Fire Line (Nfl)|LINE|B|
+|918||![](./images/GFFPLCR-------X.png)||GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B|
+|919||![](./images/GFFPLTF-------X.png)||GFFPLTF-------X|TACGRP.FSUPP.LNE.LNRTGT.FPF|Final Protective Fire (Fpf)|LINE|B|
+|920||![](./images/GFFPLTS-------X.png)||GFFPLTS-------X|TACGRP.FSUPP.LNE.LNRTGT.LSTGT|Linear Smoke Target|LINE|B|
+|921||![](./images/GFFPLT--------X.png)||GFFPLT--------X|TACGRP.FSUPP.LNE.LNRTGT|Linear Target|LINE|B|
+|922||![](./images/GFFPPCB-------X.png)||GFFPPCB-------X|TACGRP.FSUPP.PNT.C2PNT.FP|Firing Point|POINT|B|
+|923||![](./images/GFFPPCF-------X.png)||GFFPPCF-------X|TACGRP.FSUPP.PNT.C2PNT.FSS|Fire Support Station|POINT|B|
+|924||![](./images/GFFPPCH-------X.png)||GFFPPCH-------X|TACGRP.FSUPP.PNT.C2PNT.HP|Hide Point|POINT|B|
+|925||![](./images/GFFPPCL-------X.png)||GFFPPCL-------X|TACGRP.FSUPP.PNT.C2PNT.LP|Launch Point|POINT|B|
+|926||![](./images/GFFPPCR-------X.png)||GFFPPCR-------X|TACGRP.FSUPP.PNT.C2PNT.RP|Reload Point|POINT|B|
+|927||![](./images/GFFPPCS-------X.png)||GFFPPCS-------X|TACGRP.FSUPP.PNT.C2PNT.SCP|Survey Control Point|POINT|B|
+|928||![](./images/GFFPPTN-------X.png)||GFFPPTN-------X|TACGRP.FSUPP.PNT.TGT.NUCTGT|Nuclear Target|POINT|B|
+|929||![](./images/GFFPPTS-------X.png)||GFFPPTS-------X|TACGRP.FSUPP.PNT.TGT.PTGT|Point/Single Target|POINT|B|
+|930||![](./images/GFGPAAF-------X.png)||GFGPAAF-------X|TACGRP.C2GM.AVN.ARS.SHRDEZ|Short-Range Air Defense Engagement Zone (Shoradez)|POINT|B|
+|931||![](./images/GFGPAAH-------X.png)||GFGPAAH-------X|TACGRP.C2GM.AVN.ARS.HIDACZ|High Density Airspace Control Zone (Hidacz)|POINT|B|
+|932||![](./images/GFGPAAMH------X.png)||GFGPAAMH------X|TACGRP.C2GM.AVN.ARS.MEZ.HAMEZ|High Altitude Mez|POINT|B|
+|933||![](./images/GFGPAAML------X.png)||GFGPAAML------X|TACGRP.C2GM.AVN.ARS.MEZ.LAMEZ|Low Altitude Mez|POINT|B|
+|934||![](./images/GFGPAAM-------X.png)||GFGPAAM-------X|TACGRP.C2GM.AVN.ARS.MEZ|Missile Engagement Zone (Mez)|POINT|B|
+|935||![](./images/GFGPAAR-------X.png)||GFGPAAR-------X|TACGRP.C2GM.AVN.ARS.ROZ|Restricted Operations Zone (Roz)|POINT|B|
+|936||![](./images/GFGPAAW-------X.png)||GFGPAAW-------X|TACGRP.C2GM.AVN.ARS.WFZ|Weapons Free Zone|POINT|B|
+|937||![](./images/GFGPALC-------X.png)||GFGPALC-------X|TACGRP.C2GM.AVN.LNE.ACDR|Air Corridor|LINE|B|
+|938||![](./images/GFGPALL-------X.png)||GFGPALL-------X|TACGRP.C2GM.AVN.LNE.LLTR|Low Level Transit Route (Lltr)|LINE|B|
+|939||![](./images/GFGPALM-------X.png)||GFGPALM-------X|TACGRP.C2GM.AVN.LNE.MRR|Minimum Risk Route (Mrr)|LINE|B|
+|940||![](./images/GFGPALS-------X.png)||GFGPALS-------X|TACGRP.C2GM.AVN.LNE.SAAFR|Standard-Use Army Aircraft Flight Route (Saafr)|LINE|B|
+|941||![](./images/GFGPALU-------X.png)||GFGPALU-------X|TACGRP.C2GM.AVN.LNE.UAR|Unmanned Aircraft (Ua) Route|LINE|B|
+|942||![](./images/GFGPAPC-------X.png)||GFGPAPC-------X|TACGRP.C2GM.AVN.PNT.COMMCP|Communications Checkpoint (Ccp)|POINT|B|
+|943||![](./images/GFGPAPD-------X.png)||GFGPAPD-------X|TACGRP.C2GM.AVN.PNT.DAPP|Downed Aircrew Pickup Point|POINT|B|
+|944||![](./images/GFGPAPP-------X.png)||GFGPAPP-------X|TACGRP.C2GM.AVN.PNT.ACP|Air Control Point (Acp)|POINT|B|
+|945||![](./images/GFGPAPU-------X.png)||GFGPAPU-------X|TACGRP.C2GM.AVN.PNT.PUP|Pull-Up Point (Pup)|POINT|B|
+|946||![](./images/GFGPDABP------X.png)||GFGPDABP------X|TACGRP.C2GM.DEF.ARS.BTLPSN.PBNO|Prepared But Not Occupied|POINT|B|
+|947||![](./images/GFGPDAB-------X.png)||GFGPDAB-------X|TACGRP.C2GM.DEF.ARS.BTLPSN|Battle Position|POINT|B|
+|948||![](./images/GFGPDAE-------X.png)||GFGPDAE-------X|TACGRP.C2GM.DEF.ARS.EMTARA|Engagement Area|AREA|B|
+|949||![](./images/GFGPDLF-------X.png)||GFGPDLF-------X|TACGRP.C2GM.DEF.LNE.FEBA|Forward Edge Of Battle Area (Feba)|LINE|B|
+|950||![](./images/GFGPDLP-------X.png)||GFGPDLP-------X|TACGRP.C2GM.DEF.LNE.PDF|Principal Direction Of Fire (Pdf)|LINE|B|
+|951||![](./images/GFGPDPOC------X.png)||GFGPDPOC------X|TACGRP.C2GM.DEF.PNT.OBSPST.CBTPST|Combat Outpost|POINT|B|
+|952||![](./images/GFGPDPOF------X.png)||GFGPDPOF------X|TACGRP.C2GM.DEF.PNT.OBSPST.FWDOP|Forward Observer Position|POINT|B|
+|953||![](./images/GFGPDPON------X.png)||GFGPDPON------X|TACGRP.C2GM.DEF.PNT.OBSPST.CBRNOP|Cbrn Observation Post (Dismounted)|POINT|B|
+|954||![](./images/GFGPDPOR------X.png)||GFGPDPOR------X|TACGRP.C2GM.DEF.PNT.OBSPST.RECON|Observation Post Occupied By Dismounted Scouts Or Reconnaissance|POINT|B|
+|955||![](./images/GFGPDPOS------X.png)||GFGPDPOS------X|TACGRP.C2GM.DEF.PNT.OBSPST.SOP|Sensor Outpost/Listening Post (Op/Lp)|POINT|B|
+|956||![](./images/GFGPDPO-------X.png)||GFGPDPO-------X|TACGRP.C2GM.DEF.PNT.OBSPST|Observation Post/Outpost|POINT|B|
+|957||![](./images/GFGPDPT-------X.png)||GFGPDPT-------X|TACGRP.C2GM.DEF.PNT.TGTREF|Target Reference Point (Trp)|POINT|B|
+|958||![](./images/GFGPGAA-------X.png)||GFGPGAA-------X|TACGRP.C2GM.GNL.ARS.ABYARA|Assembly Area|AREA|B|
+|959||![](./images/GFGPGAD-------X.png)||GFGPGAD-------X|TACGRP.C2GM.GNL.ARS.DRPZ|Drop Zone|POINT|B|
+|960||![](./images/GFGPGAE-------X.png)||GFGPGAE-------X|TACGRP.C2GM.GNL.ARS.EMTARA|Engagement Area|AREA|B|
+|961||![](./images/GFGPGAF-------X.png)||GFGPGAF-------X|TACGRP.C2GM.GNL.ARS.FTFDAR|Fortified Area|AREA|B|
+|962||![](./images/GFGPGAG-------X.png)||GFGPGAG-------X|TACGRP.C2GM.GNL.ARS.GENARA|General Area|AREA|B|
+|963||![](./images/GFGPGAL-------X.png)||GFGPGAL-------X|TACGRP.C2GM.GNL.ARS.LZ|Landing Zone (Lz)|POINT|B|
+|964||![](./images/GFGPGAP-------X.png)||GFGPGAP-------X|TACGRP.C2GM.GNL.ARS.PZ|Pickup Zone (Pz)|POINT|B|
+|965||![](./images/GFGPGAS-------X.png)||GFGPGAS-------X|TACGRP.C2GM.GNL.ARS.SRHARA|Search Area/Reconnaissance Area|LINE|B|
+|966||![](./images/GFGPGAX-------X.png)||GFGPGAX-------X|TACGRP.C2GM.GNL.ARS.EZ|Extraction Zone (Ez)|POINT|B|
+|967||![](./images/GFGPGAY-------X.png)||GFGPGAY-------X|TACGRP.C2GM.GNL.ARS.LAARA|Limited Access Area|AREA|B|
+|968||![](./images/GFGPGAZ-------X.png)||GFGPGAZ-------X|TACGRP.C2GM.GNL.ARS.AIRFZ|Airfield Zone|POINT|B|
+|969||![](./images/GFGPGLB-------X.png)||GFGPGLB-------X|TACGRP.C2GM.GNL.LNE.BNDS|Boundaries|LINE|B|
+|970||![](./images/GFGPGLC-------X.png)||GFGPGLC-------X|TACGRP.C2GM.GNL.LNE.LOC|Line Of Contact|LINE|B|
+|971||![](./images/GFGPGLF-------X.png)||GFGPGLF-------X|TACGRP.C2GM.GNL.LNE.FLOT|Forward Line Of Own Troops (Flot)|LINE|B|
+|972||![](./images/GFGPGLL-------X.png)||GFGPGLL-------X|TACGRP.C2GM.GNL.LNE.LITLNE|Light Line|LINE|B|
+|973||![](./images/GFGPGLP-------X.png)||GFGPGLP-------X|TACGRP.C2GM.GNL.LNE.PHELNE|Phase Line|LINE|B|
+|974||![](./images/GFGPGPAA------X.png)||GFGPGPAA------X|TACGRP.C2GM.GNL.PNT.ACTL.ASBWF|Antisubmarine Warfare  Fixed Wing|POINT|B|
+|975||![](./images/GFGPGPAB------X.png)||GFGPGPAB------X|TACGRP.C2GM.GNL.PNT.ACTL.SUWF|Sucap - Fixed Wing|POINT|B|
+|976||![](./images/GFGPGPAC------X.png)||GFGPGPAC------X|TACGRP.C2GM.GNL.PNT.ACTL.SUWR|Sucap - Rotary Wing|POINT|B|
+|977||![](./images/GFGPGPAD------X.png)||GFGPGPAD------X|TACGRP.C2GM.GNL.PNT.ACTL.MIWF|Miw - Fixed Wing|POINT|B|
+|978||![](./images/GFGPGPAE------X.png)||GFGPGPAE------X|TACGRP.C2GM.GNL.PNT.ACTL.MIWR|Miw - Rotary Wing|POINT|B|
+|979||![](./images/GFGPGPAF------X.png)||GFGPGPAF------X|TACGRP.C2GM.GNL.PNT.ACTL.UA|Unmanned Aerial System (Uas/Ua)|POINT|B|
+|980||![](./images/GFGPGPAG------X.png)||GFGPGPAG------X|TACGRP.C2GM.GNL.PNT.ACTL.VTUA|Vtua|POINT|B|
+|981||![](./images/GFGPGPAH------X.png)||GFGPGPAH------X|TACGRP.C2GM.GNL.PNT.ACTL.ASBWR|Antisubmarine Warfare  Rotary Wing|POINT|B|
+|982||![](./images/GFGPGPAI------X.png)||GFGPGPAI------X|TACGRP.C2GM.GNL.PNT.ACTL.ORB|Orbit|POINT|B|
+|983||![](./images/GFGPGPAJ------X.png)||GFGPGPAJ------X|TACGRP.C2GM.GNL.PNT.ACTL.ORBF8|Orbit - Figure Eight|POINT|B|
+|984||![](./images/GFGPGPAK------X.png)||GFGPGPAK------X|TACGRP.C2GM.GNL.PNT.ACTL.TAK|Tanking|POINT|B|
+|985||![](./images/GFGPGPAL------X.png)||GFGPGPAL------X|TACGRP.C2GM.GNL.PNT.ACTL.RPH|Replenish|POINT|B|
+|986||![](./images/GFGPGPAM------X.png)||GFGPGPAM------X|TACGRP.C2GM.GNL.PNT.ACTL.ORBRT|Orbit - Race Track|POINT|B|
+|987||![](./images/GFGPGPAN------X.png)||GFGPGPAN------X|TACGRP.C2GM.GNL.PNT.ACTL.ORBRD|Orbit - Random  Closed|POINT|B|
+|988||![](./images/GFGPGPAO------X.png)||GFGPGPAO------X|TACGRP.C2GM.GNL.PNT.ACTL.TMC|Tomcat|POINT|B|
+|989||![](./images/GFGPGPAP------X.png)||GFGPGPAP------X|TACGRP.C2GM.GNL.PNT.ACTL.CAP|Combat Air Patrol (Cap)|POINT|B|
+|990||![](./images/GFGPGPAR------X.png)||GFGPGPAR------X|TACGRP.C2GM.GNL.PNT.ACTL.RSC|Rescue|POINT|B|
+|991||![](./images/GFGPGPAS------X.png)||GFGPGPAS------X|TACGRP.C2GM.GNL.PNT.ACTL.SKEIP|Strike Ip|POINT|B|
+|992||![](./images/GFGPGPAT------X.png)||GFGPGPAT------X|TACGRP.C2GM.GNL.PNT.ACTL.TCN|Tacan|POINT|B|
+|993||![](./images/GFGPGPAW------X.png)||GFGPGPAW------X|TACGRP.C2GM.GNL.PNT.ACTL.ABNEW|Airborne Early Warning (Aew)|POINT|B|
+|994||![](./images/GFGPGPA-------X.png)||GFGPGPA-------X|TACGRP.C2GM.GNL.PNT.ACTL|Air Control|POINT|B|
+|995||![](./images/GFGPGPBSA-----X.png)||GFGPGPBSA-----X|TACGRP.C2GM.GNL.PNT.UCTL.SBSTN.ASW|Asw Submarine Control Station|POINT|B|
+|996||![](./images/GFGPGPBS------X.png)||GFGPGPBS------X|TACGRP.C2GM.GNL.PNT.UCTL.SBSTN|Submarine Control Station|POINT|B|
+|997||![](./images/GFGPGPBUA-----X.png)||GFGPGPBUA-----X|TACGRP.C2GM.GNL.PNT.UCTL.UUV.ASW|Uuv - Antisubmarine Warfare Control Station|POINT|B|
+|998||![](./images/GFGPGPBUM-----X.png)||GFGPGPBUM-----X|TACGRP.C2GM.GNL.PNT.UCTL.UUV.MIW|Uuv - Mine Warfare Control Station|POINT|B|
+|999||![](./images/GFGPGPBUS-----X.png)||GFGPGPBUS-----X|TACGRP.C2GM.GNL.PNT.UCTL.UUV.SUW|Uuv - Surface Warfare Control Station|POINT|B|
+|1000||![](./images/GFGPGPBU------X.png)||GFGPGPBU------X|TACGRP.C2GM.GNL.PNT.UCTL.UUV|Unmanned Underwater Vehicle (Uuv) Control Station|POINT|B|
+|1001||![](./images/GFGPGPB-------X.png)||GFGPGPB-------X|TACGRP.C2GM.GNL.PNT.UCTL|Subsurface Control Station|POINT|B|
+|1002||![](./images/GFGPGPCA------X.png)||GFGPGPCA------X|TACGRP.C2GM.GNL.PNT.SCTL.ASW|Asw Control Station|POINT|B|
+|1003||![](./images/GFGPGPCC------X.png)||GFGPGPCC------X|TACGRP.C2GM.GNL.PNT.SCTL.RSC|Rescue Control Point|POINT|B|
+|1004||![](./images/GFGPGPCE------X.png)||GFGPGPCE------X|TACGRP.C2GM.GNL.PNT.SCTL.REP|Replenishment Control Point|POINT|B|
+|1005||![](./images/GFGPGPCM------X.png)||GFGPGPCM------X|TACGRP.C2GM.GNL.PNT.SCTL.MIW|Miw Control Station|POINT|B|
+|1006||![](./images/GFGPGPCN------X.png)||GFGPGPCN------X|TACGRP.C2GM.GNL.PNT.SCTL.NCBTT|Noncombatant Control Station|POINT|B|
+|1007||![](./images/GFGPGPCP------X.png)||GFGPGPCP------X|TACGRP.C2GM.GNL.PNT.SCTL.PKT|Picket Control Station|POINT|B|
+|1008||![](./images/GFGPGPCR------X.png)||GFGPGPCR------X|TACGRP.C2GM.GNL.PNT.SCTL.RDV|Rendezvous Control Point|POINT|B|
+|1009||![](./images/GFGPGPCS------X.png)||GFGPGPCS------X|TACGRP.C2GM.GNL.PNT.SCTL.SUW|Suw Control Station|POINT|B|
+|1010||![](./images/GFGPGPCUA-----X.png)||GFGPGPCUA-----X|TACGRP.C2GM.GNL.PNT.SCTL.USV.ASW|Usv - Antisubmarine Warfare Control Station|POINT|B|
+|1011||![](./images/GFGPGPCUM-----X.png)||GFGPGPCUM-----X|TACGRP.C2GM.GNL.PNT.SCTL.USV.MIW|Usv - Mine Warfare Control Station|POINT|B|
+|1012||![](./images/GFGPGPCUR-----X.png)||GFGPGPCUR-----X|TACGRP.C2GM.GNL.PNT.SCTL.USV.RMV|Remote Multimission Vehicle (Rmv) Usv Control Station|POINT|B|
+|1013||![](./images/GFGPGPCUS-----X.png)||GFGPGPCUS-----X|TACGRP.C2GM.GNL.PNT.SCTL.USV.SUW|Usv - Surface Warfare Control Station|POINT|B|
+|1014||![](./images/GFGPGPCU------X.png)||GFGPGPCU------X|TACGRP.C2GM.GNL.PNT.SCTL.USV|Unmanned Surface Vehicle (Usv) Control Station|POINT|B|
+|1015||![](./images/GFGPGPC-------X.png)||GFGPGPC-------X|TACGRP.C2GM.GNL.PNT.SCTL|Sea Surface Control Station|POINT|B|
+|1016||![](./images/GFGPGPF-------X.png)||GFGPGPF-------X|TACGRP.C2GM.GNL.PNT.FRMN|Formation|POINT|B|
+|1017||![](./images/GFGPGPHA------X.png)||GFGPGPHA------X|TACGRP.C2GM.GNL.PNT.HBR.PNTA|Point A|POINT|B|
+|1018||![](./images/GFGPGPHQ------X.png)||GFGPGPHQ------X|TACGRP.C2GM.GNL.PNT.HBR.PNTQ|Point Q|POINT|B|
+|1019||![](./images/GFGPGPH-------X.png)||GFGPGPH-------X|TACGRP.C2GM.GNL.PNT.HBR|Harbor (General)|POINT|B|
+|1020||![](./images/GFGPGPHX------X.png)||GFGPGPHX------X|TACGRP.C2GM.GNL.PNT.HBR.PNTX|Point X|POINT|B|
+|1021||![](./images/GFGPGPHY------X.png)||GFGPGPHY------X|TACGRP.C2GM.GNL.PNT.HBR.PNTY|Point Y|POINT|B|
+|1022||![](./images/GFGPGPOD------X.png)||GFGPGPOD------X|TACGRP.C2GM.GNL.PNT.RTE.DVSN|Diversions|POINT|B|
+|1023||![](./images/GFGPGPOP------X.png)||GFGPGPOP------X|TACGRP.C2GM.GNL.PNT.RTE.PIM|Pim|POINT|B|
+|1024||![](./images/GFGPGPOR------X.png)||GFGPGPOR------X|TACGRP.C2GM.GNL.PNT.RTE.PNTR|Point R|POINT|B|
+|1025||![](./images/GFGPGPOW------X.png)||GFGPGPOW------X|TACGRP.C2GM.GNL.PNT.RTE.WAP|Waypoint|POINT|B|
+|1026||![](./images/GFGPGPO-------X.png)||GFGPGPO-------X|TACGRP.C2GM.GNL.PNT.RTE|Route|POINT|B|
+|1027||![](./images/GFGPGPOZ------X.png)||GFGPGPOZ------X|TACGRP.C2GM.GNL.PNT.RTE.RDV|Rendezvous|POINT|B|
+|1028||![](./images/GFGPGPPA------X.png)||GFGPGPPA------X|TACGRP.C2GM.GNL.PNT.ACTPNT.AMNPNT|Amnesty Point|POINT|B|
+|1029||![](./images/GFGPGPPC------X.png)||GFGPGPPC------X|TACGRP.C2GM.GNL.PNT.ACTPNT.CONPNT|Contact Point|POINT|B|
+|1030||![](./images/GFGPGPPD------X.png)||GFGPGPPD------X|TACGRP.C2GM.GNL.PNT.ACTPNT.DCNPNT|Decision Point|POINT|B|
+|1031||![](./images/GFGPGPPE------X.png)||GFGPGPPE------X|TACGRP.C2GM.GNL.PNT.ACTPNT.RELPNT|Release Point|POINT|B|
+|1032||![](./images/GFGPGPPK------X.png)||GFGPGPPK------X|TACGRP.C2GM.GNL.PNT.ACTPNT.CHKPNT|Check Point|POINT|B|
+|1033||![](./images/GFGPGPPL------X.png)||GFGPGPPL------X|TACGRP.C2GM.GNL.PNT.ACTPNT.LNKUPT|Linkup Point|POINT|B|
+|1034||![](./images/GFGPGPPO------X.png)||GFGPGPPO------X|TACGRP.C2GM.GNL.PNT.ACTPNT.CRDPNT|Coordination Point|POINT|B|
+|1035||![](./images/GFGPGPPP------X.png)||GFGPGPPP------X|TACGRP.C2GM.GNL.PNT.ACTPNT.PSSPNT|Passage Point|POINT|B|
+|1036||![](./images/GFGPGPPR------X.png)||GFGPGPPR------X|TACGRP.C2GM.GNL.PNT.ACTPNT.RAYPNT|Rally Point|POINT|B|
+|1037||![](./images/GFGPGPPS------X.png)||GFGPGPPS------X|TACGRP.C2GM.GNL.PNT.ACTPNT.STRPNT|Start Point|POINT|B|
+|1038||![](./images/GFGPGPPW------X.png)||GFGPGPPW------X|TACGRP.C2GM.GNL.PNT.ACTPNT.WAP|Waypoint|POINT|B|
+|1039||![](./images/GFGPGPP-------X.png)||GFGPGPP-------X|TACGRP.C2GM.GNL.PNT.ACTPNT|Action Points (General)|POINT|B|
+|1040||![](./images/GFGPGPRC------X.png)||GFGPGPRC------X|TACGRP.C2GM.GNL.PNT.REFPNT.CRDRTB|Corridor Tab|POINT|B|
+|1041||![](./images/GFGPGPRD------X.png)||GFGPGPRD------X|TACGRP.C2GM.GNL.PNT.REFPNT.DLRP|Dlrp|POINT|B|
+|1042||![](./images/GFGPGPRI------X.png)||GFGPGPRI------X|TACGRP.C2GM.GNL.PNT.REFPNT.PNTINR|Point Of Interest|POINT|B|
+|1043||![](./images/GFGPGPRM------X.png)||GFGPGPRM------X|TACGRP.C2GM.GNL.PNT.REFPNT.MRSH|Marshall Point|POINT|B|
+|1044||![](./images/GFGPGPRN------X.png)||GFGPGPRN------X|TACGRP.C2GM.GNL.PNT.REFPNT.NAVREF|Navigational Reference Point|POINT|B|
+|1045||![](./images/GFGPGPRP------X.png)||GFGPGPRP------X|TACGRP.C2GM.GNL.PNT.REFPNT.PIM|Point Of Intended Movement (Pim)|POINT|B|
+|1046||![](./images/GFGPGPRS------X.png)||GFGPGPRS------X|TACGRP.C2GM.GNL.PNT.REFPNT.SPLPNT|Special Point|POINT|B|
+|1047||![](./images/GFGPGPRW------X.png)||GFGPGPRW------X|TACGRP.C2GM.GNL.PNT.REFPNT.WAP|Waypoint|POINT|B|
+|1048||![](./images/GFGPGPR-------X.png)||GFGPGPR-------X|TACGRP.C2GM.GNL.PNT.REFPNT|Reference Point|POINT|B|
+|1049||![](./images/GFGPGPUSA-----X.png)||GFGPGPUSA-----X|TACGRP.C2GM.GNL.PNT.USW.SRH.ARA|Search Area|POINT|B|
+|1050||![](./images/GFGPGPUSC-----X.png)||GFGPGPUSC-----X|TACGRP.C2GM.GNL.PNT.USW.SRH.CTR|Search Center|POINT|B|
+|1051||![](./images/GFGPGPUSD-----X.png)||GFGPGPUSD-----X|TACGRP.C2GM.GNL.PNT.USW.SRH.DIPPSN|Dip Position|POINT|B|
+|1052||![](./images/GFGPGPUS------X.png)||GFGPGPUS------X|TACGRP.C2GM.GNL.PNT.USW.SRH|Search|POINT|B|
+|1053||![](./images/GFGPGPUUB-----X.png)||GFGPGPUUB-----X|TACGRP.C2GM.GNL.PNT.USW.UH2.BCON|Brief Contact|POINT|B|
+|1054||![](./images/GFGPGPUUD-----X.png)||GFGPGPUUD-----X|TACGRP.C2GM.GNL.PNT.USW.UH2.DTM|Datum|POINT|B|
+|1055||![](./images/GFGPGPUUL-----X.png)||GFGPGPUUL-----X|TACGRP.C2GM.GNL.PNT.USW.UH2.LCON|Lost Contact|POINT|B|
+|1056||![](./images/GFGPGPUUS-----X.png)||GFGPGPUUS-----X|TACGRP.C2GM.GNL.PNT.USW.UH2.SNK|Sinker|POINT|B|
+|1057||![](./images/GFGPGPUYA-----X.png)||GFGPGPUYA-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.ANM|Anm|POINT|B|
+|1058||![](./images/GFGPGPUYB-----X.png)||GFGPGPUYB-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.BT|Bathythermograph Transmitting (Bt)|POINT|B|
+|1059||![](./images/GFGPGPUYC-----X.png)||GFGPGPUYC-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.CASS|Command Active Sonobuoy System (Cass)|POINT|B|
+|1060||![](./images/GFGPGPUYD-----X.png)||GFGPGPUYD-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.DIFAR|Directional Frequency Analyzing And Recording (Difar)|POINT|B|
+|1061||![](./images/GFGPGPUYK-----X.png)||GFGPGPUYK-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.KGP|Kingpin|POINT|B|
+|1062||![](./images/GFGPGPUYL-----X.png)||GFGPGPUYL-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.LOFAR|Low Frequency Analyzing And Recording (Lofar)|POINT|B|
+|1063||![](./images/GFGPGPUYP-----X.png)||GFGPGPUYP-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.PTNCTR|Pattern Center|POINT|B|
+|1064||![](./images/GFGPGPUYR-----X.png)||GFGPGPUYR-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.RO|Range Only (Ro)|POINT|B|
+|1065||![](./images/GFGPGPUYS-----X.png)||GFGPGPUYS-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.DICASS|Directional Command Active Sonobuoy System (Dicass)|POINT|B|
+|1066||![](./images/GFGPGPUYT-----X.png)||GFGPGPUYT-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.ATAC|Atac|POINT|B|
+|1067||![](./images/GFGPGPUYV-----X.png)||GFGPGPUYV-----X|TACGRP.C2GM.GNL.PNT.USW.SNBY.VLAD|Vertical Line Array Difar (Vlad)|POINT|B|
+|1068||![](./images/GFGPGPUYX------.png)||GFGPGPUYX------|TACGRP.C2GM.GNL.PNT.USW.SNBY.EXP|Sonobuoy-Expired|POINT|B|
+|1069||![](./images/GFGPGPUY------X.png)||GFGPGPUY------X|TACGRP.C2GM.GNL.PNT.USW.SNBY|Sonobuoy|POINT|B|
+|1070||![](./images/GFGPGPWA------X.png)||GFGPGPWA------X|TACGRP.C2GM.GNL.PNT.WPN.AIMPNT|Aim Point|POINT|B|
+|1071||![](./images/GFGPGPWD------X.png)||GFGPGPWD------X|TACGRP.C2GM.GNL.PNT.WPN.DRPPNT|Drop Point|POINT|B|
+|1072||![](./images/GFGPGPWE------X.png)||GFGPGPWE------X|TACGRP.C2GM.GNL.PNT.WPN.ENTPNT|Entry Point|POINT|B|
+|1073||![](./images/GFGPGPWG------X.png)||GFGPGPWG------X|TACGRP.C2GM.GNL.PNT.WPN.GRDZRO|Ground Zero|POINT|B|
+|1074||![](./images/GFGPGPWI------X.png)||GFGPGPWI------X|TACGRP.C2GM.GNL.PNT.WPN.IMTPNT|Impact Point|POINT|B|
+|1075||![](./images/GFGPGPWM------X.png)||GFGPGPWM------X|TACGRP.C2GM.GNL.PNT.WPN.MSLPNT|Msl Detect Point|POINT|B|
+|1076||![](./images/GFGPGPWP------X.png)||GFGPGPWP------X|TACGRP.C2GM.GNL.PNT.WPN.PIPNT|Predicted Impact Point|POINT|B|
+|1077||![](./images/GFGPOAA-------X.png)||GFGPOAA-------X|TACGRP.C2GM.OFF.ARS.ASTPSN|Assault Position|AREA|B|
+|1078||![](./images/GFGPOAF-------X.png)||GFGPOAF-------X|TACGRP.C2GM.OFF.ARS.AFP|Attack By Fire Position|AREA|B|
+|1079||![](./images/GFGPOAK-------X.png)||GFGPOAK-------X|TACGRP.C2GM.OFF.ARS.ATKPSN|Attack Position|AREA|B|
+|1080||![](./images/GFGPOAO-------X.png)||GFGPOAO-------X|TACGRP.C2GM.OFF.ARS.OBJ|Objective|AREA|B|
+|1081||![](./images/GFGPOAP-------X.png)||GFGPOAP-------X|TACGRP.C2GM.OFF.ARS.PBX|Penetration Box|AREA|B|
+|1082||![](./images/GFGPOAS-------X.png)||GFGPOAS-------X|TACGRP.C2GM.OFF.ARS.SFP|Support By Fire Position|LINE|B|
+|1083||![](./images/GFGPOLAA------X.png)||GFGPOLAA------X|TACGRP.C2GM.OFF.LNE.AXSADV.ABN|Airborne|LINE|B|
+|1084||![](./images/GFGPOLAGM-----X.png)||GFGPOLAGM-----X|TACGRP.C2GM.OFF.LNE.AXSADV.GRD.MANATK|Main Attack|LINE|B|
+|1085||![](./images/GFGPOLAGS-----X.png)||GFGPOLAGS-----X|TACGRP.C2GM.OFF.LNE.AXSADV.GRD.SUPATK|Supporting Attack|LINE|B|
+|1086||![](./images/GFGPOLAR------X.png)||GFGPOLAR------X|TACGRP.C2GM.OFF.LNE.AXSADV.ATK|Attack  Rotary Wingv|LINE|B|
+|1087||![](./images/GFGPOLAV------X.png)||GFGPOLAV------X|TACGRP.C2GM.OFF.LNE.AXSADV.AVN|Aviation|LINE|B|
+|1088||![](./images/GFGPOLC-------X.png)||GFGPOLC-------X|TACGRP.C2GM.OFF.LNE.LDLC|Line Of Departure/Line Of Contact (Ld/Lc)|LINE|B|
+|1089||![](./images/GFGPOLF-------X.png)||GFGPOLF-------X|TACGRP.C2GM.OFF.LNE.FCL|Final Coordination Line|LINE|B|
+|1090||![](./images/GFGPOLI-------X.png)||GFGPOLI-------X|TACGRP.C2GM.OFF.LNE.INFNLE|Infiltration Lane|LINE|B|
+|1091||![](./images/GFGPOLKA------X.png)||GFGPOLKA------X|TACGRP.C2GM.OFF.LNE.DIRATK.AVN|Aviation|LINE|B|
+|1092||![](./images/GFGPOLKGM-----X.png)||GFGPOLKGM-----X|TACGRP.C2GM.OFF.LNE.DIRATK.GRD.MANATK|Main Attack|LINE|B|
+|1093||![](./images/GFGPOLKGS-----X.png)||GFGPOLKGS-----X|TACGRP.C2GM.OFF.LNE.DIRATK.GRD.SUPATK|Supporting Attack|LINE|B|
+|1094||![](./images/GFGPOLL-------X.png)||GFGPOLL-------X|TACGRP.C2GM.OFF.LNE.LMTADV|Limit Of Advance|LINE|B|
+|1095||![](./images/GFGPOLP-------X.png)||GFGPOLP-------X|TACGRP.C2GM.OFF.LNE.PLD|Probable Line Of Deployment (Pld)|LINE|B|
+|1096||![](./images/GFGPOLT-------X.png)||GFGPOLT-------X|TACGRP.C2GM.OFF.LNE.LD|Line Of Departure|LINE|B|
+|1097||![](./images/GFGPOPP-------X.png)||GFGPOPP-------X|TACGRP.C2GM.OFF.PNT.PNTD|Point Of Departure|POINT|B|
+|1098||![](./images/GFGPPA--------X.png)||GFGPPA--------X|TACGRP.C2GM.DCPN.AAFF|Axis Of Advance For Feint|POINT|B|
+|1099||![](./images/GFGPPC--------X.png)||GFGPPC--------X|TACGRP.C2GM.DCPN.DMYMD|Dummy Minefield (Dynamic)|POINT|B|
+|1100||![](./images/GFGPPD--------X.png)||GFGPPD--------X|TACGRP.C2GM.DCPN.DMY|Dummy (Deception/Decoy)|POINT|B|
+|1101||![](./images/GFGPPF--------X.png)||GFGPPF--------X|TACGRP.C2GM.DCPN.DAFF|Direction Of Attack For Feint|POINT|B|
+|1102||![](./images/GFGPPM--------X.png)||GFGPPM--------X|TACGRP.C2GM.DCPN.DMA|Decoy Mined Area|AREA|B|
+|1103||![](./images/GFGPPN--------X.png)||GFGPPN--------X|TACGRP.C2GM.DCPN.DMYMS|Dummy Minefield (Static)|POINT|B|
+|1104||![](./images/GFGPPY--------X.png)||GFGPPY--------X|TACGRP.C2GM.DCPN.DMAF|Decoy Mined Area  Fenced|AREA|B|
+|1105||![](./images/GFGPSAA-------X.png)||GFGPSAA-------X|TACGRP.C2GM.SPL.ARA.AHD|Airhead|AREA|B|
+|1106||![](./images/GFGPSAE-------X.png)||GFGPSAE-------X|TACGRP.C2GM.SPL.ARA.ENCMT|Encirclement|AREA|B|
+|1107||![](./images/GFGPSAN-------X.png)||GFGPSAN-------X|TACGRP.C2GM.SPL.ARA.NAI|Named Area Of Interest (Nai)|AREA|B|
+|1108||![](./images/GFGPSAO-------X.png)||GFGPSAO-------X|TACGRP.C2GM.SPL.ARA.AOO|Area Of Operations (Ao)|AREA|B|
+|1109||![](./images/GFGPSAT-------X.png)||GFGPSAT-------X|TACGRP.C2GM.SPL.ARA.TAI|Targeted Area Of Interest (Tai)|AREA|B|
+|1110||![](./images/GFGPSLA-------X.png)||GFGPSLA-------X|TACGRP.C2GM.SPL.LNE.AMB|Ambush|LINE|B|
+|1111||![](./images/GFGPSLB-------X.png)||GFGPSLB-------X|TACGRP.C2GM.SPL.LNE.BRGH|Bridgehead|LINE|B|
+|1112||![](./images/GFGPSLH-------X.png)||GFGPSLH-------X|TACGRP.C2GM.SPL.LNE.HGL|Holding Line|LINE|B|
+|1113||![](./images/GFGPSLR-------X.png)||GFGPSLR-------X|TACGRP.C2GM.SPL.LNE.REL|Release Line|LINE|B|
+|1114||![](./images/GFMPBCA-------X.png)||GFMPBCA-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.ASTCA|Assault Crossing Area|LINE|B|
+|1115||![](./images/GFMPBCB-------X.png)||GFMPBCB-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.BRG|Bridge Or Gap|LINE|B|
+|1116||![](./images/GFMPBCD-------X.png)||GFMPBCD-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRDDFT|Ford Difficult|LINE|B|
+|1117||![](./images/GFMPBCE-------X.png)||GFMPBCE-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRDESY|Ford Easy|LINE|B|
+|1118||![](./images/GFMPBCF-------X.png)||GFMPBCF-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRY|Ferry|LINE|B|
+|1119||![](./images/GFMPBCL-------X.png)||GFMPBCL-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.LANE|Lane|LINE|B|
+|1120||![](./images/GFMPBCP-------X.png)||GFMPBCP-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.ERP|Engineer Regulating Point|LINE|B|
+|1121||![](./images/GFMPBCR-------X.png)||GFMPBCR-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.RFT|Raft Site|LINE|B|
+|1122||![](./images/GFMPBDD-------X.png)||GFMPBDD-------X|TACGRP.MOBSU.OBSTBP.DFTY.DFT|Bypass Difficult|LINE|B|
+|1123||![](./images/GFMPBDE-------X.png)||GFMPBDE-------X|TACGRP.MOBSU.OBSTBP.DFTY.ESY|Bypass Easy|LINE|B|
+|1124||![](./images/GFMPBDI-------X.png)||GFMPBDI-------X|TACGRP.MOBSU.OBSTBP.DFTY.IMP|Bypass Impossible|LINE|B|
+|1125||![](./images/GFMPNB--------X.png)||GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B|
+|1126||![](./images/GFMPNC--------X.png)||GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B|
+|1127||![](./images/GFMPNDA-------X.png)||GFMPNDA-------X|TACGRP.MOBSU.CBRN.DECONP.ALTUSP|Alternate Decon Site/Point (Unspecified)|POINT|B|
+|1128||![](./images/GFMPNDB-------X.png)||GFMPNDB-------X|TACGRP.MOBSU.CBRN.DECONP.EQTTRP|Decon Site/Point (Equipment And Troops)|POINT|B|
+|1129||![](./images/GFMPNDD-------X.png)||GFMPNDD-------X|TACGRP.MOBSU.CBRN.DECONP.TRGH|Decon Site/Point (Thorough Decontamination)|POINT|B|
+|1130||![](./images/GFMPNDE-------X.png)||GFMPNDE-------X|TACGRP.MOBSU.CBRN.DECONP.EQT|Decon Site/Point (Equipment)|POINT|B|
+|1131||![](./images/GFMPNDO-------X.png)||GFMPNDO-------X|TACGRP.MOBSU.CBRN.DECONP.OPDECN|Decon Site/Point (Operational Decontamination)|POINT|B|
+|1132||![](./images/GFMPNDP-------X.png)||GFMPNDP-------X|TACGRP.MOBSU.CBRN.DECONP.USP|Decon Site/Point (Unspecified)|POINT|B|
+|1133||![](./images/GFMPNDT-------X.png)||GFMPNDT-------X|TACGRP.MOBSU.CBRN.DECONP.TRP|Decon Site/Point (Troops)|POINT|B|
+|1134||![](./images/GFMPNEB-------X.png)||GFMPNEB-------X|TACGRP.MOBSU.CBRN.REEVNT.BIO|Biological|POINT|B|
+|1135||![](./images/GFMPNEC-------X.png)||GFMPNEC-------X|TACGRP.MOBSU.CBRN.REEVNT.CML|Chemical|POINT|B|
+|1136||![](./images/GFMPNF--------X.png)||GFMPNF--------X|TACGRP.MOBSU.CBRN.FAOTP|Fallout Producing|POINT|B|
+|1137||![](./images/GFMPNL--------X.png)||GFMPNL--------X|TACGRP.MOBSU.CBRN.DRCL|Dose Rate Contour Lines|AREA|B|
+|1138||![](./images/GFMPNM--------X.png)||GFMPNM--------X|TACGRP.MOBSU.CBRN.MSDZ|Minimum Safe Distance Zones|POINT|B|
+|1139||![](./images/GFMPNR--------X.png)||GFMPNR--------X|TACGRP.MOBSU.CBRN.RADA|Radioactive Area|AREA|B|
+|1140||![](./images/GFMPNZ--------X.png)||GFMPNZ--------X|TACGRP.MOBSU.CBRN.NDGZ|Nuclear Detonations Ground Zero|POINT|B|
+|1141||![](./images/GFMPOADC------X.png)||GFMPOADC------X|TACGRP.MOBSU.OBST.ATO.ATD.ATDC|Complete|LINE|B|
+|1142||![](./images/GFMPOADU------X.png)||GFMPOADU------X|TACGRP.MOBSU.OBST.ATO.ATD.ATDUC|Under Construction|LINE|B|
+|1143||![](./images/GFMPOAOF------X.png)||GFMPOAOF------X|TACGRP.MOBSU.OBST.ATO.TDTSM.FIXPFD|Fixed And Prefabricated|POINT|B|
+|1144||![](./images/GFMPOAOM------X.png)||GFMPOAOM------X|TACGRP.MOBSU.OBST.ATO.TDTSM.MVB|Moveable|POINT|B|
+|1145||![](./images/GFMPOAOP------X.png)||GFMPOAOP------X|TACGRP.MOBSU.OBST.ATO.TDTSM.MVBPFD|Moveable And Prefabricated|POINT|B|
+|1146||![](./images/GFMPOAR-------X.png)||GFMPOAR-------X|TACGRP.MOBSU.OBST.ATO.ATDATM|Antitank Ditch Reinforced With Antitank Mines|LINE|B|
+|1147||![](./images/GFMPOAW-------X.png)||GFMPOAW-------X|TACGRP.MOBSU.OBST.ATO.ATW|Antitank Wall|LINE|B|
+|1148||![](./images/GFMPOB--------X.png)||GFMPOB--------X|TACGRP.MOBSU.OBST.BBY|Booby Trap|POINT|B|
+|1149||![](./images/GFMPOEB-------X.png)||GFMPOEB-------X|TACGRP.MOBSU.OBST.OBSEFT.BLK|Block|LINE|B|
+|1150||![](./images/GFMPOED-------X.png)||GFMPOED-------X|TACGRP.MOBSU.OBST.OBSEFT.DRT|Disrupt|LINE|B|
+|1151||![](./images/GFMPOEF-------X.png)||GFMPOEF-------X|TACGRP.MOBSU.OBST.OBSEFT.FIX|Fix|LINE|B|
+|1152||![](./images/GFMPOET-------X.png)||GFMPOET-------X|TACGRP.MOBSU.OBST.OBSEFT.TUR|Turn|LINE|B|
+|1153||![](./images/GFMPOFA-------X.png)||GFMPOFA-------X|TACGRP.MOBSU.OBST.MNEFLD.MNDARA|Mined Area|AREA|B|
+|1154||![](./images/GFMPOFD-------X.png)||GFMPOFD-------X|TACGRP.MOBSU.OBST.MNEFLD.DYN|Dynamic Depiction|AREA|B|
+|1155||![](./images/GFMPOFG-------X.png)||GFMPOFG-------X|TACGRP.MOBSU.OBST.MNEFLD.GAP|Gap|LINE|B|
+|1156||![](./images/GFMPOFS-------X.png)||GFMPOFS-------X|TACGRP.MOBSU.OBST.MNEFLD.STC|Static Depiction|POINT|B|
+|1157||![](./images/GFMPOGB-------X.png)||GFMPOGB-------X|TACGRP.MOBSU.OBST.GNL.BLT|Belt|AREA|B|
+|1158||![](./images/GFMPOGF-------X.png)||GFMPOGF-------X|TACGRP.MOBSU.OBST.GNL.OFA|Obstacle Free Area|AREA|B|
+|1159||![](./images/GFMPOGL-------X.png)||GFMPOGL-------X|TACGRP.MOBSU.OBST.GNL.LNE|Line|LINE|B|
+|1160||![](./images/GFMPOGR-------X.png)||GFMPOGR-------X|TACGRP.MOBSU.OBST.GNL.ORA|Obstacle Restricted Area|AREA|B|
+|1161||![](./images/GFMPOGZ-------X.png)||GFMPOGZ-------X|TACGRP.MOBSU.OBST.GNL.Z|Zone|AREA|B|
+|1162||![](./images/GFMPOHO-------X.png)||GFMPOHO-------X|TACGRP.MOBSU.OBST.AVN.OHWIRE|Overhead Wire/Power Line|LINE|B|
+|1163||![](./images/GFMPOHTH------X.png)||GFMPOHTH------X|TACGRP.MOBSU.OBST.AVN.TWR.HIGH|High|POINT|B|
+|1164||![](./images/GFMPOHTL------X.png)||GFMPOHTL------X|TACGRP.MOBSU.OBST.AVN.TWR.LOW|Low|POINT|B|
+|1165||![](./images/GFMPOMC-------X.png)||GFMPOMC-------X|TACGRP.MOBSU.OBST.MNE.MCLST|Mine Cluster|LINE|B|
+|1166||![](./images/GFMPOMD-------X.png)||GFMPOMD-------X|TACGRP.MOBSU.OBST.MNE.ATMAHD|Antitank Mine With Antihandling Device|POINT|B|
+|1167||![](./images/GFMPOME-------X.png)||GFMPOME-------X|TACGRP.MOBSU.OBST.MNE.ATMDIR|Antitank Mine (Directional)|POINT|B|
+|1168||![](./images/GFMPOMP-------X.png)||GFMPOMP-------X|TACGRP.MOBSU.OBST.MNE.APMNE|Antipersonnel (Ap) Mines|POINT|B|
+|1169||![](./images/GFMPOMT-------X.png)||GFMPOMT-------X|TACGRP.MOBSU.OBST.MNE.ATMNE|Antitank Mine (At)|POINT|B|
+|1170||![](./images/GFMPOMU-------X.png)||GFMPOMU-------X|TACGRP.MOBSU.OBST.MNE.USPMNE|Unspecified Mine|POINT|B|
+|1171||![](./images/GFMPOMW-------X.png)||GFMPOMW-------X|TACGRP.MOBSU.OBST.MNE.WAMNE|Wide Area Mines|POINT|B|
+|1172||![](./images/GFMPORA-------X.png)||GFMPORA-------X|TACGRP.MOBSU.OBST.RCBB.ABP|Explosives  State Of Readiness 2 (Armed-But Passable)|LINE|B|
+|1173||![](./images/GFMPORC-------X.png)||GFMPORC-------X|TACGRP.MOBSU.OBST.RCBB.EXCD|Roadblock Complete (Executed)|LINE|B|
+|1174||![](./images/GFMPORP-------X.png)||GFMPORP-------X|TACGRP.MOBSU.OBST.RCBB.PLND|Planned|LINE|B|
+|1175||![](./images/GFMPORS-------X.png)||GFMPORS-------X|TACGRP.MOBSU.OBST.RCBB.SAFE|Explosives  State Of Readiness 1 (Safe)|LINE|B|
+|1176||![](./images/GFMPOS--------X.png)||GFMPOS--------X|TACGRP.MOBSU.OBST.ABS|Abatis|LINE|B|
+|1177||![](./images/GFMPOT--------X.png)||GFMPOT--------X|TACGRP.MOBSU.OBST.TRIPWR|Trip Wire|LINE|B|
+|1178||![](./images/GFMPOU--------X.png)||GFMPOU--------X|TACGRP.MOBSU.OBST.UXO|Unexploded Ordnance Area (Uxo)|AREA|B|
+|1179||![](./images/GFMPOWA-------X.png)||GFMPOWA-------X|TACGRP.MOBSU.OBST.WREOBS.DAFNC|Double Apron Fence|LINE|B|
+|1180||![](./images/GFMPOWCD------X.png)||GFMPOWCD------X|TACGRP.MOBSU.OBST.WREOBS.CCTA.DBLSTD|Double Strand Concertina|LINE|B|
+|1181||![](./images/GFMPOWCS------X.png)||GFMPOWCS------X|TACGRP.MOBSU.OBST.WREOBS.CCTA.SNG|Single Concertina|LINE|B|
+|1182||![](./images/GFMPOWCT------X.png)||GFMPOWCT------X|TACGRP.MOBSU.OBST.WREOBS.CCTA.TRISTD|Triple Strand Concertina|LINE|B|
+|1183||![](./images/GFMPOWD-------X.png)||GFMPOWD-------X|TACGRP.MOBSU.OBST.WREOBS.DBLFNC|Double Fence|LINE|B|
+|1184||![](./images/GFMPOWH-------X.png)||GFMPOWH-------X|TACGRP.MOBSU.OBST.WREOBS.HWFNC|High Wire Fence|LINE|B|
+|1185||![](./images/GFMPOWL-------X.png)||GFMPOWL-------X|TACGRP.MOBSU.OBST.WREOBS.LWFNC|Low Wire Fence|LINE|B|
+|1186||![](./images/GFMPOWS-------X.png)||GFMPOWS-------X|TACGRP.MOBSU.OBST.WREOBS.SNGFNC|Single Fence|LINE|B|
+|1187||![](./images/GFMPOWU-------X.png)||GFMPOWU-------X|TACGRP.MOBSU.OBST.WREOBS.USP|Unspecified|LINE|B|
+|1188||![](./images/GFMPSE--------X.png)||GFMPSE--------X|TACGRP.MOBSU.SU.ESTOF|Earthwork  Small Trench Or Fortification|POINT|B|
+|1189||![](./images/GFMPSF--------X.png)||GFMPSF--------X|TACGRP.MOBSU.SU.FRT|Fort|POINT|B|
+|1190||![](./images/GFMPSL--------X.png)||GFMPSL--------X|TACGRP.MOBSU.SU.FTFDLN|Fortified Line|LINE|B|
+|1191||![](./images/GFMPSP--------X.png)||GFMPSP--------X|TACGRP.MOBSU.SU.STRGPT|Strong Point|AREA|B|
+|1192||![](./images/GFMPSS--------X.png)||GFMPSS--------X|TACGRP.MOBSU.SU.SUFSHL|Surface Shelter|POINT|B|
+|1193||![](./images/GFMPSU--------X.png)||GFMPSU--------X|TACGRP.MOBSU.SU.UGDSHL|Underground Shelter|POINT|B|
+|1194||![](./images/GFMPSW--------X.png)||GFMPSW--------X|TACGRP.MOBSU.SU.FEWS|Foxhole  Emplacement Or Weapon Site|LINE|B|
+|1195||![](./images/GFOPBA--------X.png)||GFOPBA--------X|TACGRP.OTH.BERLNE.ACU|Acoustic|LINE|B|
+|1196||![](./images/GFOPBE--------X.png)||GFOPBE--------X|TACGRP.OTH.BERLNE.ELC|Electronic|LINE|B|
+|1197||![](./images/GFOPBO--------X.png)||GFOPBO--------X|TACGRP.OTH.BERLNE.EOPI|Electro-Optical Intercept|LINE|B|
+|1198||![](./images/GFOPB---------X.png)||GFOPB---------X|TACGRP.OTH.BERLNE|Bearing Line|LINE|B|
+|1199||![](./images/GFOPBT--------X.png)||GFOPBT--------X|TACGRP.OTH.BERLNE.TPD|Torpedo|LINE|B|
+|1200||![](./images/GFOPED--------X.png)||GFOPED--------X|TACGRP.OTH.ER.DTHAC|Ditched Aircraft|POINT|B|
+|1201||![](./images/GFOPEP--------X.png)||GFOPEP--------X|TACGRP.OTH.ER.PIW|Person In Water|POINT|B|
+|1202||![](./images/GFOPEV--------X.png)||GFOPEV--------X|TACGRP.OTH.ER.DSTVES|Distressed Vessel|POINT|B|
+|1203||![](./images/GFOPFA--------X.png)||GFOPFA--------X|TACGRP.OTH.FIX.ACU|Acoustic|POINT|B|
+|1204||![](./images/GFOPFE--------X.png)||GFOPFE--------X|TACGRP.OTH.FIX.EM|Electro-Magnetic|POINT|B|
+|1205||![](./images/GFOPFO--------X.png)||GFOPFO--------X|TACGRP.OTH.FIX.EOP|Electro-Optical|POINT|B|
+|1206||![](./images/GFOPHI--------X.png)||GFOPHI--------X|TACGRP.OTH.HAZ.IB|Iceberg|POINT|B|
+|1207||![](./images/GFOPHM--------X.png)||GFOPHM--------X|TACGRP.OTH.HAZ.SML|Sea Mine-Like|POINT|B|
+|1208||![](./images/GFOPHN--------X.png)||GFOPHN--------X|TACGRP.OTH.HAZ.NVGL|Navigational|LINE|B|
+|1209||![](./images/GFOPHO--------X.png)||GFOPHO--------X|TACGRP.OTH.HAZ.OLRG|Oil Rig|POINT|B|
+|1210||![](./images/GFOPSBM-------X.png)||GFOPSBM-------X|TACGRP.OTH.SSUBSR.BTMRTN.INS|Installation/Manmade|POINT|B|
+|1211||![](./images/GFOPSBN-------X.png)||GFOPSBN-------X|TACGRP.OTH.SSUBSR.BTMRTN.SBRSOO|Seabed Rock/Stone  Obstacle  Other|POINT|B|
+|1212||![](./images/GFOPSBW-------X.png)||GFOPSBW-------X|TACGRP.OTH.SSUBSR.BTMRTN.WRKND|Wreck  Non Dangerous|POINT|B|
+|1213||![](./images/GFOPSB--------X.png)||GFOPSB--------X|TACGRP.OTH.SSUBSR.BTMRTN|Bottom Return/Non-Milco|POINT|B|
+|1214||![](./images/GFOPSBX-------X.png)||GFOPSBX-------X|TACGRP.OTH.SSUBSR.BTMRTN.WRKD|Wreck  Dangerous|POINT|B|
+|1215||![](./images/GFOPSM--------X.png)||GFOPSM--------X|TACGRP.OTH.SSUBSR.MARLFE|Marine Life|POINT|B|
+|1216||![](./images/GFOPSS--------X.png)||GFOPSS--------X|TACGRP.OTH.SSUBSR.SA|Sea Anomaly (Wake  Current  Knuckle)|POINT|B|
+|1217||![](./images/GFSPAD--------X.png)||GFSPAD--------X|TACGRP.CSS.ARA.DHA|Detainee Holding Area|AREA|B|
+|1218||![](./images/GFSPAE--------X.png)||GFSPAE--------X|TACGRP.CSS.ARA.EPWHA|Enemy Prisoner Of War (Epw) Holding Area|AREA|B|
+|1219||![](./images/GFSPAH--------X.png)||GFSPAH--------X|TACGRP.CSS.ARA.RHA|Refugee Holding Area|AREA|B|
+|1220||![](./images/GFSPAR--------X.png)||GFSPAR--------X|TACGRP.CSS.ARA.FARP|Forward Arming And Refueling Area (Farp)|AREA|B|
+|1221||![](./images/GFSPASB-------X.png)||GFSPASB-------X|TACGRP.CSS.ARA.SUPARS.BSA|Brigade (Bsa)|AREA|B|
+|1222||![](./images/GFSPASD-------X.png)||GFSPASD-------X|TACGRP.CSS.ARA.SUPARS.DSA|Division (Dsa)|AREA|B|
+|1223||![](./images/GFSPASR-------X.png)||GFSPASR-------X|TACGRP.CSS.ARA.SUPARS.RSA|Regimental (Rsa)|AREA|B|
+|1224||![](./images/GFSPLCH-------X.png)||GFSPLCH-------X|TACGRP.CSS.LNE.CNY.HCNY|Halted Convoy|LINE|B|
+|1225||![](./images/GFSPLCM-------X.png)||GFSPLCM-------X|TACGRP.CSS.LNE.CNY.MCNY|Moving Convoy|LINE|B|
+|1226||![](./images/GFSPLRA-------X.png)||GFSPLRA-------X|TACGRP.CSS.LNE.SLPRUT.ASRUT|Alternate Supply Route|LINE|B|
+|1227||![](./images/GFSPLRM-------X.png)||GFSPLRM-------X|TACGRP.CSS.LNE.SLPRUT.MSRUT|Main Supply Route|LINE|B|
+|1228||![](./images/GFSPLRO-------X.png)||GFSPLRO-------X|TACGRP.CSS.LNE.SLPRUT.1WTRFF|One-Way Traffic|LINE|B|
+|1229||![](./images/GFSPLRT-------X.png)||GFSPLRT-------X|TACGRP.CSS.LNE.SLPRUT.ATRFF|Alternating Traffic|LINE|B|
+|1230||![](./images/GFSPLRW-------X.png)||GFSPLRW-------X|TACGRP.CSS.LNE.SLPRUT.2WTRFF|Two-Way Traffic|LINE|B|
+|1231||![](./images/GFSPPAS-------X.png)||GFSPPAS-------X|TACGRP.CSS.PNT.AP.ASP|Ammunition Supply Point (Asp)|POINT|B|
+|1232||![](./images/GFSPPAT-------X.png)||GFSPPAT-------X|TACGRP.CSS.PNT.AP.ATP|Ammunition Transfer Point (Atp)|POINT|B|
+|1233||![](./images/GFSPPC--------X.png)||GFSPPC--------X|TACGRP.CSS.PNT.CBNP|Cannibalization Point|POINT|B|
+|1234||![](./images/GFSPPD--------X.png)||GFSPPD--------X|TACGRP.CSS.PNT.DCP|Detainee Collection Point|POINT|B|
+|1235||![](./images/GFSPPE--------X.png)||GFSPPE--------X|TACGRP.CSS.PNT.EPWCP|Enemy Prisoner Of War (Epw) Collection Point|POINT|B|
+|1236||![](./images/GFSPPI--------X.png)||GFSPPI--------X|TACGRP.CSS.PNT.TTP|Trailer Transfer Point|POINT|B|
+|1237||![](./images/GFSPPL--------X.png)||GFSPPL--------X|TACGRP.CSS.PNT.LRP|Logistics Release Point (Lrp)|POINT|B|
+|1238||![](./images/GFSPPM--------X.png)||GFSPPM--------X|TACGRP.CSS.PNT.MCP|Maintenance Collection Point|POINT|B|
+|1239||![](./images/GFSPPN--------X.png)||GFSPPN--------X|TACGRP.CSS.PNT.UMC|Unit Maintenance Collection Point|POINT|B|
+|1240||![](./images/GFSPPO--------X.png)||GFSPPO--------X|TACGRP.CSS.PNT.TCP|Traffic Control Post (Tcp)|POINT|B|
+|1241||![](./images/GFSPPR--------X.png)||GFSPPR--------X|TACGRP.CSS.PNT.RRRP|Rearm  Refuel And Resupply Point|POINT|B|
+|1242||![](./images/GFSPPSA-------X.png)||GFSPPSA-------X|TACGRP.CSS.PNT.SPT.CLS1|Class I|POINT|B|
+|1243||![](./images/GFSPPSB-------X.png)||GFSPPSB-------X|TACGRP.CSS.PNT.SPT.CLS2|Class Ii|POINT|B|
+|1244||![](./images/GFSPPSC-------X.png)||GFSPPSC-------X|TACGRP.CSS.PNT.SPT.CLS3|Class Iii|POINT|B|
+|1245||![](./images/GFSPPSD-------X.png)||GFSPPSD-------X|TACGRP.CSS.PNT.SPT.CLS4|Class Iv|POINT|B|
+|1246||![](./images/GFSPPSE-------X.png)||GFSPPSE-------X|TACGRP.CSS.PNT.SPT.CLS5|Class V|POINT|B|
+|1247||![](./images/GFSPPSF-------X.png)||GFSPPSF-------X|TACGRP.CSS.PNT.SPT.CLS6|Class Vi|POINT|B|
+|1248||![](./images/GFSPPSG-------X.png)||GFSPPSG-------X|TACGRP.CSS.PNT.SPT.CLS7|Class Vii|POINT|B|
+|1249||![](./images/GFSPPSH-------X.png)||GFSPPSH-------X|TACGRP.CSS.PNT.SPT.CLS8|Class Viii|POINT|B|
+|1250||![](./images/GFSPPSI-------X.png)||GFSPPSI-------X|TACGRP.CSS.PNT.SPT.CLS9|Class Ix|POINT|B|
+|1251||![](./images/GFSPPSJ-------X.png)||GFSPPSJ-------X|TACGRP.CSS.PNT.SPT.CLS10|Class X|POINT|B|
+|1252||![](./images/GFSPPSZ-------X.png)||GFSPPSZ-------X|TACGRP.CSS.PNT.SPT.GNL|General|POINT|B|
+|1253||![](./images/GFSPPT--------X.png)||GFSPPT--------X|TACGRP.CSS.PNT.CVP|Civilian Collection Point|POINT|B|
+|1254||![](./images/GFSPPU--------X.png)||GFSPPU--------X|TACGRP.CSS.PNT.ROM|Refuel On The Move (Rom) Point|POINT|B|
+|1255||![](./images/GFSPPX--------X.png)||GFSPPX--------X|TACGRP.CSS.PNT.AEP|Ambulance Exchange Point|POINT|B|
+|1256||![](./images/GFSPPY--------X.png)||GFSPPY--------X|TACGRP.CSS.PNT.CCP|Casualty Collection Point|POINT|B|
+|1257||![](./images/GFTPAS--------X.png)||GFTPAS--------X|TACGRP.TSK.FLWASS.FLWSUP|Follow And Support|LINE|B|
+|1258||![](./images/GFTPA---------X.png)||GFTPA---------X|TACGRP.TSK.FLWASS|Follow And Assume|LINE|B|
+|1259||![](./images/GFTPB---------X.png)||GFTPB---------X|TACGRP.TSK.BLK|Block|LINE|B|
+|1260||![](./images/GFTPC---------X.png)||GFTPC---------X|TACGRP.TSK.CNZ|Canalize|LINE|B|
+|1261||![](./images/GFTPD---------X.png)||GFTPD---------X|TACGRP.TSK.DSTY|Destroy|POINT|B|
+|1262||![](./images/GFTPE---------X.png)||GFTPE---------X|TACGRP.TSK.ISL|Isolate|POINT|B|
+|1263||![](./images/GFTPF---------X.png)||GFTPF---------X|TACGRP.TSK.FIX|Fix|LINE|B|
+|1264||![](./images/GFTPH---------X.png)||GFTPH---------X|TACGRP.TSK.BRH|Breach|LINE|B|
+|1265||![](./images/GFTPI---------X.png)||GFTPI---------X|TACGRP.TSK.ITDT|Interdict|POINT|B|
+|1266||![](./images/GFTPJ---------X.png)||GFTPJ---------X|TACGRP.TSK.CNT|Contain|LINE|B|
+|1267||![](./images/GFTPKF--------X.png)||GFTPKF--------X|TACGRP.TSK.CATK.CATKF|Counterattack By Fire|LINE|B|
+|1268||![](./images/GFTPK---------X.png)||GFTPK---------X|TACGRP.TSK.CATK|Counterattack (Catk)|LINE|B|
+|1269||![](./images/GFTPL---------X.png)||GFTPL---------X|TACGRP.TSK.DLY|Delay|LINE|B|
+|1270||![](./images/GFTPM---------X.png)||GFTPM---------X|TACGRP.TSK.RTM|Retirement|LINE|B|
+|1271||![](./images/GFTPN---------X.png)||GFTPN---------X|TACGRP.TSK.NEUT|Neutralize|POINT|B|
+|1272||![](./images/GFTPO---------X.png)||GFTPO---------X|TACGRP.TSK.OCC|Occupy|LINE|B|
+|1273||![](./images/GFTPP---------X.png)||GFTPP---------X|TACGRP.TSK.PNE|Penetrate|LINE|B|
+|1274||![](./images/GFTPQ---------X.png)||GFTPQ---------X|TACGRP.TSK.RTN|Retain|LINE|B|
+|1275||![](./images/GFTPR---------X.png)||GFTPR---------X|TACGRP.TSK.RIP|Relief In Place (Rip)|LINE|B|
+|1276||![](./images/GFTPS---------X.png)||GFTPS---------X|TACGRP.TSK.SCE|Secure|LINE|B|
+|1277||![](./images/GFTPT---------X.png)||GFTPT---------X|TACGRP.TSK.DRT|Disrupt|LINE|B|
+|1278||![](./images/GFTPUC--------X.png)||GFTPUC--------X|TACGRP.TSK.SEC.COV|Cover|LINE|B|
+|1279||![](./images/GFTPUG--------X.png)||GFTPUG--------X|TACGRP.TSK.SEC.GUD|Guard|LINE|B|
+|1280||![](./images/GFTPUS--------X.png)||GFTPUS--------X|TACGRP.TSK.SEC.SCN|Screen|LINE|B|
+|1281||![](./images/GFTPWP--------X.png)||GFTPWP--------X|TACGRP.TSK.WDR.WDRUP|Withdraw Under Pressure|LINE|B|
+|1282||![](./images/GFTPW---------X.png)||GFTPW---------X|TACGRP.TSK.WDR|Withdraw|LINE|B|
+|1283||![](./images/GFTPX---------X.png)||GFTPX---------X|TACGRP.TSK.CLR|Clear|LINE|B|
+|1284||![](./images/GFTPY---------X.png)||GFTPY---------X|TACGRP.TSK.BYS|Bypass|LINE|B|
+|1285||![](./images/GFTPZ---------X.png)||GFTPZ---------X|TACGRP.TSK.SZE|Seize|LINE|B|
+|1286||![](./images/WA-DBAD-----A--.png)||WA-DBAD-----A--|METOC.AMPHC.BDAWTH.DT-SD|Dust Or Sand|AREA|C|
+|1287||![](./images/WA-DBAFF----A--.png)||WA-DBAFF----A--|METOC.AMPHC.BDAWTH.ODFF|Operator-Defined Freeform|AREA|C|
+|1288||![](./images/WA-DBAFG----A--.png)||WA-DBAFG----A--|METOC.AMPHC.BDAWTH.FG|Fog|AREA|C|
+|1289||![](./images/WA-DBAFP----A--.png)||WA-DBAFP----A--|METOC.AMPHC.BDAWTH.FZPPN|Freezing-Frozen Precipitation|AREA|C|
+|1290||![](./images/WA-DBAI-----A--.png)||WA-DBAI-----A--|METOC.AMPHC.BDAWTH.ICG|Icing|AREA|C|
+|1291||![](./images/WA-DBAIF----A--.png)||WA-DBAIF----A--|METOC.AMPHC.BDAWTH.IFR|Instrument Flight Rule (Ifr)|AREA|C|
+|1292||![](./images/WA-DBALPC---A--.png)||WA-DBALPC---A--|METOC.AMPHC.BDAWTH.LPNCI.LPC|Liquid Precipitation - Convective|AREA|C|
+|1293||![](./images/WA-DBALPNC--A--.png)||WA-DBALPNC--A--|METOC.AMPHC.BDAWTH.LPNCI|Liquid Precipitation - Non-Convective Continuous Or Intermittent|AREA|C|
+|1294||![](./images/WA-DBAMV----A--.png)||WA-DBAMV----A--|METOC.AMPHC.BDAWTH.MVFR|Marginal Visual Flight Rule (Mvfr)|AREA|C|
+|1295||![](./images/WA-DBAT-----A--.png)||WA-DBAT-----A--|METOC.AMPHC.BDAWTH.TS|Thunderstorms|AREA|C|
+|1296||![](./images/WA-DBATB----A--.png)||WA-DBATB----A--|METOC.AMPHC.BDAWTH.TRB|Turbulence|AREA|C|
+|1297||![](./images/WA-DIPCO---L---.png)||WA-DIPCO---L---|METOC.AMPHC.ISP.CTUR|Contour - Upper Air|LINE|C|
+|1298||![](./images/WA-DIPFF---L---.png)||WA-DIPFF---L---|METOC.AMPHC.ISP.ODFF|Operator-Defined Freeform|LINE|C|
+|1299||![](./images/WA-DIPIB---L---.png)||WA-DIPIB---L---|METOC.AMPHC.ISP.ISB|Isobar - Surface|LINE|C|
+|1300||![](./images/WA-DIPID---L---.png)||WA-DIPID---L---|METOC.AMPHC.ISP.ISD|Isodrosotherm|LINE|C|
+|1301||![](./images/WA-DIPIS---L---.png)||WA-DIPIS---L---|METOC.AMPHC.ISP.IST|Isotherm|LINE|C|
+|1302||![](./images/WA-DIPIT---L---.png)||WA-DIPIT---L---|METOC.AMPHC.ISP.ISH|Isotach|LINE|C|
+|1303||![](./images/WA-DIPTH---L---.png)||WA-DIPTH---L---|METOC.AMPHC.ISP.THK|Thickness|LINE|C|
+|1304||![](./images/WA-DPFC-FG-L---.png)||WA-DPFC-FG-L---|METOC.AMPHC.PRS.FRNSYS.CLDFRN.FRGS|Cold Frontogenesis|LINE|C|
+|1305||![](./images/WA-DPFC-FY-L---.png)||WA-DPFC-FY-L---|METOC.AMPHC.PRS.FRNSYS.CLDFRN.FRLS|Cold Frontolysis|LINE|C|
+|1306||![](./images/WA-DPFC----L---.png)||WA-DPFC----L---|METOC.AMPHC.PRS.FRNSYS.CLDFRN|Cold Front|LINE|C|
+|1307||![](./images/WA-DPFCU---L---.png)||WA-DPFCU---L---|METOC.AMPHC.PRS.FRNSYS.CLDFRN.UPP|Upper Cold Front|LINE|C|
+|1308||![](./images/WA-DPFO-FY-L---.png)||WA-DPFO-FY-L---|METOC.AMPHC.PRS.FRNSYS.OCD.FRLS|Occluded Frontolysis|LINE|C|
+|1309||![](./images/WA-DPFO----L---.png)||WA-DPFO----L---|METOC.AMPHC.PRS.FRNSYS.OCD|Occluded Front|LINE|C|
+|1310||![](./images/WA-DPFOU---L---.png)||WA-DPFOU---L---|METOC.AMPHC.PRS.FRNSYS.OCD.UPP|Upper Occluded Front|LINE|C|
+|1311||![](./images/WA-DPFS-FG-L---.png)||WA-DPFS-FG-L---|METOC.AMPHC.PRS.FRNSYS.STAT.FRGS|Stationary Frontogenesis|LINE|C|
+|1312||![](./images/WA-DPFS-FY-L---.png)||WA-DPFS-FY-L---|METOC.AMPHC.PRS.FRNSYS.STAT.FRLS|Stationary Frontolysis|LINE|C|
+|1313||![](./images/WA-DPFS----L---.png)||WA-DPFS----L---|METOC.AMPHC.PRS.FRNSYS.STAT|Stationary Front|LINE|C|
+|1314||![](./images/WA-DPFSU---L---.png)||WA-DPFSU---L---|METOC.AMPHC.PRS.FRNSYS.STAT.UPP|Upper Stationary Front|LINE|C|
+|1315||![](./images/WA-DPFW-FG-L---.png)||WA-DPFW-FG-L---|METOC.AMPHC.PRS.FRNSYS.WRMFRN.FRGS|Warm Frontogenesis|LINE|C|
+|1316||![](./images/WA-DPFW-FY-L---.png)||WA-DPFW-FY-L---|METOC.AMPHC.PRS.FRNSYS.WRMFRN.FRLS|Warm Frontolysis|LINE|C|
+|1317||![](./images/WA-DPFW----L---.png)||WA-DPFW----L---|METOC.AMPHC.PRS.FRNSYS.WRMFRN|Warm Front|LINE|C|
+|1318||![](./images/WA-DPFWU---L---.png)||WA-DPFWU---L---|METOC.AMPHC.PRS.FRNSYS.WRMFRN.UPP|Upper Warm Front|LINE|C|
+|1319||![](./images/WA-DPXCV---L---.png)||WA-DPXCV---L---|METOC.AMPHC.PRS.LNE.CNGLNE|Convergance Line|LINE|C|
+|1320||![](./images/WA-DPXIL---L---.png)||WA-DPXIL---L---|METOC.AMPHC.PRS.LNE.ISTB|Instability Line|LINE|C|
+|1321||![](./images/WA-DPXITCZ-L---.png)||WA-DPXITCZ-L---|METOC.AMPHC.PRS.LNE.ITCZ|Inter-Tropical Convergance Zone|LINE|C|
+|1322||![](./images/WA-DPXITD--L---.png)||WA-DPXITD--L---|METOC.AMPHC.PRS.LNE.ITD|Inter-Tropical Discontinuity|LINE|C|
+|1323||![](./images/WA-DPXR----L---.png)||WA-DPXR----L---|METOC.AMPHC.PRS.LNE.RDGAXS|Ridge Axis|LINE|C|
+|1324||![](./images/WA-DPXSH---L---.png)||WA-DPXSH---L---|METOC.AMPHC.PRS.LNE.SHA|Shear Line|LINE|C|
+|1325||![](./images/WA-DPXSQ---L---.png)||WA-DPXSQ---L---|METOC.AMPHC.PRS.LNE.SSL|Severe Squall Line|LINE|C|
+|1326||![](./images/WA-DPXT----L---.png)||WA-DPXT----L---|METOC.AMPHC.PRS.LNE.TRUAXS|Trough Axis|LINE|C|
+|1327||![](./images/WA-DWJ-----L---.png)||WA-DWJ-----L---|METOC.AMPHC.WND.JTSM|Jet Stream|LINE|C|
+|1328||![](./images/WA-DWS-----L---.png)||WA-DWS-----L---|METOC.AMPHC.WND.SMLNE|Stream Line|LINE|C|
+|1329||![](./images/WA-DWSTSWA--A--.png)||WA-DWSTSWA--A--|METOC.AMPHC.WTH.TPLSYS.TSWADL|Tropical Storm Wind Areas And Date-Time Labels|AREA|C|
+|1330||![](./images/WAS-CCCSBCP----.png)||WAS-CCCSBCP----|METOC.AMPHC.CUDCOV.SYM.BKN|Broken Coverage|POINT|C|
+|1331||![](./images/WAS-CCCSCSP----.png)||WAS-CCCSCSP----|METOC.AMPHC.CUDCOV.SYM.SKC|Clear Sky|POINT|C|
+|1332||![](./images/WAS-CCCSFCP----.png)||WAS-CCCSFCP----|METOC.AMPHC.CUDCOV.SYM.FEW|Few Coverage|POINT|C|
+|1333||![](./images/WAS-CCCSOBP----.png)||WAS-CCCSOBP----|METOC.AMPHC.CUDCOV.SYM.STOPO|Sky Totally Or Partially Obscured|POINT|C|
+|1334||![](./images/WAS-CCCSOCP----.png)||WAS-CCCSOCP----|METOC.AMPHC.CUDCOV.SYM.OVC|Overcast Coverage|POINT|C|
+|1335||![](./images/WAS-CCCSSCP----.png)||WAS-CCCSSCP----|METOC.AMPHC.CUDCOV.SYM.SCT|Scattered Coverage|POINT|C|
+|1336||![](./images/WAS-GNDEWCP----.png)||WAS-GNDEWCP----|METOC.AMPHC.STOG.WOSMIC.EXTDWC|Extremely Dry With Cracks|POINT|C|
+|1337||![](./images/WAS-GND-NCP----.png)||WAS-GND-NCP----|METOC.AMPHC.STOG.WOSMIC.SUFDRY|Surface Dry Without Cracks Or Appreciable Dust Or Loose Sand|POINT|C|
+|1338||![](./images/WAS-GNFL--P----.png)||WAS-GNFL--P----|METOC.AMPHC.STOG.WOSMIC.SUFFLD|Surface Flooded|POINT|C|
+|1339||![](./images/WAS-GNFZ--P----.png)||WAS-GNFZ--P----|METOC.AMPHC.STOG.WOSMIC.SUFFZN|Surface Frozen|POINT|C|
+|1340||![](./images/WAS-GNG-TIP----.png)||WAS-GNG-TIP----|METOC.AMPHC.STOG.WOSMIC.GLZGRD|Glaze (Thin Ice) On Ground|POINT|C|
+|1341||![](./images/WAS-GNLDMCP----.png)||WAS-GNLDMCP----|METOC.AMPHC.STOG.WOSMIC.MLDCGC|Moderate/Thick Loose Dry Dust Or Sand Covering Ground Completely|POINT|C|
+|1342||![](./images/WAS-GNLDN-P----.png)||WAS-GNLDN-P----|METOC.AMPHC.STOG.WOSMIC.LDNCGC|Loose Dry Dust Or Sand Not Covering Ground Completely|POINT|C|
+|1343||![](./images/WAS-GNLDTCP----.png)||WAS-GNLDTCP----|METOC.AMPHC.STOG.WOSMIC.TLDCGC|Thin Loose Dry Dust Or Sand Covering Ground Completely|POINT|C|
+|1344||![](./images/WAS-GNM---P----.png)||WAS-GNM---P----|METOC.AMPHC.STOG.WOSMIC.SUFMST|Surface Moist|POINT|C|
+|1345||![](./images/WAS-GNW-SWP----.png)||WAS-GNW-SWP----|METOC.AMPHC.STOG.WOSMIC.SUFWET|Surface Wet  Standing Water In Small Or Large Pools|POINT|C|
+|1346||![](./images/WAS-GSI---P----.png)||WAS-GSI---P----|METOC.AMPHC.STOG.WSMIC.PDMIC|Predominately Ice Covered|POINT|C|
+|1347||![](./images/WAS-GSSCCEP----.png)||WAS-GSSCCEP----|METOC.AMPHC.STOG.WSMIC.ELCSCG|Even Layer Of Compact Or Wet Snow Covering Ground Completely|POINT|C|
+|1348||![](./images/WAS-GSSCCUP----.png)||WAS-GSSCCUP----|METOC.AMPHC.STOG.WSMIC.ULCSCG|Uneven Layer Of Compact Or Wet Snow Covering Ground Completely|POINT|C|
+|1349||![](./images/WAS-GSSCH-P----.png)||WAS-GSSCH-P----|METOC.AMPHC.STOG.WSMIC.CSNALH|Compact Or Wet Snow (With Or Without Ice) Covering At Least One-Half Ground  But Ground Not Completely Covered|POINT|C|
+|1350||![](./images/WAS-GSSCL-P----.png)||WAS-GSSCL-P----|METOC.AMPHC.STOG.WSMIC.CWSNLH|Compact Or Wet Snow (With Or Without Ice) Covering Less Than One-Half Of Ground|POINT|C|
+|1351||![](./images/WAS-GSSDC-P----.png)||WAS-GSSDC-P----|METOC.AMPHC.STOG.WSMIC.SCGC|Snow Covering Ground Completely; Deep Drifts|POINT|C|
+|1352||![](./images/WAS-GSSLCEP----.png)||WAS-GSSLCEP----|METOC.AMPHC.STOG.WSMIC.ELDSCG|Even Layer Of Loose Dry Snow Covering Ground Completely|POINT|C|
+|1353||![](./images/WAS-GSSLCUP----.png)||WAS-GSSLCUP----|METOC.AMPHC.STOG.WSMIC.ULDSCG|Uneven Layer Of Loose Dry Snow Covering Ground Completely|POINT|C|
+|1354||![](./images/WAS-GSSLH-P----.png)||WAS-GSSLH-P----|METOC.AMPHC.STOG.WSMIC.LDSALH|Loose Dry Snow Covering At Least One-Half Ground  But Ground Not Completely Covered|POINT|C|
+|1355||![](./images/WAS-GSSLL-P----.png)||WAS-GSSLL-P----|METOC.AMPHC.STOG.WSMIC.LDSNLH|Loose Dry Snow Covering Less Than One-Half Of Ground|POINT|C|
+|1356||![](./images/WAS-ICL---P----.png)||WAS-ICL---P----|METOC.AMPHC.ICG.CLR.LIT|Clear Icing - Light|POINT|C|
+|1357||![](./images/WAS-ICM---P----.png)||WAS-ICM---P----|METOC.AMPHC.ICG.CLR.MOD|Clear Icing - Moderate|POINT|C|
+|1358||![](./images/WAS-ICS---P----.png)||WAS-ICS---P----|METOC.AMPHC.ICG.CLR.SVR|Clear Icing - Severe|POINT|C|
+|1359||![](./images/WAS-IML---P----.png)||WAS-IML---P----|METOC.AMPHC.ICG.MIX.LIT|Mixed Icing - Light|POINT|C|
+|1360||![](./images/WAS-IMM---P----.png)||WAS-IMM---P----|METOC.AMPHC.ICG.MIX.MOD|Mixed Icing - Moderate|POINT|C|
+|1361||![](./images/WAS-IMS---P----.png)||WAS-IMS---P----|METOC.AMPHC.ICG.MIX.SVR|Mixed Icing - Severe|POINT|C|
+|1362||![](./images/WAS-IRL---P----.png)||WAS-IRL---P----|METOC.AMPHC.ICG.RIME.LIT|Rime Icing - Light|POINT|C|
+|1363||![](./images/WAS-IRM---P----.png)||WAS-IRM---P----|METOC.AMPHC.ICG.RIME.MOD|Rime Icing - Moderate|POINT|C|
+|1364||![](./images/WAS-IRS---P----.png)||WAS-IRS---P----|METOC.AMPHC.ICG.RIME.SVR|Rime Icing - Severe|POINT|C|
+|1365||![](./images/WAS-PA----P----.png)||WAS-PA----P----|METOC.AMPHC.PRS.HGHCTR.ACYC|Anticyclone Center|POINT|C|
+|1366||![](./images/WAS-PC----P----.png)||WAS-PC----P----|METOC.AMPHC.PRS.LOWCTR.CYC|Cyclone Center|POINT|C|
+|1367||![](./images/WAS-PH----P----.png)||WAS-PH----P----|METOC.AMPHC.PRS.HGHCTR|High Pressure Center|POINT|C|
+|1368||![](./images/WAS-PHT---P----.png)||WAS-PHT---P----|METOC.AMPHC.PRS.HGHCTR.TROPHG|Tropopause High|POINT|C|
+|1369||![](./images/WAS-PL----P----.png)||WAS-PL----P----|METOC.AMPHC.PRS.LOWCTR|Low Pressure Center|POINT|C|
+|1370||![](./images/WAS-PLT---P----.png)||WAS-PLT---P----|METOC.AMPHC.PRS.LOWCTR.TROPLW|Tropopause Low|POINT|C|
+|1371||![](./images/WAS-TE----P----.png)||WAS-TE----P----|METOC.AMPHC.TRB.EXT|Turbulence - Extreme|POINT|C|
+|1372||![](./images/WAS-TL----P----.png)||WAS-TL----P----|METOC.AMPHC.TRB.LIT|Turbulence - Light|POINT|C|
+|1373||![](./images/WAS-TM----P----.png)||WAS-TM----P----|METOC.AMPHC.TRB.MOD|Turbulence - Moderate|POINT|C|
+|1374||![](./images/WAS-T-MW--P----.png)||WAS-T-MW--P----|METOC.AMPHC.TRB.MNTWAV|Mountain Waves|POINT|C|
+|1375||![](./images/WAS-TS----P----.png)||WAS-TS----P----|METOC.AMPHC.TRB.SVR|Turbulence - Severe|POINT|C|
+|1376||![](./images/WAS-WC----P----.png)||WAS-WC----P----|METOC.AMPHC.WND.CALM|Calm Winds|POINT|C|
+|1377||![](./images/WAS-WP----P----.png)||WAS-WP----P----|METOC.AMPHC.WND.PLT|Wind Plot|LINE|C|
+|1378||![](./images/WAS-WSBR--P----.png)||WAS-WSBR--P----|METOC.AMPHC.WTH.MIST|Mist|POINT|C|
+|1379||![](./images/WAS-WSDB--P----.png)||WAS-WSDB--P----|METOC.AMPHC.WTH.DT-SD.BLDTSD|Blowing Dust Or Sand|POINT|C|
+|1380||![](./images/WAS-WSDD--P----.png)||WAS-WSDD--P----|METOC.AMPHC.WTH.DT-SD.DTDVL|Dust Devil|POINT|C|
+|1381||![](./images/WAS-WSDFL-P----.png)||WAS-WSDFL-P----|METOC.AMPHC.WTH.FZDZ.LIT|Freezing Drizzle - Light|POINT|C|
+|1382||![](./images/WAS-WSDFMHP----.png)||WAS-WSDFMHP----|METOC.AMPHC.WTH.FZDZ.MODHVY|Freezing Drizzle - Moderate/Heavy|POINT|C|
+|1383||![](./images/WAS-WSD-HCP----.png)||WAS-WSD-HCP----|METOC.AMPHC.WTH.DZ.INMHVY.CTSHVY|Drizzle - Continuous Heavy|POINT|C|
+|1384||![](./images/WAS-WSD-HIP----.png)||WAS-WSD-HIP----|METOC.AMPHC.WTH.DZ.INMHVY|Drizzle - Intermittent Heavy|POINT|C|
+|1385||![](./images/WAS-WSD-LCP----.png)||WAS-WSD-LCP----|METOC.AMPHC.WTH.DZ.INMLIT.CTSLIT|Drizzle - Continuous Light|POINT|C|
+|1386||![](./images/WAS-WSD-LIP----.png)||WAS-WSD-LIP----|METOC.AMPHC.WTH.DZ.INMLIT|Drizzle - Intermittent Light|POINT|C|
+|1387||![](./images/WAS-WSD-MCP----.png)||WAS-WSD-MCP----|METOC.AMPHC.WTH.DZ.INMMOD.CTSMOD|Drizzle - Continuous Moderate|POINT|C|
+|1388||![](./images/WAS-WSD-MIP----.png)||WAS-WSD-MIP----|METOC.AMPHC.WTH.DZ.INMMOD|Drizzle - Intermittent Moderate|POINT|C|
+|1389||![](./images/WAS-WSDSLMP----.png)||WAS-WSDSLMP----|METOC.AMPHC.WTH.DT-SD.LITMOD|Dust-Sand Storm - Light To Moderate|POINT|C|
+|1390||![](./images/WAS-WSDSS-P----.png)||WAS-WSDSS-P----|METOC.AMPHC.WTH.DT-SD.SVR|Dust-Sand Storm - Severe|POINT|C|
+|1391||![](./images/WAS-WSFGCSP----.png)||WAS-WSFGCSP----|METOC.AMPHC.WTH.FG.SHWCTS|Fog - Shallow Continuous|POINT|C|
+|1392||![](./images/WAS-WSFGFOP----.png)||WAS-WSFGFOP----|METOC.AMPHC.WTH.FG.FZSNV|Fog - Freezing  Sky Not Visible|POINT|C|
+|1393||![](./images/WAS-WSFGFVP----.png)||WAS-WSFGFVP----|METOC.AMPHC.WTH.FG.FZSV|Fog - Freezing  Sky Visible|POINT|C|
+|1394||![](./images/WAS-WSFGP-P----.png)||WAS-WSFGP-P----|METOC.AMPHC.WTH.FG.PTHY|Fog - Patchy|POINT|C|
+|1395||![](./images/WAS-WSFGPSP----.png)||WAS-WSFGPSP----|METOC.AMPHC.WTH.FG.SHWPTH|Fog - Shallow Patches|POINT|C|
+|1396||![](./images/WAS-WSFGSOP----.png)||WAS-WSFGSOP----|METOC.AMPHC.WTH.FG.SKYOBD|Fog - Sky Obscured|POINT|C|
+|1397||![](./images/WAS-WSFGSVP----.png)||WAS-WSFGSVP----|METOC.AMPHC.WTH.FG.SKYVSB|Fog - Sky Visible|POINT|C|
+|1398||![](./images/WAS-WSF-LVP----.png)||WAS-WSF-LVP----|METOC.AMPHC.WTH.FZLVL|Freezing Level|POINT|C|
+|1399||![](./images/WAS-WSFU--P----.png)||WAS-WSFU--P----|METOC.AMPHC.WTH.FU|Smoke|POINT|C|
+|1400||![](./images/WAS-WSGRL-P----.png)||WAS-WSGRL-P----|METOC.AMPHC.WTH.HL.LIT|Hail - Light Not Associated With Thunder|POINT|C|
+|1401||![](./images/WAS-WSGRMHP----.png)||WAS-WSGRMHP----|METOC.AMPHC.WTH.HL.MODHVY|Hail - Moderate/Heavy Not Associated With Thunder|POINT|C|
+|1402||![](./images/WAS-WSHZ--P----.png)||WAS-WSHZ--P----|METOC.AMPHC.WTH.HZ|Haze|POINT|C|
+|1403||![](./images/WAS-WSIC--P----.png)||WAS-WSIC--P----|METOC.AMPHC.WTH.IC|Ice Crystals (Diamond Dust)|POINT|C|
+|1404||![](./images/WAS-WSM-L-P----.png)||WAS-WSM-L-P----|METOC.AMPHC.WTH.RASN.RDSLIT|Rain Or Drizzle And Snow - Light|POINT|C|
+|1405||![](./images/WAS-WSM-MHP----.png)||WAS-WSM-MHP----|METOC.AMPHC.WTH.RASN.RDSMH|Rain Or Drizzle And Snow - Moderate/Heavy|POINT|C|
+|1406||![](./images/WAS-WSMSL-P----.png)||WAS-WSMSL-P----|METOC.AMPHC.WTH.RASN.SWRLIT|Rain And Snow Showers - Light|POINT|C|
+|1407||![](./images/WAS-WSMSMHP----.png)||WAS-WSMSMHP----|METOC.AMPHC.WTH.RASN.SWRMOD|Rain And Snow Showers - Moderate/Heavy|POINT|C|
+|1408||![](./images/WAS-WSPLH-P----.png)||WAS-WSPLH-P----|METOC.AMPHC.WTH.PE.HVY|Ice Pellets - Heavy|POINT|C|
+|1409||![](./images/WAS-WSPLL-P----.png)||WAS-WSPLL-P----|METOC.AMPHC.WTH.PE.LIT|Ice Pellets - Light|POINT|C|
+|1410||![](./images/WAS-WSPLM-P----.png)||WAS-WSPLM-P----|METOC.AMPHC.WTH.PE.MOD|Ice Pellets - Moderate|POINT|C|
+|1411||![](./images/WAS-WSRFL-P----.png)||WAS-WSRFL-P----|METOC.AMPHC.WTH.FZRA.LIT|Freezing Rain - Light|POINT|C|
+|1412||![](./images/WAS-WSRFMHP----.png)||WAS-WSRFMHP----|METOC.AMPHC.WTH.FZRA.MODHVY|Freezing Rain - Moderate/Heavy|POINT|C|
+|1413||![](./images/WAS-WSR-HCP----.png)||WAS-WSR-HCP----|METOC.AMPHC.WTH.RA.INMHVY.CTSHVY|Rain - Continuous Heavy|POINT|C|
+|1414||![](./images/WAS-WSR-HIP----.png)||WAS-WSR-HIP----|METOC.AMPHC.WTH.RA.INMHVY|Rain - Intermittent Heavy|POINT|C|
+|1415||![](./images/WAS-WSR-LCP----.png)||WAS-WSR-LCP----|METOC.AMPHC.WTH.RA.INMLIT.CTSLIT|Rain - Continuous Light|POINT|C|
+|1416||![](./images/WAS-WSR-LIP----.png)||WAS-WSR-LIP----|METOC.AMPHC.WTH.RA.INMLIT|Rain - Intermittent Light|POINT|C|
+|1417||![](./images/WAS-WSR-MCP----.png)||WAS-WSR-MCP----|METOC.AMPHC.WTH.RA.INMMOD.CTSMOD|Rain - Continuous Moderate|POINT|C|
+|1418||![](./images/WAS-WSR-MIP----.png)||WAS-WSR-MIP----|METOC.AMPHC.WTH.RA.INMMOD|Rain - Intermittent Moderate|POINT|C|
+|1419||![](./images/WAS-WSRSL-P----.png)||WAS-WSRSL-P----|METOC.AMPHC.WTH.RASWR.LIT|Rain Showers - Light|POINT|C|
+|1420||![](./images/WAS-WSRSMHP----.png)||WAS-WSRSMHP----|METOC.AMPHC.WTH.RASWR.MODHVY|Rain Showers - Moderate/Heavy|POINT|C|
+|1421||![](./images/WAS-WSRST-P----.png)||WAS-WSRST-P----|METOC.AMPHC.WTH.RASWR.TOR|Rain Showers - Torrential|POINT|C|
+|1422||![](./images/WAS-WSSBH-P----.png)||WAS-WSSBH-P----|METOC.AMPHC.WTH.SN.BLSNHY|Blowing Snow - Heavy|POINT|C|
+|1423||![](./images/WAS-WSSBLMP----.png)||WAS-WSSBLMP----|METOC.AMPHC.WTH.SN.BLSNLM|Blowing Snow - Light/Moderate|POINT|C|
+|1424||![](./images/WAS-WSSG--P----.png)||WAS-WSSG--P----|METOC.AMPHC.WTH.SG|Snow Grains|POINT|C|
+|1425||![](./images/WAS-WSS-HCP----.png)||WAS-WSS-HCP----|METOC.AMPHC.WTH.SN.INMHVY.CTSHVY|Snow - Continuous Heavy|POINT|C|
+|1426||![](./images/WAS-WSS-HIP----.png)||WAS-WSS-HIP----|METOC.AMPHC.WTH.SN.INMHVY|Snow - Intermittent Heavy|POINT|C|
+|1427||![](./images/WAS-WSS-LCP----.png)||WAS-WSS-LCP----|METOC.AMPHC.WTH.SN.INMLIT.CTSLIT|Snow - Continuous Light|POINT|C|
+|1428||![](./images/WAS-WSS-LIP----.png)||WAS-WSS-LIP----|METOC.AMPHC.WTH.SN.INMLIT|Snow - Intermittent Light|POINT|C|
+|1429||![](./images/WAS-WSS-MCP----.png)||WAS-WSS-MCP----|METOC.AMPHC.WTH.SN.INMMOD.CTSMOD|Snow - Continuous Moderate|POINT|C|
+|1430||![](./images/WAS-WSS-MIP----.png)||WAS-WSS-MIP----|METOC.AMPHC.WTH.SN.INMMOD|Snow - Intermittent Moderate|POINT|C|
+|1431||![](./images/WAS-WSSSL-P----.png)||WAS-WSSSL-P----|METOC.AMPHC.WTH.SSWR.LIT|Snow Showers - Light|POINT|C|
+|1432||![](./images/WAS-WSSSMHP----.png)||WAS-WSSSMHP----|METOC.AMPHC.WTH.SSWR.MODHVY|Snow Showers - Moderate/Heavy|POINT|C|
+|1433||![](./images/WAS-WST-FCP----.png)||WAS-WST-FCP----|METOC.AMPHC.WTH.STMS.FC|Funnel Cloud (Tornado-Waterspout)|POINT|C|
+|1434||![](./images/WAS-WSTHH-P----.png)||WAS-WSTHH-P----|METOC.AMPHC.WTH.STMS.TSHVWH|Thunderstorm Heavy - With Hail|POINT|C|
+|1435||![](./images/WAS-WSTHR-P----.png)||WAS-WSTHR-P----|METOC.AMPHC.WTH.STMS.TSHVNH|Thunderstorm Heavy With Rain-Snow - No Hail|POINT|C|
+|1436||![](./images/WAS-WST-LGP----.png)||WAS-WST-LGP----|METOC.AMPHC.WTH.STMS.LTG|Lightning|POINT|C|
+|1437||![](./images/WAS-WST-LVP----.png)||WAS-WST-LVP----|METOC.AMPHC.WTH.TROPLV|Tropopause Level|POINT|C|
+|1438||![](./images/WAS-WSTMH-P----.png)||WAS-WSTMH-P----|METOC.AMPHC.WTH.STMS.TSLMWH|Thunderstorm Light To Moderate - With Hail|POINT|C|
+|1439||![](./images/WAS-WSTMR-P----.png)||WAS-WSTMR-P----|METOC.AMPHC.WTH.STMS.TSLMNH|Thunderstorm Light To Moderate With Rain/Snow - No Hail|POINT|C|
+|1440||![](./images/WAS-WST-NPP----.png)||WAS-WST-NPP----|METOC.AMPHC.WTH.STMS.TS|Thunderstorm - No Precipitation|POINT|C|
+|1441||![](./images/WAS-WSTSD-P----.png)||WAS-WSTSD-P----|METOC.AMPHC.WTH.TPLSYS.TROPDN|Tropical Depression|POINT|C|
+|1442||![](./images/WAS-WSTSH-P----.png)||WAS-WSTSH-P----|METOC.AMPHC.WTH.TPLSYS.HC|Hurricane-Typhoon|POINT|C|
+|1443||![](./images/WAS-WST-SQP----.png)||WAS-WST-SQP----|METOC.AMPHC.WTH.STMS.SQL|Squall|POINT|C|
+|1444||![](./images/WAS-WSTSS-P----.png)||WAS-WSTSS-P----|METOC.AMPHC.WTH.TPLSYS.TROPSM|Tropical Storm|POINT|C|
+|1445||![](./images/WAS-WSUKP-P----.png)||WAS-WSUKP-P----|METOC.AMPHC.WTH.POUTAI|Precipitation Of Unknown Type And Intensity|POINT|C|
+|1446||![](./images/WAS-WSVA--P----.png)||WAS-WSVA--P----|METOC.AMPHC.WTH.VOLERN.VOLASH|Volcanic Ash|POINT|C|
+|1447||![](./images/WAS-WSVE--P----.png)||WAS-WSVE--P----|METOC.AMPHC.WTH.VOLERN|Volcanic Eruption|POINT|C|
+|1448||![](./images/WO-DBSF-----A--.png)||WO-DBSF-----A--|METOC.OCA.OCNGRY.BEHSPE.FLT|Flat|AREA|C|
+|1449||![](./images/WO-DBSG-----A--.png)||WO-DBSG-----A--|METOC.OCA.OCNGRY.BEHSPE.GTL|Gentle|AREA|C|
+|1450||![](./images/WO-DBSM-----A--.png)||WO-DBSM-----A--|METOC.OCA.OCNGRY.BEHSPE.MOD|Moderate|AREA|C|
+|1451||![](./images/WO-DBST-----A--.png)||WO-DBST-----A--|METOC.OCA.OCNGRY.BEHSPE.STP|Steep|AREA|C|
+|1452||![](./images/WO-DGMBCA---A--.png)||WO-DGMBCA---A--|METOC.OCA.GPHY.MNEWBD.MIWBC.A|A|AREA|C|
+|1453||![](./images/WO-DGMBCB---A--.png)||WO-DGMBCB---A--|METOC.OCA.GPHY.MNEWBD.MIWBC.B|B|AREA|C|
+|1454||![](./images/WO-DGMBCC---A--.png)||WO-DGMBCC---A--|METOC.OCA.GPHY.MNEWBD.MIWBC.C|C|AREA|C|
+|1455||![](./images/WO-DGMBTA---A--.png)||WO-DGMBTA---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.A1|A1|AREA|C|
+|1456||![](./images/WO-DGMBTB---A--.png)||WO-DGMBTB---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.A2|A2|AREA|C|
+|1457||![](./images/WO-DGMBTC---A--.png)||WO-DGMBTC---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.A3|A3|AREA|C|
+|1458||![](./images/WO-DGMBTD---A--.png)||WO-DGMBTD---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.B1|B1|AREA|C|
+|1459||![](./images/WO-DGMBTE---A--.png)||WO-DGMBTE---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.B2|B2|AREA|C|
+|1460||![](./images/WO-DGMBTF---A--.png)||WO-DGMBTF---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.B3|B3|AREA|C|
+|1461||![](./images/WO-DGMBTG---A--.png)||WO-DGMBTG---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.C1|C1|AREA|C|
+|1462||![](./images/WO-DGMBTH---A--.png)||WO-DGMBTH---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.C2|C2|AREA|C|
+|1463||![](./images/WO-DGMBTI---A--.png)||WO-DGMBTI---A--|METOC.OCA.GPHY.MNEWBD.MIWBT.C3|C3|AREA|C|
+|1464||![](./images/WO-DGMCH----A--.png)||WO-DGMCH----A--|METOC.OCA.GPHY.MNEWBD.CTRB.HGH|High|AREA|C|
+|1465||![](./images/WO-DGMCL----A--.png)||WO-DGMCL----A--|METOC.OCA.GPHY.MNEWBD.CTRB.LW|Low|AREA|C|
+|1466||![](./images/WO-DGMCM----A--.png)||WO-DGMCM----A--|METOC.OCA.GPHY.MNEWBD.CTRB.MDM|Medium|AREA|C|
+|1467||![](./images/WO-DGMIBA---A--.png)||WO-DGMIBA---A--|METOC.OCA.GPHY.MNEWBD.IMTBUR.0%|0|AREA|C|
+|1468||![](./images/WO-DGMIBB---A--.png)||WO-DGMIBB---A--|METOC.OCA.GPHY.MNEWBD.IMTBUR.0-10-|0-10-|AREA|C|
+|1469||![](./images/WO-DGMIBC---A--.png)||WO-DGMIBC---A--|METOC.OCA.GPHY.MNEWBD.IMTBUR.10-20-|10-20-|AREA|C|
+|1470||![](./images/WO-DGMIBD---A--.png)||WO-DGMIBD---A--|METOC.OCA.GPHY.MNEWBD.IMTBUR.20-75-|20-75-|AREA|C|
+|1471||![](./images/WO-DGMIBE---A--.png)||WO-DGMIBE---A--|METOC.OCA.GPHY.MNEWBD.IMTBUR.-75-|-75-|AREA|C|
+|1472||![](./images/WO-DGML-----A--.png)||WO-DGML-----A--|METOC.OCA.GPHY.MNEWBD.MIWBS.LND|Land|AREA|C|
+|1473||![](./images/WO-DGMN-----A--.png)||WO-DGMN-----A--|METOC.OCA.GPHY.MNEWBD.MIWBS.NODAT|No Data|AREA|C|
+|1474||![](./images/WO-DGMRM----A--.png)||WO-DGMRM----A--|METOC.OCA.GPHY.MNEWBD.BTMRGN.MOD|Moderate|AREA|C|
+|1475||![](./images/WO-DGMRR----A--.png)||WO-DGMRR----A--|METOC.OCA.GPHY.MNEWBD.BTMRGN.RGH|Rough|AREA|C|
+|1476||![](./images/WO-DGMRS----A--.png)||WO-DGMRS----A--|METOC.OCA.GPHY.MNEWBD.BTMRGN.SMH|Smooth|AREA|C|
+|1477||![](./images/WO-DGMSB----A--.png)||WO-DGMSB----A--|METOC.OCA.GPHY.MNEWBD.MIWBS.BLDS|Boulders|AREA|C|
+|1478||![](./images/WO-DGMSC----A--.png)||WO-DGMSC----A--|METOC.OCA.GPHY.MNEWBD.MIWBS.CLAY|Clay|AREA|C|
+|1479||![](./images/WO-DGMS-CO--A--.png)||WO-DGMS-CO--A--|METOC.OCA.GPHY.MNEWBD.MIWBS.COBLOS|Cobbles  Oyster Shells|AREA|C|
+|1480||![](./images/WO-DGMSIC---A--.png)||WO-DGMSIC---A--|METOC.OCA.GPHY.MNEWBD.MIWBS.CSESLT|Coarse Silt|AREA|C|
+|1481||![](./images/WO-DGMSIF---A--.png)||WO-DGMSIF---A--|METOC.OCA.GPHY.MNEWBD.MIWBS.FNESLT|Fine Silt|AREA|C|
+|1482||![](./images/WO-DGMSIM---A--.png)||WO-DGMSIM---A--|METOC.OCA.GPHY.MNEWBD.MIWBS.MDMSLT|Medium Silt|AREA|C|
+|1483||![](./images/WO-DGMSIVF--A--.png)||WO-DGMSIVF--A--|METOC.OCA.GPHY.MNEWBD.MIWBS.VFNSLT|Very Fine Silt|AREA|C|
+|1484||![](./images/WO-DGMS-PH--A--.png)||WO-DGMS-PH--A--|METOC.OCA.GPHY.MNEWBD.MIWBS.PBLSHE|Pebbles  Shells|AREA|C|
+|1485||![](./images/WO-DGMSR----A--.png)||WO-DGMSR----A--|METOC.OCA.GPHY.MNEWBD.MIWBS.SLDRCK|Solid Rock|AREA|C|
+|1486||![](./images/WO-DGMSSC---A--.png)||WO-DGMSSC---A--|METOC.OCA.GPHY.MNEWBD.MIWBS.CSESD|Coarse Sand|AREA|C|
+|1487||![](./images/WO-DGMSSF---A--.png)||WO-DGMSSF---A--|METOC.OCA.GPHY.MNEWBD.MIWBS.FNESD|Fine Sand|AREA|C|
+|1488||![](./images/WO-DGMS-SH--A--.png)||WO-DGMS-SH--A--|METOC.OCA.GPHY.MNEWBD.MIWBS.SD&SHE|Sand And Shells|AREA|C|
+|1489||![](./images/WO-DGMSSM---A--.png)||WO-DGMSSM---A--|METOC.OCA.GPHY.MNEWBD.MIWBS.MDMSD|Medium Sand|AREA|C|
+|1490||![](./images/WO-DGMSSVF--A--.png)||WO-DGMSSVF--A--|METOC.OCA.GPHY.MNEWBD.MIWBS.VFNESD|Very Fine Sand|AREA|C|
+|1491||![](./images/WO-DGMSSVS--A--.png)||WO-DGMSSVS--A--|METOC.OCA.GPHY.MNEWBD.MIWBS.VCSESD|Very Coarse Sand|AREA|C|
+|1492||![](./images/WO-DHABP----A--.png)||WO-DHABP----A--|METOC.OCA.HYDGRY.ATN.PRH1.PRH3|Perches-Stakes|POINT|C|
+|1493||![](./images/WO-DHALLA--L---.png)||WO-DHALLA--L---|METOC.OCA.HYDGRY.ATN.LDGLNE|Leading Line|LINE|C|
+|1494||![](./images/WO-DHCB-----A--.png)||WO-DHCB-----A--|METOC.OCA.HYDGRY.CSTHYD.BEH|Beach|AREA|C|
+|1495||![](./images/WO-DHCC----L---.png)||WO-DHCC----L---|METOC.OCA.HYDGRY.CSTHYD.CSTLN|Coastline|LINE|C|
+|1496||![](./images/WO-DHCF-----A--.png)||WO-DHCF-----A--|METOC.OCA.HYDGRY.CSTHYD.FSH1.FSH3|Foreshore|AREA|C|
+|1497||![](./images/WO-DHCF----L---.png)||WO-DHCF----L---|METOC.OCA.HYDGRY.CSTHYD.FSH1.FSH2|Foreshore|LINE|C|
+|1498||![](./images/WO-DHCI-----A--.png)||WO-DHCI-----A--|METOC.OCA.HYDGRY.CSTHYD.ISND|Island|AREA|C|
+|1499||![](./images/WO-DHCW-----A--.png)||WO-DHCW-----A--|METOC.OCA.HYDGRY.CSTHYD.H2O|Water|AREA|C|
+|1500||![](./images/WO-DHDDA----A--.png)||WO-DHDDA----A--|METOC.OCA.HYDGRY.DPH.ARA|Depth Area|POINT|C|
+|1501||![](./images/WO-DHDDC---L---.png)||WO-DHDDC---L---|METOC.OCA.HYDGRY.DPH.CTUR|Depth Contour|LINE|C|
+|1502||![](./images/WO-DHDDL---L---.png)||WO-DHDDL---L---|METOC.OCA.HYDGRY.DPH.CRV|Depth Curve|LINE|C|
+|1503||![](./images/WO-DHHD-----A--.png)||WO-DHHD-----A--|METOC.OCA.HYDGRY.DANHAZ.UH2DAN|Underwater Danger-Hazard|AREA|C|
+|1504||![](./images/WO-DHHDB---L---.png)||WO-DHHDB---L---|METOC.OCA.HYDGRY.DANHAZ.BRKS|Breakers|LINE|C|
+|1505||![](./images/WO-DHHDD----A--.png)||WO-DHHDD----A--|METOC.OCA.HYDGRY.DANHAZ.DCDH2O|Discolored Water|AREA|C|
+|1506||![](./images/WO-DHHDF----A--.png)||WO-DHHDF----A--|METOC.OCA.HYDGRY.DANHAZ.FLGRD1.FLGRD3|Foul Ground|AREA|C|
+|1507||![](./images/WO-DHHDK----A--.png)||WO-DHHDK----A--|METOC.OCA.HYDGRY.DANHAZ.KLP1.KLP3|Kelp3-Seaweed|AREA|C|
+|1508||![](./images/WO-DHHDK--P----.png)||WO-DHHDK--P----|METOC.OCA.HYDGRY.DANHAZ.KLP1.KLP2|Kelp2-Seaweed|POINT|C|
+|1509||![](./images/WO-DHPBA----A--.png)||WO-DHPBA----A--|METOC.OCA.HYDGRY.PRTHBR.PRT.ANCRG3|Anchorage|AREA|C|
+|1510||![](./images/WO-DHPBA---L---.png)||WO-DHPBA---L---|METOC.OCA.HYDGRY.PRTHBR.PRT.ANCRG2|Anchorage|LINE|C|
+|1511||![](./images/WO-DHPBP---L---.png)||WO-DHPBP---L---|METOC.OCA.HYDGRY.PRTHBR.PRT.PWQ|Pier-Wharf-Quay|LINE|C|
+|1512||![](./images/WO-DHPMD----A--.png)||WO-DHPMD----A--|METOC.OCA.HYDGRY.PRTHBR.FAC.DDCK|Drydock|AREA|C|
+|1513||![](./images/WO-DHPMO----A--.png)||WO-DHPMO----A--|METOC.OCA.HYDGRY.PRTHBR.FAC.OSLF3|Offshore Loading Facility|AREA|C|
+|1514||![](./images/WO-DHPMO---L---.png)||WO-DHPMO---L---|METOC.OCA.HYDGRY.PRTHBR.FAC.OSLF2|Offshore Loading Facility|LINE|C|
+|1515||![](./images/WO-DHPMO--P----.png)||WO-DHPMO--P----|METOC.OCA.HYDGRY.PRTHBR.FAC.OSLF1|Offshore Loading Facility|POINT|C|
+|1516||![](./images/WO-DHPMRA--L---.png)||WO-DHPMRA--L---|METOC.OCA.HYDGRY.PRTHBR.FAC.RAMPAW|Ramp (Above Water)|LINE|C|
+|1517||![](./images/WO-DHPMRB--L---.png)||WO-DHPMRB--L---|METOC.OCA.HYDGRY.PRTHBR.FAC.RAMPBW|Ramp (Below Water)|LINE|C|
+|1518||![](./images/WO-DHPSPA--L---.png)||WO-DHPSPA--L---|METOC.OCA.HYDGRY.PRTHBR.SHRLNE.BWGJAW|Breakwater-Groin-Jetty (Above Water)|LINE|C|
+|1519||![](./images/WO-DHPSPB--L---.png)||WO-DHPSPB--L---|METOC.OCA.HYDGRY.PRTHBR.SHRLNE.BWGJBW|Breakwater-Groin-Jetty (Below Water)|LINE|C|
+|1520||![](./images/WO-DHPSPS--L---.png)||WO-DHPSPS--L---|METOC.OCA.HYDGRY.PRTHBR.SHRLNE.SW|Seawall|LINE|C|
+|1521||![](./images/WO-DIDID---L---.png)||WO-DIDID---L---|METOC.OCA.ISYS.DYNPRO.ID|Ice Drift (Direction)|POINT|C|
+|1522||![](./images/WO-DILIEE--L---.png)||WO-DILIEE--L---|METOC.OCA.ISYS.LMT.EIEOB|Estimated Ice Edge Or Boundary|LINE|C|
+|1523||![](./images/WO-DILIEO--L---.png)||WO-DILIEO--L---|METOC.OCA.ISYS.LMT.OIEOB|Observed Ice Edge Or Boundary|LINE|C|
+|1524||![](./images/WO-DILIER--L---.png)||WO-DILIER--L---|METOC.OCA.ISYS.LMT.IEOBFR|Ice Edge Or Boundary From Radar|LINE|C|
+|1525||![](./images/WO-DILOR---L---.png)||WO-DILOR---L---|METOC.OCA.ISYS.LMT.LORO|Limit Of Radar Observation|LINE|C|
+|1526||![](./images/WO-DILOV---L---.png)||WO-DILOV---L---|METOC.OCA.ISYS.LMT.LOVO|Limit Of Visual Observation|LINE|C|
+|1527||![](./images/WO-DILUC---L---.png)||WO-DILUC---L---|METOC.OCA.ISYS.LMT.LOU|Limit Of Undercast|LINE|C|
+|1528||![](./images/WO-DIOC----L---.png)||WO-DIOC----L---|METOC.OCA.ISYS.OITI.CRK|Cracks|LINE|C|
+|1529||![](./images/WO-DIOCS---L---.png)||WO-DIOCS---L---|METOC.OCA.ISYS.OITI.CRKASL|Cracks At A Specific Location|LINE|C|
+|1530||![](./images/WO-DIOLF---L---.png)||WO-DIOLF---L---|METOC.OCA.ISYS.OITI.FZLED|Frozen Lead|LINE|C|
+|1531||![](./images/WO-DIOL----L---.png)||WO-DIOL----L---|METOC.OCA.ISYS.OITI.LED|Lead|LINE|C|
+|1532||![](./images/WO-DL-MA----A--.png)||WO-DL-MA----A--|METOC.OCA.LMT.MARTAR|Maritime Area|AREA|C|
+|1533||![](./images/WO-DL-ML---L---.png)||WO-DL-ML---L---|METOC.OCA.LMT.MARTLB|Maritime Limit Boundary|LINE|C|
+|1534||![](./images/WO-DL-O-----A--.png)||WO-DL-O-----A--|METOC.OCA.LMT.OD|Operator-Defined|AREA|C|
+|1535||![](./images/WO-DL-RA---L---.png)||WO-DL-RA---L---|METOC.OCA.LMT.RSDARA|Restricted Area|LINE|C|
+|1536||![](./images/WO-DL-SA----A--.png)||WO-DL-SA----A--|METOC.OCA.LMT.SWPARA|Swept Area|AREA|C|
+|1537||![](./images/WO-DL-TA----A--.png)||WO-DL-TA----A--|METOC.OCA.LMT.TRGARA|Training Area|AREA|C|
+|1538||![](./images/WO-DMCA----L---.png)||WO-DMCA----L---|METOC.OCA.MMD.SUBCBL|Submarine Cable|LINE|C|
+|1539||![](./images/WO-DMCC-----A--.png)||WO-DMCC-----A--|METOC.OCA.MMD.SBMCRB|Submerged Crib|AREA|C|
+|1540||![](./images/WO-DMCD----L---.png)||WO-DMCD----L---|METOC.OCA.MMD.CNL|Canal|LINE|C|
+|1541||![](./images/WO-DMOA-----A--.png)||WO-DMOA-----A--|METOC.OCA.MMD.OLRGFD|Oil/Gas Rig Field|AREA|C|
+|1542||![](./images/WO-DMPA----L---.png)||WO-DMPA----L---|METOC.OCA.MMD.PPELNE|Pipelines/Pipe|LINE|C|
+|1543||![](./images/WO-DOBVA----A--.png)||WO-DOBVA----A--|METOC.OCA.OCNGRY.BIOLUM.VDR1-2|Vdr Level 1-2|AREA|C|
+|1544||![](./images/WO-DOBVB----A--.png)||WO-DOBVB----A--|METOC.OCA.OCNGRY.BIOLUM.VDR2-3|Vdr Level 2-3|AREA|C|
+|1545||![](./images/WO-DOBVC----A--.png)||WO-DOBVC----A--|METOC.OCA.OCNGRY.BIOLUM.VDR3-4|Vdr Level 3-4|AREA|C|
+|1546||![](./images/WO-DOBVD----A--.png)||WO-DOBVD----A--|METOC.OCA.OCNGRY.BIOLUM.VDR4-5|Vdr Level 4-5|AREA|C|
+|1547||![](./images/WO-DOBVE----A--.png)||WO-DOBVE----A--|METOC.OCA.OCNGRY.BIOLUM.VDR5-6|Vdr Level 5-6|AREA|C|
+|1548||![](./images/WO-DOBVF----A--.png)||WO-DOBVF----A--|METOC.OCA.OCNGRY.BIOLUM.VDR6-7|Vdr Level 6-7|AREA|C|
+|1549||![](./images/WO-DOBVG----A--.png)||WO-DOBVG----A--|METOC.OCA.OCNGRY.BIOLUM.VDR7-8|Vdr Level 7-8|AREA|C|
+|1550||![](./images/WO-DOBVH----A--.png)||WO-DOBVH----A--|METOC.OCA.OCNGRY.BIOLUM.VDR8-9|Vdr Level 8-9|AREA|C|
+|1551||![](./images/WO-DOBVI----A--.png)||WO-DOBVI----A--|METOC.OCA.OCNGRY.BIOLUM.VDR9-0|Vdr Level 9-10|AREA|C|
+|1552||![](./images/WO-DTCCCFE-L---.png)||WO-DTCCCFE-L---|METOC.OCA.HYDGRY.TDECUR.EBB|Current Flow - Ebb|LINE|C|
+|1553||![](./images/WO-DTCCCFF-L---.png)||WO-DTCCCFF-L---|METOC.OCA.HYDGRY.TDECUR.FLOOD|Current Flow - Flood|LINE|C|
+|1554||![](./images/WOS-BFC-CBP----.png)||WOS-BFC-CBP----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.COBL|Cobbles|POINT|C|
+|1555||![](./images/WOS-BFC-CLP----.png)||WOS-BFC-CLP----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.CLAY|Clay|POINT|C|
+|1556||![](./images/WOS-BFC-COP----.png)||WOS-BFC-COP----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.CRL|Coral|POINT|C|
+|1557||![](./images/WOS-BFC-G-P----.png)||WOS-BFC-G-P----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.GVL|Gravel|POINT|C|
+|1558||![](./images/WOS-BFC-M-P----.png)||WOS-BFC-M-P----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.MUD|Mud|POINT|C|
+|1559||![](./images/WOS-BFC-P-P----.png)||WOS-BFC-P-P----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.PBL|Pebbles|POINT|C|
+|1560||![](./images/WOS-BFC-R-P----.png)||WOS-BFC-R-P----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.RCK|Rock|POINT|C|
+|1561||![](./images/WOS-BFC-SHP----.png)||WOS-BFC-SHP----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.SHE|Shell|POINT|C|
+|1562||![](./images/WOS-BFC-SIP----.png)||WOS-BFC-SIP----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.SLT|Silt|POINT|C|
+|1563||![](./images/WOS-BFC-S-P----.png)||WOS-BFC-S-P----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.SD|Sand|POINT|C|
+|1564||![](./images/WOS-BFC-STP----.png)||WOS-BFC-STP----|METOC.OCA.HYDGRY.BTMFAT.BTMCHR.STNE|Stones|POINT|C|
+|1565||![](./images/WOS-BFQ-C-P----.png)||WOS-BFQ-C-P----|METOC.OCA.HYDGRY.BTMFAT.QLFYTM.CSE|Coarse|POINT|C|
+|1566||![](./images/WOS-BFQ-F-P----.png)||WOS-BFQ-F-P----|METOC.OCA.HYDGRY.BTMFAT.QLFYTM.FNE|Fine|POINT|C|
+|1567||![](./images/WOS-BFQ-M-P----.png)||WOS-BFQ-M-P----|METOC.OCA.HYDGRY.BTMFAT.QLFYTM.MDM|Medium|POINT|C|
+|1568||![](./images/WOS-HABA--P----.png)||WOS-HABA--P----|METOC.OCA.HYDGRY.ATN.BCN|Beacon|POINT|C|
+|1569||![](./images/WOS-HABB--P----.png)||WOS-HABB--P----|METOC.OCA.HYDGRY.ATN.BUOY|Buoy Default|POINT|C|
+|1570||![](./images/WOS-HABM--P----.png)||WOS-HABM--P----|METOC.OCA.HYDGRY.ATN.MRK|Marker|POINT|C|
+|1571||![](./images/WOS-HABP--P----.png)||WOS-HABP--P----|METOC.OCA.HYDGRY.ATN.PRH1.PRH2|Perches-Stakes|POINT|C|
+|1572||![](./images/WOS-HALH--P----.png)||WOS-HALH--P----|METOC.OCA.HYDGRY.ATN.LITHSE|Lighthouse|POINT|C|
+|1573||![](./images/WOS-HAL---P----.png)||WOS-HAL---P----|METOC.OCA.HYDGRY.ATN.LIT|Light|POINT|C|
+|1574||![](./images/WOS-HALV--P----.png)||WOS-HALV--P----|METOC.OCA.HYDGRY.ATN.LITVES|Light Vessel-Lightship|POINT|C|
+|1575||![](./images/WOS-HDS---P----.png)||WOS-HDS---P----|METOC.OCA.HYDGRY.DPH.SNDG|Soundings|POINT|C|
+|1576||![](./images/WOS-HHDE--P----.png)||WOS-HHDE--P----|METOC.OCA.HYDGRY.DANHAZ.EOTR|Eddies-Overfalls-Tide Rips|POINT|C|
+|1577||![](./images/WOS-HHDF--P----.png)||WOS-HHDF--P----|METOC.OCA.HYDGRY.DANHAZ.FLGRD1.FLGRD2|Foul Ground|POINT|C|
+|1578||![](./images/WOS-HHDMDBP----.png)||WOS-HHDMDBP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DBT|Mine-Naval (Doubtful)|POINT|C|
+|1579||![](./images/WOS-HHDMDFP----.png)||WOS-HHDMDFP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DEFN|Mine-Naval (Definite)|POINT|C|
+|1580||![](./images/WOS-HHDR---L---.png)||WOS-HHDR---L---|METOC.OCA.HYDGRY.DANHAZ.REEF|Reef|LINE|C|
+|1581||![](./images/WOS-HHDS--P----.png)||WOS-HHDS--P----|METOC.OCA.HYDGRY.DANHAZ.SNAG|Snags-Stumps|POINT|C|
+|1582||![](./images/WOS-HHDWA-P----.png)||WOS-HHDWA-P----|METOC.OCA.HYDGRY.DANHAZ.WRK.UCOV|Wreck (Uncovers)|POINT|C|
+|1583||![](./images/WOS-HHDWB-P----.png)||WOS-HHDWB-P----|METOC.OCA.HYDGRY.DANHAZ.WRK.SBM|Wreck (Submerged)|POINT|C|
+|1584||![](./images/WOS-HHRA--P----.png)||WOS-HHRA--P----|METOC.OCA.HYDGRY.DANHAZ.RCKAWD|Rock Awashed|POINT|C|
+|1585||![](./images/WOS-HHRS--P----.png)||WOS-HHRS--P----|METOC.OCA.HYDGRY.DANHAZ.RCKSBM|Rock Submergered|POINT|C|
+|1586||![](./images/WOS-HPBA--P----.png)||WOS-HPBA--P----|METOC.OCA.HYDGRY.PRTHBR.PRT.ANCRG1|Anchorage|POINT|C|
+|1587||![](./images/WOS-HPB-A-P----.png)||WOS-HPB-A-P----|METOC.OCA.HYDGRY.PRTHBR.PRT.BRHSA|Berths (Anchor)|POINT|C|
+|1588||![](./images/WOS-HPB-O-P----.png)||WOS-HPB-O-P----|METOC.OCA.HYDGRY.PRTHBR.PRT.BRHSO|Berths (Onshore)|POINT|C|
+|1589||![](./images/WOS-HPCP--P----.png)||WOS-HPCP--P----|METOC.OCA.HYDGRY.PRTHBR.PRT.CIP|Call In Point|POINT|C|
+|1590||![](./images/WOS-HPD---P----.png)||WOS-HPD---P----|METOC.OCA.HYDGRY.PRTHBR.FAC.DOPN|Dolphin|POINT|C|
+|1591||![](./images/WOS-HPFF----A--.png)||WOS-HPFF----A--|METOC.OCA.HYDGRY.PRTHBR.FSG.FSTK3|Fish Stakes-Traps-Weirs Fstk3|AREA|C|
+|1592||![](./images/WOS-HPFH--P----.png)||WOS-HPFH--P----|METOC.OCA.HYDGRY.PRTHBR.FSG.FSGHBR|Fishing Harbor|POINT|C|
+|1593||![](./images/WOS-HPFS---L---.png)||WOS-HPFS---L---|METOC.OCA.HYDGRY.PRTHBR.FSG.FSTK2|Fish Stakes-Traps-Weirs Fstk2|POINT|C|
+|1594||![](./images/WOS-HPFS--P----.png)||WOS-HPFS--P----|METOC.OCA.HYDGRY.PRTHBR.FSG.FSTK1|Fish Stakes-Traps-Weirs Fstk1|POINT|C|
+|1595||![](./images/WOS-HPM-CC-L---.png)||WOS-HPM-CC-L---|METOC.OCA.HYDGRY.PRTHBR.FAC.CFCSG|Cable Ferry Crossing|POINT|C|
+|1596||![](./images/WOS-HPM-FC-L---.png)||WOS-HPM-FC-L---|METOC.OCA.HYDGRY.PRTHBR.FAC.FRYCSG|Ferry Crossing|POINT|C|
+|1597||![](./images/WOS-HPML--P----.png)||WOS-HPML--P----|METOC.OCA.HYDGRY.PRTHBR.FAC.LNDPLC|Landing Place|POINT|C|
+|1598||![](./images/WOS-HPM-R-P----.png)||WOS-HPM-R-P----|METOC.OCA.HYDGRY.PRTHBR.FAC.LNDRNG|Landing Ring|POINT|C|
+|1599||![](./images/WOS-IBBBM-P----.png)||WOS-IBBBM-P----|METOC.OCA.ISYS.IB.MNYBB|Many Bergy Bits|POINT|C|
+|1600||![](./images/WOS-IBBB--P----.png)||WOS-IBBB--P----|METOC.OCA.ISYS.IB.BB|Bergy Bit|POINT|C|
+|1601||![](./images/WOS-IBBS--P----.png)||WOS-IBBS--P----|METOC.OCA.ISYS.IB.BAS|Belts And Strips|POINT|C|
+|1602||![](./images/WOS-IBF---P----.png)||WOS-IBF---P----|METOC.OCA.ISYS.IB.FBG|Floeberg|POINT|C|
+|1603||![](./images/WOS-IBGLM-P----.png)||WOS-IBGLM-P----|METOC.OCA.ISYS.IB.MNYGWL|Many Growlers|POINT|C|
+|1604||![](./images/WOS-IBGL--P----.png)||WOS-IBGL--P----|METOC.OCA.ISYS.IB.GWL|Growler|POINT|C|
+|1605||![](./images/WOS-IBG---P----.png)||WOS-IBG---P----|METOC.OCA.ISYS.IB.GNL|Iceberg - General|POINT|C|
+|1606||![](./images/WOS-IBII--P----.png)||WOS-IBII--P----|METOC.OCA.ISYS.IB.II|Ice Island|POINT|C|
+|1607||![](./images/WOS-IBMG--P----.png)||WOS-IBMG--P----|METOC.OCA.ISYS.IB.MNYGNL|Many Icebergs - General|POINT|C|
+|1608||![](./images/WOS-IBM---P----.png)||WOS-IBM---P----|METOC.OCA.ISYS.IB.MNY|Many Icebergs|POINT|C|
+|1609||![](./images/WOS-IB----P----.png)||WOS-IB----P----|METOC.OCA.ISYS.IB|Icebergs|POINT|C|
+|1610||![](./images/WOS-ICIF--P----.png)||WOS-ICIF--P----|METOC.OCA.ISYS.ICN.IF|Ice Free|POINT|C|
+|1611||![](./images/WOS-ICWB--P----.png)||WOS-ICWB--P----|METOC.OCA.ISYS.ICN.BW|Bergy Water|POINT|C|
+|1612||![](./images/WOS-ICWR--P----.png)||WOS-ICWR--P----|METOC.OCA.ISYS.ICN.WWRT|Water With Radar Targets|POINT|C|
+|1613||![](./images/WOS-IDC---P----.png)||WOS-IDC---P----|METOC.OCA.ISYS.DYNPRO.CNG|Convergence|POINT|C|
+|1614||![](./images/WOS-IDD---P----.png)||WOS-IDD---P----|METOC.OCA.ISYS.DYNPRO.DVG|Divergence|POINT|C|
+|1615||![](./images/WOS-IDS---P----.png)||WOS-IDS---P----|METOC.OCA.ISYS.DYNPRO.SHAZ|Shearing Or Shear Zone|POINT|C|
+|1616||![](./images/WOS-II----P----.png)||WOS-II----P----|METOC.OCA.ISYS.SI|Sea Ice|POINT|C|
+|1617||![](./images/WOS-IIP---P----.png)||WOS-IIP---P----|METOC.OCA.ISYS.SI.MPOFI|Melt Puddles Or Flooded Ice|POINT|C|
+|1618||![](./images/WOS-IITE--P----.png)||WOS-IITE--P----|METOC.OCA.ISYS.SI.ITEST|Ice Thickness (Estimated)|POINT|C|
+|1619||![](./images/WOS-IITM--P----.png)||WOS-IITM--P----|METOC.OCA.ISYS.SI.ITOBS|Ice Thickness (Observed)|POINT|C|
+|1620||![](./images/WOS-ISC---P----.png)||WOS-ISC---P----|METOC.OCA.ISYS.SC|Snow Cover|POINT|C|
+|1621||![](./images/WOS-ISS---P----.png)||WOS-ISS---P----|METOC.OCA.ISYS.SC.SWO|Sastrugi (With Orientation)|POINT|C|
+|1622||![](./images/WOS-ITBB--P----.png)||WOS-ITBB--P----|METOC.OCA.ISYS.TOPFTR.JBB|Jammed Brash Barrier|POINT|C|
+|1623||![](./images/WOS-ITRH--P----.png)||WOS-ITRH--P----|METOC.OCA.ISYS.TOPFTR.HUM|Ridges Or Hummocks|POINT|C|
+|1624||![](./images/WOS-ITR---P----.png)||WOS-ITR---P----|METOC.OCA.ISYS.TOPFTR.RFTG|Rafting|POINT|C|
+|1625||![](./images/WOS-MF----P----.png)||WOS-MF----P----|METOC.OCA.MMD.FRD|Ford|POINT|C|
+|1626||![](./images/WOS-ML----P----.png)||WOS-ML----P----|METOC.OCA.MMD.LCK|Lock|POINT|C|
+|1627||![](./images/WOS-MOA---P----.png)||WOS-MOA---P----|METOC.OCA.MMD.OLRG|Oil/Gas Rig|POINT|C|
+|1628||![](./images/WOS-MPA---P----.png)||WOS-MPA---P----|METOC.OCA.MMD.PLE|Pile/Piling/Post|POINT|C|
+|1629||![](./images/WOS-TCCTD-P----.png)||WOS-TCCTD-P----|METOC.OCA.HYDGRY.TDECUR.TDEDP|Tide Data Point|POINT|C|
+|1630||![](./images/WOS-TCCTG-P----.png)||WOS-TCCTG-P----|METOC.OCA.HYDGRY.TDECUR.TDEG|Tide Gauge|POINT|C|
+|1631||![](./images/WOS-TCCW--P----.png)||WOS-TCCW--P----|METOC.OCA.HYDGRY.TDECUR.H2OTRB|Water Turbulence|POINT|C|
+|1632||![](./images/IFAPSCC--------.png)||IFAPSCC--------|SIGINT.AIRTRK.SIGINC.COMM.CELL|Cellular/Mobile|POINT|D|
+|1633||![](./images/IFAPSCO--------.png)||IFAPSCO--------|SIGINT.AIRTRK.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|D|
+|1634||![](./images/IFAPSCP--------.png)||IFAPSCP--------|SIGINT.AIRTRK.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|D|
+|1635||![](./images/IFAPSCS--------.png)||IFAPSCS--------|SIGINT.AIRTRK.SIGINC.COMM.SATUL|Satellite Uplink|POINT|D|
+|1636||![](./images/IFAPSRAI-------.png)||IFAPSRAI-------|SIGINT.AIRTRK.SIGINC.RAD.ABNINC|Airborne Intercept|POINT|D|
+|1637||![](./images/IFAPSRAS-------.png)||IFAPSRAS-------|SIGINT.AIRTRK.SIGINC.RAD.ABNSB|Airborne Search & Bombing|POINT|D|
+|1638||![](./images/IFAPSRC--------.png)||IFAPSRC--------|SIGINT.AIRTRK.SIGINC.RAD.CTDINC|Controlled Intercept|POINT|D|
+|1639||![](./images/IFAPSRD--------.png)||IFAPSRD--------|SIGINT.AIRTRK.SIGINC.RAD.DATTMN|Data Transmission|POINT|D|
+|1640||![](./images/IFAPSRE--------.png)||IFAPSRE--------|SIGINT.AIRTRK.SIGINC.RAD.EW|Early Warning|POINT|D|
+|1641||![](./images/IFAPSRF--------.png)||IFAPSRF--------|SIGINT.AIRTRK.SIGINC.RAD.FIRCTL|Fire Control|POINT|D|
+|1642||![](./images/IFAPSRI--------.png)||IFAPSRI--------|SIGINT.AIRTRK.SIGINC.RAD.IFF|Iff (Transponder)|POINT|D|
+|1643||![](./images/IFAPSRMA-------.png)||IFAPSRMA-------|SIGINT.AIRTRK.SIGINC.RAD.MSLAQ|Missile Acquisition|POINT|D|
+|1644||![](./images/IFAPSRMD-------.png)||IFAPSRMD-------|SIGINT.AIRTRK.SIGINC.RAD.MSLDL|Missile Downlink|POINT|D|
+|1645||![](./images/IFAPSRMF-------.png)||IFAPSRMF-------|SIGINT.AIRTRK.SIGINC.RAD.MFN|Multifunction|POINT|D|
+|1646||![](./images/IFAPSRMG-------.png)||IFAPSRMG-------|SIGINT.AIRTRK.SIGINC.RAD.MSLGDN|Missile Guidance|POINT|D|
+|1647||![](./images/IFAPSRMT-------.png)||IFAPSRMT-------|SIGINT.AIRTRK.SIGINC.RAD.MSLTRK|Missile Tracking|POINT|D|
+|1648||![](./images/IFAPSRTA-------.png)||IFAPSRTA-------|SIGINT.AIRTRK.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|D|
+|1649||![](./images/IFAPSRTI-------.png)||IFAPSRTI-------|SIGINT.AIRTRK.SIGINC.RAD.TGTILL|Target Illuminator|POINT|D|
+|1650||![](./images/IFAPSRTT-------.png)||IFAPSRTT-------|SIGINT.AIRTRK.SIGINC.RAD.TGTTRK|Target Tracking|POINT|D|
+|1651||![](./images/IFAPSRU--------.png)||IFAPSRU--------|SIGINT.AIRTRK.SIGINC.RAD.UNK|Unknown|POINT|D|
+|1652||![](./images/IFGPSCC--------.png)||IFGPSCC--------|SIGINT.GRDTRK.SIGINC.COMM.CELL|Cellular/Mobile|POINT|D|
+|1653||![](./images/IFGPSCO--------.png)||IFGPSCO--------|SIGINT.GRDTRK.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|D|
+|1654||![](./images/IFGPSCP--------.png)||IFGPSCP--------|SIGINT.GRDTRK.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|D|
+|1655||![](./images/IFGPSCS--------.png)||IFGPSCS--------|SIGINT.GRDTRK.SIGINC.COMM.SATUL|Satellite Uplink|POINT|D|
+|1656||![](./images/IFGPSCT--------.png)||IFGPSCT--------|SIGINT.GRDTRK.SIGINC.COMM.TPSSCT|Tropospheric Scatter|POINT|D|
+|1657||![](./images/IFGPSRAT-------.png)||IFGPSRAT-------|SIGINT.GRDTRK.SIGINC.RAD.ATCTL|Air Traffic Control|POINT|D|
+|1658||![](./images/IFGPSRB--------.png)||IFGPSRB--------|SIGINT.GRDTRK.SIGINC.RAD.BTFSVL|Battlefield Surveillance|POINT|D|
+|1659||![](./images/IFGPSRCA-------.png)||IFGPSRCA-------|SIGINT.GRDTRK.SIGINC.RAD.CTDAPP|Controlled Approach|POINT|D|
+|1660||![](./images/IFGPSRCS-------.png)||IFGPSRCS-------|SIGINT.GRDTRK.SIGINC.RAD.CSTSVL|Coastal Surveillance|POINT|D|
+|1661||![](./images/IFGPSRD--------.png)||IFGPSRD--------|SIGINT.GRDTRK.SIGINC.RAD.DATTMN|Data Transmission|POINT|D|
+|1662||![](./images/IFGPSRE--------.png)||IFGPSRE--------|SIGINT.GRDTRK.SIGINC.RAD.EW|Early Warning|POINT|D|
+|1663||![](./images/IFGPSRF--------.png)||IFGPSRF--------|SIGINT.GRDTRK.SIGINC.RAD.FIRCTL|Fire Control|POINT|D|
+|1664||![](./images/IFGPSRH--------.png)||IFGPSRH--------|SIGINT.GRDTRK.SIGINC.RAD.HGTFDG|Height Finding|POINT|D|
+|1665||![](./images/IFGPSRI--------.png)||IFGPSRI--------|SIGINT.GRDTRK.SIGINC.RAD.IDFF|Identification Friend/Foe (Interrogator)|POINT|D|
+|1666||![](./images/IFGPSRMA-------.png)||IFGPSRMA-------|SIGINT.GRDTRK.SIGINC.RAD.MSLAQ|Missile Acquisition|POINT|D|
+|1667||![](./images/IFGPSRMF-------.png)||IFGPSRMF-------|SIGINT.GRDTRK.SIGINC.RAD.MFN|Multifunction|POINT|D|
+|1668||![](./images/IFGPSRMG-------.png)||IFGPSRMG-------|SIGINT.GRDTRK.SIGINC.RAD.MSLGDN|Missile Guidance|POINT|D|
+|1669||![](./images/IFGPSRMM-------.png)||IFGPSRMM-------|SIGINT.GRDTRK.SIGINC.RAD.METO|Meteorological (Military)|POINT|D|
+|1670||![](./images/IFGPSRMT-------.png)||IFGPSRMT-------|SIGINT.GRDTRK.SIGINC.RAD.MSLTRK|Missile Tracking|POINT|D|
+|1671||![](./images/IFGPSRS--------.png)||IFGPSRS--------|SIGINT.GRDTRK.SIGINC.RAD.SHETKG|Shell Tracking|POINT|D|
+|1672||![](./images/IFGPSRTA-------.png)||IFGPSRTA-------|SIGINT.GRDTRK.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|D|
+|1673||![](./images/IFGPSRTI-------.png)||IFGPSRTI-------|SIGINT.GRDTRK.SIGINC.RAD.TGTILL|Target Illuminator|POINT|D|
+|1674||![](./images/IFGPSRTT-------.png)||IFGPSRTT-------|SIGINT.GRDTRK.SIGINC.RAD.TGTTRK|Target Tracking|POINT|D|
+|1675||![](./images/IFGPSRU--------.png)||IFGPSRU--------|SIGINT.GRDTRK.SIGINC.RAD.UNK|Unknown|POINT|D|
+|1676||![](./images/IFPPSCD--------.png)||IFPPSCD--------|SIGINT.SPC.SIGINC.COMM.SATDL|Satellite Downlink|POINT|D|
+|1677||![](./images/IFPPSRD--------.png)||IFPPSRD--------|SIGINT.SPC.SIGINC.RAD.DATTMN|Data Transmission|POINT|D|
+|1678||![](./images/IFPPSRE--------.png)||IFPPSRE--------|SIGINT.SPC.SIGINC.RAD.ERHSVL|Earth Surveillance|POINT|D|
+|1679||![](./images/IFPPSRI--------.png)||IFPPSRI--------|SIGINT.SPC.SIGINC.RAD.IFF|Iff (Transponder)|POINT|D|
+|1680||![](./images/IFPPSRM--------.png)||IFPPSRM--------|SIGINT.SPC.SIGINC.RAD.MFN|Multifunction|POINT|D|
+|1681||![](./images/IFPPSRS--------.png)||IFPPSRS--------|SIGINT.SPC.SIGINC.RAD.SPC|Space|POINT|D|
+|1682||![](./images/IFPPSRT--------.png)||IFPPSRT--------|SIGINT.SPC.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|D|
+|1683||![](./images/IFPPSRU--------.png)||IFPPSRU--------|SIGINT.SPC.SIGINC.RAD.UNK|Unknown|POINT|D|
+|1684||![](./images/IFSPSCC--------.png)||IFSPSCC--------|SIGINT.SSUF.SIGINC.COMM.CELL|Cellular-Mobile|POINT|D|
+|1685||![](./images/IFSPSCO--------.png)||IFSPSCO--------|SIGINT.SSUF.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|D|
+|1686||![](./images/IFSPSCP--------.png)||IFSPSCP--------|SIGINT.SSUF.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|D|
+|1687||![](./images/IFSPSCS--------.png)||IFSPSCS--------|SIGINT.SSUF.SIGINC.COMM.SATUL|Satellite Uplink|POINT|D|
+|1688||![](./images/IFSPSRAA-------.png)||IFSPSRAA-------|SIGINT.SSUF.SIGINC.RAD.AA-C|Antiaircraft|POINT|D|
+|1689||![](./images/IFSPSRAT-------.png)||IFSPSRAT-------|SIGINT.SSUF.SIGINC.RAD.ATCTL|Air Traffic Control|POINT|D|
+|1690||![](./images/IFSPSRCA-------.png)||IFSPSRCA-------|SIGINT.SSUF.SIGINC.RAD.CTDAPP|Controlled Approach|POINT|D|
+|1691||![](./images/IFSPSRCI-------.png)||IFSPSRCI-------|SIGINT.SSUF.SIGINC.RAD.CTDINC|Controlled Intercept|POINT|D|
+|1692||![](./images/IFSPSRD--------.png)||IFSPSRD--------|SIGINT.SSUF.SIGINC.RAD.DATTMN|Data Transmission|POINT|D|
+|1693||![](./images/IFSPSRE--------.png)||IFSPSRE--------|SIGINT.SSUF.SIGINC.RAD.EW|Early Warning|POINT|D|
+|1694||![](./images/IFSPSRF--------.png)||IFSPSRF--------|SIGINT.SSUF.SIGINC.RAD.FIRCTL|Fire Control|POINT|D|
+|1695||![](./images/IFSPSRH--------.png)||IFSPSRH--------|SIGINT.SSUF.SIGINC.RAD.HGTFDG|Height Finding|POINT|D|
+|1696||![](./images/IFSPSRI--------.png)||IFSPSRI--------|SIGINT.SSUF.SIGINC.RAD.IDFF|Identification Friend-Foe (Interrogator)|POINT|D|
+|1697||![](./images/IFSPSRMA-------.png)||IFSPSRMA-------|SIGINT.SSUF.SIGINC.RAD.MSLAQ|Missile Acquisition|POINT|D|
+|1698||![](./images/IFSPSRMF-------.png)||IFSPSRMF-------|SIGINT.SSUF.SIGINC.RAD.MFN|Multifunction|POINT|D|
+|1699||![](./images/IFSPSRMG-------.png)||IFSPSRMG-------|SIGINT.SSUF.SIGINC.RAD.MSLGDN|Missile Guidance|POINT|D|
+|1700||![](./images/IFSPSRMM-------.png)||IFSPSRMM-------|SIGINT.SSUF.SIGINC.RAD.METO|Meteorological (Military)|POINT|D|
+|1701||![](./images/IFSPSRMT-------.png)||IFSPSRMT-------|SIGINT.SSUF.SIGINC.RAD.MSLTRK|Missile Tracking|POINT|D|
+|1702||![](./images/IFSPSRS--------.png)||IFSPSRS--------|SIGINT.SSUF.SIGINC.RAD.SUFSRH|Surface Search|POINT|D|
+|1703||![](./images/IFSPSRTA-------.png)||IFSPSRTA-------|SIGINT.SSUF.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|D|
+|1704||![](./images/IFSPSRTI-------.png)||IFSPSRTI-------|SIGINT.SSUF.SIGINC.RAD.TGTILL|Target Illuminator|POINT|D|
+|1705||![](./images/IFSPSRTT-------.png)||IFSPSRTT-------|SIGINT.SSUF.SIGINC.RAD.TGTTRK|Target Tracking|POINT|D|
+|1706||![](./images/IFSPSRU--------.png)||IFSPSRU--------|SIGINT.SSUF.SIGINC.RAD.UNK|Unknown|POINT|D|
+|1707||![](./images/IFUPSCO--------.png)||IFUPSCO--------|SIGINT.SBSUF.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|D|
+|1708||![](./images/IFUPSCP--------.png)||IFUPSCP--------|SIGINT.SBSUF.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|D|
+|1709||![](./images/IFUPSCS--------.png)||IFUPSCS--------|SIGINT.SBSUF.SIGINC.COMM.SATUL|Satellite Uplink|POINT|D|
+|1710||![](./images/IFUPSRD--------.png)||IFUPSRD--------|SIGINT.SBSUF.SIGINC.RAD.DATTMN|Data Transmission|POINT|D|
+|1711||![](./images/IFUPSRE--------.png)||IFUPSRE--------|SIGINT.SBSUF.SIGINC.RAD.EW|Early Warning|POINT|D|
+|1712||![](./images/IFUPSRM--------.png)||IFUPSRM--------|SIGINT.SBSUF.SIGINC.RAD.MFN|Multifunction|POINT|D|
+|1713||![](./images/IFUPSRS--------.png)||IFUPSRS--------|SIGINT.SBSUF.SIGINC.RAD.SUFSRH|Surface Search|POINT|D|
+|1714||![](./images/IFUPSRT--------.png)||IFUPSRT--------|SIGINT.SBSUF.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|D|
+|1715||![](./images/IFUPSRU--------.png)||IFUPSRU--------|SIGINT.SBSUF.SIGINC.RAD.UNK|Unknown|POINT|D|
+|1716||![](./images/OFGP-----------.png)||OFGP-----------|STBOPS.GRPORG|Nonmilitary Group Or Organization|POINT|E|
+|1717||![](./images/OFGPA----------.png)||OFGPA----------|STBOPS.GRPORG.DPRE|Displaced Persons Refugees And Evacuees|POINT|E|
+|1718||![](./images/OFGPB----------.png)||OFGPB----------|STBOPS.GRPORG.NGO|Nongovernmental Organization (Ngo)|POINT|E|
+|1719||![](./images/OFGPC----------.png)||OFGPC----------|STBOPS.GRPORG.TERRST|Terrorist|POINT|E|
+|1720||![](./images/OFGPD----------.png)||OFGPD----------|STBOPS.GRPORG.RELIGS|Religious|POINT|E|
+|1721||![](./images/OFGPE----------.png)||OFGPE----------|STBOPS.GRPORG.FNFGHT|Foreign Fighters|POINT|E|
+|1722||![](./images/OFGPF----------.png)||OFGPF----------|STBOPS.GRPORG.GANG|Gang|POINT|E|
+|1723||![](./images/OFIPD----------.png)||OFIPD----------|STBOPS.ITM.DGVEH|Drug Vehicle|POINT|E|
+|1724||![](./images/OFIPF----------.png)||OFIPF----------|STBOPS.ITM.ISF|Internal Security Force|POINT|E|
+|1725||![](./images/OFIPG----------.png)||OFIPG----------|STBOPS.ITM.GRF|Graffiti|POINT|E|
+|1726||![](./images/OFIPI----------.png)||OFIPI----------|STBOPS.ITM.KNIVEH|Known Insurgent Vehicle|POINT|E|
+|1727||![](./images/OFIPR----------.png)||OFIPR----------|STBOPS.ITM.RFG|Refugees|POINT|E|
+|1728||![](./images/OFIPS----------.png)||OFIPS----------|STBOPS.ITM.SAFHSE|Safe House|POINT|E|
+|1729||![](./images/OFIPV----------.png)||OFIPV----------|STBOPS.ITM.VRLRPS|Vandalism/Loot/Ransack/Plunder/Sack|POINT|E|
+|1730||![](./images/OFLPB----------.png)||OFLPB----------|STBOPS.LOCAT.BLST|Black List Location|POINT|E|
+|1731||![](./images/OFLPG----------.png)||OFLPG----------|STBOPS.LOCAT.GLST|Gray List Location|POINT|E|
+|1732||![](./images/OFLPM----------.png)||OFLPM----------|STBOPS.LOCAT.MASS|Mass Grave Location|POINT|E|
+|1733||![](./images/OFLPW----------.png)||OFLPW----------|STBOPS.LOCAT.WLST|White List Location|POINT|E|
+|1734||![](./images/OFOPA----------.png)||OFOPA----------|STBOPS.OPN.ARR|Arrest|POINT|E|
+|1735||![](./images/OFOPC----------.png)||OFOPC----------|STBOPS.OPN.CMPLSS|Composite Loss|POINT|E|
+|1736||![](./images/OFOPCA---------.png)||OFOPCA---------|STBOPS.OPN.CMPLSS.CBT|Combat|POINT|E|
+|1737||![](./images/OFOPCB---------.png)||OFOPCB---------|STBOPS.OPN.CMPLSS.ACCDNT|Accident|POINT|E|
+|1738||![](./images/OFOPCC---------.png)||OFOPCC---------|STBOPS.OPN.CMPLSS.OTHER|Other|POINT|E|
+|1739||![](./images/OFOPD----------.png)||OFOPD----------|STBOPS.OPN.DEMO|Demonstration|POINT|E|
+|1740||![](./images/OFOPE----------.png)||OFOPE----------|STBOPS.OPN.EXTN|Extortion|POINT|E|
+|1741||![](./images/OFOPF----------.png)||OFOPF----------|STBOPS.OPN.FRGSRH|Foraging/Searching|POINT|E|
+|1742||![](./images/OFOPHA---------.png)||OFOPHA---------|STBOPS.OPN.HJKG.APL|Hijacking (Airplane)|POINT|E|
+|1743||![](./images/OFOPHT---------.png)||OFOPHT---------|STBOPS.OPN.HJKG.VEH|Hijacking (Vehicle)|POINT|E|
+|1744||![](./images/OFOPHV---------.png)||OFOPHV---------|STBOPS.OPN.HJKG.BOAT|Hijacking (Boat)|POINT|E|
+|1745||![](./images/OFOPK----------.png)||OFOPK----------|STBOPS.OPN.KDNG|Kidnapping|POINT|E|
+|1746||![](./images/OFOPKA---------.png)||OFOPKA---------|STBOPS.OPN.KDNG.ATEMPT|Attempted|POINT|E|
+|1747||![](./images/OFOPM----------.png)||OFOPM----------|STBOPS.OPN.ML|Mine Laying|POINT|E|
+|1748||![](./images/OFOPO----------.png)||OFOPO----------|STBOPS.OPN.FDDIST|Food Distribution|POINT|E|
+|1749||![](./images/OFOPP----------.png)||OFOPP----------|STBOPS.OPN.PATG|Patrolling|POINT|E|
+|1750||![](./images/OFOPRC---------.png)||OFOPRC---------|STBOPS.OPN.RCMT.CRCD|Recruitment (Coerced/Impressed)|POINT|E|
+|1751||![](./images/OFOPRW---------.png)||OFOPRW---------|STBOPS.OPN.RCMT.WLG|Recruitment (Willing)|POINT|E|
+|1752||![](./images/OFOPS----------.png)||OFOPS----------|STBOPS.OPN.SPY|Spy|POINT|E|
+|1753||![](./images/OFOPU----------.png)||OFOPU----------|STBOPS.OPN.DGOPN|Drug Operation|POINT|E|
+|1754||![](./images/OFOPY----------.png)||OFOPY----------|STBOPS.OPN.PSYOP|Psychological Operations (Psyop)|POINT|E|
+|1755||![](./images/OFOPYH---------.png)||OFOPYH---------|STBOPS.OPN.PSYOP.HTHP|House-To-House Propaganda|POINT|E|
+|1756||![](./images/OFOPYT---------.png)||OFOPYT---------|STBOPS.OPN.PSYOP.TARP|Psyop (Tv And Radio Propaganda)|POINT|E|
+|1757||![](./images/OFOPYW---------.png)||OFOPYW---------|STBOPS.OPN.PSYOP.WP|Psyop (Written Propaganda)|POINT|E|
+|1758||![](./images/OFPP-----------.png)||OFPP-----------|STBOPS.INDIV|Individual|POINT|E|
+|1759||![](./images/OFPPA----------.png)||OFPPA----------|STBOPS.INDIV.LEADER|Leader|POINT|E|
+|1760||![](./images/OFPPB----------.png)||OFPPB----------|STBOPS.INDIV.TRGTD|Targeted|POINT|E|
+|1761||![](./images/OFPPC----------.png)||OFPPC----------|STBOPS.INDIV.TERRST|Terrorist|POINT|E|
+|1762||![](./images/OFRP-----------.png)||OFRP-----------|STBOPS.RAPE|Rape|POINT|E|
+|1763||![](./images/OFRPA----------.png)||OFRPA----------|STBOPS.RAPE.ATEMPT|Attempted|POINT|E|
+|1764||![](./images/OFVPA----------.png)||OFVPA----------|STBOPS.VIOATY.ASN|Arson/Fire|POINT|E|
+|1765||![](./images/OFVPB----------.png)||OFVPB----------|STBOPS.VIOATY.BM|Bomb/Bombing|POINT|E|
+|1766||![](./images/OFVPD----------.png)||OFVPD----------|STBOPS.VIOATY.DBS|Drive-By Shooting|POINT|E|
+|1767||![](./images/OFVPE----------.png)||OFVPE----------|STBOPS.VIOATY.EXPLSN|Explosion|POINT|E|
+|1768||![](./images/OFVPEI---------.png)||OFVPEI---------|STBOPS.VIOATY.EXPLSN.EXPLSN|Ied Explosion|POINT|E|
+|1769||![](./images/OFVPM----------.png)||OFVPM----------|STBOPS.VIOATY.KILL|Killing (General)|POINT|E|
+|1770||![](./images/OFVPMA---------.png)||OFVPMA---------|STBOPS.VIOATY.KILL.MDR|Murder|POINT|E|
+|1771||![](./images/OFVPMB---------.png)||OFVPMB---------|STBOPS.VIOATY.KILL.EX|Execution|POINT|E|
+|1772||![](./images/OFVPMC---------.png)||OFVPMC---------|STBOPS.VIOATY.KILL.ASS|Assassination|POINT|E|
+|1773||![](./images/OFVPP----------.png)||OFVPP----------|STBOPS.VIOATY.PSNG|Poisoning|POINT|E|
+|1774||![](./images/OFVPS----------.png)||OFVPS----------|STBOPS.VIOATY.SPG|Sniping|POINT|E|
+|1775||![](./images/OFVPY----------.png)||OFVPY----------|STBOPS.VIOATY.BBY|Booby Trap|POINT|E|
+|1776||![](./images/EFFPAA----H----.png)||EFFPAA----H----|EMS.INFSTR.AGFD.AGLAB|Agricultural Laboratory|POINT|G|
+|1777||![](./images/EFFPAB----H----.png)||EFFPAB----H----|EMS.INFSTR.AGFD.AFL|Animal Feedlot|POINT|G|
+|1778||![](./images/EFFPAC----H----.png)||EFFPAC----H----|EMS.INFSTR.AGFD.CFDC|Commercial Food Distribution Center|POINT|G|
+|1779||![](./images/EFFPAD----H----.png)||EFFPAD----H----|EMS.INFSTR.AGFD.FRMRNC|Farm/Ranch|POINT|G|
+|1780||![](./images/EFFPAE----H----.png)||EFFPAE----H----|EMS.INFSTR.AGFD.FPC|Food Production Center|POINT|G|
+|1781||![](./images/EFFPAF----H----.png)||EFFPAF----H----|EMS.INFSTR.AGFD.FDRTL|Food Retail|POINT|G|
+|1782||![](./images/EFFPAG----H----.png)||EFFPAG----H----|EMS.INFSTR.AGFD.GRSTR|Grain Storage|POINT|G|
+|1783||![](./images/EFFPA-----H----.png)||EFFPA-----H----|EMS.INFSTR.AGFD|Agriculture And Food Infrastructure|POINT|G|
+|1784||![](./images/EFFPBA---------.png)||EFFPBA---------|EMS.INFSTR.BFI.ATM|Atm|POINT|G|
+|1785||![](./images/EFFPBB----H----.png)||EFFPBB----H----|EMS.INFSTR.BFI.BANK|Bank|POINT|G|
+|1786||![](./images/EFFPBC----H----.png)||EFFPBC----H----|EMS.INFSTR.BFI.BLSTR|Bullion Storage|POINT|G|
+|1787||![](./images/EFFPBD----H----.png)||EFFPBD----H----|EMS.INFSTR.BFI.FRB|Federal Reserve Bank|POINT|G|
+|1788||![](./images/EFFPBE----H----.png)||EFFPBE----H----|EMS.INFSTR.BFI.FINEX|Financial Exchange|POINT|G|
+|1789||![](./images/EFFPBF----H----.png)||EFFPBF----H----|EMS.INFSTR.BFI.FSO|Financial Services Other|POINT|G|
+|1790||![](./images/EFFPB-----H----.png)||EFFPB-----H----|EMS.INFSTR.BFI|Banking Finance And Insurance Infrastructure|POINT|G|
+|1791||![](./images/EFFPCA----H----.png)||EFFPCA----H----|EMS.INFSTR.CMCL.CMLPLN|Chemical Plant|POINT|G|
+|1792||![](./images/EFFPCB----H----.png)||EFFPCB----H----|EMS.INFSTR.CMCL.FIRMAN|Firearms Manufacturer|POINT|G|
+|1793||![](./images/EFFPCC----H----.png)||EFFPCC----H----|EMS.INFSTR.CMCL.FIRRET|Firearms Retailer|POINT|G|
+|1794||![](./images/EFFPCD----H----.png)||EFFPCD----H----|EMS.INFSTR.CMCL.HZMTPR|Hazardous Material Production|POINT|G|
+|1795||![](./images/EFFPCE----H----.png)||EFFPCE----H----|EMS.INFSTR.CMCL.HZMTST|Hazardous Material Storage|POINT|G|
+|1796||![](./images/EFFPCF----H----.png)||EFFPCF----H----|EMS.INFSTR.CMCL.INDSTE|Industrial Site|POINT|G|
+|1797||![](./images/EFFPCG----H----.png)||EFFPCG----H----|EMS.INFSTR.CMCL.LNDFL|Landfill|POINT|G|
+|1798||![](./images/EFFPC-----H----.png)||EFFPC-----H----|EMS.INFSTR.CMCL|Commercial Infrastructure|POINT|G|
+|1799||![](./images/EFFPCH----H----.png)||EFFPCH----H----|EMS.INFSTR.CMCL.RXMFG|Pharmaceutical Manufacturer|POINT|G|
+|1800||![](./images/EFFPCI----H----.png)||EFFPCI----H----|EMS.INFSTR.CMCL.CHWS|Contaminated Hazardous Waste Site|POINT|G|
+|1801||![](./images/EFFPCJ----H----.png)||EFFPCJ----H----|EMS.INFSTR.CMCL.TXRLIN|Toxic Release Inventory|POINT|G|
+|1802||![](./images/EFFPDA----H----.png)||EFFPDA----H----|EMS.INFSTR.EDFAC.COLUNI|College University|POINT|G|
+|1803||![](./images/EFFPDB----H----.png)||EFFPDB----H----|EMS.INFSTR.EDFAC.SCHOOL|School|POINT|G|
+|1804||![](./images/EFFPD-----H----.png)||EFFPD-----H----|EMS.INFSTR.EDFAC|Educational Facilities Infrastructure|POINT|G|
+|1805||![](./images/EFFPEA----H----.png)||EFFPEA----H----|EMS.INFSTR.ENGFAC.GENSTA|Generation Station|POINT|G|
+|1806||![](./images/EFFPEB----H----.png)||EFFPEB----H----|EMS.INFSTR.ENGFAC.NTLGAS|Natural Gas Facility|POINT|G|
+|1807||![](./images/EFFPEE----H----.png)||EFFPEE----H----|EMS.INFSTR.ENGFAC.PROPNE|Propane Facility|POINT|G|
+|1808||![](./images/EFFPF-----H----.png)||EFFPF-----H----|EMS.INFSTR.GVTSTE|Government Site Infrastructure|POINT|G|
+|1809||![](./images/EFFPGA----H----.png)||EFFPGA----H----|EMS.INFSTR.MIL.ARMORY|Military Armory|POINT|G|
+|1810||![](./images/EFFPG-----H----.png)||EFFPG-----H----|EMS.INFSTR.MIL|Military Infrastructure|POINT|G|
+|1811||![](./images/EFFPHA----H----.png)||EFFPHA----H----|EMS.INFSTR.PSTSRV.PDC|Postal Distribution Center|POINT|G|
+|1812||![](./images/EFFPHB----H----.png)||EFFPHB----H----|EMS.INFSTR.PSTSRV.PO|Post Office|POINT|G|
+|1813||![](./images/EFFPH-----H----.png)||EFFPH-----H----|EMS.INFSTR.PSTSRV|Postal Service Infrastructure|POINT|G|
+|1814||![](./images/EFFPIA----H----.png)||EFFPIA----H----|EMS.INFSTR.PUBVEN.ENCFAC|Enclosed Facility|POINT|G|
+|1815||![](./images/EFFPIB----H----.png)||EFFPIB----H----|EMS.INFSTR.PUBVEN.OPNFAC|Open Facility|POINT|G|
+|1816||![](./images/EFFPIC----H----.png)||EFFPIC----H----|EMS.INFSTR.PUBVEN.RECARE|Recreational Area|POINT|G|
+|1817||![](./images/EFFPID----H----.png)||EFFPID----H----|EMS.INFSTR.PUBVEN.RELIG|Religious Institution|POINT|G|
+|1818||![](./images/EFFPI-----H----.png)||EFFPI-----H----|EMS.INFSTR.PUBVEN|Public Venues Infrastructure|POINT|G|
+|1819||![](./images/EFFPJA----H----.png)||EFFPJA----H----|EMS.INFSTR.SPCNDS.ADLTDC|Adult Day Care|POINT|G|
+|1820||![](./images/EFFPJB----H----.png)||EFFPJB----H----|EMS.INFSTR.SPCNDS.CHLDDC|Child Day Care|POINT|G|
+|1821||![](./images/EFFPJC----H----.png)||EFFPJC----H----|EMS.INFSTR.SPCNDS.ELDERC|Elder Care|POINT|G|
+|1822||![](./images/EFFPJ-----H----.png)||EFFPJ-----H----|EMS.INFSTR.SPCNDS|Special Needs Infrastructure|POINT|G|
+|1823||![](./images/EFFPKB----H----.png)||EFFPKB----H----|EMS.INFSTR.TELCOM.TCTWR|Telecommunications Tower|POINT|G|
+|1824||![](./images/EFFPK-----H----.png)||EFFPK-----H----|EMS.INFSTR.TELCOM|Telecommunications Infrastructure|POINT|G|
+|1825||![](./images/EFFPLA----H----.png)||EFFPLA----H----|EMS.INFSTR.TSP.ATCF|Air Traffic Control Facility|POINT|G|
+|1826||![](./images/EFFPLD----H----.png)||EFFPLD----H----|EMS.INFSTR.TSP.BSTN|Bus Station|POINT|G|
+|1827||![](./images/EFFPLE----H----.png)||EFFPLE----H----|EMS.INFSTR.TSP.FRYTRM|Ferry Terminal|POINT|G|
+|1828||![](./images/EFFPLF----H----.png)||EFFPLF----H----|EMS.INFSTR.TSP.HLS|Helicopter Landing Site|POINT|G|
+|1829||![](./images/EFFPLH----H----.png)||EFFPLH----H----|EMS.INFSTR.TSP.MAINTF|Maintenance Facility|POINT|G|
+|1830||![](./images/EFFPLJ----H----.png)||EFFPLJ----H----|EMS.INFSTR.TSP.RLSTN|Rail Station|POINT|G|
+|1831||![](./images/EFFPLK----H----.png)||EFFPLK----H----|EMS.INFSTR.TSP.RSTSTP|Rest Stop|POINT|G|
+|1832||![](./images/EFFPLM----H----.png)||EFFPLM----H----|EMS.INFSTR.TSP.TOLLF|Toll Facility|POINT|G|
+|1833||![](./images/EFFPLO----H----.png)||EFFPLO----H----|EMS.INFSTR.TSP.TIF|Traffic Inspection Facility|POINT|G|
+|1834||![](./images/EFFPLP----H----.png)||EFFPLP----H----|EMS.INFSTR.TSP.TNL|Tunnel|POINT|G|
+|1835||![](./images/EFFPMA---------.png)||EFFPMA---------|EMS.INFSTR.WS.CV|Control Valve|POINT|G|
+|1836||![](./images/EFFPMB----H----.png)||EFFPMB----H----|EMS.INFSTR.WS.DAM|Dam|POINT|G|
+|1837||![](./images/EFFPMC---------.png)||EFFPMC---------|EMS.INFSTR.WS.DO|Discharge Outfall|POINT|G|
+|1838||![](./images/EFFPMD----H----.png)||EFFPMD----H----|EMS.INFSTR.WS.GWWELL|Ground Water Well|POINT|G|
+|1839||![](./images/EFFPME----H----.png)||EFFPME----H----|EMS.INFSTR.WS.PMPSTN|Pumping Station|POINT|G|
+|1840||![](./images/EFFPMF----H----.png)||EFFPMF----H----|EMS.INFSTR.WS.RSVR|Reservoir|POINT|G|
+|1841||![](./images/EFFPMG----H----.png)||EFFPMG----H----|EMS.INFSTR.WS.STRTWR|Storage Tower|POINT|G|
+|1842||![](./images/EFFPMH----H----.png)||EFFPMH----H----|EMS.INFSTR.WS.SWI|Surface Water Intake|POINT|G|
+|1843||![](./images/EFFPMI----H----.png)||EFFPMI----H----|EMS.INFSTR.WS.WH20TF|Wastewater Treatment Facility|POINT|G|
+|1844||![](./images/EFIPA----------.png)||EFIPA----------|EMS.INCDNT.CVDIS|Civil Disturbance Incident|POINT|G|
+|1845||![](./images/EFIPAC---------.png)||EFIPAC---------|EMS.INCDNT.CVDIS.CVRIOT|Civil Rioting|POINT|G|
+|1846||![](./images/EFIPB----------.png)||EFIPB----------|EMS.INCDNT.CRMACT|Criminal Activity Incident|POINT|G|
+|1847||![](./images/EFIPBA---------.png)||EFIPBA---------|EMS.INCDNT.CRMACT.BMTHT|Bomb Threat|POINT|G|
+|1848||![](./images/EFIPBC---------.png)||EFIPBC---------|EMS.INCDNT.CRMACT.EXPLN|Explosion|POINT|G|
+|1849||![](./images/EFIPBD---------.png)||EFIPBD---------|EMS.INCDNT.CRMACT.LOOT|Looting|POINT|G|
+|1850||![](./images/EFIPBF---------.png)||EFIPBF---------|EMS.INCDNT.CRMACT.SHTG|Shooting|POINT|G|
+|1851||![](./images/EFIPC----------.png)||EFIPC----------|EMS.INCDNT.FIRE|Fire Incident|POINT|G|
+|1852||![](./images/EFIPCA---------.png)||EFIPCA---------|EMS.INCDNT.FIRE.HTSPT|Hot Spot|POINT|G|
+|1853||![](./images/EFIPCB---------.png)||EFIPCB---------|EMS.INCDNT.FIRE.NRES|Non-Residential Fire|POINT|G|
+|1854||![](./images/EFIPCC---------.png)||EFIPCC---------|EMS.INCDNT.FIRE.ORGN|Origin (Of Fire)|POINT|G|
+|1855||![](./images/EFIPCD---------.png)||EFIPCD---------|EMS.INCDNT.FIRE.RES|Residential Fire|POINT|G|
+|1856||![](./images/EFIPCE---------.png)||EFIPCE---------|EMS.INCDNT.FIRE.SCH|School Fire|POINT|G|
+|1857||![](./images/EFIPCF---------.png)||EFIPCF---------|EMS.INCDNT.FIRE.SMK|Smoke|POINT|G|
+|1858||![](./images/EFIPCG---------.png)||EFIPCG---------|EMS.INCDNT.FIRE.SN|Special Needs Fire|POINT|G|
+|1859||![](./images/EFIPCH---------.png)||EFIPCH---------|EMS.INCDNT.FIRE.WLD|Wild Fire|POINT|G|
+|1860||![](./images/EFIPD----------.png)||EFIPD----------|EMS.INCDNT.HAZMAT|Hazardous Material Incident|POINT|G|
+|1861||![](./images/EFIPDA---------.png)||EFIPDA---------|EMS.INCDNT.HAZMAT.CHMAGT|Chemical Agent|POINT|G|
+|1862||![](./images/EFIPDB---------.png)||EFIPDB---------|EMS.INCDNT.HAZMAT.CORMTL|Corrosive Material|POINT|G|
+|1863||![](./images/EFIPDC---------.png)||EFIPDC---------|EMS.INCDNT.HAZMAT.WHWET|Hazardous When Wet|POINT|G|
+|1864||![](./images/EFIPDD---------.png)||EFIPDD---------|EMS.INCDNT.HAZMAT.EXPLV|Explosive|POINT|G|
+|1865||![](./images/EFIPDE---------.png)||EFIPDE---------|EMS.INCDNT.HAZMAT.FLGAS|Flammable Gas|POINT|G|
+|1866||![](./images/EFIPDF---------.png)||EFIPDF---------|EMS.INCDNT.HAZMAT.FLLIQ|Flammable Liquid|POINT|G|
+|1867||![](./images/EFIPDG---------.png)||EFIPDG---------|EMS.INCDNT.HAZMAT.FLSLD|Flammable Solid|POINT|G|
+|1868||![](./images/EFIPDH---------.png)||EFIPDH---------|EMS.INCDNT.HAZMAT.NFLGAS|Non-Flammable Gas|POINT|G|
+|1869||![](./images/EFIPDI---------.png)||EFIPDI---------|EMS.INCDNT.HAZMAT.ORGPER|Organic Peroxide|POINT|G|
+|1870||![](./images/EFIPDJ---------.png)||EFIPDJ---------|EMS.INCDNT.HAZMAT.OXDZR|Oxidizer|POINT|G|
+|1871||![](./images/EFIPDK---------.png)||EFIPDK---------|EMS.INCDNT.HAZMAT.RADMTL|Radioactive Material|POINT|G|
+|1872||![](./images/EFIPDL---------.png)||EFIPDL---------|EMS.INCDNT.HAZMAT.SPCMB|Spontaneously Combustible|POINT|G|
+|1873||![](./images/EFIPDM---------.png)||EFIPDM---------|EMS.INCDNT.HAZMAT.TXGAS|Toxic Gas|POINT|G|
+|1874||![](./images/EFIPDN---------.png)||EFIPDN---------|EMS.INCDNT.HAZMAT.TXINF|Toxic And Infectious|POINT|G|
+|1875||![](./images/EFIPDO---------.png)||EFIPDO---------|EMS.INCDNT.HAZMAT.UNXORD|Unexploded Ordnance|POINT|G|
+|1876||![](./images/EFIPE----------.png)||EFIPE----------|EMS.INCDNT.AIR|Air Incident|POINT|G|
+|1877||![](./images/EFIPEA---------.png)||EFIPEA---------|EMS.INCDNT.AIR.ACDNT|Air Accident|POINT|G|
+|1878||![](./images/EFIPF----------.png)||EFIPF----------|EMS.INCDNT.MRN|Marine Incident|POINT|G|
+|1879||![](./images/EFIPFA---------.png)||EFIPFA---------|EMS.INCDNT.MRN.ACDNT|Marine Accident|POINT|G|
+|1880||![](./images/EFIPG----------.png)||EFIPG----------|EMS.INCDNT.RAIL|Rail Incident|POINT|G|
+|1881||![](./images/EFIPGA---------.png)||EFIPGA---------|EMS.INCDNT.RAIL.ACDNT|Rail Accident|POINT|G|
+|1882||![](./images/EFIPGB---------.png)||EFIPGB---------|EMS.INCDNT.RAIL.HJCK|Rail Hijacking|POINT|G|
+|1883||![](./images/EFIPH----------.png)||EFIPH----------|EMS.INCDNT.VEH|Vehicle Incident|POINT|G|
+|1884||![](./images/EFIPHA---------.png)||EFIPHA---------|EMS.INCDNT.VEH.ACDNT|Vehicle Accident|POINT|G|
+|1885||![](./images/EFNPAA---------.png)||EFNPAA---------|EMS.NATEVT.GEO.AFTSHK|Aftershock|POINT|G|
+|1886||![](./images/EFNPAB---------.png)||EFNPAB---------|EMS.NATEVT.GEO.AVL|Avalanche|POINT|G|
+|1887||![](./images/EFNPAC---------.png)||EFNPAC---------|EMS.NATEVT.GEO.EQKEPI|Earthquake Epicenter|POINT|G|
+|1888||![](./images/EFNPAD---------.png)||EFNPAD---------|EMS.NATEVT.GEO.LNDSLD|Landslide|POINT|G|
+|1889||![](./images/EFNPAE---------.png)||EFNPAE---------|EMS.NATEVT.GEO.SBSDNC|Subsidence|POINT|G|
+|1890||![](./images/EFNPAG---------.png)||EFNPAG---------|EMS.NATEVT.GEO.VLCTHT|Volcanic Threat|POINT|G|
+|1891||![](./images/EFNPBB---------.png)||EFNPBB---------|EMS.NATEVT.HYDMET.DRGHT|Drought|POINT|G|
+|1892||![](./images/EFNPBC---------.png)||EFNPBC---------|EMS.NATEVT.HYDMET.FLD|Flood|POINT|G|
+|1893||![](./images/EFNPBF---------.png)||EFNPBF---------|EMS.NATEVT.HYDMET.INV|Inversion|POINT|G|
+|1894||![](./images/EFNPBM---------.png)||EFNPBM---------|EMS.NATEVT.HYDMET.TSNMI|Tsunami|POINT|G|
+|1895||![](./images/EFNPCA---------.png)||EFNPCA---------|EMS.NATEVT.INFST.BIRD|Bird Infestation|POINT|G|
+|1896||![](./images/EFNPCB---------.png)||EFNPCB---------|EMS.NATEVT.INFST.INSCT|Insect Infestation|POINT|G|
+|1897||![](./images/EFNPCC---------.png)||EFNPCC---------|EMS.NATEVT.INFST.MICROB|Microbial Infestation|POINT|G|
+|1898||![](./images/EFNPCD---------.png)||EFNPCD---------|EMS.NATEVT.INFST.REPT|Reptile Infestation|POINT|G|
+|1899||![](./images/EFNPCE---------.png)||EFNPCE---------|EMS.NATEVT.INFST.RDNT|Rodent Infestation|POINT|G|
+|1900||![](./images/EFOPA----------.png)||EFOPA----------|EMS.OPN.EMMED|Emergency Medical Operation|POINT|G|
+|1901||![](./images/EFOPAA---------.png)||EFOPAA---------|EMS.OPN.EMMED.UNT|Emergency Medical Operation Unit|POINT|G|
+|1902||![](./images/EFOPAB---------.png)||EFOPAB---------|EMS.OPN.EMMED.EQPT|Emergency Medical Operation Equipment|POINT|G|
+|1903||![](./images/EFOPAC----H----.png)||EFOPAC----H----|EMS.OPN.EMMED.INS|Emergency Medical Operation Installation|POINT|G|
+|1904||![](./images/EFOPAD----H----.png)||EFOPAD----H----|EMS.OPN.EMMED.EMTLOC|Emt Station Location|POINT|G|
+|1905||![](./images/EFOPAE---------.png)||EFOPAE---------|EMS.OPN.EMMED.AMBLNC|Ambulance|POINT|G|
+|1906||![](./images/EFOPAF---------.png)||EFOPAF---------|EMS.OPN.EMMED.MEH|Medical Evacuation Helicopter|POINT|G|
+|1907||![](./images/EFOPAG----H----.png)||EFOPAG----H----|EMS.OPN.EMMED.HDF|Health Department Facility|POINT|G|
+|1908||![](./images/EFOPAJ----H----.png)||EFOPAJ----H----|EMS.OPN.EMMED.MFOP|Medical Facilities Out Patient|POINT|G|
+|1909||![](./images/EFOPAK----H----.png)||EFOPAK----H----|EMS.OPN.EMMED.MRG|Morgue|POINT|G|
+|1910||![](./images/EFOPAL----H----.png)||EFOPAL----H----|EMS.OPN.EMMED.RX|Pharmacy|POINT|G|
+|1911||![](./images/EFOPAM----H----.png)||EFOPAM----H----|EMS.OPN.EMMED.TRIAGE|Triage|POINT|G|
+|1912||![](./images/EFOPB----------.png)||EFOPB----------|EMS.OPN.EMOPN|Emergency Operation|POINT|G|
+|1913||![](./images/EFOPBA---------.png)||EFOPBA---------|EMS.OPN.EMOPN.UNT|Emergency Operation Unit|POINT|G|
+|1914||![](./images/EFOPBB---------.png)||EFOPBB---------|EMS.OPN.EMOPN.EQPT|Emergency Operation Equipment|POINT|G|
+|1915||![](./images/EFOPBC----H----.png)||EFOPBC----H----|EMS.OPN.EMOPN.INS|Emergency Operation Installation|POINT|G|
+|1916||![](./images/EFOPBD---------.png)||EFOPBD---------|EMS.OPN.EMOPN.ECEP|Emergency Collection Evacuation Point|POINT|G|
+|1917||![](./images/EFOPBE----H----.png)||EFOPBE----H----|EMS.OPN.EMOPN.EICC|Emergency Incident Command Center|POINT|G|
+|1918||![](./images/EFOPBF----H----.png)||EFOPBF----H----|EMS.OPN.EMOPN.EOC|Emergency Operations Center|POINT|G|
+|1919||![](./images/EFOPBG----H----.png)||EFOPBG----H----|EMS.OPN.EMOPN.EPIC|Emergency Public Information Center|POINT|G|
+|1920||![](./images/EFOPBH----H----.png)||EFOPBH----H----|EMS.OPN.EMOPN.EMSHLT|Emergency Shelter|POINT|G|
+|1921||![](./images/EFOPBI----H----.png)||EFOPBI----H----|EMS.OPN.EMOPN.ESA|Emergency Staging Area|POINT|G|
+|1922||![](./images/EFOPBJ---------.png)||EFOPBJ---------|EMS.OPN.EMOPN.EMTM|Emergency Team|POINT|G|
+|1923||![](./images/EFOPBK----H----.png)||EFOPBK----H----|EMS.OPN.EMOPN.EWDC|Emergency Water Distribution Center|POINT|G|
+|1924||![](./images/EFOPBL----H----.png)||EFOPBL----H----|EMS.OPN.EMOPN.FDDIST|Emergency Food Distribution Center|POINT|G|
+|1925||![](./images/EFOPC----------.png)||EFOPC----------|EMS.OPN.FIRFT|Fire Fighting Operation|POINT|G|
+|1926||![](./images/EFOPCA---------.png)||EFOPCA---------|EMS.OPN.FIRFT.FIRFTU|Fire Fighting Operation Unit|POINT|G|
+|1927||![](./images/EFOPCB---------.png)||EFOPCB---------|EMS.OPN.FIRFT.FIRFTE|Fire Fighting Operation Equipment|POINT|G|
+|1928||![](./images/EFOPCC---------.png)||EFOPCC---------|EMS.OPN.FIRFT.FIRHYD|Fire Hydrant|POINT|G|
+|1929||![](./images/EFOPCD----H----.png)||EFOPCD----H----|EMS.OPN.FIRFT.OTHH2O|Other Water Supply Location|POINT|G|
+|1930||![](./images/EFOPCE----H----.png)||EFOPCE----H----|EMS.OPN.FIRFT.FIRSTN|Fire Station|POINT|G|
+|1931||![](./images/EFOPD----------.png)||EFOPD----------|EMS.OPN.LAWENF|Law Enforcement Operation|POINT|G|
+|1932||![](./images/EFOPDA---------.png)||EFOPDA---------|EMS.OPN.LAWENF.LAWENU|Law Enforcement Operation Unit|POINT|G|
+|1933||![](./images/EFOPDB---------.png)||EFOPDB---------|EMS.OPN.LAWENF.LAWENE|Law Enforcement Operation Equipment|POINT|G|
+|1934||![](./images/EFOPDC----H----.png)||EFOPDC----H----|EMS.OPN.LAWENF.LAWENI|Law Enforcement Operation Installation|POINT|G|
+|1935||![](./images/EFOPDD---------.png)||EFOPDD---------|EMS.OPN.LAWENF.ATF|Atf|POINT|G|
+|1936||![](./images/EFOPDDA--------.png)||EFOPDDA--------|EMS.OPN.LAWENF.ATF.ATFUNT|Atf Unit|POINT|G|
+|1937||![](./images/EFOPDDB--------.png)||EFOPDDB--------|EMS.OPN.LAWENF.ATF.ATFEQP|Atf Equipment|POINT|G|
+|1938||![](./images/EFOPDDC---H----.png)||EFOPDDC---H----|EMS.OPN.LAWENF.ATF.ATFINS|Atf Installation|POINT|G|
+|1939||![](./images/EFOPDE---------.png)||EFOPDE---------|EMS.OPN.LAWENF.BDRPT|Border Patrol|POINT|G|
+|1940||![](./images/EFOPDEA--------.png)||EFOPDEA--------|EMS.OPN.LAWENF.BDRPT.BDRPTU|Border Patrol Unit|POINT|G|
+|1941||![](./images/EFOPDEB--------.png)||EFOPDEB--------|EMS.OPN.LAWENF.BDRPT.BDRPTE|Border Patrol Equipment|POINT|G|
+|1942||![](./images/EFOPDEC---H----.png)||EFOPDEC---H----|EMS.OPN.LAWENF.BDRPT.BDRPTI|Border Patrol Installation|POINT|G|
+|1943||![](./images/EFOPDF---------.png)||EFOPDF---------|EMS.OPN.LAWENF.CSTM|Customs Service|POINT|G|
+|1944||![](./images/EFOPDFA--------.png)||EFOPDFA--------|EMS.OPN.LAWENF.CSTM.CSTMUN|Customs Service Unit|POINT|G|
+|1945||![](./images/EFOPDFB--------.png)||EFOPDFB--------|EMS.OPN.LAWENF.CSTM.CSTMEQ|Customs Service Equipment|POINT|G|
+|1946||![](./images/EFOPDFC---H----.png)||EFOPDFC---H----|EMS.OPN.LAWENF.CSTM.CSTMIN|Customs Service Installation|POINT|G|
+|1947||![](./images/EFOPDG---------.png)||EFOPDG---------|EMS.OPN.LAWENF.DEA|Dea|POINT|G|
+|1948||![](./images/EFOPDGA--------.png)||EFOPDGA--------|EMS.OPN.LAWENF.DEA.DEAUNT|Dea Unit|POINT|G|
+|1949||![](./images/EFOPDGB--------.png)||EFOPDGB--------|EMS.OPN.LAWENF.DEA.DEAEQP|Dea Equipment|POINT|G|
+|1950||![](./images/EFOPDGC---H----.png)||EFOPDGC---H----|EMS.OPN.LAWENF.DEA.DEAINS|Dea Installation|POINT|G|
+|1951||![](./images/EFOPDH---------.png)||EFOPDH---------|EMS.OPN.LAWENF.DOJ|Doj|POINT|G|
+|1952||![](./images/EFOPDHA--------.png)||EFOPDHA--------|EMS.OPN.LAWENF.DOJ.DOJ|Doj Unit|POINT|G|
+|1953||![](./images/EFOPDHB--------.png)||EFOPDHB--------|EMS.OPN.LAWENF.DOJ.DOJEQP|Doj Equipment|POINT|G|
+|1954||![](./images/EFOPDHC---H----.png)||EFOPDHC---H----|EMS.OPN.LAWENF.DOJ.DOJINS|Doj Installation|POINT|G|
+|1955||![](./images/EFOPDI---------.png)||EFOPDI---------|EMS.OPN.LAWENF.FBI|Fbi|POINT|G|
+|1956||![](./images/EFOPDIA--------.png)||EFOPDIA--------|EMS.OPN.LAWENF.FBI.FBIUNT|Fbi Unit|POINT|G|
+|1957||![](./images/EFOPDIB--------.png)||EFOPDIB--------|EMS.OPN.LAWENF.FBI.FBIEQP|Fbi Equipment|POINT|G|
+|1958||![](./images/EFOPDIC---H----.png)||EFOPDIC---H----|EMS.OPN.LAWENF.FBI.FBIINS|Fbi Installation|POINT|G|
+|1959||![](./images/EFOPDJ---------.png)||EFOPDJ---------|EMS.OPN.LAWENF.POL|Police|POINT|G|
+|1960||![](./images/EFOPDJB--------.png)||EFOPDJB--------|EMS.OPN.LAWENF.POL.POLEQP|Police Equipment|POINT|G|
+|1961||![](./images/EFOPDJC---H----.png)||EFOPDJC---H----|EMS.OPN.LAWENF.POL.POLINS|Police Installation|POINT|G|
+|1962||![](./images/EFOPDK---------.png)||EFOPDK---------|EMS.OPN.LAWENF.PRSN|Prison|POINT|G|
+|1963||![](./images/EFOPDL---------.png)||EFOPDL---------|EMS.OPN.LAWENF.SECSR|Secret Service|POINT|G|
+|1964||![](./images/EFOPDLA--------.png)||EFOPDLA--------|EMS.OPN.LAWENF.SECSR.SECSRU|Secret Service Unit|POINT|G|
+|1965||![](./images/EFOPDLB--------.png)||EFOPDLB--------|EMS.OPN.LAWENF.SECSR.SECSRE|Secret Service Equipment|POINT|G|
+|1966||![](./images/EFOPDLC---H----.png)||EFOPDLC---H----|EMS.OPN.LAWENF.SECSR.SECSRI|Secret Service Installation|POINT|G|
+|1967||![](./images/EFOPDM---------.png)||EFOPDM---------|EMS.OPN.LAWENF.TSA|Tsa|POINT|G|
+|1968||![](./images/EFOPDMA--------.png)||EFOPDMA--------|EMS.OPN.LAWENF.TSA.TSAUNT|Tsa Unit|POINT|G|
+|1969||![](./images/EFOPDMB--------.png)||EFOPDMB--------|EMS.OPN.LAWENF.TSA.TSAEQP|Tsa Equipment|POINT|G|
+|1970||![](./images/EFOPDMC---H----.png)||EFOPDMC---H----|EMS.OPN.LAWENF.TSA.TSAINS|Tsa Installation|POINT|G|
+|1971||![](./images/EFOPDN---------.png)||EFOPDN---------|EMS.OPN.LAWENF.CSTGD|Coast Guard|POINT|G|
+|1972||![](./images/EFOPDNA--------.png)||EFOPDNA--------|EMS.OPN.LAWENF.CSTGD.CSTGDU|Coast Guard Unit|POINT|G|
+|1973||![](./images/EFOPDNC---H----.png)||EFOPDNC---H----|EMS.OPN.LAWENF.CSTGD.CSTGDI|Coast Guard Installation|POINT|G|
+|1974||![](./images/EFOPDO---------.png)||EFOPDO---------|EMS.OPN.LAWENF.USMAR|Us Marshals Service|POINT|G|
+|1975||![](./images/EFOPDOA--------.png)||EFOPDOA--------|EMS.OPN.LAWENF.USMAR.USMARU|Us Marshals Service Unit|POINT|G|
+|1976||![](./images/EFOPDOB--------.png)||EFOPDOB--------|EMS.OPN.LAWENF.USMAR.USMARE|Us Marshals Service Equipment|POINT|G|
+|1977||![](./images/EFOPDOC---H----.png)||EFOPDOC---H----|EMS.OPN.LAWENF.USMAR.USMARI|Us Marshals Service Installation|POINT|G|
+|1978||![](./images/EFOPEA---------.png)||EFOPEA---------|EMS.OPN.SNS.BIO|Biological Sensor|POINT|G|
+|1979||![](./images/EFOPEB---------.png)||EFOPEB---------|EMS.OPN.SNS.CML|Chemical Sensor|POINT|G|
+|1980||![](./images/EFOPEC---------.png)||EFOPEC---------|EMS.OPN.SNS.INT|Intrusion Sensor|POINT|G|
+|1981||![](./images/EFOPED---------.png)||EFOPED---------|EMS.OPN.SNS.NUC|Nuclear Sensor|POINT|G|
+|1982||![](./images/EFOPEE---------.png)||EFOPEE---------|EMS.OPN.SNS.RAD|Radiological Sensor|POINT|G|
+|1983||![](./images/GFSPPO--------X.png)||GFSPPO--------X|EMS.INFSTR.TSP.TCP|Traffic Control Point|POINT|G|
+|1984||![](./images/GFMPBCB-------X.png)||GFMPBCB-------X|EMS.INFSTR.TSP.BRG|Bridge|POINT|G|
+|1985||![](./images/OFIPAC---------.png)||OFIPAC---------|EMS.INCDNT.CVDIS.DISPOP|Civil Displaced Population|POINT|G|
+|1986||![](./images/OFOPD----------.png)||OFOPD----------|EMS.INCDNT.CVDIS.DEMO|Civil Demonstration|POINT|G|
+|1987||![](./images/OFOPHA---------.png)||OFOPHA---------|EMS.INCDNT.AIR.HJKG|Air Hijacking|POINT|G|
+|1988||![](./images/OFOPHT---------.png)||OFOPHT---------|EMS.INCDNT.VEH.HJKG|Vehicle Hijacking|POINT|G|
+|1989||![](./images/OFOPHV---------.png)||OFOPHV---------|EMS.INCDNT.MRN.HJKG|Marine Hijacking|POINT|G|
+|1990||![](./images/OFVPB----------.png)||OFVPB----------|EMS.INCDNT.CRMACT.BM|Bomb|POINT|G|
+|1991||![](./images/OFVPP----------.png)||OFVPP----------|EMS.INCDNT.CRMACT.PSNG|Poisoning|POINT|G|
+|1992||![](./images/SFGPES---------.png)||SFGPES---------|EMS.OPN.SNS|Sensor|POINT|G|
+|1993||![](./images/SFGPIB----H----.png)||SFGPIB----H----|EMS.INFSTR.MIL.MILBF|Military Base|POINT|G|
+|1994||![](./images/SFGPIRP---H----.png)||SFGPIRP---H----|EMS.INFSTR.ENGFAC.PETFAC|Petroleum Facility|POINT|G|
+|1995||![](./images/SFGPIT----H----.png)||SFGPIT----H----|EMS.INFSTR.TSP|Transportation Infrastructure|POINT|G|
+|1996||![](./images/SFGPIUE---H----.png)||SFGPIUE---H----|EMS.INFSTR.ENGFAC|Energy Facilities Infrastructure|POINT|G|
+|1997||![](./images/SFGPIUEN--H----.png)||SFGPIUEN--H----|EMS.INFSTR.ENGFAC.NUCFAC|Nuclear Facility|POINT|G|
+|1998||![](./images/SFGPIUP---H----.png)||SFGPIUP---H----|EMS.INFSTR.WS|Water Supply Infrastructure|POINT|G|
+|1999||![](./images/SFGPIUT---H----.png)||SFGPIUT---H----|EMS.INFSTR.TELCOM.TCF|Telecommunications Facility|POINT|G|
+|2000||![](./images/SFGPIXH---H----.png)||SFGPIXH---H----|EMS.OPN.EMMED.HSP|Hospital|POINT|G|
+|2001||![](./images/SFGPUULC-------.png)||SFGPUULC-------|EMS.OPN.LAWENF.POL.POLUNT|Police Unit|POINT|G|
+|2002||![](./images/SFSPNM---------.png)||SFSPNM---------|EMS.OPN.EMMED.HSPSHP|Hospital Ship|POINT|G|
+|2003||![](./images/SFSPXL---------.png)||SFSPXL---------|EMS.OPN.LAWENF.CSTGD.CSTGDE|Coast Guard Equipment|POINT|G|
+|2004||![](./images/SPGPIBA---H----.png)||SPGPIBA---H----|EMS.INFSTR.TSP.AIRPT|Airport|POINT|G|
+|2005||![](./images/SPGPIBN---H----.png)||SPGPIBN---H----|EMS.INFSTR.TSP.SP|Port|POINT|G|
+|2006||![](./images/WAS-WSD-LIP----.png)||WAS-WSD-LIP----|EMS.NATEVT.HYDMET.DZ|Drizzle|POINT|G|
+|2007||![](./images/WAS-WSDSLMP----.png)||WAS-WSDSLMP----|EMS.NATEVT.HYDMET.DT/SD|Sand Dust Storm|POINT|G|
+|2008||![](./images/WAS-WSFGSOP----.png)||WAS-WSFGSOP----|EMS.NATEVT.HYDMET.FG|Fog|POINT|G|
+|2009||![](./images/WAS-WSGRL-P----.png)||WAS-WSGRL-P----|EMS.NATEVT.HYDMET.HL|Hail|POINT|G|
+|2010||![](./images/WAS-WSR-LIP----.png)||WAS-WSR-LIP----|EMS.NATEVT.HYDMET.RA|Rain|POINT|G|
+|2011||![](./images/WAS-WSS-LIP----.png)||WAS-WSS-LIP----|EMS.NATEVT.HYDMET.SN|Snow|POINT|G|
+|2012||![](./images/WAS-WST-FCP----.png)||WAS-WST-FCP----|EMS.NATEVT.HYDMET.TNDO|Tornado|POINT|G|
+|2013||![](./images/WAS-WSTMH-P----.png)||WAS-WSTMH-P----|EMS.NATEVT.HYDMET.TSTRM|Thunder Storm|POINT|G|
+|2014||![](./images/WAS-WSTSS-P----.png)||WAS-WSTSS-P----|EMS.NATEVT.HYDMET.TRPCYC|Tropical Cyclone|POINT|G|
+|2015||![](./images/WAS-WSVE--P----.png)||WAS-WSVE--P----|EMS.NATEVT.GEO.VOLERN|Volcanic Eruption|POINT|G|
+|2016||![](./images/WOS-HPBA--P----.png)||WOS-HPBA--P----|EMS.INFSTR.TSP.ANCRG|Ship Anchorage|POINT|G|
+|2017||![](./images/WOS-ML----P----.png)||WOS-ML----P----|EMS.INFSTR.TSP.LCK|Lock|POINT|G|
