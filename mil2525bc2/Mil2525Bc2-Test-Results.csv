@@ -939,7 +939,6 @@ Count,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hier
 938,,![](./images/GFGPGPAS------X.png),![](./images-std/1.g-gpgpas------x.jpeg),GFGPGPAS------X,TACGRP.C2GM.GNL.PNT.ACTL.SKEIP,Strike Ip,POINT,B
 939,,![](./images/GFGPGPAT------X.png),![](./images-std/1.g-gpgpat------x.jpeg),GFGPGPAT------X,TACGRP.C2GM.GNL.PNT.ACTL.TCN,Tacan,POINT,B
 940,,![](./images/GFGPGPAW------X.png),![](./images-std/1.g-gpgpaw------x.jpeg),GFGPGPAW------X,TACGRP.C2GM.GNL.PNT.ACTL.ABNEW,Airborne Early Warning (Aew),POINT,B
-941,,![](./images/GFGPGPA-------X.png),![](./images-std/1.g-gpgpa-------x.jpeg),GFGPGPA-------X,TACGRP.C2GM.GNL.PNT.ACTL,Air Control,POINT,B
 942,,![](./images/GFGPGPF-------X.png),![](./images-std/1.g-gpgpf-------x.jpeg),GFGPGPF-------X,TACGRP.C2GM.GNL.PNT.FRMN,Formation,POINT,B
 943,,![](./images/GFGPGPHA------X.png),![](./images-std/1.g-gpgpha------x.jpeg),GFGPGPHA------X,TACGRP.C2GM.GNL.PNT.HBR.PNTA,Point A,POINT,B
 944,,![](./images/GFGPGPHQ------X.png),![](./images-std/1.g-gpgphq------x.jpeg),GFGPGPHQ------X,TACGRP.C2GM.GNL.PNT.HBR.PNTQ,Point Q,POINT,B
@@ -968,7 +967,6 @@ Count,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hier
 967,,![](./images/GFGPGPRI------X.png),![](./images-std/1.g-gpgpri------x.jpeg),GFGPGPRI------X,TACGRP.C2GM.GNL.PNT.REFPNT.PNTINR,Point Of Interest,POINT,B
 968,,![](./images/GFGPGPRN------X.png),![](./images-std/1.g-gpgprn------x.jpeg),GFGPGPRN------X,TACGRP.C2GM.GNL.PNT.REFPNT.NAVREF,Navigational Reference Point,POINT,B
 969,,![](./images/GFGPGPRS------X.png),![](./images-std/1.g-gpgprs------x.jpeg),GFGPGPRS------X,TACGRP.C2GM.GNL.PNT.REFPNT.SPLPNT,Special Point,POINT,B
-970,,![](./images/GFGPGPR-------X.png),![](./images-std/1.g-gpgpr-------x.jpeg),GFGPGPR-------X,TACGRP.C2GM.GNL.PNT.REFPNT,Reference Point,POINT,B
 971,,![](./images/GFGPGPUSA-----X.png),![](./images-std/1.g-gpgpusa-----x.jpeg),GFGPGPUSA-----X,TACGRP.C2GM.GNL.PNT.USW.SRH.ARA,Search Area,POINT,B
 972,,![](./images/GFGPGPUSC-----X.png),![](./images-std/1.g-gpgpusc-----x.jpeg),GFGPGPUSC-----X,TACGRP.C2GM.GNL.PNT.USW.SRH.CTR,Search Center,POINT,B
 973,,![](./images/GFGPGPUSD-----X.png),![](./images-std/1.g-gpgpusd-----x.jpeg),GFGPGPUSD-----X,TACGRP.C2GM.GNL.PNT.USW.SRH.DIPPSN,Dip Position,POINT,B
@@ -1062,14 +1060,11 @@ Count,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hier
 1061,,![](./images/GFMPNZ--------X.png),![](./images-std/1.g-mpnz--------x.jpeg),GFMPNZ--------X,TACGRP.MOBSU.CBRN.NDGZ,Nuclear Detonations Ground Zero,POINT,B
 1062,,![](./images/GFMPOADC------X.png),![](./images-std/1.g-mpoadc------x.jpeg),GFMPOADC------X,TACGRP.MOBSU.OBST.ATO.ATD.ATDC,Complete,LINE,B
 1063,,![](./images/GFMPOADU------X.png),![](./images-std/1.g-mpoadu------x.jpeg),GFMPOADU------X,TACGRP.MOBSU.OBST.ATO.ATD.ATDUC,Under Construction,LINE,B
-1064,,![](./images/GFMPOAD-------X.png),![](./images-std/1.g-mpoad-------x.jpeg),GFMPOAD-------X,TACGRP.MOBSU.OBST.ATO.ATD,Antitank Ditch,LINE,B
 1065,,![](./images/GFMPOAOF------X.png),![](./images-std/1.g-mpoaof------x.jpeg),GFMPOAOF------X,TACGRP.MOBSU.OBST.ATO.TDTSM.FIXPFD,Fixed And Prefabricated,POINT,B
 1066,,![](./images/GFMPOAOM------X.png),![](./images-std/1.g-mpoaom------x.jpeg),GFMPOAOM------X,TACGRP.MOBSU.OBST.ATO.TDTSM.MVB,Moveable,POINT,B
 1067,,![](./images/GFMPOAOP------X.png),![](./images-std/1.g-mpoaop------x.jpeg),GFMPOAOP------X,TACGRP.MOBSU.OBST.ATO.TDTSM.MVBPFD,Moveable And Prefabricated,POINT,B
-1068,,![](./images/GFMPOAO-------X.png),![](./images-std/1.g-mpoao-------x.jpeg),GFMPOAO-------X,TACGRP.MOBSU.OBST.ATO.TDTSM,Antitank Obstacles: Tetrahedrons  Dragons Teeth And Other Similar Obstacles,POINT,B
 1069,,![](./images/GFMPOAR-------X.png),![](./images-std/1.g-mpoar-------x.jpeg),GFMPOAR-------X,TACGRP.MOBSU.OBST.ATO.ATDATM,Antitank Ditch Reinforced With Antitank Mines,LINE,B
 1070,,![](./images/GFMPOAW-------X.png),![](./images-std/1.g-mpoaw-------x.jpeg),GFMPOAW-------X,TACGRP.MOBSU.OBST.ATO.ATW,Antitank Wall,LINE,B
-1071,,![](./images/GFMPOA--------X.png),![](./images-std/1.g-mpoa--------x.jpeg),GFMPOA--------X,TACGRP.MOBSU.OBST.ATO,Antitank Obstacles,POINT,B
 1072,,![](./images/GFMPOB--------X.png),![](./images-std/1.g-mpob--------x.jpeg),GFMPOB--------X,TACGRP.MOBSU.OBST.BBY,Booby Trap,POINT,B
 1073,,![](./images/GFMPOEB-------X.png),![](./images-std/1.g-mpoeb-------x.jpeg),GFMPOEB-------X,TACGRP.MOBSU.OBST.OBSEFT.BLK,Block,LINE,B
 1074,,![](./images/GFMPOED-------X.png),![](./images-std/1.g-mpoed-------x.jpeg),GFMPOED-------X,TACGRP.MOBSU.OBST.OBSEFT.DRT,Disrupt,LINE,B
@@ -1268,7 +1263,7 @@ Count,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hier
 1267,,![](./images/WAS-GSI---P----.png),![](./images-std/0.was-gsi---p----.jpeg),WAS-GSI---P----,METOC.AMPHC.STOG.WSMIC.PDMIC,Predominately Ice Covered,POINT,C
 1268,,![](./images/WAS-GSSCCEP----.png),![](./images-std/0.was-gssccep----.jpeg),WAS-GSSCCEP----,METOC.AMPHC.STOG.WSMIC.ELCSCG,Even Layer Of Compact Or Wet Snow Covering Ground Completely,POINT,C
 1269,,![](./images/WAS-GSSCCUP----.png),![](./images-std/0.was-gssccup----.jpeg),WAS-GSSCCUP----,METOC.AMPHC.STOG.WSMIC.ULCSCG,Uneven Layer Of Compact Or Wet Snow Covering Ground Completely,POINT,C
-1270,,![](./images/WAS-GSSCH-P----.png),![](./images-std/0.was-gssch-p----.jpeg),WAS-GSSCH-P----,METOC.AMPHC.STOG.WSMIC.CSNALH,Compact Or Wet Snow (With Or Without Ice) Covering At Least One-Half Ground  But Ground Not Completely Covered,POINT,C
+1270,,![](./images/WAS-GSSCH-P----.png),![](./images-std/0.was-gssch-p----.png),WAS-GSSCH-P----,METOC.AMPHC.STOG.WSMIC.CSNALH,Compact Or Wet Snow (With Or Without Ice) Covering At Least One-Half Ground  But Ground Not Completely Covered,POINT,C
 1271,,![](./images/WAS-GSSCL-P----.png),![](./images-std/0.was-gsscl-p----.jpeg),WAS-GSSCL-P----,METOC.AMPHC.STOG.WSMIC.CWSNLH,Compact Or Wet Snow (With Or Without Ice) Covering Less Than One-Half Of Ground,POINT,C
 1272,,![](./images/WAS-GSSDC-P----.png),![](./images-std/0.was-gssdc-p----.jpeg),WAS-GSSDC-P----,METOC.AMPHC.STOG.WSMIC.SCGC,Snow Covering Ground Completely; Deep Drifts,POINT,C
 1273,,![](./images/WAS-GSSLCEP----.png),![](./images-std/0.was-gsslcep----.jpeg),WAS-GSSLCEP----,METOC.AMPHC.STOG.WSMIC.ELDSCG,Even Layer Of Loose Dry Snow Covering Ground Completely,POINT,C
