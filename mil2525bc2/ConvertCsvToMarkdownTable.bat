@@ -6,5 +6,7 @@ SET PYTHON_PATH="C:\Python27\ArcGIS10.3"
 
 %PYTHON_PATH%\python ..\utilities\csv2markdownTable.py Mil2525Bc2-Test-Results.csv Mil2525Bc2-Test-Results.md
 
+%PYTHON_PATH%\python ..\utilities\csv2markdownTable-FilterIssues.py Mil2525Bc2-Test-Results.csv Mil2525Bc2-Test-Results-Issues-Only.md
+
 echo Done!
 pause
