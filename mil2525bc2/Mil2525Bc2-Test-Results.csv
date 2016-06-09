@@ -1571,7 +1571,7 @@ Count,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hier
 1575,,![](./images/IFGPSCP--------.png),![](./images-std/1.ifgpscp--------.jpeg),IFGPSCP--------,SIGINT.GRDTRK.SIGINC.COMM.PTPLOS,Point-To-Point Line Of Sight (Los),POINT,D,
 1576,,![](./images/IFGPSCS--------.png),![](./images-std/1.ifgpscs--------.jpeg),IFGPSCS--------,SIGINT.GRDTRK.SIGINC.COMM.SATUL,Satellite Uplink,POINT,D,
 1577,,![](./images/IFGPSCT--------.png),![](./images-std/1.ifgpsct--------.jpeg),IFGPSCT--------,SIGINT.GRDTRK.SIGINC.COMM.TPSSCT,Tropospheric Scatter,POINT,D,
-1578,,![](./images/IFGPSRAA-------.png),![](./images-std/1.ifgpsraa-------.jpeg),IFGPSRAA-------,SIGINT.GRDTRK.SIGINC.RAD.AA/C,ANTI-AIRCRAFT,POINT,D,
+1578,YES,![](./images/IFGPSRAA-------.png),![](./images-std/1.ifgpsraa-------.jpeg),IFGPSRAA-------,SIGINT.GRDTRK.SIGINC.RAD.AA/C,ANTI-AIRCRAFT,POINT,D,
 1579,,![](./images/IFGPSRAT-------.png),![](./images-std/1.ifgpsrat-------.jpeg),IFGPSRAT-------,SIGINT.GRDTRK.SIGINC.RAD.ATCTL,Air Traffic Control,POINT,D,
 1580,,![](./images/IFGPSRB--------.png),![](./images-std/1.ifgpsrb--------.jpeg),IFGPSRB--------,SIGINT.GRDTRK.SIGINC.RAD.BTFSVL,Battlefield Surveillance,POINT,D,
 1581,,![](./images/IFGPSRCA-------.png),![](./images-std/1.ifgpsrca-------.jpeg),IFGPSRCA-------,SIGINT.GRDTRK.SIGINC.RAD.CTDAPP,Controlled Approach,POINT,D,

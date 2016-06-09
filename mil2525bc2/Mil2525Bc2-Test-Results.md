@@ -299,7 +299,7 @@
 |297||![](./images/SFGPIMA---H----.png)|![](./images-std/1.sfgpima---h----.jpeg)|SFGPIMA---H----|WAR.GRDTRK.INS.MMF.APA|Aircraft Production & Assembly|POINT|A||
 |298||![](./images/SFGPIMC---H----.png)|![](./images-std/1.sfgpimc---h----.jpeg)|SFGPIMC---H----|WAR.GRDTRK.INS.MMF.CBWP|Chemical & Biological Warfare Production|POINT|A||
 |299||![](./images/SFGPIME---H----.png)|![](./images-std/1.sfgpime---h----.jpeg)|SFGPIME---H----|WAR.GRDTRK.INS.MMF.AMEP|Ammunition And Explosives Production|POINT|A||
-|300||![](./images/SFGPIMFA--H----.png)|![](./images-std/1.sfgpimfa--h----.jpeg)|SFGPIMFA--H----|WAR.GRDTRK.INS.MMF.NENY.ATMER|Atomic Energy Reactor|POINT|A||
+|300|YES|![](./images/SFGPIMFA--H----.png)|![](./images-std/1.sfgpimfa--h----.jpeg)|SFGPIMFA--H----|WAR.GRDTRK.INS.MMF.NENY.ATMER|Atomic Energy Reactor|POINT|A||
 |301|YES|![](./images/SFGPIMF---H----.png)|![](./images-std/1.sfgpimf---h----.jpeg)|SFGPIMF---H----|WAR.GRDTRK.INS.MMF.NENY|Nuclear Energy|POINT|A||
 |302|YES|![](./images/SFGPIMFP--H----.png)|![](./images-std/1.sfgpimfp--h----.jpeg)|SFGPIMFP--H----|WAR.GRDTRK.INS.MMF.NENY.NMP|Nuclear Material Production|POINT|A||
 |303||![](./images/SFGPIMFPW-H----.png)|![](./images-std/1.sfgpimfpw-h----.jpeg)|SFGPIMFPW-H----|WAR.GRDTRK.INS.MMF.NENY.NMP.WPNGR|Weapons Grade|POINT|A||
@@ -804,7 +804,7 @@
 |802||![](./images/SFUPSUN--------.png)|![](./images-std/1.sfupsun--------.jpeg)|SFUPSUN--------|WAR.SBSUF.SUB.UUV.ASUW|Antisurface Warfare Subsurface Drone|POINT|A||
 |803||![](./images/SFUPSUS--------.png)|![](./images-std/1.sfupsus--------.jpeg)|SFUPSUS--------|WAR.SBSUF.SUB.UUV.ASBW|Antisubmarine Warfare Subsurface Drone|POINT|A||
 |804||![](./images/SFUPW----------.png)|![](./images-std/1.sfupw----------.jpeg)|SFUPW----------|WAR.SBSUF.UH2WPN|Underwater Weapon|POINT|A||
-|805|PERHAPS|![](./images/SFUPWD---------.png)|![](./images-std/1.sfupwd---------.jpeg)|SFUPWD---------|WAR.SBSUF.UH2DCY|Underwater Decoy|POINT|A||
+|805|YES|![](./images/SFUPWD---------.png)|![](./images-std/1.sfupwd---------.jpeg)|SFUPWD---------|WAR.SBSUF.UH2DCY|Underwater Decoy|POINT|A|Switch Icon mapping to SFSPCD---------|
 |806|PERHAPS|![](./images/SFUPWDM--------.png)|![](./images-std/1.sfupwdm--------.jpeg)|SFUPWDM--------|WAR.SBSUF.UH2DCY.SMDCY|Sea Mine Decoy|POINT|A||
 |807|PERHAPS|![](./images/SFUPWM---------.png)|![](./images-std/1.sfupwm---------.jpeg)|SFUPWM---------|WAR.SBSUF.UH2WPN.SMNE|Sea Mine|POINT|A||
 |808|PERHAPS|![](./images/SFUPWMD--------.png)|![](./images-std/1.sfupwmd--------.jpeg)|SFUPWMD--------|WAR.SBSUF.UH2WPN.SMNE.NTRLZD|Sea Mine Neutralized|POINT|A||
@@ -1572,7 +1572,7 @@
 |1575||![](./images/IFGPSCP--------.png)|![](./images-std/1.ifgpscp--------.jpeg)|IFGPSCP--------|SIGINT.GRDTRK.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|D||
 |1576||![](./images/IFGPSCS--------.png)|![](./images-std/1.ifgpscs--------.jpeg)|IFGPSCS--------|SIGINT.GRDTRK.SIGINC.COMM.SATUL|Satellite Uplink|POINT|D||
 |1577||![](./images/IFGPSCT--------.png)|![](./images-std/1.ifgpsct--------.jpeg)|IFGPSCT--------|SIGINT.GRDTRK.SIGINC.COMM.TPSSCT|Tropospheric Scatter|POINT|D||
-|1578||![](./images/IFGPSRA--------.png)|![](./images-std/1.ifgpsra--------.jpeg)|IFGPSRA--------|SIGINT.GRDTRK.SIGINC.RAD.AA/C|ANTI-AIRCRAFT|POINT|D||
+|1578|YES|![](./images/IFGPSRAA-------.png)|![](./images-std/1.ifgpsraa-------.jpeg)|IFGPSRAA-------|SIGINT.GRDTRK.SIGINC.RAD.AA/C|ANTI-AIRCRAFT|POINT|D||
 |1579||![](./images/IFGPSRAT-------.png)|![](./images-std/1.ifgpsrat-------.jpeg)|IFGPSRAT-------|SIGINT.GRDTRK.SIGINC.RAD.ATCTL|Air Traffic Control|POINT|D||
 |1580||![](./images/IFGPSRB--------.png)|![](./images-std/1.ifgpsrb--------.jpeg)|IFGPSRB--------|SIGINT.GRDTRK.SIGINC.RAD.BTFSVL|Battlefield Surveillance|POINT|D||
 |1581||![](./images/IFGPSRCA-------.png)|![](./images-std/1.ifgpsrca-------.jpeg)|IFGPSRCA-------|SIGINT.GRDTRK.SIGINC.RAD.CTDAPP|Controlled Approach|POINT|D||
