@@ -995,7 +995,7 @@
 |995||![](./images/GFGPGPWI------X.png)|![](./images-std/1.g-gpgpwi------x.jpeg)|GFGPGPWI------X|TACGRP.C2GM.GNL.PNT.WPN.IMTPNT|Impact Point|POINT|B||
 |996||![](./images/GFGPGPWM------X.png)|![](./images-std/1.g-gpgpwm------x.jpeg)|GFGPGPWM------X|TACGRP.C2GM.GNL.PNT.WPN.MSLPNT|Msl Detect Point|POINT|B||
 |997||![](./images/GFGPGPWP------X.png)|![](./images-std/1.g-gpgpwp------x.jpeg)|GFGPGPWP------X|TACGRP.C2GM.GNL.PNT.WPN.PIPNT|Predicted Impact Point|POINT|B||
-|998||![](./images/GFGPOAA-------X.png)|![](./images-std/1.g-gpoaa-------x.jpeg)|GFGPOAA-------X|TACGRP.C2GM.OFF.ARS.ASTPSN|Assault Position|AREA|B||
+|998|PERHAPS|![](./images/GFGPOAA-------X.png)|![](./images-std/1.g-gpoaa-------x.jpeg)|GFGPOAA-------X|TACGRP.C2GM.OFF.ARS.ASTPSN|Assault Position|AREA|B|Missing 'PSN' static label|
 |999||![](./images/GFGPOAF-------X.png)|![](./images-std/1.g-gpoaf-------x.jpeg)|GFGPOAF-------X|TACGRP.C2GM.OFF.ARS.AFP|Attack By Fire Position|AREA|B||
 |1000||![](./images/GFGPOAK-------X.png)|![](./images-std/1.g-gpoak-------x.jpeg)|GFGPOAK-------X|TACGRP.C2GM.OFF.ARS.ATKPSN|Attack Position|AREA|B||
 |1001||![](./images/GFGPOAO-------X.png)|![](./images-std/1.g-gpoao-------x.jpeg)|GFGPOAO-------X|TACGRP.C2GM.OFF.ARS.OBJ|Objective|AREA|B||
