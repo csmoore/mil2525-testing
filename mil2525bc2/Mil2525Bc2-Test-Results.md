@@ -872,7 +872,7 @@
 |870||![](./images/GFFPLCC-------X.png)|![](./images-std/1.g-fplcc-------x.jpeg)|GFFPLCC-------X|TACGRP.FSUPP.LNE.C2LNE.CFL|Coordinated Fire Line (Cfl)|LINE|B||
 |871||![](./images/GFFPLCF-------X.png)|![](./images-std/1.g-fplcf-------x.jpeg)|GFFPLCF-------X|TACGRP.FSUPP.LNE.C2LNE.FSCL|Fire Support Coordination Line (Fscl)|LINE|B||
 |872||![](./images/GFFPLCN-------X.png)|![](./images-std/1.g-fplcn-------x.jpeg)|GFFPLCN-------X|TACGRP.FSUPP.LNE.C2LNE.NFL|No-Fire Line (Nfl)|LINE|B||
-|873||![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.jpeg)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B||
+|873|YES|![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.jpeg)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B|BCL' instead of 'RFL'|
 |874||![](./images/GFFPLTF-------X.png)|![](./images-std/1.g-fpltf-------x.jpeg)|GFFPLTF-------X|TACGRP.FSUPP.LNE.LNRTGT.FPF|Final Protective Fire (Fpf)|LINE|B||
 |875||![](./images/GFFPLTS-------X.png)|![](./images-std/1.g-fplts-------x.jpeg)|GFFPLTS-------X|TACGRP.FSUPP.LNE.LNRTGT.LSTGT|Linear Smoke Target|LINE|B||
 |876||![](./images/GFFPLT--------X.png)|![](./images-std/1.g-fplt--------x.jpeg)|GFFPLT--------X|TACGRP.FSUPP.LNE.LNRTGT|Linear Target|LINE|B||
@@ -1032,7 +1032,7 @@
 |1032||![](./images/GFGPSLB-------X.png)|![](./images-std/1.g-gpslb-------x.jpeg)|GFGPSLB-------X|TACGRP.C2GM.SPL.LNE.BRGH|Bridgehead|LINE|B||
 |1033||![](./images/GFGPSLH-------X.png)|![](./images-std/1.g-gpslh-------x.jpeg)|GFGPSLH-------X|TACGRP.C2GM.SPL.LNE.HGL|Holding Line|LINE|B||
 |1034||![](./images/GFGPSLR-------X.png)|![](./images-std/1.g-gpslr-------x.jpeg)|GFGPSLR-------X|TACGRP.C2GM.SPL.LNE.REL|Release Line|LINE|B||
-|1035||![](./images/GFMPBCA-------X.png)|![](./images-std/1.g-mpbca-------x.jpeg)|GFMPBCA-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.ASTCA|Assault Crossing Area|LINE|B||
+|1035|PERHAPS|![](./images/GFMPBCA-------X.png)|![](./images-std/1.g-mpbca-------x.jpeg)|GFMPBCA-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.ASTCA|Assault Crossing Area|LINE|B|Being Drawn as Area (not line?)|
 |1036||![](./images/GFMPBCB-------X.png)|![](./images-std/1.g-mpbcb-------x.jpeg)|GFMPBCB-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.BRG|Bridge Or Gap|LINE|B||
 |1037||![](./images/GFMPBCD-------X.png)|![](./images-std/1.g-mpbcd-------x.jpeg)|GFMPBCD-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRDDFT|Ford Difficult|LINE|B||
 |1038||![](./images/GFMPBCE-------X.png)|![](./images-std/1.g-mpbce-------x.jpeg)|GFMPBCE-------X|TACGRP.MOBSU.OBSTBP.CSGSTE.FRDESY|Ford Easy|LINE|B||
@@ -1080,7 +1080,7 @@
 |1083||![](./images/GFMPOGL-------X.png)|![](./images-std/1.g-mpogl-------x.jpeg)|GFMPOGL-------X|TACGRP.MOBSU.OBST.GNL.LNE|Line|LINE|B||
 |1084||![](./images/GFMPOGR-------X.png)|![](./images-std/1.g-mpogr-------x.jpeg)|GFMPOGR-------X|TACGRP.MOBSU.OBST.GNL.ORA|Obstacle Restricted Area|AREA|B||
 |1085||![](./images/GFMPOGZ-------X.png)|![](./images-std/1.g-mpogz-------x.jpeg)|GFMPOGZ-------X|TACGRP.MOBSU.OBST.GNL.Z|Zone|AREA|B||
-|1086||![](./images/GFMPOMC-------X.png)|![](./images-std/1.g-mpomc-------x.jpeg)|GFMPOMC-------X|TACGRP.MOBSU.OBST.MNE.MCLST|Mine Cluster|LINE|B||
+|1086|PERHAPS|![](./images/GFMPOMC-------X.png)|![](./images-std/1.g-mpomc-------x.jpeg)|GFMPOMC-------X|TACGRP.MOBSU.OBST.MNE.MCLST|Mine Cluster|LINE|B|Standard shows single scallop|
 |1087||![](./images/GFMPOMD-------X.png)|![](./images-std/1.g-mpomd-------x.jpeg)|GFMPOMD-------X|TACGRP.MOBSU.OBST.MNE.ATMAHD|Antitank Mine With Antihandling Device|POINT|B||
 |1088||![](./images/GFMPOME-------X.png)|![](./images-std/1.g-mpome-------x.jpeg)|GFMPOME-------X|TACGRP.MOBSU.OBST.MNE.ATMDIR|Antitank Mine (Directional)|POINT|B||
 |1089||![](./images/GFMPOMP-------X.png)|![](./images-std/1.g-mpomp-------x.jpeg)|GFMPOMP-------X|TACGRP.MOBSU.OBST.MNE.APMNE|Antipersonnel (Ap) Mines|POINT|B||
@@ -1592,14 +1592,14 @@
 |1595||![](./images/IFGPSRTI-------.png)|![](./images-std/1.ifgpsrti-------.jpeg)|IFGPSRTI-------|SIGINT.GRDTRK.SIGINC.RAD.TGTILL|Target Illuminator|POINT|D||
 |1596||![](./images/IFGPSRTT-------.png)|![](./images-std/1.ifgpsrtt-------.jpeg)|IFGPSRTT-------|SIGINT.GRDTRK.SIGINC.RAD.TGTTRK|Target Tracking|POINT|D||
 |1597||![](./images/IFGPSRU--------.png)|![](./images-std/1.ifgpsru--------.jpeg)|IFGPSRU--------|SIGINT.GRDTRK.SIGINC.RAD.UNK|Unknown|POINT|D||
-|1598||![](./images/IFPPSCD--------.png)|![](./images-std/1.ifppscd--------.jpeg)|IFPPSCD--------|SIGINT.SPC.SIGINC.COMM.SATDL|Satellite Downlink|POINT|D||
-|1599||![](./images/IFPPSRD--------.png)|![](./images-std/1.ifppsrd--------.jpeg)|IFPPSRD--------|SIGINT.SPC.SIGINC.RAD.DATTMN|Data Transmission|POINT|D||
-|1600|PERHAPS|![](./images/IFPPSRE--------.png)|![](./images-std/1.ifppsre--------.jpeg)|IFPPSRE--------|SIGINT.SPC.SIGINC.RAD.ERHSVL|Earth Surveillance|POINT|D||
-|1601|PERHAPS|![](./images/IFPPSRI--------.png)|![](./images-std/1.ifppsri--------.jpeg)|IFPPSRI--------|SIGINT.SPC.SIGINC.RAD.IFF|Iff (Transponder)|POINT|D||
-|1602|PERHAPS|![](./images/IFPPSRM--------.png)|![](./images-std/1.ifppsrm--------.jpeg)|IFPPSRM--------|SIGINT.SPC.SIGINC.RAD.MFN|Multifunction|POINT|D||
-|1603|PERHAPS|![](./images/IFPPSRS--------.png)|![](./images-std/1.ifppsrs--------.jpeg)|IFPPSRS--------|SIGINT.SPC.SIGINC.RAD.SPC|Space|POINT|D||
-|1604|PERHAPS|![](./images/IFPPSRT--------.png)|![](./images-std/1.ifppsrt--------.jpeg)|IFPPSRT--------|SIGINT.SPC.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|D||
-|1605|PERHAPS|![](./images/IFPPSRU--------.png)|![](./images-std/1.ifppsru--------.jpeg)|IFPPSRU--------|SIGINT.SPC.SIGINC.RAD.UNK|Unknown|POINT|D||
+|1598|PERHAPS|![](./images/IFPPSCD--------.png)|![](./images-std/1.ifppscd--------.jpeg)|IFPPSCD--------|SIGINT.SPC.SIGINC.COMM.SATDL|Satellite Downlink|POINT|D|Delta Space Frame|
+|1599|PERHAPS|![](./images/IFPPSRD--------.png)|![](./images-std/1.ifppsrd--------.jpeg)|IFPPSRD--------|SIGINT.SPC.SIGINC.RAD.DATTMN|Data Transmission|POINT|D|Delta Space Frame|
+|1600|PERHAPS|![](./images/IFPPSRE--------.png)|![](./images-std/1.ifppsre--------.jpeg)|IFPPSRE--------|SIGINT.SPC.SIGINC.RAD.ERHSVL|Earth Surveillance|POINT|D|Delta Space Frame|
+|1601|PERHAPS|![](./images/IFPPSRI--------.png)|![](./images-std/1.ifppsri--------.jpeg)|IFPPSRI--------|SIGINT.SPC.SIGINC.RAD.IFF|Iff (Transponder)|POINT|D|Delta Space Frame|
+|1602|PERHAPS|![](./images/IFPPSRM--------.png)|![](./images-std/1.ifppsrm--------.jpeg)|IFPPSRM--------|SIGINT.SPC.SIGINC.RAD.MFN|Multifunction|POINT|D|Delta Space Frame|
+|1603|PERHAPS|![](./images/IFPPSRS--------.png)|![](./images-std/1.ifppsrs--------.jpeg)|IFPPSRS--------|SIGINT.SPC.SIGINC.RAD.SPC|Space|POINT|D|Delta Space Frame|
+|1604|PERHAPS|![](./images/IFPPSRT--------.png)|![](./images-std/1.ifppsrt--------.jpeg)|IFPPSRT--------|SIGINT.SPC.SIGINC.RAD.TGTAQ|Target Acquisition|POINT|D|Delta Space Frame|
+|1605|PERHAPS|![](./images/IFPPSRU--------.png)|![](./images-std/1.ifppsru--------.jpeg)|IFPPSRU--------|SIGINT.SPC.SIGINC.RAD.UNK|Unknown|POINT|D|Delta Space Frame|
 |1606||![](./images/IFSPSCC--------.png)|![](./images-std/1.ifspscc--------.jpeg)|IFSPSCC--------|SIGINT.SSUF.SIGINC.COMM.CELL|Cellular-Mobile|POINT|D||
 |1607||![](./images/IFSPSCO--------.png)|![](./images-std/1.ifspsco--------.jpeg)|IFSPSCO--------|SIGINT.SSUF.SIGINC.COMM.OLOS|Omni-Line Of Sight (Los)|POINT|D||
 |1608||![](./images/IFSPSCP--------.png)|![](./images-std/1.ifspscp--------.jpeg)|IFSPSCP--------|SIGINT.SSUF.SIGINC.COMM.PTPLOS|Point-To-Point Line Of Sight (Los)|POINT|D||
