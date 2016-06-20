@@ -1672,3 +1672,4 @@
 |1675||![](./images/OFVPP----------.png)|![](./images-std/1.ofvpp----------.jpeg)|OFVPP----------|STBOPS.VIOATY.PSNG|Poisoning|POINT|E||
 |1676||![](./images/OFVPS----------.png)|![](./images-std/1.ofvps----------.jpeg)|OFVPS----------|STBOPS.VIOATY.SPG|Sniping|POINT|E||
 |1677||![](./images/OFVPY----------.png)|![](./images-std/1.ofvpy----------.jpeg)|OFVPY----------|STBOPS.VIOATY.BBY|Booby Trap|POINT|E||
+|1678||![](./images/OHPPF----------.png)|![](./images-std/2.ohppf----------.png)|OHPPF----------|STBOPS.INDIV.SUICBM|Civilian (Land Civilian) : Individual : IED Suicide Bomber|POINT|E||
