@@ -1,4 +1,4 @@
-|Count|Significant Issue?|Image from DR_Export|Image from Standard|Full SIDC|Hierarchy Code|Name|Geometry|Appendix|Issue Description/Details|
+|ID|Significant Issue?|Image from DR_Export|Image from Standard|Full SIDC|Hierarchy Code|Name|Geometry|Appendix|Notes/Issue Description/Details|
 |---|---|---|---|---|---|---|---|---|---|
 |122|YES|![](./images/SFFPGP---------.png)|![](./images-std/1.sffpgp---------.png)|SFFPGP---------|WAR.SOFUNT.GRD.PSYOP|Sof Unit Psychological Operations (Psyop)|POINT|A||
 |124|YES|![](./images/SFFPGR---------.png)|![](./images-std/1.sffpgr---------.png)|SFFPGR---------|WAR.SOFUNT.GRD.RGR|Sof Unit Ranger|POINT|A||
