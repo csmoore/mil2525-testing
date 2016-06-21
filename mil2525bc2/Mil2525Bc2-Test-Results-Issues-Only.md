@@ -5,7 +5,6 @@
 |302|YES|![](./images/SFGPIMFP--H----.png)|![](./images-std/1.sfgpimfp--h----.jpeg)|SFGPIMFP--H----|WAR.GRDTRK.INS.MMF.NENY.NMP|Nuclear Material Production|POINT|A||
 |304|YES|![](./images/SFGPIMFS--H----.png)|![](./images-std/1.sfgpimfs--h----.jpeg)|SFGPIMFS--H----|WAR.GRDTRK.INS.MMF.NENY.NMS|Nuclear Material Storage|POINT|A||
 |873|YES|![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.jpeg)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B|BCL' instead of 'RFL'|
-|966|YES|![](./images/GFGPGPRD------X.png)|![](./images-std/1.g-gpgprd------x.jpeg)|GFGPGPRD------X|TACGRP.C2GM.GNL.PNT.REFPNT.DLRP|Dlrp|POINT|B||
 |1046|YES|![](./images/GFMPNB--------X.png)|![](./images-std/1.g-mpnb--------x.jpeg)|GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B||
 |1047|YES|![](./images/GFMPNC--------X.png)|![](./images-std/1.g-mpnc--------x.jpeg)|GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B||
 |1059|YES|![](./images/GFMPNM--------X.png)|![](./images-std/1.g-mpnm--------x.jpeg)|GFMPNM--------X|TACGRP.MOBSU.CBRN.MSDZ|Minimum Safe Distance Zones|POINT|B||

@@ -4,7 +4,6 @@
 |764|YES|![](./images/SFSPXAR--------.png)|![](./images-std/1.sfspxar--------.png)|SFSPXAR--------|WAR.SSUF.NMIL.FSTREC.RHIB|Rigid-Hull Inflatable Boat|POINT|A||
 |765|YES|![](./images/SFSPXAS--------.png)|![](./images-std/1.sfspxas--------.png)|SFSPXAS--------|WAR.SSUF.NMIL.FSTREC.SPDBT|Speed Boat|POINT|A||
 |781|YES|![](./images/SFSPXP---------.png)|![](./images-std/1.sfspxp---------.png)|SFSPXP---------|WAR.SSUF.NMIL.PWC|Personal Watercraft|POINT|A||
-|817|YES|![](./images/SFUPWD---------.png)|![](./images-std/1.sfupwd---------.png)|SFUPWD---------|WAR.SBSUF.UH2DCY|Underwater Decoy|POINT|A|Switch Icon mapping to SFSPCD---------|
 |918|YES|![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.png)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B|BCL' instead of 'RFL'|
 |1125|YES|![](./images/GFMPNB--------X.png)|![](./images-std/1.g-mpnb--------x.png)|GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B||
 |1126|YES|![](./images/GFMPNC--------X.png)|![](./images-std/1.g-mpnc--------x.png)|GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B||

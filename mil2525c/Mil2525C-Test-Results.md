@@ -816,7 +816,7 @@
 |814||![](./images/SFUPSX---------.png)|![](./images-std/1.sfupsx---------.png)|SFUPSX---------|WAR.SBSUF.SUB.NONSUB|Nonsubmarine|POINT|A||
 |815|PERHAPS|![](./images/SFUPV----------.png)|![](./images-std/1.sfupv----------.png)|SFUPV----------|WAR.SBSUF.DRL|Dive Report Location|POINT|A||
 |816||![](./images/SFUPW----------.png)|![](./images-std/1.sfupw----------.png)|SFUPW----------|WAR.SBSUF.UH2WPN|Underwater Weapon|POINT|A||
-|817|YES|![](./images/SFUPWD---------.png)|![](./images-std/1.sfupwd---------.png)|SFUPWD---------|WAR.SBSUF.UH2DCY|Underwater Decoy|POINT|A|Switch Icon mapping to SFSPCD---------|
+|817||![](./images/SFUPWD---------.png)|![](./images-std/1.sfupwd---------.png)|SFUPWD---------|WAR.SBSUF.UH2DCY|Underwater Decoy|POINT|A||
 |818|PERHAPS|![](./images/SFUPWDM--------.png)|![](./images-std/1.sfupwdm--------.png)|SFUPWDM--------|WAR.SBSUF.UH2DCY.SMDCY|Sea Mine Decoy|POINT|A||
 |819|PERHAPS|![](./images/SFUPWDMG-------.png)|![](./images-std/1.sfupwdmg-------.png)|SFUPWDMG-------|WAR.SBSUF.UH2DCY.SMDCY.GRND|Ground (Bottom) Decoy|POINT|A||
 |820|PERHAPS|![](./images/SFUPWDMM-------.png)|![](./images-std/1.sfupwdmm-------.png)|SFUPWDMM-------|WAR.SBSUF.UH2DCY.SMDCY.MOORED|Moored Decoy|POINT|A||

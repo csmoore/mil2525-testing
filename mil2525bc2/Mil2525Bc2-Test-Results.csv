@@ -963,7 +963,7 @@ ID,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hierarc
 963,,![](./images/GFGPGPPS------X.png),![](./images-std/1.g-gpgpps------x.jpeg),GFGPGPPS------X,TACGRP.C2GM.GNL.PNT.ACTPNT.STRPNT,Start Point,POINT,B,
 964,,![](./images/GFGPGPPW------X.png),![](./images-std/1.g-gpgppw------x.jpeg),GFGPGPPW------X,TACGRP.C2GM.GNL.PNT.ACTPNT.WAP,Waypoint,POINT,B,
 965,,![](./images/GFGPGPP-------X.png),![](./images-std/1.g-gpgpp-------x.jpeg),GFGPGPP-------X,TACGRP.C2GM.GNL.PNT.ACTPNT,Action Points (General),POINT,B,
-966,YES,![](./images/GFGPGPRD------X.png),![](./images-std/1.g-gpgprd------x.jpeg),GFGPGPRD------X,TACGRP.C2GM.GNL.PNT.REFPNT.DLRP,Dlrp,POINT,B,
+966,,![](./images/GFGPGPRD------X.png),![](./images-std/1.g-gpgprd------x.jpeg),GFGPGPRD------X,TACGRP.C2GM.GNL.PNT.REFPNT.DLRP,Dlrp,POINT,B,
 967,,![](./images/GFGPGPRI------X.png),![](./images-std/1.g-gpgpri------x.jpeg),GFGPGPRI------X,TACGRP.C2GM.GNL.PNT.REFPNT.PNTINR,Point Of Interest,POINT,B,
 968,PERHAPS,![](./images/GFGPGPRN------X.png),![](./images-std/1.g-gpgprn------x.jpeg),GFGPGPRN------X,TACGRP.C2GM.GNL.PNT.REFPNT.NAVREF,Navigational Reference Point,POINT,B,
 969,PERHAPS,![](./images/GFGPGPRS------X.png),![](./images-std/1.g-gpgprs------x.jpeg),GFGPGPRS------X,TACGRP.C2GM.GNL.PNT.REFPNT.SPLPNT,Special Point,POINT,B,
