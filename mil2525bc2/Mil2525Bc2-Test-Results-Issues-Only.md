@@ -8,6 +8,7 @@
 |1046|YES|![](./images/GFMPNB--------X.png)|![](./images-std/1.g-mpnb--------x.jpeg)|GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B||
 |1047|YES|![](./images/GFMPNC--------X.png)|![](./images-std/1.g-mpnc--------x.jpeg)|GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B||
 |1059|YES|![](./images/GFMPNM--------X.png)|![](./images-std/1.g-mpnm--------x.jpeg)|GFMPNM--------X|TACGRP.MOBSU.CBRN.MSDZ|Minimum Safe Distance Zones|POINT|B||
+|1060|YES|![](./images/GFMPNR--------X.png)|![](./images-std/1.g-mpnr--------x.jpeg)|GFMPNR--------X|TACGRP.MOBSU.CBRN.RADA|Radioactive Area|AREA|B||
 |1208|YES|![](./images/WA-DBAFF----A--.png)|![](./images-std/0.wa-dbaff----a--.jpeg)|WA-DBAFF----A--|METOC.AMPHC.BDAWTH.ODFF|Operator-Defined Freeform|AREA|C||
 |1219|YES|![](./images/WA-DIPFF---L---.png)|![](./images-std/0.wa-dipff---l---.jpeg)|WA-DIPFF---L---|METOC.AMPHC.ISP.ODFF|Operator-Defined Freeform|LINE|C||
 |1240|YES|![](./images/WA-DPXCV---L---.png)|![](./images-std/0.wa-dpxcv---l---.jpeg)|WA-DPXCV---L---|METOC.AMPHC.PRS.LNE.CNGLNE|Convergance Line|LINE|C||

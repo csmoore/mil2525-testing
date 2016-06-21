@@ -1056,7 +1056,7 @@ ID,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hierarc
 1057,PERHAPS,![](./images/GFMPNF--------X.png),![](./images-std/1.g-mpnf--------x.jpeg),GFMPNF--------X,TACGRP.MOBSU.CBRN.FAOTP,Fallout Producing,POINT,B,
 1058,,![](./images/GFMPNL--------X.png),![](./images-std/1.g-mpnl--------x.jpeg),GFMPNL--------X,TACGRP.MOBSU.CBRN.DRCL,Dose Rate Contour Lines,AREA,B,
 1059,YES,![](./images/GFMPNM--------X.png),![](./images-std/1.g-mpnm--------x.jpeg),GFMPNM--------X,TACGRP.MOBSU.CBRN.MSDZ,Minimum Safe Distance Zones,POINT,B,
-1060,,![](./images/GFMPNR--------X.png),![](./images-std/1.g-mpnr--------x.jpeg),GFMPNR--------X,TACGRP.MOBSU.CBRN.RADA,Radioactive Area,AREA,B,
+1060,YES,![](./images/GFMPNR--------X.png),![](./images-std/1.g-mpnr--------x.jpeg),GFMPNR--------X,TACGRP.MOBSU.CBRN.RADA,Radioactive Area,AREA,B,
 1061,,![](./images/GFMPNZ--------X.png),![](./images-std/1.g-mpnz--------x.jpeg),GFMPNZ--------X,TACGRP.MOBSU.CBRN.NDGZ,Nuclear Detonations Ground Zero,POINT,B,
 1062,,![](./images/GFMPOADC------X.png),![](./images-std/1.g-mpoadc------x.jpeg),GFMPOADC------X,TACGRP.MOBSU.OBST.ATO.ATD.ATDC,Complete,LINE,B,
 1063,,![](./images/GFMPOADU------X.png),![](./images-std/1.g-mpoadu------x.jpeg),GFMPOADU------X,TACGRP.MOBSU.OBST.ATO.ATD.ATDUC,Under Construction,LINE,B,
