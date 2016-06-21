@@ -1673,4 +1673,4 @@ ID,Significant Issue?,Image from DR_Export,Image from Standard,Full SIDC,Hierarc
 1677,,![](./images/OFVPY----------.png),![](./images-std/1.ofvpy----------.jpeg),OFVPY----------,STBOPS.VIOATY.BBY,Booby Trap,POINT,E,
 1678,,![](./images/OHVPEI---------.png),![](./images-std/2.ohvpei---------.jpg),OHVPEI---------,STBOPS.VIOATY.EXPLSN.EXPLSN,IED Explosion,POINT,E,USAS CS 11-12
 1679,,![](./images/OHPPF----------.png),![](./images-std/2.ohppf----------.png),OHPPF----------,STBOPS.INDIV.SUICBM,IED Suicide Bomber,POINT,E,USAS CS 11-12
-1680,,![](./images/SHGPEXI--------.png),![](./images-std/2.shgpexi--------.jpg),SHGPEXI--------,WAR.GRDTRK.EQT.SPL.EID,Improvised Explosive Device (IED),POINT,E,USAS CS 11-12
+1680,,![](./images/SHGPEXI--------.png),![](./images-std/2.shgpexi--------.jpg),SHGPEXI--------,WAR.GRDTRK.EQT.SPL.IED,Improvised Explosive Device (IED),POINT,E,USAS CS 11-12
