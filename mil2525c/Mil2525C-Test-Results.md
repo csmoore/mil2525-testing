@@ -762,9 +762,9 @@
 |760||![](./images/SFSPNR---------.png)|![](./images-std/1.sfspnr---------.png)|SFSPNR---------|WAR.SSUF.NCBTT.UWRPM|Underway Replenishment|POINT|A||
 |761||![](./images/SFSPNS---------.png)|![](./images-std/1.sfspns---------.png)|SFSPNS---------|WAR.SSUF.NCBTT.SSH|Service & Support Harbor|POINT|A||
 |762|PERHAPS|![](./images/SFSPO----------.png)|![](./images-std/1.sfspo----------.png)|SFSPO----------|WAR.SSUF.OWN|Own Track|POINT|A||
-|763|YES|![](./images/SFSPXA---------.png)|![](./images-std/1.sfspxa---------.png)|SFSPXA---------|WAR.SSUF.NMIL.FSTREC|Fast Recreactional Craft|POINT|A||
-|764|YES|![](./images/SFSPXAR--------.png)|![](./images-std/1.sfspxar--------.png)|SFSPXAR--------|WAR.SSUF.NMIL.FSTREC.RHIB|Rigid-Hull Inflatable Boat|POINT|A||
-|765|YES|![](./images/SFSPXAS--------.png)|![](./images-std/1.sfspxas--------.png)|SFSPXAS--------|WAR.SSUF.NMIL.FSTREC.SPDBT|Speed Boat|POINT|A||
+|763||![](./images/SFSPXA---------.png)|![](./images-std/1.sfspxa---------.png)|SFSPXA---------|WAR.SSUF.NMIL.FSTREC|Fast Recreactional Craft|POINT|A||
+|764||![](./images/SFSPXAR--------.png)|![](./images-std/1.sfspxar--------.png)|SFSPXAR--------|WAR.SSUF.NMIL.FSTREC.RHIB|Rigid-Hull Inflatable Boat|POINT|A||
+|765||![](./images/SFSPXAS--------.png)|![](./images-std/1.sfspxas--------.png)|SFSPXAS--------|WAR.SSUF.NMIL.FSTREC.SPDBT|Speed Boat|POINT|A||
 |766||![](./images/SFSPXF---------.png)|![](./images-std/1.sfspxf---------.png)|SFSPXF---------|WAR.SSUF.NMIL.FSG|Fishing|POINT|A||
 |767||![](./images/SFSPXFDF-------.png)|![](./images-std/1.sfspxfdf-------.png)|SFSPXFDF-------|WAR.SSUF.NMIL.FSG.DRFT|Drifter|POINT|A||
 |768||![](./images/SFSPXFDR-------.png)|![](./images-std/1.sfspxfdr-------.png)|SFSPXFDR-------|WAR.SSUF.NMIL.FSG.DRG|Dredge|POINT|A||
@@ -780,7 +780,7 @@
 |778||![](./images/SFSPXMR--------.png)|![](./images-std/1.sfspxmr--------.png)|SFSPXMR--------|WAR.SSUF.NMIL.MCT.RORO|Roll On/Roll Off|POINT|A||
 |779||![](./images/SFSPXMTO-------.png)|![](./images-std/1.sfspxmto-------.png)|SFSPXMTO-------|WAR.SSUF.NMIL.MCT.TOWVES|Towing Vessel|POINT|A||
 |780||![](./images/SFSPXMTU-------.png)|![](./images-std/1.sfspxmtu-------.png)|SFSPXMTU-------|WAR.SSUF.NMIL.MCT.TUG|Tug|POINT|A||
-|781|YES|![](./images/SFSPXP---------.png)|![](./images-std/1.sfspxp---------.png)|SFSPXP---------|WAR.SSUF.NMIL.PWC|Personal Watercraft|POINT|A||
+|781||![](./images/SFSPXP---------.png)|![](./images-std/1.sfspxp---------.png)|SFSPXP---------|WAR.SSUF.NMIL.PWC|Personal Watercraft|POINT|A||
 |782||![](./images/SFSPXR---------.png)|![](./images-std/1.sfspxr---------.png)|SFSPXR---------|WAR.SSUF.NMIL.LESCRT|Leisure Craft|POINT|A||
 |783||![](./images/SFUP-----------.png)|![](./images-std/1.sfup-----------.png)|SFUP-----------|WAR.SBSUF|Subsurface Track|POINT|A||
 |784|PERHAPS|![](./images/SFUPE----------.png)|![](./images-std/1.sfupe----------.png)|SFUPE----------|WAR.SBSUF.ERL|Environmental Report Location|POINT|A||
@@ -917,7 +917,7 @@
 |915||![](./images/GFFPLCF-------X.png)|![](./images-std/1.g-fplcf-------x.png)|GFFPLCF-------X|TACGRP.FSUPP.LNE.C2LNE.FSCL|Fire Support Coordination Line (Fscl)|LINE|B||
 |916||![](./images/GFFPLCM-------X.png)|![](./images-std/1.g-fplcm-------x.png)|GFFPLCM-------X|TACGRP.FSUPP.LNE.C2LNE.MFP|Munition Flight Path (Mfp)|LINE|B||
 |917||![](./images/GFFPLCN-------X.png)|![](./images-std/1.g-fplcn-------x.png)|GFFPLCN-------X|TACGRP.FSUPP.LNE.C2LNE.NFL|No-Fire Line (Nfl)|LINE|B||
-|918|YES|![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.png)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B|BCL' instead of 'RFL'|
+|918||![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.png)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B||
 |919||![](./images/GFFPLTF-------X.png)|![](./images-std/1.g-fpltf-------x.png)|GFFPLTF-------X|TACGRP.FSUPP.LNE.LNRTGT.FPF|Final Protective Fire (Fpf)|LINE|B||
 |920||![](./images/GFFPLTS-------X.png)|![](./images-std/1.g-fplts-------x.png)|GFFPLTS-------X|TACGRP.FSUPP.LNE.LNRTGT.LSTGT|Linear Smoke Target|LINE|B||
 |921||![](./images/GFFPLT--------X.png)|![](./images-std/1.g-fplt--------x.png)|GFFPLT--------X|TACGRP.FSUPP.LNE.LNRTGT|Linear Target|LINE|B||
@@ -1741,7 +1741,7 @@
 |1739||![](./images/OFOPD----------.png)|![](./images-std/1.ofopd----------.png)|OFOPD----------|STBOPS.OPN.DEMO|Demonstration|POINT|E||
 |1740||![](./images/OFOPE----------.png)|![](./images-std/1.ofope----------.png)|OFOPE----------|STBOPS.OPN.EXTN|Extortion|POINT|E||
 |1741||![](./images/OFOPF----------.png)|![](./images-std/1.ofopf----------.png)|OFOPF----------|STBOPS.OPN.FRGSRH|Foraging/Searching|POINT|E||
-|1742|YES|![](./images/OFOPHA---------.png)|![](./images-std/1.ofopha---------.png)|OFOPHA---------|STBOPS.OPN.HJKG.APL|Hijacking (Airplane)|POINT|E||
+|1742||![](./images/OFOPHA---------.png)|![](./images-std/1.ofopha---------.png)|OFOPHA---------|STBOPS.OPN.HJKG.APL|Hijacking (Airplane)|POINT|E||
 |1743||![](./images/OFOPHT---------.png)|![](./images-std/1.ofopht---------.png)|OFOPHT---------|STBOPS.OPN.HJKG.VEH|Hijacking (Vehicle)|POINT|E||
 |1744||![](./images/OFOPHV---------.png)|![](./images-std/1.ofophv---------.png)|OFOPHV---------|STBOPS.OPN.HJKG.BOAT|Hijacking (Boat)|POINT|E||
 |1745||![](./images/OFOPK----------.png)|![](./images-std/1.ofopk----------.png)|OFOPK----------|STBOPS.OPN.KDNG|Kidnapping|POINT|E||

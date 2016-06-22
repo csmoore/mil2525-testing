@@ -1,10 +1,5 @@
 |ID|Significant Issue?|Image from DR_Export|Image from Standard|Full SIDC|Hierarchy Code|Name|Geometry|Appendix|Notes / Issue Description / Details|
 |---|---|---|---|---|---|---|---|---|---|
-|300|YES|![](./images/SFGPIMFA--H----.png)|![](./images-std/1.sfgpimfa--h----.jpeg)|SFGPIMFA--H----|WAR.GRDTRK.INS.MMF.NENY.ATMER|Atomic Energy Reactor|POINT|A||
-|301|YES|![](./images/SFGPIMF---H----.png)|![](./images-std/1.sfgpimf---h----.jpeg)|SFGPIMF---H----|WAR.GRDTRK.INS.MMF.NENY|Nuclear Energy|POINT|A||
-|302|YES|![](./images/SFGPIMFP--H----.png)|![](./images-std/1.sfgpimfp--h----.jpeg)|SFGPIMFP--H----|WAR.GRDTRK.INS.MMF.NENY.NMP|Nuclear Material Production|POINT|A||
-|304|YES|![](./images/SFGPIMFS--H----.png)|![](./images-std/1.sfgpimfs--h----.jpeg)|SFGPIMFS--H----|WAR.GRDTRK.INS.MMF.NENY.NMS|Nuclear Material Storage|POINT|A||
-|873|YES|![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.jpeg)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B|BCL' instead of 'RFL'|
 |1046|YES|![](./images/GFMPNB--------X.png)|![](./images-std/1.g-mpnb--------x.jpeg)|GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B||
 |1047|YES|![](./images/GFMPNC--------X.png)|![](./images-std/1.g-mpnc--------x.jpeg)|GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B||
 |1060|YES|![](./images/GFMPNR--------X.png)|![](./images-std/1.g-mpnr--------x.jpeg)|GFMPNR--------X|TACGRP.MOBSU.CBRN.RADA|Radioactive Area|AREA|B||
@@ -24,4 +19,3 @@
 |1499|YES|![](./images/WOS-HHDMDBP----.png)|![](./images-std/0.wos-hhdmdbp----.jpeg)|WOS-HHDMDBP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DBT|Mine-Naval (Doubtful)|POINT|C||
 |1500|YES|![](./images/WOS-HHDMDFP----.png)|![](./images-std/0.wos-hhdmdfp----.jpeg)|WOS-HHDMDFP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DEFN|Mine-Naval (Definite)|POINT|C||
 |1501|YES|![](./images/WOS-HHDR---L---.png)|![](./images-std/0.wos-hhdr---l---.jpeg)|WOS-HHDR---L---|METOC.OCA.HYDGRY.DANHAZ.REEF|Reef|LINE|C||
-|1653|YES|![](./images/OFOPHA---------.png)|![](./images-std/1.ofopha---------.jpeg)|OFOPHA---------|STBOPS.OPN.HJKG.APL|Hijacking (Airplane)|POINT|E||

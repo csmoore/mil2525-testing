@@ -1,10 +1,5 @@
 |ID|Significant Issue?|Image from DR_Export|Image from Standard|Full SIDC|Hierarchy Code|Name|Geometry|Appendix|Notes / Issue Description / Details|
 |---|---|---|---|---|---|---|---|---|---|
-|763|YES|![](./images/SFSPXA---------.png)|![](./images-std/1.sfspxa---------.png)|SFSPXA---------|WAR.SSUF.NMIL.FSTREC|Fast Recreactional Craft|POINT|A||
-|764|YES|![](./images/SFSPXAR--------.png)|![](./images-std/1.sfspxar--------.png)|SFSPXAR--------|WAR.SSUF.NMIL.FSTREC.RHIB|Rigid-Hull Inflatable Boat|POINT|A||
-|765|YES|![](./images/SFSPXAS--------.png)|![](./images-std/1.sfspxas--------.png)|SFSPXAS--------|WAR.SSUF.NMIL.FSTREC.SPDBT|Speed Boat|POINT|A||
-|781|YES|![](./images/SFSPXP---------.png)|![](./images-std/1.sfspxp---------.png)|SFSPXP---------|WAR.SSUF.NMIL.PWC|Personal Watercraft|POINT|A||
-|918|YES|![](./images/GFFPLCR-------X.png)|![](./images-std/1.g-fplcr-------x.png)|GFFPLCR-------X|TACGRP.FSUPP.LNE.C2LNE.RFL|Restrictive Fire Line (Rfl)|LINE|B|BCL' instead of 'RFL'|
 |1125|YES|![](./images/GFMPNB--------X.png)|![](./images-std/1.g-mpnb--------x.png)|GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B||
 |1126|YES|![](./images/GFMPNC--------X.png)|![](./images-std/1.g-mpnc--------x.png)|GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B||
 |1139|YES|![](./images/GFMPNR--------X.png)|![](./images-std/1.g-mpnr--------x.png)|GFMPNR--------X|TACGRP.MOBSU.CBRN.RADA|Radioactive Area|AREA|B||
@@ -24,5 +19,4 @@
 |1578|YES|![](./images/WOS-HHDMDBP----.png)|![](./images-std/0.wos-hhdmdbp----.png)|WOS-HHDMDBP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DBT|Mine-Naval (Doubtful)|POINT|C||
 |1579|YES|![](./images/WOS-HHDMDFP----.png)|![](./images-std/0.wos-hhdmdfp----.png)|WOS-HHDMDFP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DEFN|Mine-Naval (Definite)|POINT|C||
 |1580|YES|![](./images/WOS-HHDR---L---.png)|![](./images-std/0.wos-hhdr---l---.png)|WOS-HHDR---L---|METOC.OCA.HYDGRY.DANHAZ.REEF|Reef|LINE|C||
-|1742|YES|![](./images/OFOPHA---------.png)|![](./images-std/1.ofopha---------.png)|OFOPHA---------|STBOPS.OPN.HJKG.APL|Hijacking (Airplane)|POINT|E||
 |2015|YES|![](./images/WAS-WSVE--P----.png)|![](./images-std/0.was-wsve--p----.png)|WAS-WSVE--P----|EMS.NATEVT.GEO.VOLERN|Volcanic Eruption|POINT|G||
