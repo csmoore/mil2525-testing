@@ -2,9 +2,6 @@
 |---|---|---|---|---|---|---|---|---|---|
 |1240|YES|![](./images/WA-DPXCV---L---.png)|![](./images-std/0.wa-dpxcv---l---.jpeg)|WA-DPXCV---L---|METOC.AMPHC.PRS.LNE.CNGLNE|Convergance Line|LINE|C||
 |1250|YES|![](./images/WA-DWSTSWA--A--.png)|![](./images-std/0.wa-dwstswa--a--.jpeg)|WA-DWSTSWA--A--|METOC.AMPHC.WTH.TPLSYS.TSWADL|Tropical Storm Wind Areas And Date-Time Labels|AREA|C||
-|1298|YES|![](./images/WAS-WP----P----.png)|![](./images-std/0.was-wp----p----.jpeg)|WAS-WP----P----|METOC.AMPHC.WND.PLT|Wind Plot|POINT|C||
-|1326|YES|![](./images/WAS-WSM-MHP----.png)|![](./images-std/0.was-wsm-mhp----.jpeg)|WAS-WSM-MHP----|METOC.AMPHC.WTH.RASN.RDSMH|Rain Or Drizzle And Snow - Moderate/Heavy|POINT|C||
-|1368|YES|![](./images/WAS-WSVE--P----.png)|![](./images-std/0.was-wsve--p----.jpeg)|WAS-WSVE--P----|METOC.AMPHC.WTH.VOLERN|Volcanic Eruption|POINT|C||
 |1428|YES|![](./images/WO-DHHDK----A--.png)|![](./images-std/0.wo-dhhdk----a--.jpeg)|WO-DHHDK----A--|METOC.OCA.HYDGRY.DANHAZ.KLP1.KLP3|Kelp3-Seaweed|AREA|C||
 |1429|YES|![](./images/WO-DHHDK--P----.png)|![](./images-std/0.wo-dhhdk--p----.jpeg)|WO-DHHDK--P----|METOC.OCA.HYDGRY.DANHAZ.KLP1.KLP2|Kelp2-Seaweed|POINT|C||
 |1434|YES|![](./images/WO-DHPMO----A--.png)|![](./images-std/0.wo-dhpmo----a--.jpeg)|WO-DHPMO----A--|METOC.OCA.HYDGRY.PRTHBR.FAC.OSLF3|Offshore Loading Facility|AREA|C||
