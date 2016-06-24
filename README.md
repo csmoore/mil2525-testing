@@ -16,7 +16,7 @@ Repo to publish and share ArcGIS MIL-STD-2525 Test Results for under-development
 
 This repo uses the following third-party software governed by [the Apache V2 License](http://www.apache.org/licenses/LICENSE-2.0):
 
-* Military Standard Image Files - [Military Symbols License](https://github.com/Esri/joint-military-symbology-xml/tree/master/svg)
+* Military Standard Image Files - [Military Symbols License](https://github.com/Esri/joint-military-symbology-xml/tree/master/svg#licensing)
 
 ## Licensing
 
