@@ -1041,7 +1041,7 @@
 |1039||![](./images/GFGPGPP-------X.png)|![](./images-std/1.g-gpgpp-------x.png)|![](./images-jmsml/GFGPGPP-------X.png)|GFGPGPP-------X|TACGRP.C2GM.GNL.PNT.ACTPNT|Action Points (General)|POINT|B||
 |1040||![](./images/GFGPGPRC------X.png)|![](./images-std/1.g-gpgprc------x.png)|![](./images-jmsml/GFGPGPRC------X.png)|GFGPGPRC------X|TACGRP.C2GM.GNL.PNT.REFPNT.CRDRTB|Corridor Tab|POINT|B||
 |1041||![](./images/GFGPGPRD------X.png)|![](./images-std/1.g-gpgprd------x.png)|![](./images-jmsml/GFGPGPRD------X.png)|GFGPGPRD------X|TACGRP.C2GM.GNL.PNT.REFPNT.DLRP|Dlrp|POINT|B||
-|1042|PERHAPS|![](./images/GFGPGPRI------X.png)|![](./images-std/1.g-gpgpri------x.png)|![](./images-jmsml/GFGPGPRI------X.png)|GFGPGPRI------X|TACGRP.C2GM.GNL.PNT.REFPNT.PNTINR|Point Of Interest|POINT|B||
+|1042||![](./images/GFGPGPRI------X.png)|![](./images-std/1.g-gpgpri------x.png)|![](./images-jmsml/GFGPGPRI------X.png)|GFGPGPRI------X|TACGRP.C2GM.GNL.PNT.REFPNT.PNTINR|Point Of Interest|POINT|B||
 |1043||![](./images/GFGPGPRM------X.png)|![](./images-std/1.g-gpgprm------x.png)|![](./images-jmsml/GFGPGPRM------X.png)|GFGPGPRM------X|TACGRP.C2GM.GNL.PNT.REFPNT.MRSH|Marshall Point|POINT|B||
 |1044||![](./images/GFGPGPRN------X.png)|![](./images-std/1.g-gpgprn------x.png)|![](./images-jmsml/GFGPGPRN------X.png)|GFGPGPRN------X|TACGRP.C2GM.GNL.PNT.REFPNT.NAVREF|Navigational Reference Point|POINT|B||
 |1045||![](./images/GFGPGPRP------X.png)|![](./images-std/1.g-gpgprp------x.png)|![](./images-jmsml/GFGPGPRP------X.png)|GFGPGPRP------X|TACGRP.C2GM.GNL.PNT.REFPNT.PIM|Point Of Intended Movement (Pim)|POINT|B||
@@ -1124,8 +1124,8 @@
 |1122||![](./images/GFMPBDD-------X.png)|![](./images-std/1.g-mpbdd-------x.png)|![](./images-jmsml/GFMPBDD-------X.png)|GFMPBDD-------X|TACGRP.MOBSU.OBSTBP.DFTY.DFT|Bypass Difficult|LINE|B||
 |1123||![](./images/GFMPBDE-------X.png)|![](./images-std/1.g-mpbde-------x.png)|![](./images-jmsml/GFMPBDE-------X.png)|GFMPBDE-------X|TACGRP.MOBSU.OBSTBP.DFTY.ESY|Bypass Easy|LINE|B||
 |1124||![](./images/GFMPBDI-------X.png)|![](./images-std/1.g-mpbdi-------x.png)|![](./images-jmsml/GFMPBDI-------X.png)|GFMPBDI-------X|TACGRP.MOBSU.OBSTBP.DFTY.IMP|Bypass Impossible|LINE|B||
-|1125|JMSML|![](./images/GFMPNB--------X.png)|![](./images-std/1.g-mpnb--------x.png)|![](./images-jmsml/GFMPNB--------X.png)|GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B||
-|1126|JMSML|![](./images/GFMPNC--------X.png)|![](./images-std/1.g-mpnc--------x.png)|![](./images-jmsml/GFMPNC--------X.png)|GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B||
+|1125||![](./images/GFMPNB--------X.png)|![](./images-std/1.g-mpnb--------x.png)|![](./images-jmsml/GFMPNB--------X.png)|GFMPNB--------X|TACGRP.MOBSU.CBRN.BIOCA|Biologically Contaminated Area|AREA|B||
+|1126||![](./images/GFMPNC--------X.png)|![](./images-std/1.g-mpnc--------x.png)|![](./images-jmsml/GFMPNC--------X.png)|GFMPNC--------X|TACGRP.MOBSU.CBRN.CMLCA|Chemically Contaminated Area|AREA|B||
 |1127||![](./images/GFMPNDA-------X.png)|![](./images-std/1.g-mpnda-------x.png)|![](./images-jmsml/GFMPNDA-------X.png)|GFMPNDA-------X|TACGRP.MOBSU.CBRN.DECONP.ALTUSP|Alternate Decon Site/Point (Unspecified)|POINT|B||
 |1128||![](./images/GFMPNDB-------X.png)|![](./images-std/1.g-mpndb-------x.png)|![](./images-jmsml/GFMPNDB-------X.png)|GFMPNDB-------X|TACGRP.MOBSU.CBRN.DECONP.EQTTRP|Decon Site/Point (Equipment And Troops)|POINT|B||
 |1129||![](./images/GFMPNDD-------X.png)|![](./images-std/1.g-mpndd-------x.png)|![](./images-jmsml/GFMPNDD-------X.png)|GFMPNDD-------X|TACGRP.MOBSU.CBRN.DECONP.TRGH|Decon Site/Point (Thorough Decontamination)|POINT|B||
@@ -1138,7 +1138,7 @@
 |1136|PERHAPS|![](./images/GFMPNF--------X.png)|![](./images-std/1.g-mpnf--------x.png)|![](./images-jmsml/GFMPNF--------X.png)|GFMPNF--------X|TACGRP.MOBSU.CBRN.FAOTP|Fallout Producing|POINT|B||
 |1137||![](./images/GFMPNL--------X.png)|![](./images-std/1.g-mpnl--------x.png)|![](./images-jmsml/GFMPNL--------X.png)|GFMPNL--------X|TACGRP.MOBSU.CBRN.DRCL|Dose Rate Contour Lines|AREA|B||
 |1138||![](./images/GFMPNM--------X.png)|![](./images-std/1.g-mpnm--------x.png)|![](./images-jmsml/GFMPNM--------X.png)|GFMPNM--------X|TACGRP.MOBSU.CBRN.MSDZ|Minimum Safe Distance Zones|POINT|B||
-|1139|JMSML|![](./images/GFMPNR--------X.png)|![](./images-std/1.g-mpnr--------x.png)|![](./images-jmsml/GFMPNR--------X.png)|GFMPNR--------X|TACGRP.MOBSU.CBRN.RADA|Radioactive Area|AREA|B||
+|1139||![](./images/GFMPNR--------X.png)|![](./images-std/1.g-mpnr--------x.png)|![](./images-jmsml/GFMPNR--------X.png)|GFMPNR--------X|TACGRP.MOBSU.CBRN.RADA|Radioactive Area|AREA|B||
 |1140||![](./images/GFMPNZ--------X.png)|![](./images-std/1.g-mpnz--------x.png)|![](./images-jmsml/GFMPNZ--------X.png)|GFMPNZ--------X|TACGRP.MOBSU.CBRN.NDGZ|Nuclear Detonations Ground Zero|POINT|B||
 |1141||![](./images/GFMPOADC------X.png)|![](./images-std/1.g-mpoadc------x.png)|![](./images-jmsml/GFMPOADC------X.png)|GFMPOADC------X|TACGRP.MOBSU.OBST.ATO.ATD.ATDC|Complete|LINE|B||
 |1142||![](./images/GFMPOADU------X.png)|![](./images-std/1.g-mpoadu------x.png)|![](./images-jmsml/GFMPOADU------X.png)|GFMPOADU------X|TACGRP.MOBSU.OBST.ATO.ATD.ATDUC|Under Construction|LINE|B||
@@ -1367,9 +1367,9 @@
 |1365||![](./images/WAS-PA----P----.png)|![](./images-std/0.was-pa----p----.png)|![](./images-jmsml/WAS-PA----P----.png)|WAS-PA----P----|METOC.AMPHC.PRS.HGHCTR.ACYC|Anticyclone Center|POINT|C||
 |1366||![](./images/WAS-PC----P----.png)|![](./images-std/0.was-pc----p----.png)|![](./images-jmsml/WAS-PC----P----.png)|WAS-PC----P----|METOC.AMPHC.PRS.LOWCTR.CYC|Cyclone Center|POINT|C||
 |1367||![](./images/WAS-PH----P----.png)|![](./images-std/0.was-ph----p----.png)|![](./images-jmsml/WAS-PH----P----.png)|WAS-PH----P----|METOC.AMPHC.PRS.HGHCTR|High Pressure Center|POINT|C||
-|1368|JMSML|![](./images/WAS-PHT---P----.png)|![](./images-std/0.was-pht---p----.png)|![](./images-jmsml/WAS-PHT---P----.png)|WAS-PHT---P----|METOC.AMPHC.PRS.HGHCTR.TROPHG|Tropopause High|POINT|C||
+|1368||![](./images/WAS-PHT---P----.png)|![](./images-std/0.was-pht---p----.png)|![](./images-jmsml/WAS-PHT---P----.png)|WAS-PHT---P----|METOC.AMPHC.PRS.HGHCTR.TROPHG|Tropopause High|POINT|C||
 |1369||![](./images/WAS-PL----P----.png)|![](./images-std/0.was-pl----p----.png)|![](./images-jmsml/WAS-PL----P----.png)|WAS-PL----P----|METOC.AMPHC.PRS.LOWCTR|Low Pressure Center|POINT|C||
-|1370|JMSML|![](./images/WAS-PLT---P----.png)|![](./images-std/0.was-plt---p----.png)|![](./images-jmsml/WAS-PLT---P----.png)|WAS-PLT---P----|METOC.AMPHC.PRS.LOWCTR.TROPLW|Tropopause Low|POINT|C||
+|1370||![](./images/WAS-PLT---P----.png)|![](./images-std/0.was-plt---p----.png)|![](./images-jmsml/WAS-PLT---P----.png)|WAS-PLT---P----|METOC.AMPHC.PRS.LOWCTR.TROPLW|Tropopause Low|POINT|C||
 |1371||![](./images/WAS-TE----P----.png)|![](./images-std/0.was-te----p----.png)|![](./images-jmsml/WAS-TE----P----.png)|WAS-TE----P----|METOC.AMPHC.TRB.EXT|Turbulence - Extreme|POINT|C||
 |1372||![](./images/WAS-TL----P----.png)|![](./images-std/0.was-tl----p----.png)|![](./images-jmsml/WAS-TL----P----.png)|WAS-TL----P----|METOC.AMPHC.TRB.LIT|Turbulence - Light|POINT|C||
 |1373||![](./images/WAS-TM----P----.png)|![](./images-std/0.was-tm----p----.png)|![](./images-jmsml/WAS-TM----P----.png)|WAS-TM----P----|METOC.AMPHC.TRB.MOD|Turbulence - Moderate|POINT|C||
@@ -1577,8 +1577,8 @@
 |1575|PERHAPS|![](./images/WOS-HDS---P----.png)|![](./images-std/0.wos-hds---p----.png)|![](./images-jmsml/WOS-HDS---P----.png)|WOS-HDS---P----|METOC.OCA.HYDGRY.DPH.SNDG|Soundings|POINT|C||
 |1576||![](./images/WOS-HHDE--P----.png)|![](./images-std/0.wos-hhde--p----.png)|![](./images-jmsml/WOS-HHDE--P----.png)|WOS-HHDE--P----|METOC.OCA.HYDGRY.DANHAZ.EOTR|Eddies-Overfalls-Tide Rips|POINT|C||
 |1577||![](./images/WOS-HHDF--P----.png)|![](./images-std/0.wos-hhdf--p----.png)|![](./images-jmsml/WOS-HHDF--P----.png)|WOS-HHDF--P----|METOC.OCA.HYDGRY.DANHAZ.FLGRD1.FLGRD2|Foul Ground|POINT|C||
-|1578|JMSML|![](./images/WOS-HHDMDBP----.png)|![](./images-std/0.wos-hhdmdbp----.png)|![](./images-jmsml/WOS-HHDMDBP----.png)|WOS-HHDMDBP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DBT|Mine-Naval (Doubtful)|POINT|C||
-|1579|JMSML|![](./images/WOS-HHDMDFP----.png)|![](./images-std/0.wos-hhdmdfp----.png)|![](./images-jmsml/WOS-HHDMDFP----.png)|WOS-HHDMDFP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DEFN|Mine-Naval (Definite)|POINT|C||
+|1578||![](./images/WOS-HHDMDBP----.png)|![](./images-std/0.wos-hhdmdbp----.png)|![](./images-jmsml/WOS-HHDMDBP----.png)|WOS-HHDMDBP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DBT|Mine-Naval (Doubtful)|POINT|C||
+|1579||![](./images/WOS-HHDMDFP----.png)|![](./images-std/0.wos-hhdmdfp----.png)|![](./images-jmsml/WOS-HHDMDFP----.png)|WOS-HHDMDFP----|METOC.OCA.HYDGRY.DANHAZ.MNENAV.DEFN|Mine-Naval (Definite)|POINT|C||
 |1580|YES|![](./images/WOS-HHDR---L---.png)|![](./images-std/0.wos-hhdr---l---.png)|![](./images-jmsml/WOS-HHDR---L---.png)|WOS-HHDR---L---|METOC.OCA.HYDGRY.DANHAZ.REEF|Reef|LINE|C||
 |1581||![](./images/WOS-HHDS--P----.png)|![](./images-std/0.wos-hhds--p----.png)|![](./images-jmsml/WOS-HHDS--P----.png)|WOS-HHDS--P----|METOC.OCA.HYDGRY.DANHAZ.SNAG|Snags-Stumps|POINT|C||
 |1582||![](./images/WOS-HHDWA-P----.png)|![](./images-std/0.wos-hhdwa-p----.png)|![](./images-jmsml/WOS-HHDWA-P----.png)|WOS-HHDWA-P----|METOC.OCA.HYDGRY.DANHAZ.WRK.UCOV|Wreck (Uncovers)|POINT|C||
