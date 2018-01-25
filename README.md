@@ -12,6 +12,11 @@ Repo to publish and share ArcGIS MIL-STD-2525 Test Results for under-development
 * [Full Results](./mil2525bc2/Mil2525Bc2-Test-Results.md)
 * [Issues Only](./mil2525bc2/Mil2525Bc2-Test-Results-Issues-Only.md)
 
+## APP-6(B)
+
+* [Full Results](./app6b/App6b-Test-Results.md)
+* [Issues Only](./app6b/App6b-Test-Results-Issues-Only.md)
+
 ## Credits
 
 This repo uses the following third-party software governed by [the Apache V2 License](http://www.apache.org/licenses/LICENSE-2.0):
