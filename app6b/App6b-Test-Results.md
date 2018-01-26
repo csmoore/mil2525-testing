@@ -1,0 +1,1212 @@
+|ID|Significant Issue?|Image from Style Export|Image from Standard|Full SIDC|Hierarchy Code|Name|Geometry|Appendix|Notes / Issue Description / Details|
+|---|---|---|---|---|---|---|---|---|---|
+|1||![](./images/SFP------------.png)|TODO|SFP------------|1.X.1 |SPACE TRACK|POINT|D||
+|2||![](./images/SFP-S----------.png)|TODO|SFP-S----------|1.X.1.1 |SATELLITE|POINT|D||
+|3||![](./images/SFP-V----------.png)|TODO|SFP-V----------|1.X.1.2 |CREWED SPACE VEHICLE|POINT|D||
+|4||![](./images/SFP-T----------.png)|TODO|SFP-T----------|1.X.1.3 |SPACE STATION|POINT|D||
+|5||![](./images/SFA------------.png)|TODO|SFA------------|1.X.2 |AIR TRACK|POINT|D||
+|6||![](./images/SFA-M----------.png)|TODO|SFA-M----------|1.X.2.1 |MILITARY|POINT|D||
+|7||![](./images/SFAPMF---------.png)|TODO|SFAPMF---------|1.X.2.1.1 |FIXED WING|POINT|D||
+|8||![](./images/SFAPMFB--------.png)|TODO|SFAPMFB--------|1.X.2.1.1.1 |BOMBER|POINT|D||
+|9||![](./images/SFAPMFF--------.png)|TODO|SFAPMFF--------|1.X.2.1.1.2 |FIGHTER|POINT|D||
+|10||![](./images/SFAPMFFI-------.png)|TODO|SFAPMFFI-------|1.X.2.1.1.2.1 |INTERCEPTOR|POINT|D||
+|11||![](./images/SFAPMFT--------.png)|TODO|SFAPMFT--------|1.X.2.1.1.3 |TRAINER|POINT|D||
+|12||![](./images/SFAPMFA--------.png)|TODO|SFAPMFA--------|1.X.2.1.1.4 |ATTACK/STRIKE|POINT|D||
+|13||![](./images/SFAPMFL--------.png)|TODO|SFAPMFL--------|1.X.2.1.1.5 |VSTOL|POINT|D||
+|14||![](./images/SFAPMFK--------.png)|TODO|SFAPMFK--------|1.X.2.1.1.6 |TANKER|POINT|D||
+|15||![](./images/SFAPMFC--------.png)|TODO|SFAPMFC--------|1.X.2.1.1.7 |CARGO AIRLIFT (TRANSPORT)|POINT|D||
+|16||![](./images/SFAPMFCL-------.png)|TODO|SFAPMFCL-------|1.X.2.1.1.7.1 |CARGO AIRLIFT (LIGHT)|POINT|D||
+|17||![](./images/SFAPMFCM-------.png)|TODO|SFAPMFCM-------|1.X.2.1.1.7.2 |CARGO AIRLIFT (MEDIUM)|POINT|D||
+|18||![](./images/SFAPMFCH-------.png)|TODO|SFAPMFCH-------|1.X.2.1.1.7.3 |CARGO AIRLIFT (HEAVY)|POINT|D||
+|19||![](./images/SFAPMFJ--------.png)|TODO|SFAPMFJ--------|1.X.2.1.1.8 |ELECTRONIC COUNTERMEASURES(ECM/JAMMER)|POINT|D||
+|20||![](./images/SFAPMFO--------.png)|TODO|SFAPMFO--------|1.X.2.1.1.9 |MEDEVAC|POINT|D||
+|21||![](./images/SFAPMFR--------.png)|TODO|SFAPMFR--------|1.X.2.1.1.10 |RECONNAISSANCE|POINT|D||
+|22||![](./images/SFAPMFRW-------.png)|TODO|SFAPMFRW-------|1.X.2.1.1.10.1 |AIRBORNE EARLY WARNING (AEW)|POINT|D||
+|23||![](./images/SFAPMFRZ-------.png)|TODO|SFAPMFRZ-------|1.X.2.1.1.10.2 |ELECTRONIC SURVEILLANCE MEASURES|POINT|D||
+|24||![](./images/SFAPMFRX-------.png)|TODO|SFAPMFRX-------|1.X.2.1.1.10.3 |PHOTOGRAPHIC|POINT|D||
+|25||![](./images/SFAPMFP--------.png)|TODO|SFAPMFP--------|1.X.2.1.1.11 |PATROL|POINT|D||
+|26||![](./images/SFAPMFPN-------.png)|TODO|SFAPMFPN-------|1.X.2.1.1.11.1 |ANTI SURFACE WARFARE/ASUW|POINT|D||
+|27||![](./images/SFAPMFPM-------.png)|TODO|SFAPMFPM-------|1.X.2.1.1.11.2 |MINE COUNTER MEASURES|POINT|D||
+|28||![](./images/SFAPMFU--------.png)|TODO|SFAPMFU--------|1.X.2.1.1.12 |UTILITY|POINT|D||
+|29||![](./images/SFAPMFUL-------.png)|TODO|SFAPMFUL-------|1.X.2.1.1.12.1 |UTILITY (LIGHT)|POINT|D||
+|30||![](./images/SFAPMFUM-------.png)|TODO|SFAPMFUM-------|1.X.2.1.1.12.2 |UTILITY (MEDIUM)|POINT|D||
+|31||![](./images/SFAPMFUH-------.png)|TODO|SFAPMFUH-------|1.X.2.1.1.12.3 |UTILITY (HEAVY)|POINT|D||
+|32||![](./images/SFAPMFY--------.png)|TODO|SFAPMFY--------|1.X.2.1.1.13 |COMMUNICATIONS (C3I)|POINT|D||
+|33||![](./images/SFAPMFH--------.png)|TODO|SFAPMFH--------|1.X.2.1.1.14 |SEARCH AND RESCUE (CSAR)|POINT|D||
+|34||![](./images/SFAPMFD--------.png)|TODO|SFAPMFD--------|1.X.2.1.1.15 |AIRBORNE COMMAND POST (C2)|POINT|D||
+|35||![](./images/SFAPMFQ--------.png)|TODO|SFAPMFQ--------|1.X.2.1.1.16 |DRONE (RPV/UAV)|POINT|D||
+|36||![](./images/SFAPMFS--------.png)|TODO|SFAPMFS--------|1.X.2.1.1.17 |ANTI SUBMARINE WARFARE (ASW) CARRIER BASED|POINT|D||
+|37||![](./images/SFAPMFM--------.png)|TODO|SFAPMFM--------|1.X.2.1.1.18 |SPECIAL OPERATIONS FORCE (SOF)|POINT|D||
+|38||![](./images/SFAPMH---------.png)|TODO|SFAPMH---------|1.X.2.1.2 |ROTARY WING|POINT|D||
+|39||![](./images/SFAPMHA--------.png)|TODO|SFAPMHA--------|1.X.2.1.2.1 |ATTACK|POINT|D||
+|40||![](./images/SFAPMHS--------.png)|TODO|SFAPMHS--------|1.X.2.1.2.2 |ANTISUBMARINE WARFARE|POINT|D||
+|41||![](./images/SFAPMHU--------.png)|TODO|SFAPMHU--------|1.X.2.1.2.3 |UTILITY|POINT|D||
+|42||![](./images/SFAPMHUL-------.png)|TODO|SFAPMHUL-------|1.X.2.1.2.3.1 |UTILITY (LIGHT)|POINT|D||
+|43||![](./images/SFAPMHUM-------.png)|TODO|SFAPMHUM-------|1.X.2.1.2.3.2 |UTILITY (MEDIUM)|POINT|D||
+|44||![](./images/SFAPMHUH-------.png)|TODO|SFAPMHUH-------|1.X.2.1.2.3.3 |UTILITY (HEAVY)|POINT|D||
+|45||![](./images/SFAPMHI--------.png)|TODO|SFAPMHI--------|1.X.2.1.2.4 |MINE COUNTER MEASURES|POINT|D||
+|46||![](./images/SFAPMHH--------.png)|TODO|SFAPMHH--------|1.X.2.1.2.5 |COMBAT SEARCH AND RESCUE (CSAR)|POINT|D||
+|47||![](./images/SFAPMHR--------.png)|TODO|SFAPMHR--------|1.X.2.1.2.6 |RECONNAISSANCE|POINT|D||
+|48||![](./images/SFAPMHQ--------.png)|TODO|SFAPMHQ--------|1.X.2.1.2.7 |DRONE (RPV/UAV)|POINT|D||
+|49||![](./images/SFAPMHC--------.png)|TODO|SFAPMHC--------|1.X.2.1.2.8 |CARGO AIRLIFT (TRANSPORT)|POINT|D||
+|50||![](./images/SFAPMHCL-------.png)|TODO|SFAPMHCL-------|1.X.2.1.2.8.1 |CARGO AIRLIFT (LIGHT)|POINT|D||
+|51||![](./images/SFAPMHCM-------.png)|TODO|SFAPMHCM-------|1.X.2.1.2.8.2 |CARGO AIRLIFT (MEDIUM)|POINT|D||
+|52||![](./images/SFAPMHCH-------.png)|TODO|SFAPMHCH-------|1.X.2.1.2.8.3 |CARGO AIRLIFT (HEAVY)|POINT|D||
+|53||![](./images/SFAPMHT--------.png)|TODO|SFAPMHT--------|1.X.2.1.2.9 |TRAINER|POINT|D||
+|54||![](./images/SFAPMHO--------.png)|TODO|SFAPMHO--------|1.X.2.1.2.10 |MEDEVAC|POINT|D||
+|55||![](./images/SFAPMHM--------.png)|TODO|SFAPMHM--------|1.X.2.1.2.11 |SPECIAL OPERATIONS FORCE (SOF)|POINT|D||
+|56||![](./images/SFAPMHD--------.png)|TODO|SFAPMHD--------|1.X.2.1.2.12 |AIRBORNE COMMAND POST (C2)|POINT|D||
+|57||![](./images/SFAPMHK--------.png)|TODO|SFAPMHK--------|1.X.2.1.2.13 |TANKER|POINT|D||
+|58||![](./images/SFAPMHJ--------.png)|TODO|SFAPMHJ--------|1.X.2.1.2.14 |ELECTRONIC COUNTER MEASURES (ECM/JAMMER)|POINT|D||
+|59||![](./images/SFAPML---------.png)|TODO|SFAPML---------|1.X.2.1.3 |LIGHTER THAN AIR|POINT|D||
+|60||![](./images/SFAPW----------.png)|TODO|SFAPW----------|1.X.2.2 |WEAPON|POINT|D||
+|61||![](./images/SFAPWM---------.png)|TODO|SFAPWM---------|1.X.2.2.1 |MISSILE IN FLIGHT|POINT|D||
+|62||![](./images/SFAPWMS--------.png)|TODO|SFAPWMS--------|1.X.2.2.1.1 |SURFACE/LAND LAUNCHED MISSILE|POINT|D||
+|63||![](./images/SFAPWMSS-------.png)|TODO|SFAPWMSS-------|1.X.2.2.1.1.1 |SURFACE TO SURFACE MISSILE (SSM)|POINT|D||
+|64||![](./images/SFAPWMSA-------.png)|TODO|SFAPWMSA-------|1.X.2.2.1.1.2 |SURFACE TO AIR MISSILE (SAM)|POINT|D||
+|65||![](./images/SFAPWMA--------.png)|TODO|SFAPWMA--------|1.X.2.2.1.2 |AIR LAUNCHED MISSILE|POINT|D||
+|66||![](./images/SFAPWMAS-------.png)|TODO|SFAPWMAS-------|1.X.2.2.1.2.1 |AIR TO SURFACE MISSILE (ASM)|POINT|D||
+|67||![](./images/SFAPWMAA-------.png)|TODO|SFAPWMAA-------|1.X.2.2.1.2.2 |AIR TO AIR MISSILE (AAM)|POINT|D||
+|68||![](./images/SFAPWMU--------.png)|TODO|SFAPWMU--------|1.X.2.2.1.3 |SUBSURFACE TO SURFACE MISSILE (S/SSM)|POINT|D||
+|69||![](./images/SFAPWML--------.png)|TODO|SFAPWML--------|1.X.2.2.1.4 |LAND ATTACK MISSILE|POINT|D||
+|70||![](./images/SFAPWD---------.png)|TODO|SFAPWD---------|1.X.2.2.2 |DECOY|POINT|D||
+|71||![](./images/SFAPC----------.png)|TODO|SFAPC----------|1.X.2.3 |CIVIL AIRCRAFT|POINT|D||
+|72||![](./images/SFAPCF---------.png)|TODO|SFAPCF---------|1.X.2.3.1 |FIXED WING|POINT|D||
+|73||![](./images/SFAPCH---------.png)|TODO|SFAPCH---------|1.X.2.3.2 |ROTARY WING|POINT|D||
+|74||![](./images/SFAPCL---------.png)|TODO|SFAPCL---------|1.X.2.3.3 |LIGHTER THAN AIR|POINT|D||
+|75||![](./images/SFGPU----------.png)|TODO|SFGPU----------|1.X.3.1 |UNIT|POINT|D||
+|76||![](./images/SFGPUC---------.png)|TODO|SFGPUC---------|1.X.3.1.1 |COMBAT|POINT|D||
+|77||![](./images/SFGPUCD--------.png)|TODO|SFGPUCD--------|1.X.3.1.1.1 |AIR DEFENCE|POINT|D||
+|78||![](./images/SFGPUCDS-------.png)|TODO|SFGPUCDS-------|1.X.3.1.1.1.1 |SHORT RANGE|POINT|D||
+|79||![](./images/SFGPUCDS-------.png)|TODO|SFGPUCDS-------|1.X.3.1.1.1.1.1 |MISSILE|POINT|D||
+|80||![](./images/SFGPUCDS-------.png)|TODO|SFGPUCDS-------|1.X.3.1.1.1.1.2 |GUN|POINT|D||
+|81||![](./images/SFGPUCDM-------.png)|TODO|SFGPUCDM-------|1.X.3.1.1.1.2 |AIR DEFENCE MISSILE|POINT|D||
+|82||![](./images/SFGPUCDML------.png)|TODO|SFGPUCDML------|1.X.3.1.1.1.2.1 |AIR DEFENCE MISSILE LIGHT|POINT|D||
+|83||![](./images/SFGPUCDMLA-----.png)|TODO|SFGPUCDMLA-----|1.X.3.1.1.1.2.1.1 |AIR DEFENCE MISSILE MOTORIZED|POINT|D||
+|84||![](./images/SFGPUCDMM------.png)|TODO|SFGPUCDMM------|1.X.3.1.1.1.2.2 |AIR DEFENCE MISSILE MEDIUM|POINT|D||
+|85||![](./images/SFGPUCDMH------.png)|TODO|SFGPUCDMH------|1.X.3.1.1.1.2.3 |AIR DEFENCE MISSILE HEAVY|POINT|D||
+|86||![](./images/SFGPUCDH-------.png)|TODO|SFGPUCDH-------|1.X.3.1.1.1.2.4 |H/MAD|POINT|D||
+|87||![](./images/SFGPUCDG-------.png)|TODO|SFGPUCDG-------|1.X.3.1.1.1.3 |GUN UNIT|POINT|D||
+|88||![](./images/SFGPUCDC-------.png)|TODO|SFGPUCDC-------|1.X.3.1.1.1.4 |COMPOSITE|POINT|D||
+|89||![](./images/SFGPUCDT-------.png)|TODO|SFGPUCDT-------|1.X.3.1.1.1.5 |TARGETING UNIT|POINT|D||
+|90||![](./images/SFGPUCDO-------.png)|TODO|SFGPUCDO-------|1.X.3.1.1.1.6 |THEATRE MISSILE DEFENCE UNIT|POINT|D||
+|91||![](./images/SFGPUCA--------.png)|TODO|SFGPUCA--------|1.X.3.1.1.2 |ARMOUR|POINT|D||
+|92||![](./images/SFGPUCAT-------.png)|TODO|SFGPUCAT-------|1.X.3.1.1.2.1 |ARMOUR TRACK|POINT|D||
+|93||![](./images/SFGPUCATA------.png)|TODO|SFGPUCATA------|1.X.3.1.1.2.1.1 |ARMOUR TRACK AIRBORNE|POINT|D||
+|94||![](./images/SFGPUCATW------.png)|TODO|SFGPUCATW------|1.X.3.1.1.2.1.2 |ARMOUR TRACK AMPHIBIOUS|POINT|D||
+|95||![](./images/SFGPUCATWR-----.png)|TODO|SFGPUCATWR-----|1.X.3.1.1.2.1.2.1 |ARMOUR TRACK AMPHIBIOUS RECOVERY|POINT|D||
+|96||![](./images/SFGPUCATL------.png)|TODO|SFGPUCATL------|1.X.3.1.1.2.1.3 |ARMOUR TRACK LIGHT |POINT|D||
+|97||![](./images/SFGPUCATM------.png)|TODO|SFGPUCATM------|1.X.3.1.1.2.1.4 |ARMOUR TRACK MEDIUM |POINT|D||
+|98||![](./images/SFGPUCATH------.png)|TODO|SFGPUCATH------|1.X.3.1.1.2.1.5 |ARMOUR TRACK HEAVY |POINT|D||
+|99||![](./images/SFGPUCATR------.png)|TODO|SFGPUCATR------|1.X.3.1.1.2.1.6 |ARMOUR TRACK RECOVERY |POINT|D||
+|100||![](./images/SFGPUCAW-------.png)|TODO|SFGPUCAW-------|1.X.3.1.1.2.2 |ARMOUR WHEELED |POINT|D||
+|101||![](./images/SFGPUCAWS------.png)|TODO|SFGPUCAWS------|1.X.3.1.1.2.2.1 |ARMOUR WHEELED AIR ASSAULT |POINT|D||
+|102||![](./images/SFGPUCAWA------.png)|TODO|SFGPUCAWA------|1.X.3.1.1.2.2.2 |ARMOUR WHEELED AIRBORNE |POINT|D||
+|103||![](./images/SFGPUCAWA------.png)|TODO|SFGPUCAWA------|1.X.3.1.1.2.2.3 |ARMOUR WHEELED AMPHIBIOUS |POINT|D||
+|104||![](./images/SFGPUCAWL------.png)|TODO|SFGPUCAWL------|1.X.3.1.1.2.2.4 |ARMOUR WHEELED LIGHT |POINT|D||
+|105||![](./images/SFGPUCAWM------.png)|TODO|SFGPUCAWM------|1.X.3.1.1.2.2.5 |ARMOUR WHEELED MEDIUM |POINT|D||
+|106||![](./images/SFGPUCAWH------.png)|TODO|SFGPUCAWH------|1.X.3.1.1.2.2.6 |ARMOUR WHEELED HEAVY |POINT|D||
+|107||![](./images/SFGPUCAWR------.png)|TODO|SFGPUCAWR------|1.X.3.1.1.2.2.7 |ARMOUR WHEELED RECOVERY |POINT|D||
+|108||![](./images/SFGPUCAA-------.png)|TODO|SFGPUCAA-------|1.X.3.1.1.3 |ANTI ARMOUR|POINT|D||
+|109||![](./images/SFGPUCAAD------.png)|TODO|SFGPUCAAD------|1.X.3.1.1.3.1 |ANTI ARMOUR DISMOUNTED|POINT|D||
+|110||![](./images/SFGPUCAAL------.png)|TODO|SFGPUCAAL------|1.X.3.1.1.3.2 |ANTI ARMOUR LIGHT|POINT|D||
+|111||![](./images/SFGPUCAAM------.png)|TODO|SFGPUCAAM------|1.X.3.1.1.3.3 |ANTI ARMOUR AIRBORNE|POINT|D||
+|112||![](./images/SFGPUCAAS------.png)|TODO|SFGPUCAAS------|1.X.3.1.1.3.4 |ANTI ARMOUR AIR ASSAULT|POINT|D||
+|113||![](./images/SFGPUCAAU------.png)|TODO|SFGPUCAAU------|1.X.3.1.1.3.5 |ANTI ARMOUR MOUNTAIN|POINT|D||
+|114||![](./images/SFGPUCAAC------.png)|TODO|SFGPUCAAC------|1.X.3.1.1.3.6 |ANTI ARMOUR ARCTIC|POINT|D||
+|115||![](./images/SFGPUCAAA------.png)|TODO|SFGPUCAAA------|1.X.3.1.1.3.7 |ANTI ARMOUR ARMOURED|POINT|D||
+|116||![](./images/SFGPUCAAAT-----.png)|TODO|SFGPUCAAAT-----|1.X.3.1.1.3.7.1 |ANTI ARMOUR ARMOURED TRACKED|POINT|D||
+|117||![](./images/SFGPUCAAAW-----.png)|TODO|SFGPUCAAAW-----|1.X.3.1.1.3.7.2 |ANTI ARMOUR ARMOURED WHEELED|POINT|D||
+|118||![](./images/SFGPUCAAAS-----.png)|TODO|SFGPUCAAAS-----|1.X.3.1.1.3.7.3 |ANTI ARMOUR ARMOURED AIR ASSAULT|POINT|D||
+|119||![](./images/SFGPUCAAO------.png)|TODO|SFGPUCAAO------|1.X.3.1.1.3.8 |ANTI ARMOUR MOTORIZED|POINT|D||
+|120||![](./images/SFGPUCAAOS-----.png)|TODO|SFGPUCAAOS-----|1.X.3.1.1.3.8.1 |ANTI ARMOUR MOTORIZED AIR ASSAULT|POINT|D||
+|121||![](./images/SFGPUCV--------.png)|TODO|SFGPUCV--------|1.X.3.1.1.4 |AVIATION|POINT|D||
+|122||![](./images/SFGPUCVF-------.png)|TODO|SFGPUCVF-------|1.X.3.1.1.4.1 |FIXED WING|POINT|D||
+|123||![](./images/SFGPUCVFU------.png)|TODO|SFGPUCVFU------|1.X.3.1.1.4.1.1 |UTILITY FIXED WING|POINT|D||
+|124||![](./images/SFGPUCVFA------.png)|TODO|SFGPUCVFA------|1.X.3.1.1.4.1.2 |ATTACK FIXED WING|POINT|D||
+|125||![](./images/SFGPUCVUTP-----.png)|TODO|SFGPUCVUTP-----|1.X.3.1.1.4.1.2.1 |TACTICAL AIR CONTROL PARTY (TACP)|POINT|D||
+|126||![](./images/SFGPUCVUFC-----.png)|TODO|SFGPUCVUFC-----|1.X.3.1.1.4.1.2.2 |FORWARD AIR CONTROLLER (FAC)|POINT|D||
+|127||![](./images/SFGPUCVFR------.png)|TODO|SFGPUCVFR------|1.X.3.1.1.4.1.3 |RECON FIXED WING|POINT|D||
+|128||![](./images/SFGPUCVR-------.png)|TODO|SFGPUCVR-------|1.X.3.1.1.4.2 |ROTARY WING|POINT|D||
+|129||![](./images/SFGPUCVRA------.png)|TODO|SFGPUCVRA------|1.X.3.1.1.4.2.1 |ATTACK ROTARY WING|POINT|D||
+|130||![](./images/SFGPUCVRS------.png)|TODO|SFGPUCVRS------|1.X.3.1.1.4.2.2 |SCOUT ROTARY WING|POINT|D||
+|131||![](./images/SFGPUCVRW------.png)|TODO|SFGPUCVRW------|1.X.3.1.1.4.2.3 |ANTISUBMARINE WARFARE ROTARY WING|POINT|D||
+|132||![](./images/SFGPUCVRU------.png)|TODO|SFGPUCVRU------|1.X.3.1.1.4.2.4 |UTILITY ROTARY WING|POINT|D||
+|133||![](./images/SFGPUCVRUL-----.png)|TODO|SFGPUCVRUL-----|1.X.3.1.1.4.2.4.1 |LIGHT UTILITY ROTARY WING|POINT|D||
+|134||![](./images/SFGPUCVRUM-----.png)|TODO|SFGPUCVRUM-----|1.X.3.1.1.4.2.4.2 |MEDIUM UTILITY ROTARY WING|POINT|D||
+|135||![](./images/SFGPUCVRUH-----.png)|TODO|SFGPUCVRUH-----|1.X.3.1.1.4.2.4.3 |HEAVY UTILITY ROTARY WING|POINT|D||
+|136||![](./images/SFGPUCVRUC-----.png)|TODO|SFGPUCVRUC-----|1.X.3.1.1.4.2.5 |C2 ROTARY WING|POINT|D||
+|137||![](./images/SFGPUCVRUE-----.png)|TODO|SFGPUCVRUE-----|1.X.3.1.1.4.2.6 |MEDEVAC ROTARY WING|POINT|D||
+|138||![](./images/SFGPUCVRM------.png)|TODO|SFGPUCVRM------|1.X.3.1.1.4.2.7 |MINE COUNTERMEASURE ROTARY WING|POINT|D||
+|139||![](./images/SFGPUCVS-------.png)|TODO|SFGPUCVS-------|1.X.3.1.1.4.3 |PERSONNEL RECOVERY|POINT|D||
+|140||![](./images/SFGPUCVC-------.png)|TODO|SFGPUCVC-------|1.X.3.1.1.4.4 |COMPOSITE|POINT|D||
+|141||![](./images/SFGPUCVV-------.png)|TODO|SFGPUCVV-------|1.X.3.1.1.4.5 |VERTICAL/SHORT TAKEOFF AND LANDING (V/STOL)|POINT|D||
+|142||![](./images/SFGPUCVU-------.png)|TODO|SFGPUCVU-------|1.X.3.1.1.4.6 |UNMANNED AERIAL VEHICLE|POINT|D||
+|143||![](./images/SFGPUCVUF------.png)|TODO|SFGPUCVUF------|1.X.3.1.1.4.6.1 |UNMANNED AERIAL VEHICLE FIXED WING|POINT|D||
+|144||![](./images/SFGPUCVUR------.png)|TODO|SFGPUCVUR------|1.X.3.1.1.4.6.2 |UNMANNED AERIAL VEHICLE ROTARY WING|POINT|D||
+|145||![](./images/SFGPUCVUTP-----.png)|TODO|SFGPUCVUTP-----|1.X.3.1.1.4.6.3 |TACTICAL AIR CONTROL PARTY (TACP)|POINT|D||
+|146||![](./images/SFGPUCVUFC-----.png)|TODO|SFGPUCVUFC-----|1.X.3.1.1.4.6.4 |FORWARD AIR CONTROLLER (FAC)|POINT|D||
+|147||![](./images/SFGPUCI--------.png)|TODO|SFGPUCI--------|1.X.3.1.1.5 |INFANTRY|POINT|D||
+|148||![](./images/SFGPUCIL-------.png)|TODO|SFGPUCIL-------|1.X.3.1.1.5.1 |INFANTRY LIGHT|POINT|D||
+|149||![](./images/SFGPUCIM-------.png)|TODO|SFGPUCIM-------|1.X.3.1.1.5.2 |INFANTRY MOTORIZED|POINT|D||
+|150||![](./images/SFGPUCIO-------.png)|TODO|SFGPUCIO-------|1.X.3.1.1.5.3 |INFANTRY MOUNTAIN|POINT|D||
+|151||![](./images/SFGPUCIA-------.png)|TODO|SFGPUCIA-------|1.X.3.1.1.5.4 |INFANTRY AIRBORNE|POINT|D||
+|152||![](./images/SFGPUCIS-------.png)|TODO|SFGPUCIS-------|1.X.3.1.1.5.5 |INFANTRY AIR ASSAULT|POINT|D||
+|153||![](./images/SFGPUCIZ-------.png)|TODO|SFGPUCIZ-------|1.X.3.1.1.5.6 |INFANTRY MECHANIZED|POINT|D||
+|154||![](./images/SFGPUCIN-------.png)|TODO|SFGPUCIN-------|1.X.3.1.1.5.7 |INFANTRY NAVAL|POINT|D||
+|155||![](./images/SFGPUCII-------.png)|TODO|SFGPUCII-------|1.X.3.1.1.5.8 |INFANTRY FIGHTING VEHICLE|POINT|D||
+|156||![](./images/SFGPUCIC-------.png)|TODO|SFGPUCIC-------|1.X.3.1.1.5.9 |INFANTRY ARCTIC|POINT|D||
+|157||![](./images/SFGPUCE--------.png)|TODO|SFGPUCE--------|1.X.3.1.1.6 |ENGINEER|POINT|D||
+|158||![](./images/SFGPUCEC-------.png)|TODO|SFGPUCEC-------|1.X.3.1.1.6.1 |ENGINEER COMBAT|POINT|D||
+|159||![](./images/SFGPUCECS------.png)|TODO|SFGPUCECS------|1.X.3.1.1.6.1.1 |ENGINEER COMBAT AIR ASSAULT|POINT|D||
+|160||![](./images/SFGPUCECA------.png)|TODO|SFGPUCECA------|1.X.3.1.1.6.1.2 |ENGINEER COMBAT AIRBORNE|POINT|D||
+|161||![](./images/SFGPUCECC------.png)|TODO|SFGPUCECC------|1.X.3.1.1.6.1.3 |ENGINEER COMBAT ARCTIC|POINT|D||
+|162||![](./images/SFGPUCECL------.png)|TODO|SFGPUCECL------|1.X.3.1.1.6.1.4 |ENGINEER COMBAT LIGHT|POINT|D||
+|163||![](./images/SFGPUCECM------.png)|TODO|SFGPUCECM------|1.X.3.1.1.6.1.5 |ENGINEER COMBAT MEDIUM|POINT|D||
+|164||![](./images/SFGPUCECH------.png)|TODO|SFGPUCECH------|1.X.3.1.1.6.1.6 |ENGINEER COMBAT HEAVY|POINT|D||
+|165||![](./images/SFGPUCECT------.png)|TODO|SFGPUCECT------|1.X.3.1.1.6.1.7 |ENGINEER COMBAT MECHANIZED (TRACK)|POINT|D||
+|166||![](./images/SFGPUCECW------.png)|TODO|SFGPUCECW------|1.X.3.1.1.6.1.8 |ENGINEER COMBAT MOTORIZED|POINT|D||
+|167||![](./images/SFGPUCECO------.png)|TODO|SFGPUCECO------|1.X.3.1.1.6.1.9 |ENGINEER COMBAT MOUNTAIN|POINT|D||
+|168||![](./images/SFGPUCECR------.png)|TODO|SFGPUCECR------|1.X.3.1.1.6.1.10 |ENGINEER COMBAT RECON|POINT|D||
+|169||![](./images/SFGPUCEC-------.png)|TODO|SFGPUCEC-------|1.X.3.1.1.6.1.11 |ENGINEER COMBAT BRIDGING|POINT|D||
+|170||![](./images/SFGPUCEC-------.png)|TODO|SFGPUCEC-------|1.X.3.1.1.6.1.12 |ENGINEER COMBAT MINE CLEARING|POINT|D||
+|171||![](./images/SFGPUCEC-------.png)|TODO|SFGPUCEC-------|1.X.3.1.1.6.1.13 |ENGINEER COMBAT MINE LAYING|POINT|D||
+|172||![](./images/SFGPUCEC-------.png)|TODO|SFGPUCEC-------|1.X.3.1.1.6.1.14 |ENGINEER COMBAT DIVING|POINT|D||
+|173||![](./images/SFGPUCEN-------.png)|TODO|SFGPUCEN-------|1.X.3.1.1.6.2 |ENGINEER CONSTRUCTION|POINT|D||
+|174||![](./images/SFGPUCENN------.png)|TODO|SFGPUCENN------|1.X.3.1.1.6.2.1 |ENGINEER NAVAL CONSTRUCTION|POINT|D||
+|175||![](./images/SFGPUCF--------.png)|TODO|SFGPUCF--------|1.X.3.1.1.7 |FIELD ARTILLERY|POINT|D||
+|176||![](./images/SFGPUCFH-------.png)|TODO|SFGPUCFH-------|1.X.3.1.1.7.1 |HOWITZER/GUN|POINT|D||
+|177||![](./images/SFGPUCFHE------.png)|TODO|SFGPUCFHE------|1.X.3.1.1.7.1.1 |SELF PROPELLED|POINT|D||
+|178||![](./images/SFGPUCFHS------.png)|TODO|SFGPUCFHS------|1.X.3.1.1.7.1.2 |AIR ASSAULT|POINT|D||
+|179||![](./images/SFGPUCFHA------.png)|TODO|SFGPUCFHA------|1.X.3.1.1.7.1.3 |AIRBORNE|POINT|D||
+|180||![](./images/SFGPUCFHC------.png)|TODO|SFGPUCFHC------|1.X.3.1.1.7.1.4 |ARCTIC|POINT|D||
+|181||![](./images/SFGPUCFHO------.png)|TODO|SFGPUCFHO------|1.X.3.1.1.7.1.5 |MOUNTAIN|POINT|D||
+|182||![](./images/SFGPUCFHL------.png)|TODO|SFGPUCFHL------|1.X.3.1.1.7.1.6 |LIGHT|POINT|D||
+|183||![](./images/SFGPUCFHM------.png)|TODO|SFGPUCFHM------|1.X.3.1.1.7.1.7 |MEDIUM|POINT|D||
+|184||![](./images/SFGPUCFHH------.png)|TODO|SFGPUCFHH------|1.X.3.1.1.7.1.8 |HEAVY|POINT|D||
+|185||![](./images/SFGPUCFHX------.png)|TODO|SFGPUCFHX------|1.X.3.1.1.7.1.9 |AMPHIBIOUS|POINT|D||
+|186||![](./images/SFGPUCFR-------.png)|TODO|SFGPUCFR-------|1.X.3.1.1.7.2 |ROCKET|POINT|D||
+|187|YES|![](./images/SFGPUCFRS------.png)|TODO|SFGPUCFRS------|1.X.3.1.1.7.2.1 |SINGLE ROCKET LAUNCHER|POINT|D||
+|188||![](./images/SFGPUCFRSS-----.png)|TODO|SFGPUCFRSS-----|1.X.3.1.1.7.2.1.1 |SINGLE ROCKET SELF PROPELLED|POINT|D||
+|189||![](./images/SFGPUCFRSR-----.png)|TODO|SFGPUCFRSR-----|1.X.3.1.1.7.2.1.2 |SINGLE ROCKET TRUCK|POINT|D||
+|190||![](./images/SFGPUCFRST-----.png)|TODO|SFGPUCFRST-----|1.X.3.1.1.7.2.1.3 |SINGLE ROCKET TOWED|POINT|D||
+|191||![](./images/SFGPUCFRM------.png)|TODO|SFGPUCFRM------|1.X.3.1.1.7.2.2 |MULTI ROCKET LAUNCHER|POINT|D||
+|192||![](./images/SFGPUCFRMS-----.png)|TODO|SFGPUCFRMS-----|1.X.3.1.1.7.2.2.1 |MULTI ROCKET SELF PROPELLED|POINT|D||
+|193||![](./images/SFGPUCFRMR-----.png)|TODO|SFGPUCFRMR-----|1.X.3.1.1.7.2.2.2 |MULTI ROCKET TRUCK|POINT|D||
+|194||![](./images/SFGPUCFRMT-----.png)|TODO|SFGPUCFRMT-----|1.X.3.1.1.7.2.2.3 |MULTI ROCKET TOWED|POINT|D||
+|195||![](./images/SFGPUCFT-------.png)|TODO|SFGPUCFT-------|1.X.3.1.1.7.3 |TARGET ACQUISITION|POINT|D||
+|196||![](./images/SFGPUCFTR------.png)|TODO|SFGPUCFTR------|1.X.3.1.1.7.3.1 |RADAR|POINT|D||
+|197||![](./images/SFGPUCFTS------.png)|TODO|SFGPUCFTS------|1.X.3.1.1.7.3.2 |SOUND|POINT|D||
+|198||![](./images/SFGPUCFTF------.png)|TODO|SFGPUCFTF------|1.X.3.1.1.7.3.3 |FLASH (OPTICAL)|POINT|D||
+|199||![](./images/SFGPUCFTC------.png)|TODO|SFGPUCFTC------|1.X.3.1.1.7.3.4 |TARGET ACQUISITION MOUNTED|POINT|D||
+|200||![](./images/SFGPUCFTCD-----.png)|TODO|SFGPUCFTCD-----|1.X.3.1.1.7.3.4.1 |TARGET ACQUISITION DISMOUNTED|POINT|D||
+|201||![](./images/SFGPUCFTCM-----.png)|TODO|SFGPUCFTCM-----|1.X.3.1.1.7.3.4.2 |TARGET ACQUISITION TRACKED|POINT|D||
+|202||![](./images/SFGPUCFTA------.png)|TODO|SFGPUCFTA------|1.X.3.1.1.7.3.5 |TARGET ACQUISITION NAVAL GUNFIRE|POINT|D||
+|203||![](./images/SFGPUCFM-------.png)|TODO|SFGPUCFM-------|1.X.3.1.1.7.4 |MORTAR|POINT|D||
+|204||![](./images/SFGPUCFMS------.png)|TODO|SFGPUCFMS------|1.X.3.1.1.7.4.1 |SELF PROPELLED (SP) TRACKED MORTAR|POINT|D||
+|205|YES|![](./images/SFGPUCFMSW-----.png)|TODO|SFGPUCFMSW-----|1.X.3.1.1.7.4.2 |SP WHEELED MORTAR|POINT|D||
+|206||![](./images/SFGPUCFMT------.png)|TODO|SFGPUCFMT------|1.X.3.1.1.7.4.3 |TOWED MORTAR|POINT|D||
+|207||![](./images/SFGPUCFMTA-----.png)|TODO|SFGPUCFMTA-----|1.X.3.1.1.7.4.3.1 |TOWED AIRBORNE MORTAR|POINT|D||
+|208||![](./images/SFGPUCFMTS-----.png)|TODO|SFGPUCFMTS-----|1.X.3.1.1.7.4.3.2 |TOWED AIR ASSAULT MORTAR|POINT|D||
+|209||![](./images/SFGPUCFMTC-----.png)|TODO|SFGPUCFMTC-----|1.X.3.1.1.7.4.3.3 |TOWED ARCTIC MORTAR|POINT|D||
+|210||![](./images/SFGPUCFMTO-----.png)|TODO|SFGPUCFMTO-----|1.X.3.1.1.7.4.3.4 |TOWED MOUNTAIN MORTAR|POINT|D||
+|211||![](./images/SFGPUCFML------.png)|TODO|SFGPUCFML------|1.X.3.1.1.7.4.4 |AMPHIBIOUS MORTAR|POINT|D||
+|212||![](./images/SFGPUCFS-------.png)|TODO|SFGPUCFS-------|1.X.3.1.1.7.5 |ARTILLERY SURVEY|POINT|D||
+|213||![](./images/SFGPUCFSS------.png)|TODO|SFGPUCFSS------|1.X.3.1.1.7.5.1 |AIR ASSAULT|POINT|D||
+|214||![](./images/SFGPUCFSA------.png)|TODO|SFGPUCFSA------|1.X.3.1.1.7.5.2 |AIRBORNE|POINT|D||
+|215||![](./images/SFGPUCFSL------.png)|TODO|SFGPUCFSL------|1.X.3.1.1.7.5.3 |LIGHT|POINT|D||
+|216||![](./images/SFGPUCFSO------.png)|TODO|SFGPUCFSO------|1.X.3.1.1.7.5.4 |MOUNTAIN|POINT|D||
+|217||![](./images/SFGPUCFO-------.png)|TODO|SFGPUCFO-------|1.X.3.1.1.7.6 |METEOROLOGICAL|POINT|D||
+|218||![](./images/SFGPUCFOS------.png)|TODO|SFGPUCFOS------|1.X.3.1.1.7.6.1 |AIR ASSAULT METEOROLOGICAL|POINT|D||
+|219||![](./images/SFGPUCFOA------.png)|TODO|SFGPUCFOA------|1.X.3.1.1.7.6.2 |AIRBORNE METEOROLOGICAL|POINT|D||
+|220||![](./images/SFGPUCFOL------.png)|TODO|SFGPUCFOL------|1.X.3.1.1.7.6.3 |LIGHT METEOROLOGICAL|POINT|D||
+|221||![](./images/SFGPUCFOO------.png)|TODO|SFGPUCFOO------|1.X.3.1.1.7.6.4 |MOUNTAIN METEOROLOGICAL|POINT|D||
+|222||![](./images/SFGPUCF--------.png)|TODO|SFGPUCF--------|1.X.3.1.1.7.7 |FIRE DIRECTION CENTRE|POINT|D||
+|223||![](./images/SFGPUCF--------.png)|TODO|SFGPUCF--------|1.X.3.1.1.7.8 |OBERSERVER|POINT|D||
+|224||![](./images/SFGPUCR--------.png)|TODO|SFGPUCR--------|1.X.3.1.1.8 |RECONNAISSANCE|POINT|D||
+|225||![](./images/SFGPUCRH-------.png)|TODO|SFGPUCRH-------|1.X.3.1.1.8.1 |RECONNAISSANCE HORSE|POINT|D||
+|226||![](./images/SFGPUCRV-------.png)|TODO|SFGPUCRV-------|1.X.3.1.1.8.2 |RECONNAISSANCE CAVALRY|POINT|D||
+|227||![](./images/SFGPUCRVA------.png)|TODO|SFGPUCRVA------|1.X.3.1.1.8.2.1 |RECONNAISSANCE CAVALRY ARMOURED|POINT|D||
+|228||![](./images/SFGPUCRVM------.png)|TODO|SFGPUCRVM------|1.X.3.1.1.8.2.2 |RECONNAISSANCE CAVALRY MOTORIZED|POINT|D||
+|229||![](./images/SFGPUCRVG------.png)|TODO|SFGPUCRVG------|1.X.3.1.1.8.2.3 |RECONNAISSANCE CAVALRY GROUND|POINT|D||
+|230||![](./images/SFGPUCRVO------.png)|TODO|SFGPUCRVO------|1.X.3.1.1.8.2.4 |RECONNAISSANCE CAVALRY AIR|POINT|D||
+|231||![](./images/SFGPUCRC-------.png)|TODO|SFGPUCRC-------|1.X.3.1.1.8.3 |RECONNAISSANCE ARCTIC|POINT|D||
+|232||![](./images/SFGPUCRS-------.png)|TODO|SFGPUCRS-------|1.X.3.1.1.8.4 |RECONNAISSANCE AIR ASSAULT|POINT|D||
+|233||![](./images/SFGPUCRA-------.png)|TODO|SFGPUCRA-------|1.X.3.1.1.8.5 |RECONNAISSANCE AIRBORNE|POINT|D||
+|234||![](./images/SFGPUCRO-------.png)|TODO|SFGPUCRO-------|1.X.3.1.1.8.6 |RECONNAISSANCE MOUNTAIN|POINT|D||
+|235|YES|![](./images/SFGPUCRLL------.png)|TODO|SFGPUCRLL------|1.X.3.1.1.8.7 |RECONNAISSANCE LIGHT|POINT|D||
+|236||![](./images/SFGPUCRR-------.png)|TODO|SFGPUCRR-------|1.X.3.1.1.8.8 |RECONNAISSANCE MARINE|POINT|D||
+|237||![](./images/SFGPUCRRD------.png)|TODO|SFGPUCRRD------|1.X.3.1.1.8.8.1 |RECONNAISSANCE MARINE DIVISION|POINT|D||
+|238||![](./images/SFGPUCRRF------.png)|TODO|SFGPUCRRF------|1.X.3.1.1.8.8.2 |RECONNAISSANCE MARINE FORCE|POINT|D||
+|239||![](./images/SFGPUCRRL------.png)|TODO|SFGPUCRRL------|1.X.3.1.1.8.8.3 |RECONNAISSANCE MARINE LIGHT ARMOURED RECONNAISSANCE (LAR)|POINT|D||
+|240||![](./images/SFGPUCRX-------.png)|TODO|SFGPUCRX-------|1.X.3.1.1.8.9 |RECONNAISSANCE LONG RANGE SURVEILLANCE (LRS)|POINT|D||
+|241||![](./images/SFGPUCM--------.png)|TODO|SFGPUCM--------|1.X.3.1.1.9 |MISSILE (SURFACE-SURFACE)|POINT|D||
+|242||![](./images/SFGPUCMT-------.png)|TODO|SFGPUCMT-------|1.X.3.1.1.9.1 |MISSILE (SURFACE-SURFACE) TACTICAL|POINT|D||
+|243||![](./images/SFGPUCMS-------.png)|TODO|SFGPUCMS-------|1.X.3.1.1.9.2 |MISSILE (SURFACE-SURFACE) STRATEGIC|POINT|D||
+|244||![](./images/SFGPUCS--------.png)|TODO|SFGPUCS--------|1.X.3.1.1.10 |INTERNAL SECURITY FORCES|POINT|D||
+|245||![](./images/SFGPUCSW-------.png)|TODO|SFGPUCSW-------|1.X.3.1.1.10.1 |RIVERINE|POINT|D||
+|246||![](./images/SFGPUCSG-------.png)|TODO|SFGPUCSG-------|1.X.3.1.1.10.2 |GROUND|POINT|D||
+|247||![](./images/SFGPUCSGD------.png)|TODO|SFGPUCSGD------|1.X.3.1.1.10.2.1 |DISMOUNTED GROUND|POINT|D||
+|248||![](./images/SFGPUCSGM------.png)|TODO|SFGPUCSGM------|1.X.3.1.1.10.2.2 |MOTORIZED GROUND|POINT|D||
+|249||![](./images/SFGPUCSGA------.png)|TODO|SFGPUCSGA------|1.X.3.1.1.10.2.3 |MECHANIZED GROUND|POINT|D||
+|250||![](./images/SFGPUCSM-------.png)|TODO|SFGPUCSM-------|1.X.3.1.1.10.3 |WHEELED MECHANIZED|POINT|D||
+|251||![](./images/SFGPUCSR-------.png)|TODO|SFGPUCSR-------|1.X.3.1.1.10.4 |RAILROAD|POINT|D||
+|252||![](./images/SFGPUCSA-------.png)|TODO|SFGPUCSA-------|1.X.3.1.1.10.5 |AVIATION|POINT|D||
+|253||![](./images/SFGPUU---------.png)|TODO|SFGPUU---------|1.X.3.1.2 |COMBAT SUPPORT|POINT|D||
+|254||![](./images/SFGPUUA--------.png)|TODO|SFGPUUA--------|1.X.3.1.2.1 |COMBAT SUPPORT CBRN|POINT|D||
+|255||![](./images/SFGPUUAC-------.png)|TODO|SFGPUUAC-------|1.X.3.1.2.1.1 |CHEMICAL|POINT|D||
+|256||![](./images/SFGPUUACC------.png)|TODO|SFGPUUACC------|1.X.3.1.2.1.1.1 |SMOKE/DECON|POINT|D||
+|257||![](./images/SFGPUUACCK-----.png)|TODO|SFGPUUACCK-----|1.X.3.1.2.1.1.1.1 |MECHANIZED SMOKE/DECON|POINT|D||
+|258||![](./images/SFGPUUACCM-----.png)|TODO|SFGPUUACCM-----|1.X.3.1.2.1.1.1.2 |MOTORIZED SMOKE/DECON|POINT|D||
+|259||![](./images/SFGPUUACS------.png)|TODO|SFGPUUACS------|1.X.3.1.2.1.1.2 |SMOKE|POINT|D||
+|260||![](./images/SFGPUUACSM-----.png)|TODO|SFGPUUACSM-----|1.X.3.1.2.1.1.2.1 |MOTORIZED SMOKE|POINT|D||
+|261||![](./images/SFGPUUACSA-----.png)|TODO|SFGPUUACSA-----|1.X.3.1.2.1.1.2.2 |ARMOUR SMOKE|POINT|D||
+|262||![](./images/SFGPUUACR------.png)|TODO|SFGPUUACR------|1.X.3.1.2.1.1.3 |CHEMICAL RECON|POINT|D||
+|263||![](./images/SFGPUUACRW-----.png)|TODO|SFGPUUACRW-----|1.X.3.1.2.1.1.3.1 |CHEMICAL WHEELED ARMOURED VEHICLE|POINT|D||
+|264||![](./images/SFGPUUACRS-----.png)|TODO|SFGPUUACRS-----|1.X.3.1.2.1.1.3.2 |CHEMICAL WHEELED ARMOURED VEHICLE RECONNAISSANCE SURVEILLANCE|POINT|D||
+|265||![](./images/SFGPUUAN-------.png)|TODO|SFGPUUAN-------|1.X.3.1.2.1.2 |NUCLEAR|POINT|D||
+|266||![](./images/SFGPUUAB-------.png)|TODO|SFGPUUAB-------|1.X.3.1.2.1.3 |BIOLOGICAL|POINT|D||
+|267||![](./images/SFGPUUABR------.png)|TODO|SFGPUUABR------|1.X.3.1.2.1.3.1 |RECON EQUIPPED|POINT|D||
+|268||![](./images/SFGPUUAD-------.png)|TODO|SFGPUUAD-------|1.X.3.1.2.1.4 |DECONTAMINATION|POINT|D||
+|269||![](./images/SFGPUUM--------.png)|TODO|SFGPUUM--------|1.X.3.1.2.2 |MILITARY INTELLIGENCE|POINT|D||
+|270||![](./images/SFGPUUMA-------.png)|TODO|SFGPUUMA-------|1.X.3.1.2.2.1 |AERIAL EXPLOITATION|POINT|D||
+|271||![](./images/SFGPUUMS-------.png)|TODO|SFGPUUMS-------|1.X.3.1.2.2.2 |SIGNAL INTELLIGENCE (SIGINT)|POINT|D||
+|272||![](./images/SFGPUUMSE------.png)|TODO|SFGPUUMSE------|1.X.3.1.2.2.2.1 |ELECTRONIC WARFARE|POINT|D||
+|273||![](./images/SFGPUUMSEA-----.png)|TODO|SFGPUUMSEA-----|1.X.3.1.2.2.2.1.1 |ARMOURED WHEELED VEHICLE|POINT|D||
+|274||![](./images/SFGPUUMSED-----.png)|TODO|SFGPUUMSED-----|1.X.3.1.2.2.2.1.2 |DIRECTION FINDING|POINT|D||
+|275||![](./images/SFGPUUMSEI-----.png)|TODO|SFGPUUMSEI-----|1.X.3.1.2.2.2.1.3 |INTERCEPT|POINT|D||
+|276||![](./images/SFGPUUMSEJ-----.png)|TODO|SFGPUUMSEJ-----|1.X.3.1.2.2.2.1.4 |JAMMING|POINT|D||
+|277||![](./images/SFGPUUMSET-----.png)|TODO|SFGPUUMSET-----|1.X.3.1.2.2.2.1.5 |THEATRE|POINT|D||
+|278||![](./images/SFGPUUMSEC-----.png)|TODO|SFGPUUMSEC-----|1.X.3.1.2.2.2.1.6 |CORPS|POINT|D||
+|279||![](./images/SFGPUUMC-------.png)|TODO|SFGPUUMC-------|1.X.3.1.2.2.3 |COUNTER INTELLIGENCE|POINT|D||
+|280||![](./images/SFGPUUMR-------.png)|TODO|SFGPUUMR-------|1.X.3.1.2.2.4 |SURVEILLANCE|POINT|D||
+|281||![](./images/SFGPUUMRG------.png)|TODO|SFGPUUMRG------|1.X.3.1.2.2.4.1 |GROUND SURVEILLANCE RADAR|POINT|D||
+|282||![](./images/SFGPUUMRS------.png)|TODO|SFGPUUMRS------|1.X.3.1.2.2.4.2 |SENSOR|POINT|D||
+|283||![](./images/SFGPUUMRSS-----.png)|TODO|SFGPUUMRSS-----|1.X.3.1.2.2.4.2.1 |SENSOR SCM|POINT|D||
+|284||![](./images/SFGPUUMRX------.png)|TODO|SFGPUUMRX------|1.X.3.1.2.2.4.3 |GROUND STATION MODULE|POINT|D||
+|285||![](./images/SFGPUUMMO------.png)|TODO|SFGPUUMMO------|1.X.3.1.2.2.4.4 |METEOROLOGICAL|POINT|D||
+|286||![](./images/SFGPUUMO-------.png)|TODO|SFGPUUMO-------|1.X.3.1.2.2.5 |OPERATIONS|POINT|D||
+|287||![](./images/SFGPUUMT-------.png)|TODO|SFGPUUMT-------|1.X.3.1.2.2.6 |TACTICAL EXPLOIT|POINT|D||
+|288||![](./images/SFGPUUMQ-------.png)|TODO|SFGPUUMQ-------|1.X.3.1.2.2.7 |INTERROGATION|POINT|D||
+|289||![](./images/SFGPUUMJ-------.png)|TODO|SFGPUUMJ-------|1.X.3.1.2.2.8 |JOINT INTELLIGENCE CENTRE|POINT|D||
+|290||![](./images/SFGPUUL--------.png)|TODO|SFGPUUL--------|1.X.3.1.2.3 |LAW ENFORCEMENT UNIT|POINT|D||
+|291||![](./images/SFGPUULS-------.png)|TODO|SFGPUULS-------|1.X.3.1.2.3.1 |SHORE PATROL|POINT|D||
+|292||![](./images/SFGPUULM-------.png)|TODO|SFGPUULM-------|1.X.3.1.2.3.2 |MILITARY POLICE|POINT|D||
+|293||![](./images/SFGPUULC-------.png)|TODO|SFGPUULC-------|1.X.3.1.2.3.3 |CIVILIAN LAW ENFORCEMENT|POINT|D||
+|294||![](./images/SFGPUULF-------.png)|TODO|SFGPUULF-------|1.X.3.1.2.3.4 |SECURITY POLICE (AIR)|POINT|D||
+|295||![](./images/SFGPUULD-------.png)|TODO|SFGPUULD-------|1.X.3.1.2.3.5 |CENTRAL INTELLIGENCE DIVISION (CID)|POINT|D||
+|296||![](./images/SFGPUUS--------.png)|TODO|SFGPUUS--------|1.X.3.1.2.4 |SIGNAL UNIT|POINT|D||
+|297||![](./images/SFGPUUSA-------.png)|TODO|SFGPUUSA-------|1.X.3.1.2.4.1 |AREA|POINT|D||
+|298||![](./images/SFGPUUSC-------.png)|TODO|SFGPUUSC-------|1.X.3.1.2.4.2 |COMMUNICATION CONFIGURED PACKAGE|POINT|D||
+|299||![](./images/SFGPUUSCL------.png)|TODO|SFGPUUSCL------|1.X.3.1.2.4.2.1 |LARGE COMMUNICATION CONFIGURED PACKAGE (LCCP)|POINT|D||
+|300||![](./images/SFGPUUSO-------.png)|TODO|SFGPUUSO-------|1.X.3.1.2.4.3 |COMMAND OPERATIONS|POINT|D||
+|301||![](./images/SFGPUUSF-------.png)|TODO|SFGPUUSF-------|1.X.3.1.2.4.4 |FORWARD COMMUNICATIONS|POINT|D||
+|302||![](./images/SFGPUUSM-------.png)|TODO|SFGPUUSM-------|1.X.3.1.2.4.5 |MULTIPLE SUBSCRIBER ELEMENT|POINT|D||
+|303||![](./images/SFGPUUSMS------.png)|TODO|SFGPUUSMS------|1.X.3.1.2.4.5.1 |SMALL EXTENSION NODE|POINT|D||
+|304||![](./images/SFGPUUSML------.png)|TODO|SFGPUUSML------|1.X.3.1.2.4.5.2 |LARGE EXTENSION NODE|POINT|D||
+|305||![](./images/SFGPUUSMN------.png)|TODO|SFGPUUSMN------|1.X.3.1.2.4.5.3 |NODE CENTRE|POINT|D||
+|306||![](./images/SFGPUUSR-------.png)|TODO|SFGPUUSR-------|1.X.3.1.2.4.6 |RADIO UNIT|POINT|D||
+|307||![](./images/SFGPUUSRS------.png)|TODO|SFGPUUSRS------|1.X.3.1.2.4.6.1 |TACTICAL SATELLITE|POINT|D||
+|308||![](./images/SFGPUUSRT------.png)|TODO|SFGPUUSRT------|1.X.3.1.2.4.6.2 |TELETYPE CENTRE|POINT|D||
+|309||![](./images/SFGPUUSRW------.png)|TODO|SFGPUUSRW------|1.X.3.1.2.4.6.3 |RELAY|POINT|D||
+|310||![](./images/SFGPUUSS-------.png)|TODO|SFGPUUSS-------|1.X.3.1.2.4.7 |SIGNAL SUPPORT|POINT|D||
+|311||![](./images/SFGPUUSW-------.png)|TODO|SFGPUUSW-------|1.X.3.1.2.4.8 |TELEPHONE SWITCH|POINT|D||
+|312||![](./images/SFGPUUSX-------.png)|TODO|SFGPUUSX-------|1.X.3.1.2.4.9 |ELECTRONIC RANGING|POINT|D||
+|313||![](./images/SFGPUUI--------.png)|TODO|SFGPUUI--------|1.X.3.1.2.5 |INFORMATION WARFARE UNIT|POINT|D||
+|314||![](./images/SFGPUUL--------.png)|TODO|SFGPUUL--------|1.X.3.1.2.6 |LANDING SUPPORT|POINT|D||
+|315||![](./images/SFGPUUE--------.png)|TODO|SFGPUUE--------|1.X.3.1.2.7 |EXPLOSIVE ORDINANCE DISPOSAL|POINT|D||
+|316||![](./images/SFGPUUT--------.png)|TODO|SFGPUUT--------|1.X.3.1.2.8 |TOPOGRAPHIC|POINT|D||
+|317||![](./images/SFGPUU---------.png)|TODO|SFGPUU---------|1.X.3.1.2.9 |DOG|POINT|D||
+|318||![](./images/SFGPUUD--------.png)|TODO|SFGPUUD--------|1.X.3.1.2.10 |DRILLING|POINT|D||
+|319||![](./images/SFGPUS---------.png)|TODO|SFGPUS---------|1.X.3.1.3 |COMBAT SERVICE SUPPORT|POINT|D||
+|320||![](./images/SFGPUSA--------.png)|TODO|SFGPUSA--------|1.X.3.1.3.1 |ADMINISTRATIVE (ADMIN)|POINT|D||
+|321||![](./images/SFGPUSAT-------.png)|TODO|SFGPUSAT-------|1.X.3.1.3.1.1 |ADMIN THEATRE|POINT|D||
+|322||![](./images/SFGPUSAC-------.png)|TODO|SFGPUSAC-------|1.X.3.1.3.1.2 |ADMIN CORPS|POINT|D||
+|323||![](./images/SFGPUSAJ-------.png)|TODO|SFGPUSAJ-------|1.X.3.1.3.1.3 |JUDGE ADVOCATE GENERAL (JAG)|POINT|D||
+|324||![](./images/SFGPUSAJT------.png)|TODO|SFGPUSAJT------|1.X.3.1.3.1.3.1 |JAG THEATRE|POINT|D||
+|325||![](./images/SFGPUSAJC------.png)|TODO|SFGPUSAJC------|1.X.3.1.3.1.3.2 |JAG CORPS|POINT|D||
+|326||![](./images/SFGPUSAO-------.png)|TODO|SFGPUSAO-------|1.X.3.1.3.1.4 |POSTAL|POINT|D||
+|327||![](./images/SFGPUSAOT------.png)|TODO|SFGPUSAOT------|1.X.3.1.3.1.4.1 |POSTAL THEATRE|POINT|D||
+|328||![](./images/SFGPUSAOC------.png)|TODO|SFGPUSAOC------|1.X.3.1.3.1.4.2 |POSTAL CORPS|POINT|D||
+|329||![](./images/SFGPUSAF-------.png)|TODO|SFGPUSAF-------|1.X.3.1.3.1.5 |FINANCE|POINT|D||
+|330||![](./images/SFGPUSAFT------.png)|TODO|SFGPUSAFT------|1.X.3.1.3.1.5.1 |FINANCE THEATRE|POINT|D||
+|331||![](./images/SFGPUSAFC------.png)|TODO|SFGPUSAFC------|1.X.3.1.3.1.5.2 |FINANCE CORPS|POINT|D||
+|332||![](./images/SFGPUSAS-------.png)|TODO|SFGPUSAS-------|1.X.3.1.3.1.6 |PERSONNEL SERVICES|POINT|D||
+|333||![](./images/SFGPUSAST------.png)|TODO|SFGPUSAST------|1.X.3.1.3.1.6.1 |PERSONNEL THEATRE|POINT|D||
+|334||![](./images/SFGPUSASC------.png)|TODO|SFGPUSASC------|1.X.3.1.3.1.6.2 |PERSONNEL CORPS|POINT|D||
+|335||![](./images/SFGPUSAM-------.png)|TODO|SFGPUSAM-------|1.X.3.1.3.1.7 |MORTUARY/GRAVES REGISTRY|POINT|D||
+|336||![](./images/SFGPUSAMT------.png)|TODO|SFGPUSAMT------|1.X.3.1.3.1.7.1 |MORTUARY/GRAVES REGISTRY THEATRE|POINT|D||
+|337||![](./images/SFGPUSAMC------.png)|TODO|SFGPUSAMC------|1.X.3.1.3.1.7.2 |MORTUARY/GRAVES REGISTRY CORPS|POINT|D||
+|338||![](./images/SFGPUSAR-------.png)|TODO|SFGPUSAR-------|1.X.3.1.3.1.8 |RELIGIOUS/CHAPLAIN|POINT|D||
+|339||![](./images/SFGPUSART------.png)|TODO|SFGPUSART------|1.X.3.1.3.1.8.1 |RELIGIOUS/CHAPLAIN THEATRE|POINT|D||
+|340||![](./images/SFGPUSARC------.png)|TODO|SFGPUSARC------|1.X.3.1.3.1.8.2 |RELIGIOUS/CHAPLAIN CORPS|POINT|D||
+|341||![](./images/SFGPUSAP-------.png)|TODO|SFGPUSAP-------|1.X.3.1.3.1.9 |PUBLIC AFFAIRS|POINT|D||
+|342||![](./images/SFGPUSAPT------.png)|TODO|SFGPUSAPT------|1.X.3.1.3.1.9.1 |PUBLIC AFFAIRS THEATRE|POINT|D||
+|343||![](./images/SFGPUSAPC------.png)|TODO|SFGPUSAPC------|1.X.3.1.3.1.9.2 |PUBLIC AFFAIRS CORPS|POINT|D||
+|344||![](./images/SFGPUSAPB------.png)|TODO|SFGPUSAPB------|1.X.3.1.3.1.9.3 |PUBLIC AFFAIRS BROADCAST|POINT|D||
+|345||![](./images/SFGPUSAPBT-----.png)|TODO|SFGPUSAPBT-----|1.X.3.1.3.1.9.3.1 |PUBLIC AFFAIRS BROADCAST THEATRE|POINT|D||
+|346||![](./images/SFGPUSAPBC-----.png)|TODO|SFGPUSAPBC-----|1.X.3.1.3.1.9.3.2 |PUBLIC AFFAIRS BROADCAST CORPS|POINT|D||
+|347||![](./images/SFGPUSAPM------.png)|TODO|SFGPUSAPM------|1.X.3.1.3.1.9.4 |PUBLIC AFFAIRS JOINT INFORMATION BUREAU (JIB)|POINT|D||
+|348||![](./images/SFGPUSAPMT-----.png)|TODO|SFGPUSAPMT-----|1.X.3.1.3.1.9.4.1 |PUBLIC AFFAIRS JIB THEATRE|POINT|D||
+|349||![](./images/SFGPUSAPMC-----.png)|TODO|SFGPUSAPMC-----|1.X.3.1.3.1.9.4.2 |PUBLIC AFFAIRS JIB CORPS|POINT|D||
+|350||![](./images/SFGPUSAX-------.png)|TODO|SFGPUSAX-------|1.X.3.1.3.1.10 |REPLACEMENT HOLDING UNIT (RHU)|POINT|D||
+|351||![](./images/SFGPUSAXT------.png)|TODO|SFGPUSAXT------|1.X.3.1.3.1.10.1 |RHU THEATRE|POINT|D||
+|352||![](./images/SFGPUSAXC------.png)|TODO|SFGPUSAXC------|1.X.3.1.3.1.10.2 |RHU CORPS|POINT|D||
+|353||![](./images/SFGPUSAL-------.png)|TODO|SFGPUSAL-------|1.X.3.1.3.1.11 |LABOUR|POINT|D||
+|354||![](./images/SFGPUSALT------.png)|TODO|SFGPUSALT------|1.X.3.1.3.1.11.1 |LABOUR THEATRE|POINT|D||
+|355||![](./images/SFGPUSALC------.png)|TODO|SFGPUSALC------|1.X.3.1.3.1.11.2 |LABOUR CORPS|POINT|D||
+|356|YES|![](./images/SFGPUSAW-------.png)|TODO|SFGPUSAW-------|1.X.3.1.3.1.12 |MORAL WELFARE RECREATION (MWR) |POINT|D||
+|357|YES|![](./images/SFGPUSAWT------.png)|TODO|SFGPUSAWT------|1.X.3.1.3.1.12.1 |MWR THEATRE|POINT|D||
+|358|YES|![](./images/SFGPUSAWC------.png)|TODO|SFGPUSAWC------|1.X.3.1.3.1.12.2 |MWR CORPS|POINT|D||
+|359||![](./images/SFGPUSAQ-------.png)|TODO|SFGPUSAQ-------|1.X.3.1.3.1.13 |QUARTERMASTER (SUPPLY)|POINT|D||
+|360||![](./images/SFGPUSAQT------.png)|TODO|SFGPUSAQT------|1.X.3.1.3.1.13.1 |QUARTERMASTER (SUPPLY) THEATRE|POINT|D||
+|361||![](./images/SFGPUSAQC------.png)|TODO|SFGPUSAQC------|1.X.3.1.3.1.13.2 |QUARTERMASTER (SUPPLY) CORPS|POINT|D||
+|362||![](./images/SFGPUSM--------.png)|TODO|SFGPUSM--------|1.X.3.1.3.2 |MEDICAL|POINT|D||
+|363||![](./images/SFGPUSMT-------.png)|TODO|SFGPUSMT-------|1.X.3.1.3.2.1 |MEDICAL THEATRE|POINT|D||
+|364||![](./images/SFGPUSMC-------.png)|TODO|SFGPUSMC-------|1.X.3.1.3.2.2 |MEDICAL CORPS|POINT|D||
+|365||![](./images/SFGPUSMM-------.png)|TODO|SFGPUSMM-------|1.X.3.1.3.2.3 |MEDICAL TREATMENT FACILITY|POINT|D||
+|366||![](./images/SFGPUSMMT------.png)|TODO|SFGPUSMMT------|1.X.3.1.3.2.3.1 |MEDICAL TREATMENT FACILITY THEATRE|POINT|D||
+|367||![](./images/SFGPUSMMC------.png)|TODO|SFGPUSMMC------|1.X.3.1.3.2.3.2 |MEDICAL TREATMENT FACILITY CORPS|POINT|D||
+|368||![](./images/SFGPUSMV-------.png)|TODO|SFGPUSMV-------|1.X.3.1.3.2.4 |MEDICAL VETERINARY|POINT|D||
+|369||![](./images/SFGPUSMVT------.png)|TODO|SFGPUSMVT------|1.X.3.1.3.2.4.1 |MEDICAL VETERINARY THEATRE|POINT|D||
+|370||![](./images/SFGPUSMVC------.png)|TODO|SFGPUSMVC------|1.X.3.1.3.2.4.2 |MEDICAL VETERINARY CORPS|POINT|D||
+|371||![](./images/SFGPUSMD-------.png)|TODO|SFGPUSMD-------|1.X.3.1.3.2.5 |MEDICAL DENTAL|POINT|D||
+|372||![](./images/SFGPUSMDT------.png)|TODO|SFGPUSMDT------|1.X.3.1.3.2.5.1 |MEDICAL DENTAL THEATRE|POINT|D||
+|373||![](./images/SFGPUSMDC------.png)|TODO|SFGPUSMDC------|1.X.3.1.3.2.5.2 |MEDICAL DENTAL CORPS|POINT|D||
+|374||![](./images/SFGPUSMP-------.png)|TODO|SFGPUSMP-------|1.X.3.1.3.2.6 |MEDICAL PSYCHOLOGICAL|POINT|D||
+|375||![](./images/SFGPUSMPT------.png)|TODO|SFGPUSMPT------|1.X.3.1.3.2.6.1 |MEDICAL PSYCHOLOGICAL THEATRE|POINT|D||
+|376||![](./images/SFGPUSMPC------.png)|TODO|SFGPUSMPC------|1.X.3.1.3.2.6.2 |MEDICAL PSYCHOLOGICAL CORPS|POINT|D||
+|377||![](./images/SFGPUSS--------.png)|TODO|SFGPUSS--------|1.X.3.1.3.3 |SUPPLY|POINT|D||
+|378||![](./images/SFGPUSST-------.png)|TODO|SFGPUSST-------|1.X.3.1.3.3.1 |SUPPLY THEATRE|POINT|D||
+|379||![](./images/SFGPUSSC-------.png)|TODO|SFGPUSSC-------|1.X.3.1.3.3.2 |SUPPLY CORPS|POINT|D||
+|380||![](./images/SFGPUSS1-------.png)|TODO|SFGPUSS1-------|1.X.3.1.3.3.3 |SUPPLY CLASS I|POINT|D||
+|381||![](./images/SFGPUSS1T------.png)|TODO|SFGPUSS1T------|1.X.3.1.3.3.3.1 |SUPPLY CLASS I THEATRE|POINT|D||
+|382||![](./images/SFGPUSS1C------.png)|TODO|SFGPUSS1C------|1.X.3.1.3.3.3.2 |SUPPLY CLASS I CORPS|POINT|D||
+|383||![](./images/SFGPUSS2-------.png)|TODO|SFGPUSS2-------|1.X.3.1.3.3.4 |SUPPLY CLASS II|POINT|D||
+|384||![](./images/SFGPUSS2T------.png)|TODO|SFGPUSS2T------|1.X.3.1.3.3.4.1 |SUPPLY CLASS II THEATRE|POINT|D||
+|385||![](./images/SFGPUSS2C------.png)|TODO|SFGPUSS2C------|1.X.3.1.3.3.4.2 |SUPPLY CLASS II CORPS|POINT|D||
+|386||![](./images/SFGPUSS3-------.png)|TODO|SFGPUSS3-------|1.X.3.1.3.3.5 |SUPPLY CLASS III|POINT|D||
+|387||![](./images/SFGPUSS3T------.png)|TODO|SFGPUSS3T------|1.X.3.1.3.3.5.1 |SUPPLY CLASS III THEATRE|POINT|D||
+|388||![](./images/SFGPUSS3C------.png)|TODO|SFGPUSS3C------|1.X.3.1.3.3.5.2 |SUPPLY CLASS III CORPS|POINT|D||
+|389||![](./images/SFGPUSS3A------.png)|TODO|SFGPUSS3A------|1.X.3.1.3.3.5.3 |SUPPLY CLASS III AVIATION|POINT|D||
+|390||![](./images/SFGPUSS3AT-----.png)|TODO|SFGPUSS3AT-----|1.X.3.1.3.3.5.3.1 |SUPPLY CLASS III AVIATION|POINT|D||
+|391||![](./images/SFGPUSS3AC-----.png)|TODO|SFGPUSS3AC-----|1.X.3.1.3.3.5.3.2 |SUPPLY CLASS III AVIATION CORPS|POINT|D||
+|392||![](./images/SFGPUSS4-------.png)|TODO|SFGPUSS4-------|1.X.3.1.3.3.6 |SUPPLY CLASS IV|POINT|D||
+|393||![](./images/SFGPUSS4T------.png)|TODO|SFGPUSS4T------|1.X.3.1.3.3.6.1 |SUPPLY CLASS IV THEATRE|POINT|D||
+|394||![](./images/SFGPUSS4C------.png)|TODO|SFGPUSS4C------|1.X.3.1.3.3.6.2 |SUPPLY CLASS IV CORPS|POINT|D||
+|395||![](./images/SFGPUSS5-------.png)|TODO|SFGPUSS5-------|1.X.3.1.3.3.7 |SUPPLY CLASS V|POINT|D||
+|396||![](./images/SFGPUSS5T------.png)|TODO|SFGPUSS5T------|1.X.3.1.3.3.7.1 |SUPPLY CLASS V THEATRE|POINT|D||
+|397||![](./images/SFGPUSS5C------.png)|TODO|SFGPUSS5C------|1.X.3.1.3.3.7.2 |SUPPLY CLASS V CORPS|POINT|D||
+|398||![](./images/SFGPUSS6-------.png)|TODO|SFGPUSS6-------|1.X.3.1.3.3.8 |SUPPLY CLASS VI|POINT|D||
+|399||![](./images/SFGPUSS6T------.png)|TODO|SFGPUSS6T------|1.X.3.1.3.3.8.1 |SUPPLY CLASS VI THEATRE|POINT|D||
+|400||![](./images/SFGPUSS6C------.png)|TODO|SFGPUSS6C------|1.X.3.1.3.3.8.2 |SUPPLY CLASS VI CORPS|POINT|D||
+|401||![](./images/SFGPUSS7-------.png)|TODO|SFGPUSS7-------|1.X.3.1.3.3.9 |SUPPLY CLASS VII|POINT|D||
+|402||![](./images/SFGPUSS7T------.png)|TODO|SFGPUSS7T------|1.X.3.1.3.3.9.1 |SUPPLY CLASS VII THEATRE|POINT|D||
+|403||![](./images/SFGPUSS7C------.png)|TODO|SFGPUSS7C------|1.X.3.1.3.3.9.2 |SUPPLY CLASS VII CORPS|POINT|D||
+|404||![](./images/SFGPUSS8-------.png)|TODO|SFGPUSS8-------|1.X.3.1.3.3.10 |SUPPLY CLASS VIII|POINT|D||
+|405||![](./images/SFGPUSS8T------.png)|TODO|SFGPUSS8T------|1.X.3.1.3.3.10.1 |SUPPLY CLASS VIII THEATRE|POINT|D||
+|406||![](./images/SFGPUSS8C------.png)|TODO|SFGPUSS8C------|1.X.3.1.3.3.10.2 |SUPPLY CLASS VIII CORPS|POINT|D||
+|407||![](./images/SFGPUSS9-------.png)|TODO|SFGPUSS9-------|1.X.3.1.3.3.11 |SUPPLY CLASS IX|POINT|D||
+|408||![](./images/SFGPUSS9T------.png)|TODO|SFGPUSS9T------|1.X.3.1.3.3.11.1 |SUPPLY CLASS IX THEATRE|POINT|D||
+|409||![](./images/SFGPUSS9C------.png)|TODO|SFGPUSS9C------|1.X.3.1.3.3.11.2 |SUPPLY CLASS IX CORPS|POINT|D||
+|410||![](./images/SFGPUSSX-------.png)|TODO|SFGPUSSX-------|1.X.3.1.3.3.12 |SUPPLY CLASS X|POINT|D||
+|411||![](./images/SFGPUSSXT------.png)|TODO|SFGPUSSXT------|1.X.3.1.3.3.12.1 |SUPPLY CLASS X THEATRE|POINT|D||
+|412||![](./images/SFGPUSSXC------.png)|TODO|SFGPUSSXC------|1.X.3.1.3.3.12.2 |SUPPLY CLASS X CORPS|POINT|D||
+|413||![](./images/SFGPUSSL-------.png)|TODO|SFGPUSSL-------|1.X.3.1.3.3.13 |SUPPLY LAUNDRY/BATH|POINT|D||
+|414||![](./images/SFGPUSSLT------.png)|TODO|SFGPUSSLT------|1.X.3.1.3.3.13.1 |SUPPLY LAUNDRY/BATH THEATRE|POINT|D||
+|415||![](./images/SFGPUSSLC------.png)|TODO|SFGPUSSLC------|1.X.3.1.3.3.13.2 |SUPPLY LAUNDRY/BATH CORPS|POINT|D||
+|416||![](./images/SFGPUSSW-------.png)|TODO|SFGPUSSW-------|1.X.3.1.3.3.14 |SUPPLY WATER|POINT|D||
+|417||![](./images/SFGPUSSWT------.png)|TODO|SFGPUSSWT------|1.X.3.1.3.3.14.1 |SUPPLY WATER THEATRE|POINT|D||
+|418||![](./images/SFGPUSSWC------.png)|TODO|SFGPUSSWC------|1.X.3.1.3.3.14.2 |SUPPLY WATER CORPS|POINT|D||
+|419||![](./images/SFGPUSSWP------.png)|TODO|SFGPUSSWP------|1.X.3.1.3.3.14.3 |SUPPLY WATER PURIFICATION|POINT|D||
+|420||![](./images/SFGPUSSWPT-----.png)|TODO|SFGPUSSWPT-----|1.X.3.1.3.3.14.3.1 |SUPPLY WATER PURIFICATION THEATRE|POINT|D||
+|421||![](./images/SFGPUSSWPC-----.png)|TODO|SFGPUSSWPC-----|1.X.3.1.3.3.14.3.2 |SUPPLY WATER PURIFICATION CORPS|POINT|D||
+|422||![](./images/SFGPUST--------.png)|TODO|SFGPUST--------|1.X.3.1.3.4 |TRANSPORTATION|POINT|D||
+|423||![](./images/SFGPUSTT-------.png)|TODO|SFGPUSTT-------|1.X.3.1.3.4.1 |TRANSPORTATION THEATRE|POINT|D||
+|424||![](./images/SFGPUSTC-------.png)|TODO|SFGPUSTC-------|1.X.3.1.3.4.2 |TRANSPORTATION CORPS|POINT|D||
+|425||![](./images/SFGPUSTM-------.png)|TODO|SFGPUSTM-------|1.X.3.1.3.4.3 |MOVEMENT CONTROL CENTRE(MCC)|POINT|D||
+|426||![](./images/SFGPUSTMT------.png)|TODO|SFGPUSTMT------|1.X.3.1.3.4.3.1 |MCC THEATRE|POINT|D||
+|427||![](./images/SFGPUSTMC------.png)|TODO|SFGPUSTMC------|1.X.3.1.3.4.3.2 |MCC CORPS|POINT|D||
+|428||![](./images/SFGPUSTR-------.png)|TODO|SFGPUSTR-------|1.X.3.1.3.4.4 |RAILHEAD|POINT|D||
+|429||![](./images/SFGPUSTRT------.png)|TODO|SFGPUSTRT------|1.X.3.1.3.4.4.1 |RAILHEAD THEATRE|POINT|D||
+|430||![](./images/SFGPUSTRC------.png)|TODO|SFGPUSTRC------|1.X.3.1.3.4.4.2 |RAILHEAD CORPS|POINT|D||
+|431||![](./images/SFGPUSTS-------.png)|TODO|SFGPUSTS-------|1.X.3.1.3.4.5 |SPOD/SPOE|POINT|D||
+|432||![](./images/SFGPUSTST------.png)|TODO|SFGPUSTST------|1.X.3.1.3.4.5.1 |SPOD/SPOE THEATRE|POINT|D||
+|433||![](./images/SFGPUSTSC------.png)|TODO|SFGPUSTSC------|1.X.3.1.3.4.5.2 |SPOD/SPOE CORPS|POINT|D||
+|434||![](./images/SFGPUSTA-------.png)|TODO|SFGPUSTA-------|1.X.3.1.3.4.6 |APOD/APOE|POINT|D||
+|435||![](./images/SFGPUSTAT------.png)|TODO|SFGPUSTAT------|1.X.3.1.3.4.6.1 |APOD/APOE THEATRE|POINT|D||
+|436||![](./images/SFGPUSTAC------.png)|TODO|SFGPUSTAC------|1.X.3.1.3.4.6.2 |APOD/APOE CORPS|POINT|D||
+|437||![](./images/SFGPUSTI-------.png)|TODO|SFGPUSTI-------|1.X.3.1.3.4.7 |MISSILE|POINT|D||
+|438||![](./images/SFGPUSTIT------.png)|TODO|SFGPUSTIT------|1.X.3.1.3.4.7.1 |MISSILE THEATRE|POINT|D||
+|439||![](./images/SFGPUSTIC------.png)|TODO|SFGPUSTIC------|1.X.3.1.3.4.7.2 |MISSILE CORPS|POINT|D||
+|440||![](./images/SFGPUSX--------.png)|TODO|SFGPUSX--------|1.X.3.1.3.5 |MAINTENANCE|POINT|D||
+|441||![](./images/SFGPUSXT-------.png)|TODO|SFGPUSXT-------|1.X.3.1.3.5.1 |MAINTENANCE THEATRE|POINT|D||
+|442||![](./images/SFGPUSXC-------.png)|TODO|SFGPUSXC-------|1.X.3.1.3.5.2 |MAINTENANCE CORPS|POINT|D||
+|443||![](./images/SFGPUSXH-------.png)|TODO|SFGPUSXH-------|1.X.3.1.3.5.3 |MAINTENANCE HEAVY|POINT|D||
+|444||![](./images/SFGPUSXHT------.png)|TODO|SFGPUSXHT------|1.X.3.1.3.5.3.1 |MAINTENANCE HEAVY THEATRE|POINT|D||
+|445||![](./images/SFGPUSXHC------.png)|TODO|SFGPUSXHC------|1.X.3.1.3.5.3.2 |MAINTENANCE HEAVY CORPS|POINT|D||
+|446||![](./images/SFGPUSXR-------.png)|TODO|SFGPUSXR-------|1.X.3.1.3.5.4 |MAINTENANCE RECOVERY|POINT|D||
+|447||![](./images/SFGPUSXRT------.png)|TODO|SFGPUSXRT------|1.X.3.1.3.5.4.1 |MAINTENANCE RECOVERY THEATRE|POINT|D||
+|448||![](./images/SFGPUSXRC------.png)|TODO|SFGPUSXRC------|1.X.3.1.3.5.4.2 |MAINTENANCE RECOVERY CORPS|POINT|D||
+|449||![](./images/SFGPUSXO-------.png)|TODO|SFGPUSXO-------|1.X.3.1.3.5.5 |ORDINANCE|POINT|D||
+|450||![](./images/SFGPUSXOT------.png)|TODO|SFGPUSXOT------|1.X.3.1.3.5.5.1 |ORDINANCE THEATRE|POINT|D||
+|451||![](./images/SFGPUSXOC------.png)|TODO|SFGPUSXOC------|1.X.3.1.3.5.5.2 |ORDINANCE CORPS|POINT|D||
+|452||![](./images/SFGPUSXOM------.png)|TODO|SFGPUSXOM------|1.X.3.1.3.5.5.3 |ORDINANCE MISSILE|POINT|D||
+|453||![](./images/SFGPUSXOMT-----.png)|TODO|SFGPUSXOMT-----|1.X.3.1.3.5.5.3.1 |ORDINANCE MISSILE THEATRE|POINT|D||
+|454||![](./images/SFGPUSXOMC-----.png)|TODO|SFGPUSXOMC-----|1.X.3.1.3.5.5.3.2 |ORDINANCE MISSILE CORPS|POINT|D||
+|455||![](./images/SFGPUSXE-------.png)|TODO|SFGPUSXE-------|1.X.3.1.3.5.6 |ELECTRO-OPTICAL|POINT|D||
+|456||![](./images/SFGPUSXET------.png)|TODO|SFGPUSXET------|1.X.3.1.3.5.6.1 |ELECTRO-OPTICAL THEATRE|POINT|D||
+|457||![](./images/SFGPUSXEC------.png)|TODO|SFGPUSXEC------|1.X.3.1.3.5.6.2 |ELECTRO-OPTICAL CORPS|POINT|D||
+|458||![](./images/SFGPUSXBDR-----.png)|TODO|SFGPUSXBDR-----|1.X.3.1.3.5.7 |BATTLE DAMAGE REPAIR|POINT|D||
+|459||![](./images/SFGPUSXPM------.png)|TODO|SFGPUSXPM------|1.X.3.1.3.5.8 |PREVENTIVE MAINTANANCE|POINT|D||
+|460||![](./images/SFGPUSXP-------.png)|TODO|SFGPUSXP-------|1.X.3.1.3.6 |PIPELINE|POINT|D||
+|461||![](./images/SFGPUSXEP------.png)|TODO|SFGPUSXEP------|1.X.3.1.3.7 |ENVIRONMENTAL PROTECTION|POINT|D||
+|462||![](./images/SFGPUH---------.png)|TODO|SFGPUH---------|1.X.3.1.4 |SPECIAL C2 HEADQUARTERS COMPONENT|POINT|D||
+|463||![](./images/SFGPUH---------.png)|TODO|SFGPUH---------|1.X.3.1.5 |UNIT GENERAL HEADQUARTERS|POINT|D||
+|464||![](./images/SFGPUH---------.png)|TODO|SFGPUH---------|1.X.3.1.6 |GENERAL HEADQUARTERS AND SERVICE|POINT|D||
+|465||![](./images/SFGPGL---------.png)|TODO|SFGPGL---------|1.X.3.1.7 |UNIT GENERAL LIAISON|POINT|D||
+|466||![](./images/SFGPE----------.png)|TODO|SFGPE----------|1.X.3.2 |GROUND TRACK EQUIPMENT|POINT|D||
+|467||![](./images/SFGPEWM--------.png)|TODO|SFGPEWM--------|1.X.3.2.1.1 |MISSILE LAUNCHERS|POINT|D||
+|468||![](./images/SFGPEWMA-------.png)|TODO|SFGPEWMA-------|1.X.3.2.1.1.1 |AIR DEFENCE (AD) MISSILE LAUNCH|POINT|D||
+|469||![](./images/SFGPEWMAS------.png)|TODO|SFGPEWMAS------|1.X.3.2.1.1.1.1 |SHORT RANGE AD MISSILE LAUNCHERS|POINT|D||
+|470||![](./images/SFGPEWMAI------.png)|TODO|SFGPEWMAI------|1.X.3.2.1.1.1.2 |INTERMEDIATE RANGE AD MISSILE LAUNCH|POINT|D||
+|471||![](./images/SFGPEWMAL------.png)|TODO|SFGPEWMAL------|1.X.3.2.1.1.1.3 |LONG RANGE AD MISSILE LAUNCH|POINT|D||
+|472||![](./images/SFGPEWMAT------.png)|TODO|SFGPEWMAT------|1.X.3.2.1.1.1.4 |AD MISSILE LAUNCH THEATRE|POINT|D||
+|473||![](./images/SFGPEWMS-------.png)|TODO|SFGPEWMS-------|1.X.3.2.1.1.2 |SURFACE-SURFACE (SS) MISSILE LAUNCHER|POINT|D||
+|474||![](./images/SFGPEWMSS------.png)|TODO|SFGPEWMSS------|1.X.3.2.1.1.2.1 |SHORT RANGE SS MISSILE LAUNCH|POINT|D||
+|475||![](./images/SFGPEWMSI------.png)|TODO|SFGPEWMSI------|1.X.3.2.1.1.2.2 |INTERMEDIATE RANGE SS MISSILE LAUNCH|POINT|D||
+|476||![](./images/SFGPEWMSL------.png)|TODO|SFGPEWMSL------|1.X.3.2.1.1.2.3 |LONG RANGE SS MISSILE LAUNCH|POINT|D||
+|477||![](./images/SFGPEWMT-------.png)|TODO|SFGPEWMT-------|1.X.3.2.1.1.3 |MISSILE LAUNCHERS ANTI TANK (AT)|POINT|D||
+|478||![](./images/SFGPEWMTL------.png)|TODO|SFGPEWMTL------|1.X.3.2.1.1.3.1 |MISSILE LAUNCHERS AT LIGHT|POINT|D||
+|479||![](./images/SFGPEWMTM------.png)|TODO|SFGPEWMTM------|1.X.3.2.1.1.3.2 |MISSILE LAUNCHER AT MEDIUM|POINT|D||
+|480||![](./images/SFGPEWMTH------.png)|TODO|SFGPEWMTH------|1.X.3.2.1.1.3.3 |MISSILE LAUNCHER AT HEAVY|POINT|D||
+|481||![](./images/SFGPEWS--------.png)|TODO|SFGPEWS--------|1.X.3.2.1.2 |SINGLE ROCKET LAUNCHER|POINT|D||
+|482||![](./images/SFGPEWSL-------.png)|TODO|SFGPEWSL-------|1.X.3.2.1.2.1 |SINGLE ROCKET LAUNCHER LIGHT|POINT|D||
+|483||![](./images/SFGPEWSM-------.png)|TODO|SFGPEWSM-------|1.X.3.2.1.2.2 |SINGLE ROCKET LAUNCHER MEDIUM|POINT|D||
+|484||![](./images/SFGPEWSH-------.png)|TODO|SFGPEWSH-------|1.X.3.2.1.2.3 |SINGLE ROCKET LAUNCHER HEAVY|POINT|D||
+|485||![](./images/SFGPEWX--------.png)|TODO|SFGPEWX--------|1.X.3.2.1.3 |MULTIPLE ROCKET LAUNCHER|POINT|D||
+|486||![](./images/SFGPEWXL-------.png)|TODO|SFGPEWXL-------|1.X.3.2.1.3.1 |MULTIPLE ROCKET LAUNCHER LIGHT|POINT|D||
+|487||![](./images/SFGPEWXM-------.png)|TODO|SFGPEWXM-------|1.X.3.2.1.3.2 |MULTIPLE ROCKET LAUNCHER MEDIUM|POINT|D||
+|488||![](./images/SFGPEWXH-------.png)|TODO|SFGPEWXH-------|1.X.3.2.1.3.3 |MULTIPLE ROCKET LAUNCHER HEAVY|POINT|D||
+|489||![](./images/SFGPEWT--------.png)|TODO|SFGPEWT--------|1.X.3.2.1.4 |ANTITANK ROCKET LAUNCHER|POINT|D||
+|490||![](./images/SFGPEWTL-------.png)|TODO|SFGPEWTL-------|1.X.3.2.1.4.1 |ANTITANK ROCKET LAUNCHER LIGHT|POINT|D||
+|491||![](./images/SFGPEWTM-------.png)|TODO|SFGPEWTM-------|1.X.3.2.1.4.2 |ANTITANK ROCKET LAUNCHER MEDIUM|POINT|D||
+|492||![](./images/SFGPEWTH-------.png)|TODO|SFGPEWTH-------|1.X.3.2.1.4.3 |ANTITANK ROCKET LAUNCHER HEAVY|POINT|D||
+|493||![](./images/SFGPEWR--------.png)|TODO|SFGPEWR--------|1.X.3.2.1.5 |RIFLE/AUTOMATIC WEAPON|POINT|D||
+|494||![](./images/SFGPEWRR-------.png)|TODO|SFGPEWRR-------|1.X.3.2.1.5.1 |RIFLE|POINT|D||
+|495||![](./images/SFGPEWRL-------.png)|TODO|SFGPEWRL-------|1.X.3.2.1.5.2 |LIGHT MACHINE GUN|POINT|D||
+|496||![](./images/SFGPEWRH-------.png)|TODO|SFGPEWRH-------|1.X.3.2.1.5.3 |HEAVY MACHINE GUN|POINT|D||
+|497||![](./images/SFGPEWZ--------.png)|TODO|SFGPEWZ--------|1.X.3.2.1.6 |GRENADE LAUNCHER|POINT|D||
+|498||![](./images/SFGPEWZL-------.png)|TODO|SFGPEWZL-------|1.X.3.2.1.6.1 |GRENADE LAUNCHER LIGHT|POINT|D||
+|499||![](./images/SFGPEWZM-------.png)|TODO|SFGPEWZM-------|1.X.3.2.1.6.2 |GRENADE LAUNCHER MEDIUM|POINT|D||
+|500||![](./images/SFGPEWZH-------.png)|TODO|SFGPEWZH-------|1.X.3.2.1.6.3 |GRENADE LAUNCHER HEAVY|POINT|D||
+|501||![](./images/SFGPEWO--------.png)|TODO|SFGPEWO--------|1.X.3.2.1.7 |MORTAR|POINT|D||
+|502||![](./images/SFGPEWOL-------.png)|TODO|SFGPEWOL-------|1.X.3.2.1.7.1 |MORTAR LIGHT|POINT|D||
+|503||![](./images/SFGPEWOM-------.png)|TODO|SFGPEWOM-------|1.X.3.2.1.7.2 |MORTAR MEDIUM|POINT|D||
+|504||![](./images/SFGPEWOH-------.png)|TODO|SFGPEWOH-------|1.X.3.2.1.7.3 |MORTAR HEAVY|POINT|D||
+|505||![](./images/SFGPEWH--------.png)|TODO|SFGPEWH--------|1.X.3.2.1.8 |HOWITZER|POINT|D||
+|506||![](./images/SFGPEWHL-------.png)|TODO|SFGPEWHL-------|1.X.3.2.1.8.1 |HOWITZER LIGHT|POINT|D||
+|507||![](./images/SFGPEWHLS------.png)|TODO|SFGPEWHLS------|1.X.3.2.1.8.1.1 |HOWITZER LIGHT SELF-PROPELLED|POINT|D||
+|508||![](./images/SFGPEWHM-------.png)|TODO|SFGPEWHM-------|1.X.3.2.1.8.2 |HOWITZER MEDIUM|POINT|D||
+|509||![](./images/SFGPEWHMS------.png)|TODO|SFGPEWHMS------|1.X.3.2.1.8.2.1 |HOWITZER MEDIUM SELF-PROPELLED|POINT|D||
+|510||![](./images/SFGPEWHH-------.png)|TODO|SFGPEWHH-------|1.X.3.2.1.8.3 |HOWITZER HEAVY|POINT|D||
+|511||![](./images/SFGPEWHHS------.png)|TODO|SFGPEWHHS------|1.X.3.2.1.8.3.1 |HOWITZER HEAVY SELF-PROPELLED|POINT|D||
+|512||![](./images/SFGPEWG--------.png)|TODO|SFGPEWG--------|1.X.3.2.1.9 |ANTITANK GUN|POINT|D||
+|513||![](./images/SFGPEWGR-------.png)|TODO|SFGPEWGR-------|1.X.3.2.1.9.1 |ANTITANK GUN RECOILLESS|POINT|D||
+|514||![](./images/SFGPEWGL-------.png)|TODO|SFGPEWGL-------|1.X.3.2.1.9.2 |ANTITANK GUN LIGHT|POINT|D||
+|515||![](./images/SFGPEWGM-------.png)|TODO|SFGPEWGM-------|1.X.3.2.1.9.3 |ANTITANK GUN MEDIUM|POINT|D||
+|516||![](./images/SFGPEWGH-------.png)|TODO|SFGPEWGH-------|1.X.3.2.1.9.4 |ANTITANK GUN HEAVY|POINT|D||
+|517||![](./images/SFGPEWD--------.png)|TODO|SFGPEWD--------|1.X.3.2.1.10 |DIRECT FIRE GUN|POINT|D||
+|518||![](./images/SFGPEWDL-------.png)|TODO|SFGPEWDL-------|1.X.3.2.1.10.1 |DIRECT FIRE GUN LIGHT|POINT|D||
+|519||![](./images/SFGPEWDLS------.png)|TODO|SFGPEWDLS------|1.X.3.2.1.10.1.1 |DIRECT FIRE GUN LIGHT SELF-PROPELLED|POINT|D||
+|520||![](./images/SFGPEWDM-------.png)|TODO|SFGPEWDM-------|1.X.3.2.1.10.2 |DIRECT FIRE GUN MEDIUM|POINT|D||
+|521||![](./images/SFGPEWDMS------.png)|TODO|SFGPEWDMS------|1.X.3.2.1.10.2.1 |DIRECT FIRE GUN MEDIUM SELF-PROPELLED|POINT|D||
+|522||![](./images/SFGPEWDH-------.png)|TODO|SFGPEWDH-------|1.X.3.2.1.10.3 |DIRECT FIRE GUN HEAVY|POINT|D||
+|523||![](./images/SFGPEWDHS------.png)|TODO|SFGPEWDHS------|1.X.3.2.1.10.3.1 |DIRECT FIRE GUN HEAVY SELF-PROPELLED|POINT|D||
+|524||![](./images/SFGPEWA--------.png)|TODO|SFGPEWA--------|1.X.3.2.1.11 |AIR DEFENCE GUN|POINT|D||
+|525||![](./images/SFGPEWAL-------.png)|TODO|SFGPEWAL-------|1.X.3.2.1.11.1 |AIR DEFENCE GUN LIGHT|POINT|D||
+|526||![](./images/SFGPEWAM-------.png)|TODO|SFGPEWAM-------|1.X.3.2.1.11.2 |AIR DEFENCE GUN MEDIUM|POINT|D||
+|527||![](./images/SFGPEWAH-------.png)|TODO|SFGPEWAH-------|1.X.3.2.1.11.3 |AIR DEFENCE GUN HEAVY|POINT|D||
+|528||![](./images/SFGPEV---------.png)|TODO|SFGPEV---------|1.X.3.2.2 |GROUND VEHICLE|POINT|D||
+|529||![](./images/SFGPEVA--------.png)|TODO|SFGPEVA--------|1.X.3.2.2.1 |ARMOURED VEHICLE|POINT|D||
+|530||![](./images/SFGPEVAT-------.png)|TODO|SFGPEVAT-------|1.X.3.2.2.1.1 |TANK|POINT|D||
+|531||![](./images/SFGPEVATL------.png)|TODO|SFGPEVATL------|1.X.3.2.2.1.1.1 |TANK LIGHT|POINT|D||
+|532|YES|![](./images/SFGPEVATW------.png)|TODO|SFGPEVATW------|1.X.3.2.2.1.1.1.1 |TANK LIGHT RECOVERY|POINT|D||
+|533||![](./images/SFGPEVATM------.png)|TODO|SFGPEVATM------|1.X.3.2.2.1.1.2 |TANK MEDIUM|POINT|D||
+|534|YES|![](./images/SFGPEVATX------.png)|TODO|SFGPEVATX------|1.X.3.2.2.1.1.2.1 |TANK MEDIUM RECOVERY|POINT|D||
+|535||![](./images/SFGPEVATH------.png)|TODO|SFGPEVATH------|1.X.3.2.2.1.1.3 |TANK HEAVY|POINT|D||
+|536|YES|![](./images/SFGPEVATY------.png)|TODO|SFGPEVATY------|1.X.3.2.2.1.1.3.1 |TANK HEAVY RECOVERY|POINT|D||
+|537||![](./images/SFGPEVAA-------.png)|TODO|SFGPEVAA-------|1.X.3.2.2.1.2 |ARMOURED PERSONNEL CARRIER|POINT|D||
+|538||![](./images/SFGPEVAAR------.png)|TODO|SFGPEVAAR------|1.X.3.2.2.1.2.1 |ARMOURED PERSONNEL CARRIER RECOVERY|POINT|D||
+|539||![](./images/SFGPEVAI-------.png)|TODO|SFGPEVAI-------|1.X.3.2.2.1.3 |ARMOURED INFANTRY|POINT|D||
+|540||![](./images/SFGPEVAC-------.png)|TODO|SFGPEVAC-------|1.X.3.2.2.1.4 |C2V/ACV|POINT|D||
+|541||![](./images/SFGPEVAS-------.png)|TODO|SFGPEVAS-------|1.X.3.2.2.1.5 |COMBAT SERVICE SUPPORT VEHICLE|POINT|D||
+|542||![](./images/SFGPEVAL-------.png)|TODO|SFGPEVAL-------|1.X.3.2.2.1.6 |LIGHT ARMOURED VEHICLE|POINT|D||
+|543||![](./images/SFGPEVU--------.png)|TODO|SFGPEVU--------|1.X.3.2.2.2 |UTILITY VEHICLE|POINT|D||
+|544||![](./images/SFGPEVUB-------.png)|TODO|SFGPEVUB-------|1.X.3.2.2.2.1 |BUS|POINT|D||
+|545||![](./images/SFGPEVUS-------.png)|TODO|SFGPEVUS-------|1.X.3.2.2.2.2 |SEMI|POINT|D||
+|546||![](./images/SFGPEVUL-------.png)|TODO|SFGPEVUL-------|1.X.3.2.2.2.3 |LIMITED CROSS-COUNTRY TRUCK|POINT|D||
+|547||![](./images/SFGPEVUX-------.png)|TODO|SFGPEVUX-------|1.X.3.2.2.2.4 |CROSS-COUNTRY TRUCK|POINT|D||
+|548||![](./images/SFGPEVUR-------.png)|TODO|SFGPEVUR-------|1.X.3.2.2.2.5 |WATER CRAFT|POINT|D||
+|549||![](./images/SFGPEVE--------.png)|TODO|SFGPEVE--------|1.X.3.2.2.3 |ENGINEER VEHICLE|POINT|D||
+|550||![](./images/SFGPEVEB-------.png)|TODO|SFGPEVEB-------|1.X.3.2.2.3.1 |BRIDGE|POINT|D||
+|551||![](./images/SFGPEVEE-------.png)|TODO|SFGPEVEE-------|1.X.3.2.2.3.2 |EARTHMOVER|POINT|D||
+|552||![](./images/SFGPEVEE-------.png)|TODO|SFGPEVEE-------|1.X.3.2.2.3.2.1 |MULTIFUNCTIONAL EARTHMOVER/DIGGER|POINT|D||
+|553||![](./images/SFGPEVEC-------.png)|TODO|SFGPEVEC-------|1.X.3.2.2.3.3 |CONSTRUCTION VEHICLE|POINT|D||
+|554||![](./images/SFGPEVEM-------.png)|TODO|SFGPEVEM-------|1.X.3.2.2.3.4 |MINE LAYING VEHICLE|POINT|D||
+|555||![](./images/SFGPEVEMA------.png)|TODO|SFGPEVEMA------|1.X.3.2.2.3.4.1 |ARMOURED VEHICLE MOUNTED|POINT|D||
+|556||![](./images/SFGPEVEMT------.png)|TODO|SFGPEVEMT------|1.X.3.2.2.3.4.2 |TRAILER MOUNTED|POINT|D||
+|557||![](./images/SFGPEVEMSM-----.png)|TODO|SFGPEVEMSM-----|1.X.3.2.2.3.4.5 |ARMOURED CARRIER WITH SCATTERABLE MINES|POINT|D||
+|558||![](./images/SFGPEVED-------.png)|TODO|SFGPEVED-------|1.X.3.2.2.3.5 |DOZER|POINT|D||
+|559||![](./images/SFGPEVD--------.png)|TODO|SFGPEVD--------|1.X.3.2.2.3.6 |DRILLING VEHICLE|POINT|D||
+|560||![](./images/SFGPEVST-------.png)|TODO|SFGPEVST-------|1.X.3.2.2.4 |TRAIN LOCOMOTIVE|POINT|D||
+|561||![](./images/SFGPEVC--------.png)|TODO|SFGPEVC--------|1.X.3.2.2.5 |CIVILIAN VEHICLE|POINT|D||
+|562||![](./images/SFGPES---------.png)|TODO|SFGPES---------|1.X.3.2.3 |SENSOR|POINT|D||
+|563||![](./images/SFGPESR--------.png)|TODO|SFGPESR--------|1.X.3.2.3.1 |RADAR|POINT|D||
+|564||![](./images/SFGPESE--------.png)|TODO|SFGPESE--------|1.X.3.2.3.2 |EMPLACED SENSOR|POINT|D||
+|565||![](./images/SFGPEXL--------.png)|TODO|SFGPEXL--------|1.X.3.2.4.1 |LASER|POINT|D||
+|566||![](./images/SFGPEXN--------.png)|TODO|SFGPEXN--------|1.X.3.2.4.2 |CBRN EQUIPMENT|POINT|D||
+|567||![](./images/SFGPEXF--------.png)|TODO|SFGPEXF--------|1.X.3.2.4.3 |FLAME THROWER|POINT|D||
+|568||![](./images/SFGPEXM--------.png)|TODO|SFGPEXM--------|1.X.3.2.4.4 |LAND MINES|POINT|D||
+|569||![](./images/SFGPEXMC-------.png)|TODO|SFGPEXMC-------|1.X.3.2.4.4.1 |LAND MINES LETHAL |POINT|D||
+|570||![](./images/SFGPEXML-------.png)|TODO|SFGPEXML-------|1.X.3.2.4.4.2 |LESS THAN LETHAL|POINT|D||
+|571||![](./images/SFGPI-----H----.png)|TODO|SFGPI-----H----|1.X.3.3 |INSTALLATION|POINT|D||
+|572||![](./images/SFGPIR----H----.png)|TODO|SFGPIR----H----|1.X.3.3.1 |RAW MATERIAL PRODUCTION/STORAGE|POINT|D||
+|573||![](./images/SFGPIRM---H----.png)|TODO|SFGPIRM---H----|1.X.3.3.1.1 |MINE|POINT|D||
+|574||![](./images/SFGPIRP---H----.png)|TODO|SFGPIRP---H----|1.X.3.3.1.2 |PETROLEUM/GAS/OIL|POINT|D||
+|575||![](./images/SFGPIRN---H----.png)|TODO|SFGPIRN---H----|1.X.3.3.1.3 |CBRN|POINT|D||
+|576||![](./images/SFGPIRNB--H----.png)|TODO|SFGPIRNB--H----|1.X.3.3.1.3.1 |BIOLOGICAL|POINT|D||
+|577||![](./images/SFGPIRNC--H----.png)|TODO|SFGPIRNC--H----|1.X.3.3.1.3.2 |CHEMICAL|POINT|D||
+|578||![](./images/SFGPIRNN--H----.png)|TODO|SFGPIRNN--H----|1.X.3.3.1.3.3 |NUCLEAR|POINT|D||
+|579||![](./images/SFGPIP----H----.png)|TODO|SFGPIP----H----|1.X.3.3.2 |PROCESSING FACILITY|POINT|D||
+|580||![](./images/SFGPIPD---H----.png)|TODO|SFGPIPD---H----|1.X.3.3.2.1 |DECON|POINT|D||
+|581||![](./images/SFGPIE----H----.png)|TODO|SFGPIE----H----|1.X.3.3.3 |EQUIPMENT MANUFACTURE|POINT|D||
+|582||![](./images/SFGPIU----H----.png)|TODO|SFGPIU----H----|1.X.3.3.4 |SERVICE RESEARCH UTILITY FACILITY |POINT|D||
+|583||![](./images/SFGPIUR---H----.png)|TODO|SFGPIUR---H----|1.X.3.3.4.1 |TECHNOLOGICAL RESEARCH FACILITY|POINT|D||
+|584||![](./images/SFGPIUT---H----.png)|TODO|SFGPIUT---H----|1.X.3.3.4.2 |TELECOMMUNICATIONS FACILITY|POINT|D||
+|585||![](./images/SFGPIUE---H----.png)|TODO|SFGPIUE---H----|1.X.3.3.4.3 |ELECTRIC POWER FACILITY|POINT|D||
+|586||![](./images/SFGPIUP---H----.png)|TODO|SFGPIUP---H----|1.X.3.3.4.4 |PUBLIC WATER SERVICES|POINT|D||
+|587||![](./images/SFGPIMF---H----.png)|TODO|SFGPIMF---H----|1.X.3.3.5.1 |ATOMIC ENERGY PRODUCTION|POINT|D||
+|588||![](./images/SFGPIMA---H----.png)|TODO|SFGPIMA---H----|1.X.3.3.5.2 |AIRCRAFT PRODUCTION & ASSEMBLY|POINT|D||
+|589||![](./images/SFGPIME---H----.png)|TODO|SFGPIME---H----|1.X.3.3.5.3 |AMMUNITION AND EXPLOSIVES PRODUCTION|POINT|D||
+|590||![](./images/SFGPIMG---H----.png)|TODO|SFGPIMG---H----|1.X.3.3.5.4 |ARMAMENT PRODUCTION|POINT|D||
+|591||![](./images/SFGPIMV---H----.png)|TODO|SFGPIMV---H----|1.X.3.3.5.5 |MILITARY VEHICLE PRODUCTION|POINT|D||
+|592||![](./images/SFGPIMN---H----.png)|TODO|SFGPIMN---H----|1.X.3.3.5.6 |ENGINEERING EQUIPMENT PRODUCTION|POINT|D||
+|593||![](./images/SFGPIMNB--H----.png)|TODO|SFGPIMNB--H----|1.X.3.3.5.6.1 |BRIDGE|POINT|D||
+|594||![](./images/SFGPIMC---H----.png)|TODO|SFGPIMC---H----|1.X.3.3.5.7 |CHEMICAL & BIOLOGICAL WARFARE PRODUCTION|POINT|D||
+|595||![](./images/SFGPIMS---H----.png)|TODO|SFGPIMS---H----|1.X.3.3.5.8 |SHIP CONSTRUCTION|POINT|D||
+|596||![](./images/SFGPIMM---H----.png)|TODO|SFGPIMM---H----|1.X.3.3.5.9 |MISSILE & SPACE SYSTEM PRODUCTION|POINT|D||
+|597||![](./images/SFGPIG----H----.png)|TODO|SFGPIG----H----|1.X.3.3.6 |GOVERNMENT LEADERSHIP|POINT|D||
+|598||![](./images/SFGPIB----H----.png)|TODO|SFGPIB----H----|1.X.3.3.7 |MILITARY BASE/FACILITY|POINT|D||
+|599||![](./images/SFGPIBA---H----.png)|TODO|SFGPIBA---H----|1.X.3.3.7.1 |AIRPORT/AIRBASE|POINT|D||
+|600||![](./images/SFGPIBN---H----.png)|TODO|SFGPIBN---H----|1.X.3.3.7.2 |SEAPORT/NAVAL BASE|POINT|D||
+|601||![](./images/SFGPIT----H----.png)|TODO|SFGPIT----H----|1.X.3.3.8 |TRANSPORT FACILITY|POINT|D||
+|602||![](./images/SFGPIX----H----.png)|TODO|SFGPIX----H----|1.X.3.3.9 |MEDICAL FACILITY|POINT|D||
+|603||![](./images/SFGPIXH---H----.png)|TODO|SFGPIXH---H----|1.X.3.3.9.1 |HOSPITAL|POINT|D||
+|604||![](./images/SFGPIR----H----.png)|TODO|SFGPIR----H----|1.X.3.4 |SEA SURFACE INSTALLATION|POINT|D||
+|605||![](./images/SFSP-----------.png)|TODO|SFSP-----------|1.X.4 |SEA SURFACE TRACK|POINT|D||
+|606||![](./images/SFSPC----------.png)|TODO|SFSPC----------|1.X.4.1 |COMBATANT|POINT|D||
+|607||![](./images/SFSPCL---------.png)|TODO|SFSPCL---------|1.X.4.1.1 |LINE|POINT|D||
+|608||![](./images/SFSPCLCV-------.png)|TODO|SFSPCLCV-------|1.X.4.1.1.1 |CARRIER|POINT|D||
+|609||![](./images/SFSPCLBB-------.png)|TODO|SFSPCLBB-------|1.X.4.1.1.2 |BATTLESHIP|POINT|D||
+|610||![](./images/SFSPCLCC-------.png)|TODO|SFSPCLCC-------|1.X.4.1.1.3 |CRUISER|POINT|D||
+|611||![](./images/SFSPCLDD-------.png)|TODO|SFSPCLDD-------|1.X.4.1.1.4 |DESTROYER|POINT|D||
+|612||![](./images/SFSPCLFF-------.png)|TODO|SFSPCLFF-------|1.X.4.1.1.5 |FRIGATE/CORVETTE|POINT|D||
+|613||![](./images/SFSPCA---------.png)|TODO|SFSPCA---------|1.X.4.1.2 |AMPHIBIOUS WARFARE SHIP|POINT|D||
+|614||![](./images/SFSPCALA-------.png)|TODO|SFSPCALA-------|1.X.4.1.2.1 |ASSAULT VESSEL|POINT|D||
+|615||![](./images/SFSPCALS-------.png)|TODO|SFSPCALS-------|1.X.4.1.2.2 |LANDING SHIP|POINT|D||
+|616||![](./images/SFSPCALC-------.png)|TODO|SFSPCALC-------|1.X.4.1.2.3 |LANDING CRAFT|POINT|D||
+|617||![](./images/SFSPCM---------.png)|TODO|SFSPCM---------|1.X.4.1.3 |MINE WARFARE VESSEL|POINT|D||
+|618||![](./images/SFSPCMML-------.png)|TODO|SFSPCMML-------|1.X.4.1.3.1 |MINELAYER|POINT|D||
+|619||![](./images/SFSPCMMS-------.png)|TODO|SFSPCMMS-------|1.X.4.1.3.2 |MINESWEEPER|POINT|D||
+|620||![](./images/SFSPCMMH-------.png)|TODO|SFSPCMMH-------|1.X.4.1.3.3 |MINEHUNTER|POINT|D||
+|621||![](./images/SFSPCMMD-------.png)|TODO|SFSPCMMD-------|1.X.4.1.3.5 |MCM DRONE|POINT|D||
+|622||![](./images/SFSPCP---------.png)|TODO|SFSPCP---------|1.X.4.1.4 |PATROL|POINT|D||
+|623||![](./images/SFSPCPSB-------.png)|TODO|SFSPCPSB-------|1.X.4.1.4.1 |ANTI SUBMARINE WARFARE|POINT|D||
+|624||![](./images/SFSPCPSU-------.png)|TODO|SFSPCPSU-------|1.X.4.1.4.2 |ANTI SURFACE WARFARE|POINT|D||
+|625||![](./images/SFSPCH---------.png)|TODO|SFSPCH---------|1.X.4.1.5 |HOVERCRAFT|POINT|D||
+|626||![](./images/SFSPGF---------.png)|TODO|SFSPGF---------|1.X.4.1.6.1 |NAVY TASK FORCE|POINT|D||
+|627||![](./images/SFSPGG---------.png)|TODO|SFSPGG---------|1.X.4.1.6.2 |NAVY TASK GROUP|POINT|D||
+|628||![](./images/SFSPGU---------.png)|TODO|SFSPGU---------|1.X.4.1.6.3 |NAVY TASK UNIT|POINT|D||
+|629||![](./images/SFSPGE---------.png)|TODO|SFSPGE---------|1.X.4.1.6.4 |NAVY TASK ELEMENT|POINT|D||
+|630||![](./images/SFSPGC---------.png)|TODO|SFSPGC---------|1.X.4.1.6.5 |CONVOY|POINT|D||
+|631||![](./images/SFSPN----------.png)|TODO|SFSPN----------|1.X.4.2 |NONCOMBATANT|POINT|D||
+|632||![](./images/SFSPNR---------.png)|TODO|SFSPNR---------|1.X.4.2.1 |UNDERWAY REPLENISHMENT|POINT|D||
+|633||![](./images/SFSPNRA--------.png)|TODO|SFSPNRA--------|1.X.4.2.1.1 |UNDERWAY REPLENISHMENT AMMO |POINT|D||
+|634||![](./images/SFSPNOT--------.png)|TODO|SFSPNOT--------|1.X.4.2.1.2 |UNDERWAY REPLENISHMENT OIL |POINT|D||
+|635||![](./images/SFSPNFT--------.png)|TODO|SFSPNFT--------|1.X.4.2.2 |FLEET SUPPORT TUG OCEAN GOING |POINT|D||
+|636||![](./images/SFSPNI---------.png)|TODO|SFSPNI---------|1.X.4.2.3 |INTELLIGENCE|POINT|D||
+|637||![](./images/SFSPNM---------.png)|TODO|SFSPNM---------|1.X.4.2.4 |HOSPITAL SHIP|POINT|D||
+|638||![](./images/SFSPNR---------.png)|TODO|SFSPNR---------|1.X.4.2.5 |REPAIR SHIP|POINT|D||
+|639||![](./images/SFSPNTS--------.png)|TODO|SFSPNTS--------|1.X.4.2.6 |SUBMARINE TENDER|POINT|D||
+|640||![](./images/SFSPNH---------.png)|TODO|SFSPNH---------|1.X.4.2.7 |HOVERCRAFT|POINT|D||
+|641||![](./images/SFSPNS---------.png)|TODO|SFSPNS---------|1.X.4.2.8 |SERVICE & SUPPORT HARBOUR|POINT|D||
+|642||![](./images/SFSPXM---------.png)|TODO|SFSPXM---------|1.X.4.3.1 |MERCHANT|POINT|D||
+|643||![](./images/SFSPXMC--------.png)|TODO|SFSPXMC--------|1.X.4.3.1.1 |CARGO|POINT|D||
+|644||![](./images/SFSPXME--------.png)|TODO|SFSPXME--------|1.X.4.3.1.2 |ROLL ON-ROLL OFF|POINT|D||
+|645||![](./images/SFSPXMO--------.png)|TODO|SFSPXMO--------|1.X.4.3.1.3 |OILER/TANKER|POINT|D||
+|646||![](./images/SFSPXMT--------.png)|TODO|SFSPXMT--------|1.X.4.3.1.4 |TUG|POINT|D||
+|647||![](./images/SFSPXMF--------.png)|TODO|SFSPXMF--------|1.X.4.3.1.5 |FERRY|POINT|D||
+|648||![](./images/SFSPXMP--------.png)|TODO|SFSPXMP--------|1.X.4.3.1.6 |PASSENGER|POINT|D||
+|649||![](./images/SFSPXMHZ-------.png)|TODO|SFSPXMHZ-------|1.X.4.3.1.7 |HAZARDOUS MATERIALS|POINT|D||
+|650||![](./images/SFSPXMD--------.png)|TODO|SFSPXMD--------|1.X.4.3.1.8 |DREDGE|POINT|D||
+|651||![](./images/SFSPXF---------.png)|TODO|SFSPXF---------|1.X.4.3.2 |FISHING|POINT|D||
+|652||![](./images/SFSPXMDF-------.png)|TODO|SFSPXMDF-------|1.X.4.3.2.1 |DRIFTER|POINT|D||
+|653||![](./images/SFSPXMTR-------.png)|TODO|SFSPXMTR-------|1.X.4.3.2.2 |TRAWLER|POINT|D||
+|654||![](./images/SFSPXR---------.png)|TODO|SFSPXR---------|1.X.4.3.3 |LEISURE CRAFT|POINT|D||
+|655||![](./images/SFSPXL---------.png)|TODO|SFSPXL---------|1.X.4.3.4 |LAW ENFORCEMENT VESSEL|POINT|D||
+|656||![](./images/SFSPXH---------.png)|TODO|SFSPXH---------|1.X.4.3.5 |HOVERCRAFT|POINT|D||
+|657||![](./images/SFSPO----------.png)|TODO|SFSPO----------|1.X.4.4 |OWN TRACK|POINT|D||
+|658||![](./images/SFSPED---------.png)|TODO|SFSPED---------|1.X.4.5.1 |DITCHED AIRCRAFT|POINT|D||
+|659||![](./images/SFSPEP---------.png)|TODO|SFSPEP---------|1.X.4.5.2 |PERSON IN WATER|POINT|D||
+|660||![](./images/SFSPEV---------.png)|TODO|SFSPEV---------|1.X.4.5.3 |DISTRESSED VESSEL|POINT|D||
+|661||![](./images/SFSPZM---------.png)|TODO|SFSPZM---------|1.X.4.6.1 |SEA MINELIKE|POINT|D||
+|662||![](./images/SFSPZN---------.png)|TODO|SFSPZN---------|1.X.4.6.2 |NAVIGATIONAL|POINT|D||
+|663||![](./images/SFSPZI---------.png)|TODO|SFSPZI---------|1.X.4.6.3 |ICEBERG|POINT|D||
+|664||![](./images/SFUP-----------.png)|TODO|SFUP-----------|1.X.5 |SUBSURFACE TRACK|POINT|D||
+|665||![](./images/SFUPS----------.png)|TODO|SFUPS----------|1.X.5.1 |SUBMARINE|POINT|D||
+|666||![](./images/SFUPSN---------.png)|TODO|SFUPSN---------|1.X.5.1.1 |NUCLEAR PROPULSION|POINT|D||
+|667||![](./images/SFUPSC---------.png)|TODO|SFUPSC---------|1.X.5.1.2 |CONVENTIONAL PROPULSION|POINT|D||
+|668||![](./images/SFUPSO---------.png)|TODO|SFUPSO---------|1.X.5.1.3 |OTHER SUBMERSIBLE|POINT|D||
+|669||![](./images/SFUPW----------.png)|TODO|SFUPW----------|1.X.5.2 |UNDERWATER WEAPON|POINT|D||
+|670||![](./images/SFUPWT---------.png)|TODO|SFUPWT---------|1.X.5.2.1 |TORPEDO|POINT|D||
+|671||![](./images/SFUPWM---------.png)|TODO|SFUPWM---------|1.X.5.2.2 |SEA MINE|POINT|D||
+|672||![](./images/SFUPWMD--------.png)|TODO|SFUPWMD--------|1.X.5.2.2.1 |SEA MINE DEALT|POINT|D||
+|673||![](./images/SFUPWMG--------.png)|TODO|SFUPWMG--------|1.X.5.2.2.2 |SEA MINE (GROUND)|POINT|D||
+|674||![](./images/SFUPWMGD-------.png)|TODO|SFUPWMGD-------|1.X.5.2.2.2.1 |SEA MINE (GROUND) DEALT|POINT|D||
+|675||![](./images/SFUPWMM--------.png)|TODO|SFUPWMM--------|1.X.5.2.2.3 |SEA MINE (MOORED)|POINT|D||
+|676||![](./images/SFUPWMMD-------.png)|TODO|SFUPWMMD-------|1.X.5.2.2.3.1 |SEA MINE (MOORED DEALT|POINT|D||
+|677||![](./images/SFUPWMF--------.png)|TODO|SFUPWMF--------|1.X.5.2.2.4 |SEA MINE (FLOATING)|POINT|D||
+|678||![](./images/SFUPWMFD-------.png)|TODO|SFUPWMFD-------|1.X.5.2.2.4.1 |SEA MINE (FLOATING) DEALT|POINT|D||
+|679||![](./images/SFUPWMO--------.png)|TODO|SFUPWMO--------|1.X.5.2.2.5 |SEA MINE (IN OTHER POSITION)|POINT|D||
+|680||![](./images/SFUPWMOD-------.png)|TODO|SFUPWMOD-------|1.X.5.2.2.5.1 |SEA MINE (IN OTHER POSITION) DEALT|POINT|D||
+|681||![](./images/SFUPWV---------.png)|TODO|SFUPWV---------|1.X.5.2.3 |DRONE (UUV)|POINT|D||
+|682||![](./images/SFUPWD---------.png)|TODO|SFUPWD---------|1.X.5.3 |UNDERWATER DECOY|POINT|D||
+|683||![](./images/SFUPWDM--------.png)|TODO|SFUPWDM--------|1.X.5.3.1 |SEA MINE DECOY|POINT|D||
+|684||![](./images/SFUPN----------.png)|TODO|SFUPN----------|1.X.5.4 |NON-SUBMARINE|POINT|D||
+|685||![](./images/SFUPND---------.png)|TODO|SFUPND---------|1.X.5.4.1 |DIVER|POINT|D||
+|686||![](./images/SFUPNBS--------.png)|TODO|SFUPNBS--------|1.X.5.4.2.1 |SEABED INSTALLATION/MANMADE|POINT|D||
+|687|YES|![](./images/SFUPNBR--------.png)|TODO|SFUPNBR--------|1.X.5.4.2.2 |SEABED ROCK/STONE OBSTACLE OTHER |POINT|D||
+|688|YES|![](./images/SFUPNBW--------.png)|TODO|SFUPNBW--------|1.X.5.4.2.3 |WRECK|POINT|D||
+|689|YES|![](./images/SFUPNM---------.png)|TODO|SFUPNM---------|1.X.5.4.3 |MARINE LIFE|POINT|D||
+|690|YES|![](./images/SFUPNA---------.png)|TODO|SFUPNA---------|1.X.5.4.4 |SEA ANOMALY|POINT|D||
+|691||![](./images/SFFP-----------.png)|TODO|SFFP-----------|1.X.6 |SPECIAL OPERATIONS FORCE (SOF) UNIT|POINT|D||
+|692||![](./images/SFFPAF---------.png)|TODO|SFFPAF---------|1.X.6.1.1 |SOF UNIT FIXED WING|POINT|D||
+|693||![](./images/SFFPAFA--------.png)|TODO|SFFPAFA--------|1.X.6.1.1.1 |SOF UNIT ATTACK|POINT|D||
+|694||![](./images/SFFPAFK--------.png)|TODO|SFFPAFK--------|1.X.6.1.1.2 |SOF UNIT REFUEL|POINT|D||
+|695||![](./images/SFFPAFU--------.png)|TODO|SFFPAFU--------|1.X.6.1.1.3 |SOF UNIT UTILITY|POINT|D||
+|696||![](./images/SFFPAFUL-------.png)|TODO|SFFPAFUL-------|1.X.6.1.1.3.1 |SOF UNIT UTILITY (LIGHT)|POINT|D||
+|697||![](./images/SFFPAFUM-------.png)|TODO|SFFPAFUM-------|1.X.6.1.1.3.2 |SOF UNIT UTILITY (MEDIUM)|POINT|D||
+|698||![](./images/SFFPAFUH-------.png)|TODO|SFFPAFUH-------|1.X.6.1.1.3.3 |SOF UNIT UTILITY (HEAVY)|POINT|D||
+|699||![](./images/SFFPAV---------.png)|TODO|SFFPAV---------|1.X.6.1.2 |SOF UNIT VSTOL|POINT|D||
+|700||![](./images/SFFPAH---------.png)|TODO|SFFPAH---------|1.X.6.1.3 |SOF UNIT ROTARY WING|POINT|D||
+|701||![](./images/SFFPAHH--------.png)|TODO|SFFPAHH--------|1.X.6.1.3.1 |SOF UNIT COMBAT SEARCH AND RESCUE|POINT|D||
+|702||![](./images/SFFPAHA--------.png)|TODO|SFFPAHA--------|1.X.6.1.3.2 |SOF UNIT ATTACK|POINT|D||
+|703||![](./images/SFFPAHU--------.png)|TODO|SFFPAHU--------|1.X.6.1.3.3 |SOF UNIT UTILITY|POINT|D||
+|704||![](./images/SFFPAHUL-------.png)|TODO|SFFPAHUL-------|1.X.6.1.3.3.1 |SOF UNIT UTILITY (LIGHT)|POINT|D||
+|705||![](./images/SFFPAHUM-------.png)|TODO|SFFPAHUM-------|1.X.6.1.3.3.2 |SOF UNIT UTILITY (MEDIUM)|POINT|D||
+|706||![](./images/SFFPAHUH-------.png)|TODO|SFFPAHUH-------|1.X.6.1.3.3.3 |SOF UNIT UTILITY (HEAVY)|POINT|D||
+|707||![](./images/SFFPSN---------.png)|TODO|SFFPSN---------|1.X.6.2 |SOF UNIT SOF UNIT NAVAL|POINT|D||
+|708||![](./images/SFFPSNS--------.png)|TODO|SFFPSNS--------|1.X.6.2.1 |SOF UNIT SEAL|POINT|D||
+|709||![](./images/SFFPSNU--------.png)|TODO|SFFPSNU--------|1.X.6.2.2 |SOF UNIT UNDERWATER DEMOLITION TEAM|POINT|D||
+|710||![](./images/SFFPSNB--------.png)|TODO|SFFPSNB--------|1.X.6.2.3 |SOF UNIT SPECIAL BOAT|POINT|D||
+|711||![](./images/SFFPSNN--------.png)|TODO|SFFPSNN--------|1.X.6.2.4 |SOF UNIT SPECIAL SSNR|POINT|D||
+|712||![](./images/SFFPG----------.png)|TODO|SFFPG----------|1.X.6.3 |SOF UNIT GROUND|POINT|D||
+|713||![](./images/SFFPGS---------.png)|TODO|SFFPGS---------|1.X.6.3.1 |SOF UNIT SPECIAL FORCES|POINT|D||
+|714||![](./images/SFFPGSR--------.png)|TODO|SFFPGSR--------|1.X.6.3.2 |SOF UNIT RANGER|POINT|D||
+|715||![](./images/SFFPGSP--------.png)|TODO|SFFPGSP--------|1.X.6.3.3 |SOF UNIT PSYCHOLOGICAL OPERATIONS (PSYOPS)|POINT|D||
+|716||![](./images/SFFPGSPA-------.png)|TODO|SFFPGSPA-------|1.X.6.3.3.1 |SOF UNIT FIXED AVIATION|POINT|D||
+|717||![](./images/SFFPGCA--------.png)|TODO|SFFPGCA--------|1.X.6.3.4 |SOF UNIT CIVIL AFFAIRS|POINT|D||
+|718||![](./images/SFFPGB---------.png)|TODO|SFFPGB---------|1.X.6.4 |SOF UNIT SUPPORT|POINT|D||
+|719||![](./images/GFTPGB---------.png)|TODO|GFTPGB---------|2.X.1.1.1|BLOCK|LINE|E||
+|720||![](./images/GFTPGH---------.png)|TODO|GFTPGH---------|2.X.1.1.2|BREACH|LINE|E||
+|721||![](./images/GFTPGY---------.png)|TODO|GFTPGY---------|2.X.1.1.3|BYPASS|LINE|E||
+|722||![](./images/GFTPGC---------.png)|TODO|GFTPGC---------|2.X.1.1.4|CANALIZE|LINE|E||
+|723||![](./images/GFTPGX---------.png)|TODO|GFTPGX---------|2.X.1.1.5|CLEAR|LINE|E||
+|724||![](./images/GFTPGJ---------.png)|TODO|GFTPGJ---------|2.X.1.1.6|CONTAIN|LINE|E||
+|725||![](./images/GFTPGK---------.png)|TODO|GFTPGK---------|2.X.1.1.7|COUNTERATTACK (CATK)|LINE|E||
+|726||![](./images/GFTPGKF--------.png)|TODO|GFTPGKF--------|2.X.1.1.7.1|COUNTERATTACK BY FIRE|LINE|E||
+|727||![](./images/GFTPGL---------.png)|TODO|GFTPGL---------|2.X.1.1.8|DELAY|LINE|E||
+|728||![](./images/GFTPGLT--------.png)|TODO|GFTPGLT--------|2.X.1.1.8.1|DELAY (UNTIL A SPECIFIED TIME)|LINE|E||
+|729||![](./images/GFTPGD---------.png)|TODO|GFTPGD---------|2.X.1.1.9|DESTROY|POINT|E||
+|730||![](./images/GFTPGT---------.png)|TODO|GFTPGT---------|2.X.1.1.10|DISRUPT|LINE|E||
+|731||![](./images/GFTPGF---------.png)|TODO|GFTPGF---------|2.X.1.1.11|FIX|LINE|E||
+|732||![](./images/GFTPGA---------.png)|TODO|GFTPGA---------|2.X.1.1.12|FOLLOW AND ASSUME|LINE|E||
+|733||![](./images/GFTPGAS--------.png)|TODO|GFTPGAS--------|2.X.1.1.12.1|FOLLOW AND SUPPORT|LINE|E||
+|734||![](./images/GFTPGI---------.png)|TODO|GFTPGI---------|2.X.1.1.13|INTERDICT|POINT|E||
+|735||![](./images/GFTPGE---------.png)|TODO|GFTPGE---------|2.X.1.1.14|ISOLATE|LINE|E||
+|736||![](./images/GFTPGN---------.png)|TODO|GFTPGN---------|2.X.1.1.15|NEUTRALIZE|POINT|E||
+|737||![](./images/GFTPGO---------.png)|TODO|GFTPGO---------|2.X.1.1.16|OCCUPY|LINE|E||
+|738||![](./images/GFTPGP---------.png)|TODO|GFTPGP---------|2.X.1.1.17|PENETRATE|LINE|E||
+|739||![](./images/GFTPGR---------.png)|TODO|GFTPGR---------|2.X.1.1.18|RELIEF IN PLACE (RIP)|LINE|E||
+|740||![](./images/GFTPGQ---------.png)|TODO|GFTPGQ---------|2.X.1.1.19|RETAIN|LINE|E||
+|741||![](./images/GFTPGM---------.png)|TODO|GFTPGM---------|2.X.1.1.20|RETIREMENT|LINE|E||
+|742||![](./images/GFTPGS---------.png)|TODO|GFTPGS---------|2.X.1.1.21|SECURE|LINE|E||
+|743||![](./images/GFTPGSS--------.png)|TODO|GFTPGSS--------|2.X.1.1.21.1|SECURITY (SCREEN)|LINE|E||
+|744||![](./images/GFTPGSG--------.png)|TODO|GFTPGSG--------|2.X.1.1.21.2|SECURITY (GUARD)|LINE|E||
+|745||![](./images/GFTPGSC--------.png)|TODO|GFTPGSC--------|2.X.1.1.21.3|SECURITY (COVER)|LINE|E||
+|746||![](./images/GFTPGZ---------.png)|TODO|GFTPGZ---------|2.X.1.1.22|SEIZE|LINE|E||
+|747||![](./images/GFTPGW---------.png)|TODO|GFTPGW---------|2.X.1.1.23|WITHDRAW|LINE|E||
+|748||![](./images/GFTPGWP--------.png)|TODO|GFTPGWP--------|2.X.1.1.23.1|WITHDRAW UNDER PRESSURE|LINE|E||
+|749||![](./images/GFCPMGPFE------.png)|TODO|GFCPMGPFE------|2.X.2.1.1.1.1.1|ELECTRO-MAGNETIC|POINT|E||
+|750||![](./images/GFCPMGPFA------.png)|TODO|GFCPMGPFA------|2.X.2.1.1.1.1.2|ACOUSTIC|POINT|E||
+|751||![](./images/GFCPMGPFO------.png)|TODO|GFCPMGPFO------|2.X.2.1.1.1.1.3|ELECTRO-OPTICAL|POINT|E||
+|752||![](./images/GFCPMGPI-------.png)|TODO|GFCPMGPI-------|2.X.2.1.1.1.2|POINT OF INTEREST|POINT|E||
+|753||![](./images/GFCPMGLBGF-----.png)|TODO|GFCPMGLBGF-----|2.X.2.1.1.2.1.1.1|FRIENDLY PRESENT|LINE|E||
+|754||![](./images/GFCPMGLBGO-----.png)|TODO|GFCPMGLBGO-----|2.X.2.1.1.2.1.1.2|FRIENDLY PLANNED OR ON ORDER|LINE|E||
+|755||![](./images/GHCPMGLBGK-----.png)|TODO|GHCPMGLBGK-----|2.X.2.1.1.2.1.1.3|ENEMY KNOWN|LINE|E||
+|756||![](./images/GHCPMGLBGS-----.png)|TODO|GHCPMGLBGS-----|2.X.2.1.1.2.1.1.4|ENEMY SUSPECTED OR TEMPLA TED|LINE|E||
+|757||![](./images/GFCPMGLBL------.png)|TODO|GFCPMGLBL------|2.X.2.1.1.2.1.2|LATERAL BOUNDARY|LINE|E||
+|758||![](./images/GFCPMGLBF------.png)|TODO|GFCPMGLBF------|2.X.2.1.1.2.1.3|FORWARD BOUNDARY|LINE|E||
+|759||![](./images/GFCPMGLBR------.png)|TODO|GFCPMGLBR------|2.X.2.1.1.2.1.4|REAR BOUNDARY|LINE|E||
+|760||![](./images/GFCPMGLF-------.png)|TODO|GFCPMGLF-------|2.X.2.1.1.2.2|FORWARD LINE OF TROOPS (FLOT)|LINE|E||
+|761||![](./images/GFCPMGLL-------.png)|TODO|GFCPMGLL-------|2.X.2.1.1.2.3|LINE OF CONTACT|LINE|E||
+|762||![](./images/GFCPMGLP-------.png)|TODO|GFCPMGLP-------|2.X.2.1.1.2.4|PHASE/COORDINATION LINE|LINE|E||
+|763||![](./images/GFCPMGLE-------.png)|TODO|GFCPMGLE-------|2.X.2.1.1.2.5|BEARING LINE|LINE|E||
+|764||![](./images/GFCPMGLEE------.png)|TODO|GFCPMGLEE------|2.X.2.1.1.2.5.1|ELECTRONIC|LINE|E||
+|765||![](./images/GFCPMGLEA------.png)|TODO|GFCPMGLEA------|2.X.2.1.1.2.5.2|ACOUSTIC|LINE|E||
+|766||![](./images/GFCPMGLET------.png)|TODO|GFCPMGLET------|2.X.2.1.1.2.5.3|TORPEDO|LINE|E||
+|767||![](./images/GFCPMGLEO------.png)|TODO|GFCPMGLEO------|2.X.2.1.1.2.5.4|ELECTRO-OPTICAL INTERCEPT|LINE|E||
+|768||![](./images/GFCPMGAUAF-----.png)|TODO|GFCPMGAUAF-----|2.X.2.1.1.3.1.1.1|FRIENDLY|AREA|E||
+|769||![](./images/GFCPMGAUAP-----.png)|TODO|GFCPMGAUAP-----|2.X.2.1.1.3.1.1.2|FRIENDLY PLANNED/ON ORDER|AREA|E||
+|770||![](./images/GHCPMGAUAE-----.png)|TODO|GHCPMGAUAE-----|2.X.2.1.1.3.1.1.3|ENEMY KNOWN/CONFIRMED|AREA|E||
+|771||![](./images/GHCPMGAUAS-----.png)|TODO|GHCPMGAUAS-----|2.X.2.1.1.3.1.1.4|ENEMY SUSPECTED/TEMPLATED|AREA|E||
+|772||![](./images/GFCPMGAUB------.png)|TODO|GFCPMGAUB------|2.X.2.1.1.3.1.2|ASSEMBLY AREA|AREA|E||
+|773||![](./images/GFCPMGAUBO-----.png)|TODO|GFCPMGAUBO-----|2.X.2.1.1.3.1.2.1|OCCUPIED|AREA|E||
+|774||![](./images/GFCPMGAUBM-----.png)|TODO|GFCPMGAUBM-----|2.X.2.1.1.3.1.2.2|OCCUPIED BY MULTIPLE UNITS|AREA|E||
+|775||![](./images/GFCPMGAUBR-----.png)|TODO|GFCPMGAUBR-----|2.X.2.1.1.3.1.2.3|PROPOSED/ON ORDER|AREA|E||
+|776||![](./images/GFCPMGASD------.png)|TODO|GFCPMGASD------|2.X.2.1.1.3.2.1|DROP ZONE (DZ)|AREA|E||
+|777||![](./images/GFCPMGASE------.png)|TODO|GFCPMGASE------|2.X.2.1.1.3.2.2|EXTRACTION ZONE (EZ)|AREA|E||
+|778||![](./images/GFCPMGASL------.png)|TODO|GFCPMGASL------|2.X.2.1.1.3.2.3|LANDING ZONE (LZ)|AREA|E||
+|779||![](./images/GFCPMGASP------.png)|TODO|GFCPMGASP------|2.X.2.1.1.3.2.4|PICKUP ZONE (PZ)|AREA|E||
+|780||![](./images/GFCPMGASS------.png)|TODO|GFCPMGASS------|2.X.2.1.1.3.2.5|SEARCH AREA/RECONNAISSANCE AREA|AREA|E||
+|781||![](./images/GFCPMGASM------.png)|TODO|GFCPMGASM------|2.X.2.1.1.3.2.6|LIMITED ACCESS AREA|AREA|E||
+|782||![](./images/GFCPMGASG------.png)|TODO|GFCPMGASG------|2.X.2.1.1.3.2.7|ENGAGEMENT AREA|AREA|E||
+|783||![](./images/GFCPMGASF------.png)|TODO|GFCPMGASF------|2.X.2.1.1.3.2.8|FORTIFIED AREA|AREA|E||
+|784||![](./images/GFCPMGAST------.png)|TODO|GFCPMGAST------|2.X.2.1.1.3.2.9|STAGING AREA|AREA|E||
+|785||![](./images/GFCPMAAP-------.png)|TODO|GFCPMAAP-------|2.X.2.1.2.1.1|AIR CONTROL POINT (ACP)|POINT|E||
+|786||![](./images/GFCPMAAC-------.png)|TODO|GFCPMAAC-------|2.X.2.1.2.1.2|COMMUNICATIONS CHECKPOINT (CCP)|POINT|E||
+|787||![](./images/GFCPMAAU-------.png)|TODO|GFCPMAAU-------|2.X.2.1.2.1.3|POP UP POINT (PUP)|POINT|E||
+|788||![](./images/GFCPMAAD-------.png)|TODO|GFCPMAAD-------|2.X.2.1.2.1.4|DOWNED AIRCREW PICK UP POINT|POINT|E||
+|789||![](./images/GFCPMALC-------.png)|TODO|GFCPMALC-------|2.X.2.1.2.2.1|AIR CORRIDOR|LINE|E||
+|790||![](./images/GFCPMALM-------.png)|TODO|GFCPMALM-------|2.X.2.1.2.2.2|MINIMUM RISK ROUTE (MRR)|LINE|E||
+|791||![](./images/GFCPMALS-------.png)|TODO|GFCPMALS-------|2.X.2.1.2.2.3|STANDARD-USE ARMY AIRCRAFT FLIGHT ROUTE (SAAFR)|LINE|E||
+|792||![](./images/GFCPMALU-------.png)|TODO|GFCPMALU-------|2.X.2.1.2.2.4|UNMANNED AERIAL VEHICLE (UAV) ROUTE|LINE|E||
+|793||![](./images/GFCPMALL-------.png)|TODO|GFCPMALL-------|2.X.2.1.2.2.5|LOW LEVEL TRANSIT ROUTE (LLTR)|LINE|E||
+|794||![](./images/GFCPMALIN------.png)|TODO|GFCPMALIN------|2.X.2.1.2.2.6|IFF ON LINE|LINE|E||
+|795||![](./images/GFCPMALIF------.png)|TODO|GFCPMALIF------|2.X.2.1.2.2.7|IFF OFF LINE|LINE|E||
+|796||![](./images/GFCPMAVR-------.png)|TODO|GFCPMAVR-------|2.X.2.1.2.3.1|RESTRICTED OPERATIONS ZONE (ROZ)|AREA|E||
+|797||![](./images/GFCPMAVF-------.png)|TODO|GFCPMAVF-------|2.X.2.1.2.3.2|FORWARD AREA AIR DEFENCE ZONE (FAADEZ)|AREA|E||
+|798||![](./images/GFCPMAVH-------.png)|TODO|GFCPMAVH-------|2.X.2.1.2.3.3|HIGH DENSITY AIRSPACE CONTROL ZONE (HIDACZ)|AREA|E||
+|799||![](./images/GFCPMAVM-------.png)|TODO|GFCPMAVM-------|2.X.2.1.2.3.4|MISSILE ENGAGEMENT ZONE (MEZ)|AREA|E||
+|800||![](./images/GFCPMAVML------.png)|TODO|GFCPMAVML------|2.X.2.1.2.3.4.1|LOW ALTITUDE MEZ|AREA|E||
+|801||![](./images/GFCPMAVMH------.png)|TODO|GFCPMAVMH------|2.X.2.1.2.3.4.2|HIGH ALTITUDE MEZ|AREA|E||
+|802||![](./images/GFCPMAVW-------.png)|TODO|GFCPMAVW-------|2.X.2.1.2.3.5|WEAPONS FREE ZONE|AREA|E||
+|803||![](./images/GFCPMDD--------.png)|TODO|GFCPMDD--------|2.X.2.1.3.1|DUMMY (DECEPTION)(DECOY)|LINE|E||
+|804||![](./images/GFCPMDA--------.png)|TODO|GFCPMDA--------|2.X.2.1.3.2|AXIS OF ADVANCE FOR FEINT|LINE|E||
+|805||![](./images/GFCPMDF--------.png)|TODO|GFCPMDF--------|2.X.2.1.3.3|DIRECTION OF ATTACK FOR FEINT|LINE|E||
+|806||![](./images/GFCPMDM--------.png)|TODO|GFCPMDM--------|2.X.2.1.3.4|DECOY MINED AREA|AREA|E||
+|807||![](./images/GFCPMDY--------.png)|TODO|GFCPMDY--------|2.X.2.1.3.5|DECOY MINED AREA FENCED |AREA|E||
+|808||![](./images/GFCPMDN--------.png)|TODO|GFCPMDN--------|2.X.2.1.3.6|DUMMY MINEFIELD|POINT|E||
+|809||![](./images/GFCPMMPT-------.png)|TODO|GFCPMMPT-------|2.X.2.1.4.1.1|TARGET REFERENCE POINT (TRP)|POINT|E||
+|810||![](./images/GFCPMMPBO------.png)|TODO|GFCPMMPBO------|2.X.2.1.4.1.2.1|OCCUPIED (BATTALION SIZED UNIT)|AREA|E||
+|811||![](./images/GFCPMMPBP------.png)|TODO|GFCPMMPBP------|2.X.2.1.4.1.2.2|PREPARED (P) BUT NOT OCCUPIED|AREA|E||
+|812||![](./images/GFCPMMPBL------.png)|TODO|GFCPMMPBL------|2.X.2.1.4.1.2.3|PLANNED|AREA|E||
+|813||![](./images/GFCPMMPSF------.png)|TODO|GFCPMMPSF------|2.X.2.1.4.1.3.1|FRIENDLY|AREA|E||
+|814||![](./images/GHCPMMPSE------.png)|TODO|GHCPMMPSE------|2.X.2.1.4.1.3.2|ENEMY KNOWN AND CONFIRMED|AREA|E||
+|815||![](./images/GFCPMMPO-------.png)|TODO|GFCPMMPO-------|2.X.2.1.4.1.4|OBSERVATION POST/OUTPOST|POINT|E||
+|816||![](./images/GFCPMMPOC------.png)|TODO|GFCPMMPOC------|2.X.2.1.4.1.4.1|COMBAT OUTPOST|POINT|E||
+|817||![](./images/GFCPMMPOR------.png)|TODO|GFCPMMPOR------|2.X.2.1.4.1.4.2|OBSERVATION POST OCCUPIED BY DISMOUNTED SCOUTS OR RECONNAISSANCE|POINT|E||
+|818||![](./images/GFCPMMPOF------.png)|TODO|GFCPMMPOF------|2.X.2.1.4.1.4.3|FORWARD OBSERVER POSITION|POINT|E||
+|819||![](./images/GFCPMMPOS------.png)|TODO|GFCPMMPOS------|2.X.2.1.4.1.4.4|SENSOR OUTPOST/LISTENING POST (OP/LP)|POINT|E||
+|820||![](./images/GFCPMMPON------.png)|TODO|GFCPMMPON------|2.X.2.1.4.1.4.5|CBRN OBSERVATION POST (DISMOUNTED)|POINT|E||
+|821||![](./images/GFCPMMPON------.png)|TODO|GFCPMMPON------|2.X.2.1.4.1.4.6|FORWARD AIR CONTROLLER (FAC)|POINT|E||
+|822||![](./images/GFCPMMPON------.png)|TODO|GFCPMMPON------|2.X.2.1.4.1.4.7|TACTICAL AIR CONTROL PARTY (TACP)|POINT|E||
+|823||![](./images/GFCPMMDF-------.png)|TODO|GFCPMMDF-------|2.X.2.1.4.2.1|FORWARD EDGE OF BATTLE AREA (FEBA)|LINE|E||
+|824||![](./images/GFCPMMDFA------.png)|TODO|GFCPMMDFA------|2.X.2.1.4.2.1.1|ACTUAL TRACE OF THE FEBA|LINE|E||
+|825||![](./images/GFCPMMDFP------.png)|TODO|GFCPMMDFP------|2.X.2.1.4.2.1.2|PROPOSED OR ON ORDER TRACE OF THE FEBA|LINE|E||
+|826||![](./images/GFCPMMDP-------.png)|TODO|GFCPMMDP-------|2.X.2.1.4.2.2|PRINCIPLE DIRECTION OF FIRE (PDF)|LINE|E||
+|827||![](./images/GFCPMMAE-------.png)|TODO|GFCPMMAE-------|2.X.2.1.4.3.1|ENGAGEMENT AREA (EA)|AREA|E||
+|828||![](./images/GFCPMOPD-------.png)|TODO|GFCPMOPD-------|2.X.2.1.5.1.1|POINT OF DEPARTURE|POINT|E||
+|829||![](./images/GFCPMOLAF------.png)|TODO|GFCPMOLAF------|2.X.2.1.5.2.1.1|FRIENDLY AVIATION|LINE|E||
+|830||![](./images/GFCPMOLAA------.png)|TODO|GFCPMOLAA------|2.X.2.1.5.2.1.2|FRIENDLY AIRBORNE|LINE|E||
+|831||![](./images/GFCPMOLAH------.png)|TODO|GFCPMOLAH------|2.X.2.1.5.2.1.3|FRIENDLY ATTACK HELICOPTER|LINE|E||
+|832||![](./images/GFCPMOLAS------.png)|TODO|GFCPMOLAS------|2.X.2.1.5.2.1.4|FRIENDLY GROUND AXIS OF SUPPORTING ATTACK|LINE|E||
+|833||![](./images/GFCPMOLAM------.png)|TODO|GFCPMOLAM------|2.X.2.1.5.2.1.5|FRIENDLY GROUND AXIS OF MAIN ATTACK|LINE|E||
+|834||![](./images/GFCPMOLAO------.png)|TODO|GFCPMOLAO------|2.X.2.1.5.2.1.6|FRIENDLY GROUND AXIS ON ORDER WITH DATE AND TIME (IF KNOWN) EFFECTIVE|LINE|E||
+|835|YES|![](./images/GHCPMOLAE------.png)|TODO|GHCPMOLAE------|2.X.2.1.5.2.1.7|ENEMY CONFIRMED|LINE|E||
+|836|YES|![](./images/GHCPMOLAT------.png)|TODO|GHCPMOLAT------|2.X.2.1.5.2.1.8|ENEMY TEMPLATED|LINE|E||
+|837||![](./images/GFCPMOLDF------.png)|TODO|GFCPMOLDF------|2.X.2.1.5.2.2.1|FRIENDLY AVIATION|LINE|E||
+|838||![](./images/GFCPMOLDY------.png)|TODO|GFCPMOLDY------|2.X.2.1.5.2.2.2|FRIENDLY AVIATION PLANNED OR ON ORDER|LINE|E||
+|839||![](./images/GHCPMOLDE------.png)|TODO|GHCPMOLDE------|2.X.2.1.5.2.2.3|ENEMY KNOWN/CONFIRMED A VIA TION|LINE|E||
+|840||![](./images/GHCPMOLDT------.png)|TODO|GHCPMOLDT------|2.X.2.1.5.2.2.4|TEMPLATED ENEMY AVIATION|LINE|E||
+|841||![](./images/GHCPMOLDG------.png)|TODO|GHCPMOLDG------|2.X.2.1.5.2.2.5|ENEMY CONFIRMED/KNOWN GROUND|LINE|E||
+|842||![](./images/GHCPMOLDR------.png)|TODO|GHCPMOLDR------|2.X.2.1.5.2.2.6|TEMPLATED ENEMY GROUND|LINE|E||
+|843||![](./images/GFCPMOLDS------.png)|TODO|GFCPMOLDS------|2.X.2.1.5.2.2.7|FRIENDLY DIRECTION OF SUPPORTING ATTACK|LINE|E||
+|844||![](./images/GFCPMOLDM------.png)|TODO|GFCPMOLDM------|2.X.2.1.5.2.2.8|FRIENDLY DIRECTION OF MAIN ATTACK|LINE|E||
+|845||![](./images/GFCPMOLDO------.png)|TODO|GFCPMOLDO------|2.X.2.1.5.2.2.9|FRIENDLY PLANNED OR ON ORDER|LINE|E||
+|846||![](./images/GFCPMOLF-------.png)|TODO|GFCPMOLF-------|2.X.2.1.5.2.3|FINAL COORDINATION LINE|LINE|E||
+|847||![](./images/GFCPMOLI-------.png)|TODO|GFCPMOLI-------|2.X.2.1.5.2.4|INFILTRATION LINE|LINE|E||
+|848||![](./images/GFCPMOLL-------.png)|TODO|GFCPMOLL-------|2.X.2.1.5.2.5|LIMIT OF ADVANCE|LINE|E||
+|849||![](./images/GFCPMOLT-------.png)|TODO|GFCPMOLT-------|2.X.2.1.5.2.6|LINE OF DEPARTURE|LINE|E||
+|850||![](./images/GFCPMOLC-------.png)|TODO|GFCPMOLC-------|2.X.2.1.5.2.7|LINE OF DEPARTURE/LINE OF CONTACT (LD/LC)|LINE|E||
+|851||![](./images/GFCPMOLP-------.png)|TODO|GFCPMOLP-------|2.X.2.1.5.2.8|PROBABLE LINE OF DEPLOYMENT (PLD)|LINE|E||
+|852||![](./images/GFCPMOLR-------.png)|TODO|GFCPMOLR-------|2.X.2.1.5.2.9|RAID|LINE|E||
+|853||![](./images/GFCPMOOA-------.png)|TODO|GFCPMOOA-------|2.X.2.1.5.3.1|ASSAULT POSITION|AREA|E||
+|854|YES|![](./images/GFCPMOOTF------.png)|TODO|GFCPMOOTF------|2.X.2.1.5.3.2.1|FRIENDLY ATTACK POSITION|AREA|E||
+|855||![](./images/GFCPMOOTC------.png)|TODO|GFCPMOOTC------|2.X.2.1.5.3.2.2|FRIENDLY OCCUPIED (ONLY IF A UNIT MUST STOP IN THE ATTACK POSITION)|AREA|E||
+|856||![](./images/GFCPMOOTP------.png)|TODO|GFCPMOOTP------|2.X.2.1.5.3.2.3|FRIENDLY PLANNED PROPOSED OR ON ORDER |AREA|E||
+|857||![](./images/GFCPMOOP-------.png)|TODO|GFCPMOOP-------|2.X.2.1.5.3.3|ATTACK BY FIRE POSITION|LINE|E||
+|858||![](./images/GFCPMOOS-------.png)|TODO|GFCPMOOS-------|2.X.2.1.5.3.4|SUPPORT BY FIRE POSITION|LINE|E||
+|859||![](./images/GFCPMOOJ-------.png)|TODO|GFCPMOOJ-------|2.X.2.1.5.3.5|OBJECTIVE|AREA|E||
+|860||![](./images/GFCPMOOX-------.png)|TODO|GFCPMOOX-------|2.X.2.1.5.3.6|PENETRATION BOX|AREA|E||
+|861||![](./images/GFCPMOOR-------.png)|TODO|GFCPMOOR-------|2.X.2.1.5.3.7|RAID AREA|AREA|E||
+|862||![](./images/GFCPMSGEF------.png)|TODO|GFCPMSGEF------|2.X.2.1.6.1.1.1|FRIENDLY|AREA|E||
+|863||![](./images/GHCPMSGEY------.png)|TODO|GHCPMSGEY------|2.X.2.1.6.1.1.2|ENEMY|AREA|E||
+|864||![](./images/GFCPMSGA-------.png)|TODO|GFCPMSGA-------|2.X.2.1.6.1.2|AMBUSH|LINE|E||
+|865||![](./images/GFCPMSLA-------.png)|TODO|GFCPMSLA-------|2.X.2.1.6.2.1|AIR HEAD|LINE|E||
+|866||![](./images/GFCPMSLB-------.png)|TODO|GFCPMSLB-------|2.X.2.1.6.2.2|BRIDGEHEAD|LINE|E||
+|867||![](./images/GFCPMSLH-------.png)|TODO|GFCPMSLH-------|2.X.2.1.6.2.3|HOLDING LINE|LINE|E||
+|868||![](./images/GFCPMSLR-------.png)|TODO|GFCPMSLR-------|2.X.2.1.6.2.4|RELEASE LINE|LINE|E||
+|869||![](./images/GFCPMSAO-------.png)|TODO|GFCPMSAO-------|2.X.2.1.6.3.1|AREA OF OPERATIONS (AO)|AREA|E||
+|870||![](./images/GFCPMSAN-------.png)|TODO|GFCPMSAN-------|2.X.2.1.6.3.2|NAMED AREA OF INTEREST|AREA|E||
+|871||![](./images/GFCPMSAT-------.png)|TODO|GFCPMSAT-------|2.X.2.1.6.3.3|TARGETED AREA OF INTEREST|AREA|E||
+|872||![](./images/GFCPBOGB-------.png)|TODO|GFCPBOGB-------|2.X.2.2.1.1.1|BELT|LINE|E||
+|873||![](./images/GFCPBOGL-------.png)|TODO|GFCPBOGL-------|2.X.2.2.1.1.2|LINE|LINE|E||
+|874||![](./images/GFCPBOGZ-------.png)|TODO|GFCPBOGZ-------|2.X.2.2.1.1.3|ZONE|AREA|E||
+|875||![](./images/GFCPBOA--------.png)|TODO|GFCPBOA--------|2.X.2.2.1.2|ABA TIS|LINE|E||
+|876||![](./images/GFCPBOATO------.png)|TODO|GFCPBOATO------|2.X.2.2.1.3.1|ANTITANK DITCH|LINE|E||
+|877||![](./images/GFCPBOATM------.png)|TODO|GFCPBOATM------|2.X.2.2.1.3.2|ANTITANK DITCH REINFORCED WITH ANTITANK MINES|LINE|E||
+|878||![](./images/GFCPBOATD------.png)|TODO|GFCPBOATD------|2.X.2.2.1.3.3|ANTITANK OBSTACLES TETRAHEDRONS DRAGON'S TEETH AND OTHER SIMILAR OBSTACLES|POINT|E||
+|879||![](./images/GFCPBOATW------.png)|TODO|GFCPBOATW------|2.X.2.2.1.3.4|ANTITANK WALL|LINE|E||
+|880||![](./images/GFCPBOAB-------.png)|TODO|GFCPBOAB-------|2.X.2.2.1.4|BOOBY TRAP|POINT|E||
+|881||![](./images/GFCPBOAMA------.png)|TODO|GFCPBOAMA------|2.X.2.2.1.5.1|ANTIPERSONNEL (AP) MINE|POINT|E||
+|882||![](./images/GFCPBOAMT------.png)|TODO|GFCPBOAMT------|2.X.2.2.1.5.2|ANTITANK (AT) MINE|POINT|E||
+|883||![](./images/GFCPBOAMD------.png)|TODO|GFCPBOAMD------|2.X.2.2.1.5.3|ANTITANK MINE WITH ANTIHANDLING DEVISE|POINT|E||
+|884||![](./images/GFCPBOAMC------.png)|TODO|GFCPBOAMC------|2.X.2.2.1.5.4|ANTITANK MINE (ARROW SHOWS EFFECTS) CLAYMORE MINE|POINT|E||
+|885||![](./images/GFCPBOAMU------.png)|TODO|GFCPBOAMU------|2.X.2.2.1.5.5|UNSPECIFIED MINE|POINT|E||
+|886||![](./images/GFCPBOAMN------.png)|TODO|GFCPBOAMN------|2.X.2.2.1.5.6|MINE CLUSTER|POINT|E||
+|887||![](./images/GFCPBOAMW------.png)|TODO|GFCPBOAMW------|2.X.2.2.1.5.7|WIDE AREA MINES|POINT|E||
+|888||![](./images/GFCPBOAIP------.png)|TODO|GFCPBOAIP------|2.X.2.2.1.6.1|PLANNED MINEFIELD|POINT|E||
+|889||![](./images/GFCPBOAIC------.png)|TODO|GFCPBOAIC------|2.X.2.2.1.6.2|COMPLETED MINEFIELD|POINT|E||
+|890||![](./images/GFCPBOAIL------.png)|TODO|GFCPBOAIL------|2.X.2.2.1.6.3|ANTIPERSONNEL (AP) MINEFIELD|AREA|E||
+|891||![](./images/GFCPBOAIG------.png)|TODO|GFCPBOAIG------|2.X.2.2.1.6.4|ANTITANK (AT) MINEFIELD WITH GAP|AREA|E||
+|892||![](./images/GFCPBOAIN------.png)|TODO|GFCPBOAIN------|2.X.2.2.1.6.5|ANTITANK (AT) MINEFIELD|POINT|E||
+|893||![](./images/GFCPBOAIS------.png)|TODO|GFCPBOAIS------|2.X.2.2.1.6.6|SCATTERABLE MINES|POINT|E||
+|894||![](./images/GFCPBOAIH------.png)|TODO|GFCPBOAIH------|2.X.2.2.1.6.7|ANTIPERSONNEL (AP) MINEFIELD REINFORCED WITH SCATTERABLE WITH SELF-DESTRUCT DATE-TIME-GROUP|POINT|E||
+|895||![](./images/GFCPBOAID------.png)|TODO|GFCPBOAID------|2.X.2.2.1.6.8|SCATTERABLE MINEFIELD WITH SELF-DESTRUCT DATE-TIME-GROUP|POINT|E||
+|896||![](./images/GFCPBOAIM------.png)|TODO|GFCPBOAIM------|2.X.2.2.1.6.9|MINED AREA|AREA|E||
+|897||![](./images/GFCPBOAV-------.png)|TODO|GFCPBOAV-------|2.X.2.2.1.7|EXECUTED VOLCANO MINEFIELD|POINT|E||
+|898||![](./images/GFCPBOAEB------.png)|TODO|GFCPBOAEB------|2.X.2.2.1.8.1|BLOCK|LINE|E||
+|899||![](./images/GFCPBOAEF------.png)|TODO|GFCPBOAEF------|2.X.2.2.1.8.2|FIX|LINE|E||
+|900||![](./images/GFCPBOAET------.png)|TODO|GFCPBOAET------|2.X.2.2.1.8.3|TURN|LINE|E||
+|901||![](./images/GFCPBOAED------.png)|TODO|GFCPBOAED------|2.X.2.2.1.8.4|DISRUPT|LINE|E||
+|902||![](./images/GFCPBOAF-------.png)|TODO|GFCPBOAF-------|2.X.2.2.1.9|OBSTACLE FREE AREA|AREA|E||
+|903||![](./images/GFCPBOAFR------.png)|TODO|GFCPBOAFR------|2.X.2.2.1.9.1|OBSTACLE-RESTRICTED AREA|AREA|E||
+|904||![](./images/GFCPBOAU-------.png)|TODO|GFCPBOAU-------|2.X.2.2.1.10|UN-EXPLODED ORDNANCE AREA|AREA|E||
+|905||![](./images/GFCPBOARP------.png)|TODO|GFCPBOARP------|2.X.2.2.1.11.1|ROADBLOCK PLANNED|LINE|E||
+|906||![](./images/GFCPBOARE------.png)|TODO|GFCPBOARE------|2.X.2.2.1.11.2|ROADBLOCK WITH EXPLOSIVES STATE OF READINESS 1(SAFE) |LINE|E||
+|907||![](./images/GFCPBOARS------.png)|TODO|GFCPBOARS------|2.X.2.2.1.11.3|ROADBLOCK WITH EXPLOSIVES STATE OF READINESS 2 (ARMED BUT PASSABLE) |LINE|E||
+|908||![](./images/GFCPBOARC------.png)|TODO|GFCPBOARC------|2.X.2.2.1.11.4|ROADBLOCK COMPLETED (EXECUTED)|LINE|E||
+|909||![](./images/GFCPBOAP-------.png)|TODO|GFCPBOAP-------|2.X.2.2.1.12|TRIP WIRE|LINE|E||
+|910||![](./images/GFCPBOAWU------.png)|TODO|GFCPBOAWU------|2.X.2.2.1.13.1|UNSPECIFIED|LINE|E||
+|911||![](./images/GFCPBOAWS------.png)|TODO|GFCPBOAWS------|2.X.2.2.1.13.2|SINGLE FENCE|LINE|E||
+|912||![](./images/GFCPBOAWD------.png)|TODO|GFCPBOAWD------|2.X.2.2.1.13.3|DOUBLE FENCE|LINE|E||
+|913||![](./images/GFCPBOAWA------.png)|TODO|GFCPBOAWA------|2.X.2.2.1.13.4|DOUBLE APRON FENCE|LINE|E||
+|914||![](./images/GFCPBOAWL------.png)|TODO|GFCPBOAWL------|2.X.2.2.1.13.5|LOW WIRE FENCE|LINE|E||
+|915||![](./images/GFCPBOAWH------.png)|TODO|GFCPBOAWH------|2.X.2.2.1.13.6|HIGH WIRE FENCE|LINE|E||
+|916||![](./images/GFCPBOAWC------.png)|TODO|GFCPBOAWC------|2.X.2.2.1.13.7|SINGLE CONCERTINA|LINE|E||
+|917||![](./images/GFCPBOAWB------.png)|TODO|GFCPBOAWB------|2.X.2.2.1.13.8|DOUBLE STRAND CONCERTINA|LINE|E||
+|918||![](./images/GFCPBOAWR------.png)|TODO|GFCPBOAWR------|2.X.2.2.1.13.9|TRIPLE STRAND CONCERTINA|LINE|E||
+|919||![](./images/GFCPBYOE-------.png)|TODO|GFCPBYOE-------|2.X.2.2.2.1.1|BYPASS EASY|LINE|E||
+|920||![](./images/GFCPBYOD-------.png)|TODO|GFCPBYOD-------|2.X.2.2.2.1.2|BYPASS DIFFICULT|LINE|E||
+|921||![](./images/GFCPBYOI-------.png)|TODO|GFCPBYOI-------|2.X.2.2.2.1.3|BYPASS IMPOSSIBLE|LINE|E||
+|922||![](./images/GFCPBYCA-------.png)|TODO|GFCPBYCA-------|2.X.2.2.2.2.1|ASSAULT CROSSING AREA|LINE|E||
+|923||![](./images/GFCPBYCB-------.png)|TODO|GFCPBYCB-------|2.X.2.2.2.2.2|BRIDGE OR GAP|LINE|E||
+|924||![](./images/GFCPBYCF-------.png)|TODO|GFCPBYCF-------|2.X.2.2.2.2.3|FERRY|LINE|E||
+|925||![](./images/GFCPBYCE-------.png)|TODO|GFCPBYCE-------|2.X.2.2.2.2.4|FORD/FORD EASY|LINE|E||
+|926||![](./images/GFCPBYCD-------.png)|TODO|GFCPBYCD-------|2.X.2.2.2.2.5|FORD DIFFICULT|LINE|E||
+|927||![](./images/GFCPBYCL-------.png)|TODO|GFCPBYCL-------|2.X.2.2.2.2.6|LANE|LINE|E||
+|928||![](./images/GFCPBYCR-------.png)|TODO|GFCPBYCR-------|2.X.2.2.2.2.7|RAFT SITE|LINE|E||
+|929||![](./images/GFCPBYCG-------.png)|TODO|GFCPBYCG-------|2.X.2.2.2.2.8|ENGINEER REGULATING POINT|POINT|E||
+|930||![](./images/GFCPBSE--------.png)|TODO|GFCPBSE--------|2.X.2.2.3.1|EARTHWORK SMALL TRENCH OR FORTIFICATION |POINT|E||
+|931||![](./images/GFCPBSF--------.png)|TODO|GFCPBSF--------|2.X.2.2.3.2|FORT|POINT|E||
+|932||![](./images/GFCPBSL--------.png)|TODO|GFCPBSL--------|2.X.2.2.3.3|FORTIFIED LINE|LINE|E||
+|933|YES|![](./images/GFCPBSW--------.png)|TODO|GFCPBSW--------|2.X.2.2.3.4|FOXHOLE EMPLACEMENT OR WEAPON SITE |POINT|E||
+|934||![](./images/GFCPBSP--------.png)|TODO|GFCPBSP--------|2.X.2.2.3.5|STRONG POINT|AREA|E||
+|935||![](./images/GFCPBSH--------.png)|TODO|GFCPBSH--------|2.X.2.2.3.6|SURFACE SHELTER|POINT|E||
+|936||![](./images/GFCPBSU--------.png)|TODO|GFCPBSU--------|2.X.2.2.3.7|UNDERGROUND SHELTER|POINT|E||
+|937||![](./images/GFCPBWM--------.png)|TODO|GFCPBWM--------|2.X.2.2.4.1|MINIMUM SAFE DISTANCE ZONES|POINT|E||
+|938||![](./images/GFCPBWN--------.png)|TODO|GFCPBWN--------|2.X.2.2.4.2|NUCLEAR DETONATIONS FRIENDLY GROUND ZERO|POINT|E||
+|939||![](./images/GHCPBWE--------.png)|TODO|GHCPBWE--------|2.X.2.2.4.3|ENEMY KNOWN GROUND ZERO|POINT|E||
+|940||![](./images/GHCPBWI--------.png)|TODO|GHCPBWI--------|2.X.2.2.4.4|ENEMY TEMPLATED|POINT|E||
+|941||![](./images/GFCPBWF--------.png)|TODO|GFCPBWF--------|2.X.2.2.4.5|FRIENDLY PLANNED OR ON-ORDER|POINT|E||
+|942||![](./images/GFCPBWP--------.png)|TODO|GFCPBWP--------|2.X.2.2.4.6|FALLOUT PRODUCING|POINT|E||
+|943|YES|![](./images/GFCPBWA--------.png)|TODO|GFCPBWA--------|2.X.2.2.4.7|RADIOACTIVE AREA|AREA|E||
+|944||![](./images/GFCPBWC--------.png)|TODO|GFCPBWC--------|2.X.2.2.4.8|BIOLOGICALLY CONTAMINATED AREA|AREA|E||
+|945||![](./images/GFCPBWH--------.png)|TODO|GFCPBWH--------|2.X.2.2.4.9|CHEMICALLY CONTAMINATED AREA|AREA|E||
+|946||![](./images/GFCPBWK--------.png)|TODO|GFCPBWK--------|2.X.2.2.4.10|BIOLOGICAL AND CHEMICAL ATTACK RELEASE EVENTS |POINT|E||
+|947||![](./images/GFCPBWDP-------.png)|TODO|GFCPBWDP-------|2.X.2.2.4.11.1|DECON SITE/POINT (UNSPECIFIED)|POINT|E||
+|948||![](./images/GFCPBWDA-------.png)|TODO|GFCPBWDA-------|2.X.2.2.4.11.2|ALTERNATE DECON SITE/POINT (UNSPECIFIED)|POINT|E||
+|949||![](./images/GFCPBWDT-------.png)|TODO|GFCPBWDT-------|2.X.2.2.4.11.3|DECON SITE/POINT (TROOPS)|POINT|E||
+|950||![](./images/GFCPBWDE-------.png)|TODO|GFCPBWDE-------|2.X.2.2.4.11.4|DECON SITE/POINT (EQUIPMENT)|POINT|E||
+|951||![](./images/GFCPBWDS-------.png)|TODO|GFCPBWDS-------|2.X.2.2.4.11.5|DECON SITE/POINT (EQUIPMENT AND TROOPS)|POINT|E||
+|952||![](./images/GFCPBWDO-------.png)|TODO|GFCPBWDO-------|2.X.2.2.4.11.6|DECON SITE/POINT (OPERATIONAL DECONTAMINATION)|POINT|E||
+|953||![](./images/GFCPBWDG-------.png)|TODO|GFCPBWDG-------|2.X.2.2.4.11.7|DECON SITE/POINT (THOROUGH DECONTAMINATION)|POINT|E||
+|954||![](./images/GFCPBWDEM------.png)|TODO|GFCPBWDEM------|2.X.2.2.4.11.8|DECON POINT (MAIN) EQUIPMENT|POINT|E||
+|955||![](./images/GFCPBWDTF------.png)|TODO|GFCPBWDTF------|2.X.2.2.4.11.9|DECON POINT (FORWARD) TROOPS|POINT|E||
+|956||![](./images/GFCPBWR--------.png)|TODO|GFCPBWR--------|2.X.2.2.4.12|DOSE RATE CONTOUR LINES|AREA|E||
+|957||![](./images/GFCPFSTP-------.png)|TODO|GFCPFSTP-------|2.X.2.3.1.1.1|POINT /SINGLE TARGET|POINT|E||
+|958||![](./images/GFCPFSTC-------.png)|TODO|GFCPFSTC-------|2.X.2.3.1.1.2|CIRCULAR TARGET|POINT|E||
+|959||![](./images/GFCPFSS--------.png)|TODO|GFCPFSS--------|2.X.2.3.1.2|FIRE SUPPORT STATION|POINT|E||
+|960||![](./images/GFCPFLC--------.png)|TODO|GFCPFLC--------|2.X.2.3.2.1|FIRE SUPPORT COORDINATION LINE (FSCL)|LINE|E||
+|961||![](./images/GFCPFLF--------.png)|TODO|GFCPFLF--------|2.X.2.3.2.2|COORDINATION FIRE LINE (CFL)|LINE|E||
+|962||![](./images/GFCPFLT--------.png)|TODO|GFCPFLT--------|2.X.2.3.2.3|LINEAR TARGET|LINE|E||
+|963||![](./images/GFCPFLTP-------.png)|TODO|GFCPFLTP-------|2.X.2.3.2.3.1|FINAL PROTECTIVE FIRE|LINE|E||
+|964||![](./images/GFCPFLKP-------.png)|TODO|GFCPFLKP-------|2.X.2.3.2.4.1|PLANNED WITH DESIGNATED TIME SHOWN|AREA|E||
+|965||![](./images/GFCPFLKS-------.png)|TODO|GFCPFLKS-------|2.X.2.3.2.4.2|SMOKE (ACTUALLY IN PLACE)|AREA|E||
+|966||![](./images/GFCPFLKT-------.png)|TODO|GFCPFLKT-------|2.X.2.3.2.4.3|LINEAR SMOKE TARGET|LINE|E||
+|967||![](./images/GFCPFLN--------.png)|TODO|GFCPFLN--------|2.X.2.3.2.5|NO FIRE LINE|LINE|E||
+|968||![](./images/GFCPFLR--------.png)|TODO|GFCPFLR--------|2.X.2.3.2.6|RESTRICTED FIRE LINE (RFL)|LINE|E||
+|969||![](./images/GFCPFAS--------.png)|TODO|GFCPFAS--------|2.X.2.3.3.1|FIRE SUPPORT AREA|AREA|E||
+|970||![](./images/GFCPFAC--------.png)|TODO|GFCPFAC--------|2.X.2.3.3.2|AIRSPACE COORDINATION AREA|AREA|E||
+|971||![](./images/GFCPFAT--------.png)|TODO|GFCPFAT--------|2.X.2.3.3.3|AREA TARGET|AREA|E||
+|972||![](./images/GFCPFARS-------.png)|TODO|GFCPFARS-------|2.X.2.3.3.4.1|SERIES OF TARGETS USING REGULAR TARGETS|AREA|E||
+|973||![](./images/GFCPFARU-------.png)|TODO|GFCPFARU-------|2.X.2.3.3.4.2|SERIES OF TARGETS USING RECTANGULAR TARGETS|AREA|E||
+|974||![](./images/GFCPFAB--------.png)|TODO|GFCPFAB--------|2.X.2.3.3.5|BOMB AREA|AREA|E||
+|975||![](./images/GFCPFAI--------.png)|TODO|GFCPFAI--------|2.X.2.3.3.6|FREE FIRE AREA (FFA)|AREA|E||
+|976||![](./images/GFCPFAZT-------.png)|TODO|GFCPFAZT-------|2.X.2.3.3.7.1|GROUP OF TARGETS USING REGULAR TARGETS|AREA|E||
+|977||![](./images/GFCPFAZU-------.png)|TODO|GFCPFAZU-------|2.X.2.3.3.7.2|GROUP OF TARGETS USING RECTANGULAR TARGETS|AREA|E||
+|978||![](./images/GFCPFAN--------.png)|TODO|GFCPFAN--------|2.X.2.3.3.8|NO FIRE AREA|AREA|E||
+|979||![](./images/GFCPFAU--------.png)|TODO|GFCPFAU--------|2.X.2.3.3.9|NUCLEAR TARGET|POINT|E||
+|980||![](./images/GFCPFAD--------.png)|TODO|GFCPFAD--------|2.X.2.3.3.10|RESTRICTED FIRE AREA (RFA)|AREA|E||
+|981||![](./images/GFCPFAP--------.png)|TODO|GFCPFAP--------|2.X.2.3.3.11|POSITION AREA FOR ARTILLERY (PAA)|AREA|E||
+|982||![](./images/GFCPFATA-------.png)|TODO|GFCPFATA-------|2.X.2.3.3.12|TARGET ACQUISITION AREA (TAA)|AREA|E||
+|983||![](./images/GFCPSPA--------.png)|TODO|GFCPSPA--------|2.X.2.4.1.1|AMBULANCE EXCHANGE POINT|POINT|E||
+|984||![](./images/GFCPSPC--------.png)|TODO|GFCPSPC--------|2.X.2.4.1.2|CANNIBALIZATION POINT|POINT|E||
+|985||![](./images/GFCPSPY--------.png)|TODO|GFCPSPY--------|2.X.2.4.1.3|CASUALTY COLLECTION POINT|POINT|E||
+|986||![](./images/GFCPSPT--------.png)|TODO|GFCPSPT--------|2.X.2.4.1.4|CIVILIAN COLLECTION POINT|POINT|E||
+|987||![](./images/GFCPSPD--------.png)|TODO|GFCPSPD--------|2.X.2.4.1.5|DETAINEE COLLECTION POINT|POINT|E||
+|988||![](./images/GFCPSPE--------.png)|TODO|GFCPSPE--------|2.X.2.4.1.6|ENEMY PRISONER OF WAR (EPW) COLLECTION POINT|POINT|E||
+|989||![](./images/GFCPSPL--------.png)|TODO|GFCPSPL--------|2.X.2.4.1.7|LOGISTICS RELEASE POINT (LRP)|POINT|E||
+|990||![](./images/GFCPSPM--------.png)|TODO|GFCPSPM--------|2.X.2.4.1.8|MAINTENANCE COLLECTION POINT|POINT|E||
+|991||![](./images/GFCPSPR--------.png)|TODO|GFCPSPR--------|2.X.2.4.1.9|REARM REFUEL AND RE-SUPPLY POINT |POINT|E||
+|992||![](./images/GFCPSPU--------.png)|TODO|GFCPSPU--------|2.X.2.4.1.10|REFUEL ON THE MOVE (ROM) POINT|POINT|E||
+|993||![](./images/GFCPSPO--------.png)|TODO|GFCPSPO--------|2.X.2.4.1.11|TRAFFIC CONTROL POST (TCP)|POINT|E||
+|994||![](./images/GFCPSPI--------.png)|TODO|GFCPSPI--------|2.X.2.4.1.12|TRAILER TRANSFER POINT|POINT|E||
+|995||![](./images/GFCPSPN--------.png)|TODO|GFCPSPN--------|2.X.2.4.1.13|UNIT MAINTENANCE COLLECTION POINT|POINT|E||
+|996||![](./images/GFCPSPQT-------.png)|TODO|GFCPSPQT-------|2.X.2.4.1.14.1|GENERAL|POINT|E||
+|997||![](./images/GFCPSPQA-------.png)|TODO|GFCPSPQA-------|2.X.2.4.1.14.2|CLASS I|POINT|E||
+|998||![](./images/GFCPSPQB-------.png)|TODO|GFCPSPQB-------|2.X.2.4.1.14.3|CLASS II|POINT|E||
+|999||![](./images/GFCPSPQC-------.png)|TODO|GFCPSPQC-------|2.X.2.4.1.14.4|CLASS III|POINT|E||
+|1000||![](./images/GFCPSPQD-------.png)|TODO|GFCPSPQD-------|2.X.2.4.1.14.5|CLASS IV|POINT|E||
+|1001||![](./images/GFCPSPQE-------.png)|TODO|GFCPSPQE-------|2.X.2.4.1.14.6|CLASS V|POINT|E||
+|1002||![](./images/GFCPSPQF-------.png)|TODO|GFCPSPQF-------|2.X.2.4.1.14.7|CLASS VI|POINT|E||
+|1003||![](./images/GFCPSPQG-------.png)|TODO|GFCPSPQG-------|2.X.2.4.1.14.8|CLASS VII|POINT|E||
+|1004||![](./images/GFCPSPQH-------.png)|TODO|GFCPSPQH-------|2.X.2.4.1.14.9|CLASS VIII|POINT|E||
+|1005||![](./images/GFCPSPQI-------.png)|TODO|GFCPSPQI-------|2.X.2.4.1.14.10|CLASS IX|POINT|E||
+|1006||![](./images/GFCPSPQJ-------.png)|TODO|GFCPSPQJ-------|2.X.2.4.1.14.11|CLASS X|POINT|E||
+|1007||![](./images/GFCPSPMA-------.png)|TODO|GFCPSPMA-------|2.X.2.4.1.15.1|AMMUNITION SUPPLY POINT (ASP)|POINT|E||
+|1008||![](./images/GFCPSPMT-------.png)|TODO|GFCPSPMT-------|2.X.2.4.1.15.2|AMMUNITION TRANSFER POINT (ATP)|POINT|E||
+|1009||![](./images/GFCPSLCM-------.png)|TODO|GFCPSLCM-------|2.X.2.4.2.1.1|MOVING CONVOY|LINE|E||
+|1010||![](./images/GFCPSLCH-------.png)|TODO|GFCPSLCH-------|2.X.2.4.2.1.2|HALTED CONVOY|LINE|E||
+|1011||![](./images/GFCPSLRM-------.png)|TODO|GFCPSLRM-------|2.X.2.4.2.2.1|MAIN SUPPLY ROUTE|LINE|E||
+|1012||![](./images/GFCPSLRA-------.png)|TODO|GFCPSLRA-------|2.X.2.4.2.2.2|ALTERNATE SUPPLY ROUTE|LINE|E||
+|1013||![](./images/GFCPSLRO-------.png)|TODO|GFCPSLRO-------|2.X.2.4.2.2.3|ONE-WAY TRAFFIC|LINE|E||
+|1014||![](./images/GFCPSLRT-------.png)|TODO|GFCPSLRT-------|2.X.2.4.2.2.4|ALTERNATING TRAFFIC|LINE|E||
+|1015||![](./images/GFCPSLRW-------.png)|TODO|GFCPSLRW-------|2.X.2.4.2.2.5|TWO-WAY TRAFFIC|LINE|E||
+|1016||![](./images/GFCPSAD--------.png)|TODO|GFCPSAD--------|2.X.2.4.3.1|DETAINEE HOLDING AREA|AREA|E||
+|1017||![](./images/GFCPSAP--------.png)|TODO|GFCPSAP--------|2.X.2.4.3.2|ENEMY PRISONER OF WAR (EPW) HOLDING AREA|AREA|E||
+|1018||![](./images/GFCPSAR--------.png)|TODO|GFCPSAR--------|2.X.2.4.3.3|FORWARD ARMING AND REFUELLING AREA (FARP)|AREA|E||
+|1019||![](./images/GFCPSAH--------.png)|TODO|GFCPSAH--------|2.X.2.4.3.4|REFUGEE HOLDING AREA|AREA|E||
+|1020||![](./images/GFCPSATB-------.png)|TODO|GFCPSATB-------|2.X.2.4.3.5.1|BRIGADE (BSA)|AREA|E||
+|1021||![](./images/GFCPSATD-------.png)|TODO|GFCPSATD-------|2.X.2.4.3.5.2|DIVISION (DSA)|AREA|E||
+|1022||![](./images/GFCPSATR-------.png)|TODO|GFCPSATR-------|2.X.2.4.3.5.3|REGIMENTAL (RSA)|AREA|E||
+|1023||![](./images/GFCPSARR-------.png)|TODO|GFCPSARR-------|2.X.2.4.3.6|REST (RA)|AREA|E||
+|1024||![](./images/GFCPOX---------.png)|TODO|GFCPOX---------|2.X.2.5.1|SPECIAL POINT|POINT|E||
+|1025||![](./images/GFCPOXRN-------.png)|TODO|GFCPOXRN-------|2.X.2.5.1.1.1|NAV REFERENCE|POINT|E||
+|1026||![](./images/GFCPOXRD-------.png)|TODO|GFCPOXRD-------|2.X.2.5.1.1.2|DLRP|POINT|E||
+|1027||![](./images/GFCPOXUD-------.png)|TODO|GFCPOXUD-------|2.X.2.5.1.2.1|DATUM|POINT|E||
+|1028||![](./images/GFCPOXUB-------.png)|TODO|GFCPOXUB-------|2.X.2.5.1.2.2|BRIEF CONTACT|POINT|E||
+|1029||![](./images/GFCPOXUL-------.png)|TODO|GFCPOXUL-------|2.X.2.5.1.2.3|LOST CONTACT|POINT|E||
+|1030||![](./images/GFCPOXUS-------.png)|TODO|GFCPOXUS-------|2.X.2.5.1.2.4|SINKER|POINT|E||
+|1031||![](./images/GFCPOXWA-------.png)|TODO|GFCPOXWA-------|2.X.2.5.1.3.1|AIM POINT|POINT|E||
+|1032||![](./images/GFCPOXWD-------.png)|TODO|GFCPOXWD-------|2.X.2.5.1.3.2|DROP POINT|POINT|E||
+|1033||![](./images/GFCPOXWE-------.png)|TODO|GFCPOXWE-------|2.X.2.5.1.3.3|ENTRY POINT|POINT|E||
+|1034||![](./images/GFCPOXWG-------.png)|TODO|GFCPOXWG-------|2.X.2.5.1.3.4|GROUND ZERO|POINT|E||
+|1035||![](./images/GFCPOXWM-------.png)|TODO|GFCPOXWM-------|2.X.2.5.1.3.5|MSL DETECT POINT|POINT|E||
+|1036||![](./images/GFCPOXWI-------.png)|TODO|GFCPOXWI-------|2.X.2.5.1.3.6|IMPACT POINT|POINT|E||
+|1037||![](./images/GFCPOXWP-------.png)|TODO|GFCPOXWP-------|2.X.2.5.1.3.7|PREDICTED IMPACT POINT|POINT|E||
+|1038||![](./images/GFCPOXY--------.png)|TODO|GFCPOXY--------|2.X.2.5.1.4|SONOBUOY|POINT|E||
+|1039||![](./images/GFCPOXYP-------.png)|TODO|GFCPOXYP-------|2.X.2.5.1.4.1|PATTERN CENTRE|POINT|E||
+|1040||![](./images/GFCPOXYD-------.png)|TODO|GFCPOXYD-------|2.X.2.5.1.4.2|DIFAR|POINT|E||
+|1041||![](./images/GFCPOXYL-------.png)|TODO|GFCPOXYL-------|2.X.2.5.1.4.3|LOFAR|POINT|E||
+|1042||![](./images/GFCPOXYC-------.png)|TODO|GFCPOXYC-------|2.X.2.5.1.4.4|CASS|POINT|E||
+|1043||![](./images/GFCPOXYS-------.png)|TODO|GFCPOXYS-------|2.X.2.5.1.4.5|DICASS|POINT|E||
+|1044||![](./images/GFCPOXYB-------.png)|TODO|GFCPOXYB-------|2.X.2.5.1.4.6|BT|POINT|E||
+|1045||![](./images/GFCPOXYA-------.png)|TODO|GFCPOXYA-------|2.X.2.5.1.4.7|ANM|POINT|E||
+|1046||![](./images/GFCPOXYV-------.png)|TODO|GFCPOXYV-------|2.X.2.5.1.4.8|VLAD|POINT|E||
+|1047||![](./images/GFCPOXYT-------.png)|TODO|GFCPOXYT-------|2.X.2.5.1.4.9|ATAC|POINT|E||
+|1048||![](./images/GFCPOXYR-------.png)|TODO|GFCPOXYR-------|2.X.2.5.1.4.10|RO|POINT|E||
+|1049||![](./images/GFCPOXYK-------.png)|TODO|GFCPOXYK-------|2.X.2.5.1.4.11|KINGPIN|POINT|E||
+|1050||![](./images/GFCPOXN--------.png)|TODO|GFCPOXN--------|2.X.2.5.1.5|FORMA TION|POINT|E||
+|1051||![](./images/GFCPOXH--------.png)|TODO|GFCPOXH--------|2.X.2.5.1.6|HARBOUR|POINT|E||
+|1052||![](./images/GFCPOXHQ-------.png)|TODO|GFCPOXHQ-------|2.X.2.5.1.6.1|POINT Q|POINT|E||
+|1053||![](./images/GFCPOXHA-------.png)|TODO|GFCPOXHA-------|2.X.2.5.1.6.2|POINT A|POINT|E||
+|1054||![](./images/GFCPOXHY-------.png)|TODO|GFCPOXHY-------|2.X.2.5.1.6.3|POINT Y|POINT|E||
+|1055||![](./images/GFCPOXHX-------.png)|TODO|GFCPOXHX-------|2.X.2.5.1.6.4|POINT X|POINT|E||
+|1056||![](./images/GFCPOXR--------.png)|TODO|GFCPOXR--------|2.X.2.5.1.7|ROUTE|POINT|E||
+|1057||![](./images/GFCPOXRR-------.png)|TODO|GFCPOXRR-------|2.X.2.5.1.7.1|RENDEZVOUS|POINT|E||
+|1058||![](./images/GFCPOXRD-------.png)|TODO|GFCPOXRD-------|2.X.2.5.1.7.2|DIVERSIONS|POINT|E||
+|1059||![](./images/GFCPOXRW-------.png)|TODO|GFCPOXRW-------|2.X.2.5.1.7.3|WAYPOINT|POINT|E||
+|1060||![](./images/GFCPOXRP-------.png)|TODO|GFCPOXRP-------|2.X.2.5.1.7.4|PIM|POINT|E||
+|1061||![](./images/GFCPOXRT-------.png)|TODO|GFCPOXRT-------|2.X.2.5.1.7.5|POINT R|POINT|E||
+|1062||![](./images/GFCPOXSTC------.png)|TODO|GFCPOXSTC------|2.X.2.5.1.8.1|COMBATANT STATION|POINT|E||
+|1063||![](./images/GFCPOXSTCP-----.png)|TODO|GFCPOXSTCP-----|2.X.2.5.1.8.1.1|PICKET STATION|POINT|E||
+|1064||![](./images/GFCPOXSTCA-----.png)|TODO|GFCPOXSTCA-----|2.X.2.5.1.8.1.2|ASW SHIP STATION|POINT|E||
+|1065||![](./images/GFCPOXSTR------.png)|TODO|GFCPOXSTR------|2.X.2.5.1.8.2|REPLENISHMENT AT SEA (RAS) STATION|POINT|E||
+|1066||![](./images/GFCPOXSTH-----.png)|TODO|GFCPOXSTH-----|2.X.2.5.1.8.3|RESCUE STATION|POINT|E||
+|1067||![](./images/GFCPOXSTS------.png)|TODO|GFCPOXSTS------|2.X.2.5.1.8.4|SUBMARINE STATION|POINT|E||
+|1068||![](./images/GFCPOXSTSA-----.png)|TODO|GFCPOXSTSA-----|2.X.2.5.1.8.5|ASW SUBMARINE STATION|POINT|E||
+|1069||![](./images/GFCPOXS--------.png)|TODO|GFCPOXS--------|2.X.2.5.1.9|SEARCH|POINT|E||
+|1070||![](./images/GFCPOXSA-------.png)|TODO|GFCPOXSA-------|2.X.2.5.1.9.1|SEARCH AREA|POINT|E||
+|1071||![](./images/GFCPOXSD-------.png)|TODO|GFCPOXSD-------|2.X.2.5.1.9.2|DIP POSITION|POINT|E||
+|1072||![](./images/GFCPOXSC-------.png)|TODO|GFCPOXSC-------|2.X.2.5.1.9.3|SEARCH CENTRE|POINT|E||
+|1073||![](./images/GFCPOXAC-------.png)|TODO|GFCPOXAC-------|2.X.2.5.1.10.1|COMBAT AIR PATROL (CAP)|POINT|E||
+|1074||![](./images/GFCPOXAA-------.png)|TODO|GFCPOXAA-------|2.X.2.5.1.10.2|AIRBORNE EARLY WARNING (AEW)|POINT|E||
+|1075||![](./images/GFCPOXAT-------.png)|TODO|GFCPOXAT-------|2.X.2.5.1.10.3|TACAN|POINT|E||
+|1076||![](./images/GFCPOXAK-------.png)|TODO|GFCPOXAK-------|2.X.2.5.1.10.4|TANKING|POINT|E||
+|1077||![](./images/GFCPOXAF-------.png)|TODO|GFCPOXAF-------|2.X.2.5.1.10.5|ANTISUBMARINE WARFARE FIXED WING|POINT|E||
+|1078||![](./images/GFCPOXAH-------.png)|TODO|GFCPOXAH-------|2.X.2.5.1.10.6|ANTISUBMARINE WARFARE ROTARY WING|POINT|E||
+|1079||![](./images/GFCPOXAO-------.png)|TODO|GFCPOXAO-------|2.X.2.5.1.10.7|TOMCAT|POINT|E||
+|1080||![](./images/GFCPOXAR-------.png)|TODO|GFCPOXAR-------|2.X.2.5.1.10.8|RESCUE|POINT|E||
+|1081||![](./images/GFCPOXAP-------.png)|TODO|GFCPOXAP-------|2.X.2.5.1.10.9|REPLENISH|POINT|E||
+|1082||![](./images/GFCPOXAM-------.png)|TODO|GFCPOXAM-------|2.X.2.5.1.10.10|MARSHALL|POINT|E||
+|1083||![](./images/GFCPOXAS-------.png)|TODO|GFCPOXAS-------|2.X.2.5.1.10.11|STRIKE IP|POINT|E||
+|1084||![](./images/GFCPOXAD-------.png)|TODO|GFCPOXAD-------|2.X.2.5.1.10.12|CORRIDOR TAB|POINT|E||
+|1085||![](./images/GFCPOG---------.png)|TODO|GFCPOG---------|2.X.2.5.2|GENERAL OR UNSPECIFIED COMMAND AND CONTROL POINT|POINT|E||
+|1086||![](./images/GFCPOGC--------.png)|TODO|GFCPOGC--------|2.X.2.5.2.1|CHECKPOINT|POINT|E||
+|1087||![](./images/GFCPOGP--------.png)|TODO|GFCPOGP--------|2.X.2.5.2.2|CONTACT POINT|POINT|E||
+|1088||![](./images/GFCPOGT--------.png)|TODO|GFCPOGT--------|2.X.2.5.2.3|COORDINATION POINT|POINT|E||
+|1089||![](./images/GFCPOGD--------.png)|TODO|GFCPOGD--------|2.X.2.5.2.4|DECISION POINT|POINT|E||
+|1090||![](./images/GFCPOGL--------.png)|TODO|GFCPOGL--------|2.X.2.5.2.5|LINKUP POINT|POINT|E||
+|1091||![](./images/GFCPOGN--------.png)|TODO|GFCPOGN--------|2.X.2.5.2.6|PASSAGE POINT|POINT|E||
+|1092||![](./images/GFCPOGR--------.png)|TODO|GFCPOGR--------|2.X.2.5.2.7|RALLY POINT|POINT|E||
+|1093||![](./images/GFCPOGS--------.png)|TODO|GFCPOGS--------|2.X.2.5.2.8|RELEASE POINT|POINT|E||
+|1094||![](./images/GFCPOGI--------.png)|TODO|GFCPOGI--------|2.X.2.5.2.9|START POINT|POINT|E||
+|1095||![](./images/GFCPOGW--------.png)|TODO|GFCPOGW--------|2.X.2.5.2.10|WAY POINT|POINT|E||
+|1096||![](./images/GFCPOLN--------.png)|TODO|GFCPOLN--------|2.X.2.5.3.1|LIGHT LINE|LINE|E||
+|1097||![](./images/GFCPOLP--------.png)|TODO|GFCPOLP--------|2.X.2.5.3.2|PHASE LINE|LINE|E||
+|1098||![](./images/GFCPOAZ--------.png)|TODO|GFCPOAZ--------|2.X.2.5.4.1|AIRFIELD ZONE|AREA|E||
+|1099||![](./images/GHOPVA---------.png)|TODO|GHOPVA---------|2.X.3.1.1|ARSON/FIRE|POINT|E||
+|1100||![](./images/GHOPVR---------.png)|TODO|GHOPVR---------|2.X.3.1.2|ARTILLERY/ARTILLERY FIRE|POINT|E||
+|1101||![](./images/GHOPVM---------.png)|TODO|GHOPVM---------|2.X.3.1.3|ASSASSINA TION/MURDER/ EXECUTION|POINT|E||
+|1102||![](./images/GFOPVB---------.png)|TODO|GFOPVB---------|2.X.3.1.4|BOMB/BOMBING|POINT|E||
+|1103||![](./images/GHOPVY---------.png)|TODO|GHOPVY---------|2.X.3.1.5|BOOBYTRAP|POINT|E||
+|1104||![](./images/GHOPVD---------.png)|TODO|GHOPVD---------|2.X.3.1.6|DRIVE-BY SHOOTING|POINT|E||
+|1105||![](./images/GHOPVI---------.png)|TODO|GHOPVI---------|2.X.3.1.7|INDIRECT FIRE (UNSPECIFIED TYPE)|POINT|E||
+|1106||![](./images/GHOPVM---------.png)|TODO|GHOPVM---------|2.X.3.1.8|MORTAR/MORTAR FIRE|POINT|E||
+|1107||![](./images/GHOPVK---------.png)|TODO|GHOPVK---------|2.X.3.1.9|ROCKET/ROCKET FIRE|POINT|E||
+|1108||![](./images/GHOPVS---------.png)|TODO|GHOPVS---------|2.X.3.1.10|SNIPING|POINT|E||
+|1109||![](./images/GHOPVP---------.png)|TODO|GHOPVP---------|2.X.3.1.11|POISONING|POINT|E||
+|1110||![](./images/GHOPVU---------.png)|TODO|GHOPVU---------|2.X.3.1.12|AMBUSH|POINT|E||
+|1111||![](./images/GHOPVC---------.png)|TODO|GHOPVC---------|2.X.3.1.13|AMMUNITION CACHE|POINT|E||
+|1112||![](./images/GHOPVH---------.png)|TODO|GHOPVH---------|2.X.3.1.14|HELICOPTER (CIVILIAN BEING USED BY HOSTILE OR INSURGENTS|POINT|E||
+|1113||![](./images/GHOPVF---------.png)|TODO|GHOPVF---------|2.X.3.1.15|HOSTILE OR INSURGENT MOTORIZED INFANTRY|POINT|E||
+|1114||![](./images/GHOPVO---------.png)|TODO|GHOPVO---------|2.X.3.1.16|HOSTILE OR INSURGENT INFANTRY|POINT|E||
+|1115||![](./images/GHOPVL---------.png)|TODO|GHOPVL---------|2.X.3.1.17|RECONNAISSANCE/SURVEILLANC E|POINT|E||
+|1116||![](./images/GHOPVX---------.png)|TODO|GHOPVX---------|2.X.3.1.18|SIGNAL/RADIO STATION|POINT|E||
+|1117||![](./images/GHOPVZ---------.png)|TODO|GHOPVZ---------|2.X.3.1.19|SUPPLY CACHE|POINT|E||
+|1118||![](./images/GHOPLB---------.png)|TODO|GHOPLB---------|2.X.3.2.1|BLACK LIST LOCATION|POINT|E||
+|1119||![](./images/GHOPLG---------.png)|TODO|GHOPLG---------|2.X.3.2.2|GRAY LIST LOCATION|POINT|E||
+|1120||![](./images/GFOPLW---------.png)|TODO|GFOPLW---------|2.X.3.2.3|WHITE LIST LOCATION|POINT|E||
+|1121||![](./images/GHOPPR---------.png)|TODO|GHOPPR---------|2.X.3.3.1|ROAD BLOCK|POINT|E||
+|1122||![](./images/GHOPPRB--------.png)|TODO|GHOPPRB--------|2.X.3.3.1.1|ROAD BLOCK (UNDER CONSTRUCTION)|POINT|E||
+|1123||![](./images/GHOPPT---------.png)|TODO|GHOPPT---------|2.X.3.3.2|PATROLLING|POINT|E||
+|1124||![](./images/GHOPPC---------.png)|TODO|GHOPPC---------|2.X.3.3.3|RECRUITMENT (WILLING)|POINT|E||
+|1125|YES|![](./images/GHOPPCU--------.png)|TODO|GHOPPCU--------|2.X.3.3.3.1|RECRUITMENT (COERCED/IMPRESSED)|POINT|E||
+|1126||![](./images/GFOPPD---------.png)|TODO|GFOPPD---------|2.X.3.3.4|DEMONSTRATION|POINT|E||
+|1127||![](./images/GHOPPM---------.png)|TODO|GHOPPM---------|2.X.3.3.5|MINELAYING|POINT|E||
+|1128||![](./images/GHOPPH---------.png)|TODO|GHOPPH---------|2.X.3.3.6|PSYCHOLOGICAL OPERATIONS (PSYOP)|POINT|E||
+|1129||![](./images/GHOPPHY--------.png)|TODO|GHOPPHY--------|2.X.3.3.6.1|PSYOP (TV AND RADIO PROPAGANDA)|POINT|E||
+|1130||![](./images/GFOPPHW--------.png)|TODO|GFOPPHW--------|2.X.3.3.6.2|PSYOP (WRITTEN PROPAGANDA)|POINT|E||
+|1131|YES|![](./images/GFOPPHG--------.png)|TODO|GFOPPHG--------|2.X.3.3.6.3|WRITTEN PROPAGANDA|POINT|E||
+|1132||![](./images/GFOPPHT--------.png)|TODO|GFOPPHT--------|2.X.3.3.6.4|HOUSE-TO-HOUSE PROPAGANDA|POINT|E||
+|1133||![](./images/GHOPPF---------.png)|TODO|GHOPPF---------|2.X.3.3.7|FORAGING/SEARCHING|POINT|E||
+|1134||![](./images/GHOPPS---------.png)|TODO|GHOPPS---------|2.X.3.3.8|SPY|POINT|E||
+|1135||![](./images/GNOPPF---------.png)|TODO|GNOPPF---------|2.X.3.3.9|FOOD DISTRIBUTION|POINT|E||
+|1136||![](./images/GNOPPI---------.png)|TODO|GNOPPI---------|2.X.3.3.10|MEDICAL TREATMENT FACILITY|POINT|E||
+|1137||![](./images/GHOPPE---------.png)|TODO|GHOPPE---------|2.X.3.3.11|ELECTRONIC WARFARE INTERCEPT|POINT|E||
+|1138||![](./images/GHOPPX---------.png)|TODO|GHOPPX---------|2.X.3.3.12|EXTORTION|POINT|E||
+|1139||![](./images/GHOPPJV--------.png)|TODO|GHOPPJV--------|2.X.3.3.13.1|HIJACKING (VEHICLE)|POINT|E||
+|1140||![](./images/GHOPPJA--------.png)|TODO|GHOPPJA--------|2.X.3.3.13.2|HIJACKING (AIRPLANE)|POINT|E||
+|1141||![](./images/GHOPPJB--------.png)|TODO|GHOPPJB--------|2.X.3.3.13.3|HIJACKING (BOAT)|POINT|E||
+|1142||![](./images/GHOPPK---------.png)|TODO|GHOPPK---------|2.X.3.3.14|KIDNAPPING|POINT|E||
+|1143||![](./images/GFOPPA---------.png)|TODO|GFOPPA---------|2.X.3.3.15|ARREST|POINT|E||
+|1144||![](./images/GHOPPO---------.png)|TODO|GHOPPO---------|2.X.3.3.16|DRUG OPERATION|POINT|E||
+|1145||![](./images/GFOPIR---------.png)|TODO|GFOPIR---------|2.X.3.4.1|REFUGEES|POINT|E||
+|1146||![](./images/GFOPIS---------.png)|TODO|GFOPIS---------|2.X.3.4.2|SAFE HOUSE|POINT|E||
+|1147||![](./images/GHOPIG---------.png)|TODO|GHOPIG---------|2.X.3.4.3|GRAFFITI|POINT|E||
+|1148||![](./images/GHOPIV---------.png)|TODO|GHOPIV---------|2.X.3.4.4|VANDALISM/RAPE/LOOT/ RANSACK/PLUNDER/SACK|POINT|E||
+|1149||![](./images/GHOPIK---------.png)|TODO|GHOPIK---------|2.X.3.4.5|KNOWN INSURGENT VEHICLE|POINT|E||
+|1150||![](./images/GHOPID---------.png)|TODO|GHOPID---------|2.X.3.4.6|DRUG VEHICLE|POINT|E||
+|1151||![](./images/GFOPIF---------.png)|TODO|GFOPIF---------|2.X.3.4.7|INTERNAL SECURITY FORCE|POINT|E||
+|1152||![](./images/W-A-PL---------.png)|TODO|W-A-PL---------|3.X.1.1|LOW PRESSURE CENTRE|POINT|F||
+|1153||![](./images/W-A-PH---------.png)|TODO|W-A-PH---------|3.X.1.2|HIGH PRESSURE CENTRE|POINT|F||
+|1154||![](./images/W-A-PFC--------.png)|TODO|W-A-PFC--------|3.X.1.3.1|COLD FRONT|LINE|F||
+|1155||![](./images/W-A-PFCU-------.png)|TODO|W-A-PFCU-------|3.X.1.3.1.1|UPPER COLD FRONT|LINE|F||
+|1156||![](./images/W-A-PFW--------.png)|TODO|W-A-PFW--------|3.X.1.3.2|WARM FRONT|LINE|F||
+|1157||![](./images/W-A-PFWU-------.png)|TODO|W-A-PFWU-------|3.X.1.3.2.1|UPPER WARM FRONT|LINE|F||
+|1158||![](./images/W-A-PFO--------.png)|TODO|W-A-PFO--------|3.X.1.3.3|OCCLUDED FRONT|LINE|F||
+|1159||![](./images/W-A-PFS--------.png)|TODO|W-A-PFS--------|3.X.1.3.4|STATIONARY FRONT|LINE|F||
+|1160||![](./images/W-A-PXT--------.png)|TODO|W-A-PXT--------|3.X.1.4.1|TROUGH LINE|LINE|F||
+|1161||![](./images/W-A-PXR--------.png)|TODO|W-A-PXR--------|3.X.1.4.2|RIDGE LINE|LINE|F||
+|1162||![](./images/W-A-PXS--------.png)|TODO|W-A-PXS--------|3.X.1.4.3|SQUALL LINE|LINE|F||
+|1163||![](./images/W-A-TL---------.png)|TODO|W-A-TL---------|3.X.2.1|LIGHT TURBULENCE|POINT|F||
+|1164||![](./images/W-A-TM---------.png)|TODO|W-A-TM---------|3.X.2.2|MODERATE TURBULENCE|POINT|F||
+|1165||![](./images/W-A-TS---------.png)|TODO|W-A-TS---------|3.X.2.3|SEVERE TURBULENCE|POINT|F||
+|1166||![](./images/W-A-TE---------.png)|TODO|W-A-TE---------|3.X.2.4|EXTREME TURBULENCE|POINT|F||
+|1167||![](./images/W-A-ICL--------.png)|TODO|W-A-ICL--------|3.X.3.1.1|LIGHT CLEAR ICING|POINT|F||
+|1168||![](./images/W-A-ICM--------.png)|TODO|W-A-ICM--------|3.X.3.1.2|MODERATE CLEAR ICING|POINT|F||
+|1169||![](./images/W-A-ICS--------.png)|TODO|W-A-ICS--------|3.X.3.1.3|SEVERE CLEAR ICING|POINT|F||
+|1170||![](./images/W-A-IRL--------.png)|TODO|W-A-IRL--------|3.X.3.2.1|LIGHT RIME ICING|POINT|F||
+|1171||![](./images/W-A-IRM--------.png)|TODO|W-A-IRM--------|3.X.3.2.2|MODERATE RIME ICING|POINT|F||
+|1172||![](./images/W-A-IRS--------.png)|TODO|W-A-IRS--------|3.X.3.2.3|SEVERE RIME ICING|POINT|F||
+|1173||![](./images/W-A-IML--------.png)|TODO|W-A-IML--------|3.X.3.3.1|LIGHT MIXED ICING|POINT|F||
+|1174||![](./images/W-A-IMM--------.png)|TODO|W-A-IMM--------|3.X.3.3.2|MODERATE MIXED ICING|POINT|F||
+|1175||![](./images/W-A-IMS--------.png)|TODO|W-A-IMS--------|3.X.3.3.3|SEVERE MIXED ICING|POINT|F||
+|1176||![](./images/W-A-W----------.png)|TODO|W-A-W----------|3.X.4|WIND BARB|POINT|F||
+|1177||![](./images/W-A-WJ---------.png)|TODO|W-A-WJ---------|3.X.4.1|JET STREAM|LINE|F||
+|1178||![](./images/W-A-FI---------.png)|TODO|W-A-FI---------|3.X.5.1|INSTRUMENT CEILING|AREA|F||
+|1179||![](./images/W-A-FV---------.png)|TODO|W-A-FV---------|3.X.5.2|VISUAL CEILING|AREA|F||
+|1180||![](./images/W-A-CC---------.png)|TODO|W-A-CC---------|3.X.6.1|CLEAR SKY (SKC)|POINT|F||
+|1181||![](./images/W-A-CS---------.png)|TODO|W-A-CS---------|3.X.6.2|SCATTERED SKY (SCT)|POINT|F||
+|1182||![](./images/W-A-CB---------.png)|TODO|W-A-CB---------|3.X.6.3|BROKEN SKY (BKN)|POINT|F||
+|1183||![](./images/W-A-CW---------.png)|TODO|W-A-CW---------|3.X.6.4|OVERCAST WITH BREAKS|POINT|F||
+|1184||![](./images/W-A-CO---------.png)|TODO|W-A-CO---------|3.X.6.5|OVERCAST (OVC)|POINT|F||
+|1185||![](./images/W-A-CP---------.png)|TODO|W-A-CP---------|3.X.6.6|SKY OBSCURED OR PARTIALLY OBSCURED|POINT|F||
+|1186||![](./images/W-A-PR---------.png)|TODO|W-A-PR---------|3.X.7.1|RAIN (RA)|POINT|F||
+|1187||![](./images/W-A-PRS--------.png)|TODO|W-A-PRS--------|3.X.7.1.1|RAIN SHOWER|POINT|F||
+|1188||![](./images/W-A-PRF--------.png)|TODO|W-A-PRF--------|3.X.7.1.2|FREEZING RAIN (FZRA)|POINT|F||
+|1189||![](./images/W-A-PRD--------.png)|TODO|W-A-PRD--------|3.X.7.1.3|DRIZZLE (DZ)|POINT|F||
+|1190||![](./images/W-A-PRDF-------.png)|TODO|W-A-PRDF-------|3.X.7.1.3.1|FREEZING DRIZZLE (FZDZ)|POINT|F||
+|1191||![](./images/W-A-PS---------.png)|TODO|W-A-PS---------|3.X.7.2|SNOW(SN)|POINT|F||
+|1192||![](./images/W-A-PSS--------.png)|TODO|W-A-PSS--------|3.X.7.2.1|SNOW SHOWERS|POINT|F||
+|1193||![](./images/W-A-PSG--------.png)|TODO|W-A-PSG--------|3.X.7.2.2|SNOW GRAINS (SG)|POINT|F||
+|1194||![](./images/W-A-PH---------.png)|TODO|W-A-PH---------|3.X.7.3|HAIL|POINT|F||
+|1195||![](./images/W-A-PI---------.png)|TODO|W-A-PI---------|3.X.7.4|ICE PELLETS (PE)|POINT|F||
+|1196||![](./images/W-A-PC---------.png)|TODO|W-A-PC---------|3.X.7.5|ICE CRYSTALS (IC)|POINT|F||
+|1197||![](./images/W-A-ST---------.png)|TODO|W-A-ST---------|3.X.8.1|THUNDERSTORMS (TS)|POINT|F||
+|1198||![](./images/W-A-STR--------.png)|TODO|W-A-STR--------|3.X.8.1.1|THUNDERSTORM (TS) WITH RAIN(RA) |POINT|F||
+|1199||![](./images/W-A-STF--------.png)|TODO|W-A-STF--------|3.X.8.1.2|FUNNEL CLOUD (FC)/TORNADO/WATERSPOUT|POINT|F||
+|1200||![](./images/W-A-STL--------.png)|TODO|W-A-STL--------|3.X.8.1.3|LIGHTNING (LTG)|POINT|F||
+|1201||![](./images/W-A-SST--------.png)|TODO|W-A-SST--------|3.X.8.2.1|TROPICAL STORM|POINT|F||
+|1202||![](./images/W-A-SSH--------.png)|TODO|W-A-SSH--------|3.X.8.2.2|HURRICANE|POINT|F||
+|1203||![](./images/W-A-OS---------.png)|TODO|W-A-OS---------|3.X.9.1|BLOWING SNOW (BLSN)|POINT|F||
+|1204||![](./images/W-A-OF---------.png)|TODO|W-A-OF---------|3.X.9.2|FOG (FG)|POINT|F||
+|1205||![](./images/W-A-OFF--------.png)|TODO|W-A-OFF--------|3.X.9.2.1|FREEZING FOG (FZFG)|POINT|F||
+|1206||![](./images/W-A-OT---------.png)|TODO|W-A-OT---------|3.X.9.3|DUST/SAND STORM|POINT|F||
+|1207||![](./images/W-A-OD---------.png)|TODO|W-A-OD---------|3.X.9.4|DUST DEVIL|POINT|F||
+|1208||![](./images/W-A-OK---------.png)|TODO|W-A-OK---------|3.X.9.5|SMOKE (FU)|POINT|F||
+|1209||![](./images/W-A-OH---------.png)|TODO|W-A-OH---------|3.X.9.6|HAZE (HZ)|POINT|F||
+|1210||![](./images/W-A-OB---------.png)|TODO|W-A-OB---------|3.X.9.7|BLOWING DUST OR SAND |POINT|F||
